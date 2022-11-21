@@ -1,4 +1,4 @@
-baseURL = "https://presentable-user2021.netlify.app/"
+baseURL = " "
 theme = "hugo-apero"
 languageCode = "en"
 title = "Professional, Polished, Presentable: Making great slides with xaringan"
