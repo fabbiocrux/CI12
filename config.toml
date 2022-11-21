@@ -1,9 +1,9 @@
-baseURL = " "
+baseURL = "https://ci15.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Introduction to Scientific Research"
 author = "Fabio A. Cruz, Giovanny Arbelaez, Ferney Osorio, Mauricio Camargo"
-copyright = "" # set to override the auto generated copyright using org info and now year
+copyright = "Laboratoire ERPI - UL" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
