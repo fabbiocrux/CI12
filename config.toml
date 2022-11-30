@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/presentable-social.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "grrrck"
+  twitter = "fabbiocrux"
 
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -105,11 +105,11 @@ enableEmoji = true
     title = "Syllabus"
     url = "/syllabus/"
     weight = 1
-#  [[menu.header]]
-#    name = "People"
-#    title = "About Us"
-#    url = "/people/"
-#    weight = 3
+  [[menu.header]]
+    name = "People"
+    title = "About Us"
+    url = "/people/"
+    weight = 3
   [[menu.header]]
     name = "Sessions"
     title = "Session Materials"
