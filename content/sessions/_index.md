@@ -20,7 +20,7 @@ cascade:
   type: collection
   layout: single-series
   date: 2022-12-05
-  publishDate: 2022-12-05
+  publishDate: 2022-12-04
   sidebar:
     title: "Introduction to Scientific Research"
     description: |
