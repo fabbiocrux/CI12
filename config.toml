@@ -29,7 +29,7 @@ enableEmoji = true
 
 [params]
   orgName = "Fabio Cruz & Mauricio Camargo"
-  orgLocal = "useR!2021"
+  orgLocal = "ENSGSI - ERPI"
   description = "Introduction to Scientific Research"
   favicon = "/img/favicon.ico"
   logo = "/img/xaringan-outline.png"

@@ -4,7 +4,7 @@ subtitle: "for Innovation Management"
 description: |
   Materials for the Professional, Polished, Presentable tutorial created for useR!2021.
 type: collection
-author: Garrick Aden-Buie & Silvia Canelón
+author: Fabio Cruz & Mauricio Camargo
 show_post_thumbnail: true
 show_author_byline: false
 show_post_date: false
