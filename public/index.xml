@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction to Scientific Research</title>
+    <link>https://ci15.netlify.app/</link>
+    <description>Recent content on Introduction to Scientific Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Laboratoire ERPI - UL</copyright><atom:link href="https://ci15.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Garrick Aden-Buie</title>
+      <link>https://ci15.netlify.app/people/garrick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ci15.netlify.app/people/garrick/</guid>
+      <description>I&amp;rsquo;m a Data Science Educator and R developer for RStudio. I use R, R Markdown, Shiny, and the tools of data science to make it easier to teach and learn data science with R, primarily through my work supporting the learnr and gradethis packages.
+I am passionate about making great-looking, interactive presentations with R Markdown and the xaringan. I&amp;rsquo;ve created two packages that help you take your slides to the next level:</description>
+    </item>
+    
+    <item>
+      <title>Silvia Canelón</title>
+      <link>https://ci15.netlify.app/people/silvia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ci15.netlify.app/people/silvia/</guid>
+      <description>I am a researcher, community organizer, and R educator. My research leverages electronic health record data to study pregnancy-related outcomes, and my organizing values data literacy as a way to build power and effect change.
+I enjoy finding ways to communicate technical knowledge with a variety of audiences and love showing others how to leverage xaringan to create effective, reproducible, and beautiful presentations. I have taught xaringan workshops in both English and Spanish to R users across disciplines:</description>
+    </item>
+    
+    <item>
+      <title>Patricia Loto</title>
+      <link>https://ci15.netlify.app/people/patricia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ci15.netlify.app/people/patricia/</guid>
+      <description>I have a B.S. in I.T. and a Diploma in Data Sciences, Machine Learning and its Applications. I work as a software developer and data analyst at the government agency for lotteries and casinos of the province of Chaco in Argentina.
+Part of the Metadocencia Accessibility team.
+Co-organizer of R-Ladies Resistencia-Corrientes and Instructor of Carpintería Software (Software Carpentry).</description>
+    </item>
+    
+    <item>
+      <title>Shannon Pileggi</title>
+      <link>https://ci15.netlify.app/people/shannon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ci15.netlify.app/people/shannon/</guid>
+      <description>I&amp;rsquo;m currently a Statistician at Adelphi Research in Doylestown, PA working in pharmaceutical market research; previously, I was an Assistant Professor of Statistics at California Polytechnic State University, San Luis Obispo.
+My day-to-day in R include: fine-tuning ggplots to convey analysis results, contributing to an internal package to automate analyses, and developing shiny aps.</description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>https://ci15.netlify.app/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ci15.netlify.app/code-of-conduct/</guid>
+      <description>Everyone involved in this tutorial &amp;mdash; either as an instructor, TA, or particpant &amp;mdash; agrees to abide by the useR!2021 Code of Conduct, repeated below in full.
+If you notice someone in distress, observe unacceptable behavior, or have concerns you would like to discuss, please reach out to Garrick Aden-Buie or Silvia Canelón via private message during the tutorial. Alternatively, you may email the useR!2021 Code of Conduct Response Team at useR2021-coc [at] r-project.</description>
+    </item>
+    
+    <item>
+      <title>Contributors</title>
+      <link>https://ci15.netlify.app/contributors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ci15.netlify.app/contributors/</guid>
+      <description>Thank you to all the folks who have contributed both technical and creative skills to this project:
+   Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
+   Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
+   Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot 🦔)</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://ci15.netlify.app/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ci15.netlify.app/license/</guid>
+      <description>The materials for this tutorial are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
+  </description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://ci15.netlify.app/slides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ci15.netlify.app/slides/</guid>
+      <description>Please see each set of slides in context in the Materials page.
+  01-introduction   02-style-guide   03-xaringan-extras   04-effective-communication   05-accessible-design   06-intro-css   07-accessibility-css-html   08-more-css   09-design-components   break   thanks   </description>
+    </item>
+    
+  </channel>
+</rss>

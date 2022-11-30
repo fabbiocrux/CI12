@@ -1,0 +1,23 @@
+---
+title: "02: Literature review: on the shoulders of giants"
+weight: 2
+publishDate: 2021-07-06
+show_post_date: false
+excerpt: ""
+links:
+- icon: images
+  icon_pack: fas
+  name: slides
+  url: "/slides/02-style-guide.html"
+- icon: theater-masks
+  icon_pack: fas
+  name: activity
+  url: "/materials/act-01/02-style-guide/#activity"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(eval=FALSE)
+
+xaringanExtra::use_clipboard()
+```
+

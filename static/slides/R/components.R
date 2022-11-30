@@ -4,7 +4,7 @@
 title_slide <- function(
   title = rmarkdown::metadata$title,
   subtitle = rmarkdown::metadata$subtitle,
-  author = "Garrick Aden-Buie & Silvia Canelón",
+  author = "Fabio Cruz & Mauricio Camargo",
   scene = rmarkdown::metadata$scene
 ) {
   htmltools::tagList(
