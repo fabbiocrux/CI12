@@ -14,6 +14,7 @@ action_link: /start
 action_label: "Read More &rarr;"
 action_type: text # text, button
 type: home
+
 head_custom: |
   <script src="https://unpkg.com/inline-svg@2.2.3/dist/inlineSVG.min.js"></script>
   <script>

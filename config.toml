@@ -28,9 +28,9 @@ enableEmoji = true
     style = "colorful"
 
 [params]
-  orgName = "Garrick & Silvia"
+  orgName = "Fabio Cruz & Mauricio Camargo"
   orgLocal = "useR!2021"
-  description = "Professional, Polished, Presentable: Making great slides with xaringan"
+  description = "Introduction to Scientific Research"
   favicon = "/img/favicon.ico"
   logo = "/img/xaringan-outline.png"
   mainSections = ["blog", "project", "talk"]
@@ -74,20 +74,20 @@ enableEmoji = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
-      title     = "presentable-user2021 on GitHub"
+      title     = "Course on Research for Innovation Management"
       icon      = "github navy" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/presentable-user2021"
-  [[params.social]]
-      title     = "@grrrck on Twitter"
-      icon      = "twitter light-red" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/grrrck"
-  [[params.social]]
-      title     = "@spcanelon on Twitter"
-      icon      = "twitter blue" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/spcanelon"
+      url       = "https://github.com/fabbiocrux/ci15"
+#  [[params.social]]
+#      title     = "Fabbiocrux"
+#      icon      = "twitter light-red" # icon name without the 'fa-'
+#      icon_pack = "fab"
+#      url       = "https://twitter.com/fabbiocrux"
+#  [[params.social]]
+#      title     = "@spcanelon on Twitter"
+#      icon      = "twitter blue" # icon name without the 'fa-'
+#      icon_pack = "fab"
+#      url       = "https://twitter.com/spcanelon"
   [[params.social]]
       icon      = "rss purple" # icon name without the 'fa-'
       icon_pack = "fas"
@@ -101,25 +101,25 @@ enableEmoji = true
 [menu]
   # Configure header
   [[menu.header]]
-    name = "Start"
-    title = "Start"
-    url = "/start/"
+    name = "Syllabus"
+    title = "Syllabus"
+    url = "/syllabus/"
     weight = 1
+#  [[menu.header]]
+#    name = "People"
+#    title = "About Us"
+#    url = "/people/"
+#    weight = 3
   [[menu.header]]
-    name = "People"
-    title = "About Us"
-    url = "/people/"
-    weight = 10
-  [[menu.header]]
-    name = "Materials"
-    title = "Workshop Materials"
-    url = "/materials/"
-    weight = 3
-  [[menu.header]]
-    name = "Packages"
-    title = "Packages"
-    url = "/packages/"
-    weight = 7
+    name = "Sessions"
+    title = "Session Materials"
+    url = "/sessions/"
+    weight = 2
+#  [[menu.header]]
+#    name = "Packages"
+#    title = "Packages"
+#    url = "/packages/"
+#    weight = 7
 
   # Configure footer
   [[menu.footer]]
@@ -127,17 +127,17 @@ enableEmoji = true
     title = "License"
     url = "/license/"
     weight = 1
-  [[menu.footer]]
-    name = "Code of Conduct"
-    title = "Code of Conduct"
-    url = "/code-of-conduct/"
-    weight = 2
-  [[menu.footer]]
-    name = "useR!2021"
-    title = "useR!2021"
-    url = "https://user2021.r-project.org/"
-    weight = 3
-
+#  [[menu.footer]]
+#    name = "Code of Conduct"
+#    title = "Code of Conduct"
+#    url = "/code-of-conduct/"
+#    weight = 2
+#  [[menu.footer]]
+#    name = "useR!2021"
+#    title = "useR!2021"
+#    url = "https://user2021.r-project.org/"
+#    weight = 3
+#
 
 # see https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
