@@ -113,16 +113,18 @@ class: middle
 knitr::include_graphics("figures/01.png")
 ```
 
-https://ent.univ-lorraine.fr/#BU -> BU Ingénieurs Brabois
+[https://ent.univ-lorraine.fr/#BU](https://ent.univ-lorraine.fr/#BU) -> BU Ingénieurs Brabois
 
 ---
+## Connecting to "the ENT "Ressource online"
 
-```{r, }
-knitr::include_graphics("figures/01.png")
+```{r}
+knitr::include_graphics("figures/02.png")
 ```
 
 ---
 
+## Look for Web Of Science database
 
 ```{r, }
 knitr::include_graphics("figures/04.png")
@@ -131,16 +133,39 @@ knitr::include_graphics("figures/04.png")
 
 ---
 
+## Web of Science: Simple research mode
+
 ```{r, }
 knitr::include_graphics("figures/05.png")
 ```
 
+---
+
+## Web of Science: Go for a Advance research
+
+```{r}
+knitr::include_graphics("figures/06.png")
+```
 
 ---
 
-```{r, }
-knitr::include_graphics("figures/06.png")
+## Web of Science: Add you search query
+
+```{r}
+knitr::include_graphics("figures/07.png")
 ```
+
+Remember the:  **Topic + Subject + Problem**
+
+---
+
+## Web of Science: Use `Topic` filter
+
+```{r, }
+knitr::include_graphics("figures/07.png")
+```
+
+But, take a look of the other type of searches 
 
 
 ---
