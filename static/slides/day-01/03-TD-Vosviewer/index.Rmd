@@ -92,7 +92,6 @@ knitr::include_graphics(paste0(URL, 'Logos/UL-ENSGSI-ERPI.svg'))
 
 ---
 
-
 # Outline
 
 
@@ -144,6 +143,29 @@ knitr::include_graphics("figures/06.png")
 ```
 
 
+---
+
+# Outline
 
 
+1. Connect to the databases of the UL
+2. Web of Science / Clarivate
+3. Vosviewer
+
+
+---
+
+
+class: middle
+
+# 3. Vosviewer software
+
+
+[Download at https://www.vosviewer.com/](https://www.vosviewer.com/)
+
+---
+
+```{r}
+knitr::include_graphics("figures/vos/01.png")
+```
 
