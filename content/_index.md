@@ -10,7 +10,7 @@ image_left: false
 text_align_left: true
 show_social_links: true # specify social accounts in site config
 show_action_link: true
-action_link: /start
+action_link: /syllabus
 action_label: "Read More &rarr;"
 action_type: text # text, button
 type: home
