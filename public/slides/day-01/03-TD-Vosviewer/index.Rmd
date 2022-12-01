@@ -1,0 +1,134 @@
+---
+title: "TD1 : Research Landscape via Vosviewer"
+subtitle: "For Innovation management"  
+email: "cruzsanc1@univ-lorraine.fr"
+author: 
+  - "Fabio A. CRUZ SANCHEZ"
+date: '`r Sys.Date()`'
+output:
+  xaringan::moon_reader:
+    css: ["../../assets/Fabio.css"]
+    seal: false
+    nature:
+#      slideNumberFormat: "%current%"
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+      navigation:
+        scroll: false # disable slide transitions by scrolling
+always_allow_html: true
+params:
+  Fabio: TRUE
+  LF2L: TRUE
+  Issues: TRUE
+  DRAM: TRUE
+  INEDIT: TRUE
+  Future: TRUE
+---
+
+
+
+```{r setup, include=FALSE}
+# Load packages -----
+library(tidyverse)
+library(xaringanExtra)
+library(xaringanthemer)
+library(fontawesome)
+library(here)
+library(vembedr)
+#library(xaringanBuilder)
+
+#source(here("xaringan-themer.R"))
+
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = TRUE,
+  echo = FALSE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE,
+  fig.align='center'
+)
+
+
+# Link for the Figures
+URL = c('https://raw.githubusercontent.com/fabbiocrux/Figures/main/')
+
+
+```
+
+
+
+
+
+class: title-slide, center, bottom
+
+#  `r rmarkdown::metadata$title`
+
+<br>
+
+.pull-left[
+
+```{r, out.width = '80%', fig.align='center'}
+
+```
+]
+
+.pull-right[
+### `r fa("comment", fill = "steelblue")` `r rmarkdown::metadata$author`
+`r rmarkdown::metadata$subtitle` |  `r paste0("Nancy ",  format(Sys.time(), '%d %B, %Y'))`
+
+
+```{r, out.width="100%", fig.align='center'}
+knitr::include_graphics(paste0(URL, 'Logos/UL-ENSGSI-ERPI.svg'))
+``` 
+
+]
+
+
+---
+
+
+# Outline
+
+
+1. Connect to the databases of the UL
+2. Web of Science / Clarivate
+3. Vosviewer
+
+---
+
+class: middle
+
+# 1. Connect to the databases of the UL
+
+---
+
+## Connecting to the ENT
+
+```{r, out.width = '80%', fig.align='center'}
+knitr::include_graphics("figures/01.png")
+```
+
+solo figures/01.png
+
+https://ent.univ-lorraine.fr/#BU -> BU Ingénieurs Brabois
+
+---
+
+```{r, out.width = '80%', fig.align='center'}
+
+
+#knitr::include_graphics(here("img", "presentable-social.png")) 
+```
+
+---
+
+
+
+
+
+

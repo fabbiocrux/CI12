@@ -8,14 +8,14 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: "/slides/00-Introduction.html"
+  url: "/slides/day-01/03-TD-Vosviewer/index.html"
 - icon: theater-masks
   icon_pack: fas
   name: activity
-  url: "/sessions/01-intro/01-introduction/03-TD-Vosviewer/#activity"
+  url: "/sessions/01-intro/03-TD-Vosviewer/#activity"
 ---
 
- 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(eval=FALSE)
 
@@ -28,7 +28,6 @@ xaringanExtra::embed_xaringan(url = rmarkdown::metadata$links[[1]]$url, ratio = 
 
 
 
-This is a tes 
 
 ## Activity
 

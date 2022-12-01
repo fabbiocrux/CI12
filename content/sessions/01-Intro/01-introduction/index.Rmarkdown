@@ -8,7 +8,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: "/slides/00-Introduction.html"
+  url: "/slides/day-01/01-Research/index.html"
 - icon: theater-masks
   icon_pack: fas
   name: activity
@@ -31,10 +31,6 @@ xaringanExtra::embed_xaringan(url = rmarkdown::metadata$links[[1]]$url, ratio = 
 
 
 
-## Topic
-
-We will review some of the research concepts 
-
 ## Activity
 
 ::: activity-table
@@ -44,4 +40,9 @@ We will review some of the research concepts
 | Materials     |  |
 | Activity Mode | Put in ARCHE      |
 :::
+
+---
+
+Testing other elements
+
 
