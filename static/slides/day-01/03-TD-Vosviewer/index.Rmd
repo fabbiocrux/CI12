@@ -252,20 +252,35 @@ knitr::include_graphics("figures/vos/08.png")
 
 ---
 
+## Network Visualitation
+
 ```{r}
 knitr::include_graphics("figures/vos/09.png")
 ```
 
-
-
 ---
+
+
+## Overlay Visualitation
 
 ```{r}
 knitr::include_graphics("figures/vos/10.png")
 ```
 
+---
+
+## Overlay Visualitation: Selecting the node
+
+```{r}
+knitr::include_graphics("figures/vos/09-1.png")
+```
+
+
 
 ---
+
+
+## Density Visualitation
 
 ```{r}
 knitr::include_graphics("figures/vos/11.png")
