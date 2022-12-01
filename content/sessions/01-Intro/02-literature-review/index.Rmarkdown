@@ -1,5 +1,5 @@
 ---
-title: "02: Literature review: on the shoulders of giants"
+title: "Literature review: on the shoulders of giants"
 weight: 2
 publishDate: 2021-07-06
 show_post_date: false

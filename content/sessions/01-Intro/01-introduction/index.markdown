@@ -1,5 +1,5 @@
 ---
-title: "01: Setting the stage"
+title: "What is Scientific Research?"
 weight: 1
 show_post_date: false
 publishDate: 2021-07-06

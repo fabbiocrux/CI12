@@ -7,7 +7,7 @@ author:
 date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
-    css: ["assets/Fabio.css"]
+    css: ["../../assets/Fabio.css"]
     seal: false
     nature:
 #      slideNumberFormat: "%current%"
