@@ -44,13 +44,13 @@ library(vembedr)
 options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(
   fig.width=9, fig.height=3.5, fig.retina=3,
-  out.width = "100%",
-  cache = TRUE,
+  cache = FALSE,
   echo = FALSE,
   message = FALSE, 
   warning = FALSE,
   hiline = TRUE,
-  fig.align='center'
+  fig.align='center',
+  out.width = '75%' 
 )
 
 
@@ -110,7 +110,7 @@ class: middle
 
 ## Connecting to the ENT
 
-```{r, out.width = '80%', fig.align='center'}
+```{r, }
 knitr::include_graphics("figures/01.png")
 ```
 
@@ -118,14 +118,30 @@ https://ent.univ-lorraine.fr/#BU -> BU Ingénieurs Brabois
 
 ---
 
-```{r, out.width = '80%', fig.align='center'}
-
-
-#knitr::include_graphics(here("img", "presentable-social.png")) 
+```{r, }
+knitr::include_graphics("figures/01.png")
 ```
 
 ---
 
+
+```{r, }
+knitr::include_graphics("figures/04.png")
+```
+
+
+---
+
+```{r, }
+knitr::include_graphics("figures/05.png")
+```
+
+
+---
+
+```{r, }
+knitr::include_graphics("figures/06.png")
+```
 
 
 
