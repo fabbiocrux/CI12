@@ -33,9 +33,9 @@ cascade:
     
       | Act I:  | Introduction to the module |
       |:-------------|:------------- |
-      |         | [1.1: What is scientific research?](act-01/01-introduction/) |
-      |         | 1.2: Literature review – using what's already known   |
-      |         | 1.3: TD1 - Landscape of research via Vosviewer   |      
+      |         | 1.1: [What is scientific research?](/sessions/01-intro/01-introduction/) |
+      |         | 1.2: [Literature review: on the shoulders of giants](/sessions/01-intro/02-literature-review/)   |
+      |         | 1.3: [TD1 - Landscape of research via Vosviewer](/sessions/01-intro/03-TD-Vosviewer/)   |      
       ---
 
       | Act II: | Research protocol & Experimentation |
