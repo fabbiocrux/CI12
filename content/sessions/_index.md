@@ -41,21 +41,22 @@ cascade:
       | Act II: | Research protocol & Experimentation |
       |:--------------------------------|:----- |
       |         | 2.1: What is a research protocol? |
-      |         | 2.1: quantitative vs Qualitative research?  |
-      
+      |         | 2.2: Quantitative vs Qualitative research?  |
+      |         | 2.3: TD: Proving you Experimental Protocol!  |      
       ---
       
       | Act III: | Data Analysis & visualization |
       |:--------------------------------|:----- |
-      |   | 3.1: What is a research protocol? |
-      |             |    |
-      
+      |   | 3.1: Analyzing your data. |
+      |   | 3.2: Making arguments with support |
+      |   | 3.3: TD:  Did you say Reproducible research? |      
       ---
 
       | Act IV: | Conceptualization & Writing articles |
       |:--------------------------------|:----- |
-      |   | 4.1: What is a research protocol? |
-      |             |    |
+      |   | 4.1: How to conceptualize the Paper? |
+      |   | 4.2: Open Science as future |
+      |   | 4.3: TD: Writing you article |
       
     show_sidebar_adunit: true # show ad container
     text_series_label: "Outline" 

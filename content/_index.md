@@ -5,7 +5,7 @@ description: >
   This course is designed to help students develop a comprehensive understanding of the **scientific research approach and methods for innovation management**. Topics will include the fundamentals of the scientific method and scientific inquiry, ethical considerations in research, strengths and weaknesses of various data collection methods, and basic methods of quantitative and qualitative data collection. Through discussion, article analysis, and hands-on practice, this course will teach students how to conduct a research project from beginning to end.
 sharing_image: "/img/presentable-social.png"
 images:
-  - img/xaringan-colored.svg
+  - img/Logo-CI15/Diapositive1.jpeg
 image_left: false
 text_align_left: true
 show_social_links: true # specify social accounts in site config
