@@ -105,7 +105,6 @@ knitr::include_graphics(paste0(URL, 'Logos/UL-ENSGSI-ERPI.svg'))
 knitr::include_graphics("figures/Googles.png")
 ``` 
 
-
 ---
 
 ## Peer Reviewing process
@@ -134,7 +133,6 @@ background-size: 40%
 - Societies -> conferences proceedings (IEEE, IAMOT, IFAC...)
 - Institutional repositories -> dissertations
 - IP registrars -> Patents
-
 
 ]
 
@@ -189,9 +187,98 @@ Report on your literature findings and beware of:
 
 ---
 
+class: middle
+
+# How to do a Literature Review?
+
+---
+
+## Literature review: The Context
+
+```{r, out.width="80%", fig.align='center'}
+knitr::include_graphics("figures/Literature-review-01.png")
+``` 
+
+---
+
+## Literature review: Planning
+
+<br>
+
+```{r, out.width="100%"}
+knitr::include_graphics("figures/Literature-review-02.png")
+``` 
+
+
+Take the time to planning because it has the major impact at the end.
+
+---
+
+## Literature review: .bg-green.black[From contentext to Goal]
+
+> **Goal:** Identification of material recycling approaches in the Additive Manufacturing contexts (commercial and open-source)
+
+
+```{r, out.width="80%"}
+knitr::include_graphics("figures/Literature-review-03.png")
+``` 
+
+---
+
+## Literature review: .bg-green.black[The logic ]
+
+```{r, out.width="80%"}
+knitr::include_graphics("figures/Literature-review-04.png")
+``` 
+
+
+### Subjet + Verb + Complement --> Topic + Context + Problem
+---
+
+## Literature review: .bg-green.black[Search equation]
+
+<br>
+
+```{r, out.width="80%"}
+knitr::include_graphics("figures/Literature-review-05.png")
+``` 
+
+
+
+---
+
+## Literature review: .bg-green.black[Grid Lecture !!!!]
+
+<br>
+
+```{r, out.width="80%"}
+knitr::include_graphics("figures/Literature-review-06.png")
+``` 
+
+---
+
+## Literature review: .bg-green.black[Planning]
+
+
+```{r, out.width="75%"}
+knitr::include_graphics("figures/Literature-review-07.png")
+``` 
+
+
+---
+
+## Literature review: .bg-green.black[Results]
+
+
+```{r, out.width="75%"}
+knitr::include_graphics("figures/Literature-review-08.png")
+``` 
+
+---
+
 class: top, left
 background-image: url("figures/Example-Fabio.png")
-background-position: 80% 50%
+background-position: 85% 50%
 background-size: 35%
 
 ## Structure of Literature 
@@ -210,34 +297,6 @@ background-size: 35%
 Example 1: 
 
 [https://doi.org/10.1016/j.jclepro.2020.121602](https://doi.org/10.1016/j.jclepro.2020.121602) 
-
----
-
-
-class: top, left
-background-image: url("figures/Example-Fabio.png")
-background-position: 80% 50%
-background-size: 35%
-
-## Structure of Literature 
-
-- Title
-- Abstract
-- Introduction
-- Literature review
-- Methodology
-- Results
-- Discussion
-- Conclusion
-- References
-
-<br>
-Example 2: 
-
-[https://doi.org/10.1016/j.jclepro.2020.121602](https://doi.org/10.1016/j.jclepro.2020.121602) 
-
-
-
 
 ---
 
