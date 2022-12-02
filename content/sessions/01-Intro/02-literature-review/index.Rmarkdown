@@ -15,7 +15,6 @@ links:
 #  url: "/materials/act-01/02-style-guide/#activity"
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(eval=FALSE)
 
