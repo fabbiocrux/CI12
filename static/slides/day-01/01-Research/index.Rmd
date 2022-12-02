@@ -3,7 +3,8 @@ title: "Introduction to Scientific Research"
 subtitle: "For Innovation management"  
 email: "cruzsanc1@univ-lorraine.fr"
 author: 
-  - "Fabio A. CRUZ SANCHEZ"
+  - "Fabio A. Cruz"
+  - "Mauricio Camargo"
 date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:

@@ -27,18 +27,20 @@ xaringanExtra::embed_xaringan(url = rmarkdown::metadata$links[[1]]$url, ratio = 
 
 
 
-## Activity
+## Warminig Activity
 
 ::: activity-table
 |               |                                           |
 |:--------------|:----------------------------------------- |
-| Time          | 15 minutes                                |
-| Materials     |  |
-| Activity Mode |       |
+| Time          | 5 minutes                                |
+| Activity Mode     | [Answer this little questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSenRqlI99pW-Sll9gJFIVwNG0N-gbxhOYT8dUxX4uD8yRGn2A/viewform?usp=sf_link)  |
 :::
 
 ---
 
 
+## References
 
+- Sekaran, Bougie. 2016. Research Methods For Business: A Skill Building Approach. Wiley & sons.
+- Sørensen, Flemming, Jan Mattsson, and Jon Sundbo. 2010. Experimental Methods in Innovation Research. Research Policy 39 (3): 313–22. 
 
