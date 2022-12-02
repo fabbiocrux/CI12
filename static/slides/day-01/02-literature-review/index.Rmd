@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Scientific Research"
+title: "Literature review: on the shoulders of giants"
 subtitle: "For Innovation management"  
 email: "cruzsanc1@univ-lorraine.fr"
 author: 
@@ -83,23 +83,31 @@ knitr::include_graphics(paste0(URL, 'Logos/UL-ENSGSI-ERPI.svg'))
 
 ## Learning objectives of the course
 
-1. Have a first overview of the scientific research field.
+1. Know the importance of a literature review
+1. Know-how look for scientific databases
 
 
 ---
 
 ## Outline
 
-1. .bg-yellow[Introduction to the research]
-2. Scientific approach and alternatives
-3. Research in the context of France
+1. .bg-yellow[Literature review – using what's already known]
+2. Where to look at?
+3. Examples of Literature review papers at ERPI
 
 
 ---
 
 class: middle
 
-# What the difference between Engineering activity and Research (*in engineering*) Activity?
+# What the difference these two googles? 
+
+```{r, out.width="70%", fig.align='center'}
+knitr::include_graphics("figures/Googles.png")
+``` 
+
+
+
 
 ---
 

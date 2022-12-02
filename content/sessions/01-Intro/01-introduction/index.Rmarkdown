@@ -27,7 +27,6 @@ xaringanExtra::embed_xaringan(url = rmarkdown::metadata$links[[1]]$url, ratio = 
 
 
 
-
 ## Activity
 
 ::: activity-table
