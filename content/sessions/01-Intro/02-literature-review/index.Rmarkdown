@@ -9,10 +9,10 @@ links:
   icon_pack: fas
   name: slides
   url: "/slides/day-01/02-literature-review/index.html"
-- icon: theater-masks
-  icon_pack: fas
-  name: activity
-  url: "/materials/act-01/02-style-guide/#activity"
+#- icon: theater-masks
+#  icon_pack: fas
+#  name: activity
+#  url: "/materials/act-01/02-style-guide/#activity"
 ---
 
 

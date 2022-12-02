@@ -107,8 +107,6 @@ knitr::include_graphics("figures/Googles.png")
 ``` 
 
 
-
-
 ---
 
 
