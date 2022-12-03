@@ -63,8 +63,6 @@ xaringanExtra::use_xaringan_extra(c("share_again"))
 
 
 
-
-
 class: title-slide, center, bottom
 
 #  `r rmarkdown::metadata$title`
@@ -94,8 +92,7 @@ knitr::include_graphics(paste0(URL, 'Logos/UL-ENSGSI-ERPI.svg'))
 
 # Outline
 
-
-1. Connect to the databases of the UL
+1. .bg-yellow[Connect to the databases of the UL]
 2. Web of Science / Clarivate
 3. Vosviewer
 
@@ -130,6 +127,14 @@ knitr::include_graphics("figures/02.png")
 knitr::include_graphics("figures/04.png")
 ```
 
+
+---
+
+# Outline
+
+1. Connect to the databases of the UL
+2. .bg-yellow[Web of Science / Clarivate]
+3. Vosviewer
 
 ---
 
@@ -175,7 +180,7 @@ But, take a look of the other type of searches
 
 1. Connect to the databases of the UL
 2. Web of Science / Clarivate
-3. Vosviewer
+3. .bg-yellow[Vosviewer]
 
 
 ---
@@ -189,6 +194,30 @@ class: middle
 [Download at https://www.vosviewer.com/](https://www.vosviewer.com/)
 
 ---
+
+class: middle
+
+## Introduction 
+
+.center[
+
+```{r}
+embed_youtube(
+  "tQgD4KITCVE",
+  width = 1200,
+  height = 600,
+  ratio = "4by3",
+  frameborder = 0,
+  allowfullscreen = TRUE,
+)
+```
+
+
+
+
+---
+
+
 
 
 ## Add data 
