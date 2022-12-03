@@ -202,17 +202,16 @@ class: middle
 
 ---
 
-class: middle
+class: middle center
 
 ## Introduction 
 
-.center[
 
 ```{r}
 embed_youtube(
-  "tQgD4KITCVE",
-  width = 1200,
-  height = 600,
+  "9dTWkNRxUtw",
+  width = 1000,
+  height = 500,
   ratio = "4by3",
   frameborder = 0,
   allowfullscreen = TRUE,
