@@ -40,9 +40,10 @@ cascade:
 
       | Act II: | Research protocol & Experimentation |
       |:--------------------------------|:----- |
-      |         | 2.1: What is a research protocol? |
-      |         | 2.2: Quantitative vs Qualitative research?  |
-      |         | 2.3: TD: Proving you Experimental Protocol!  |      
+      |         | 2.1: How to read a scientifc article and not die trying? |      
+      |         | 2.2: What is a research protocol? |
+      |         | 2.3: Quantitative vs Qualitative research?  |
+      |         | 2.4: TD: Proving you Experimental Protocol!  |      
       ---
       
       | Act III: | Data Analysis & visualization |
