@@ -2,7 +2,7 @@
 title: "Fabio A. Cruz Sanchez"
 subtitle: Researcher in Sustainability & Additive Manufacturing
 excerpt: >
-  **Researcher**<br>I’m research associate at the ERPI Laboratory. The main research interest    relies on the distributed recycling via additive manufacturing (DRAM) as a possible            socio-technical transition towards a sustainable manufacturing approach in a post-growth       future alternative.
+  **Researcher**<br> at the ERPI Laboratory. The main research interest relies on the distributed recycling via additive manufacturing (DRAM) as a possible socio-technical transition towards a sustainable manufacturing approach in a post-growth future alternative.
 weight: 1
 type: people
 show_post_image: true
