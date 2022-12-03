@@ -106,25 +106,30 @@ class: middle
 
 ## Connecting to the ENT
 
+[https://ent.univ-lorraine.fr/#BU](https://ent.univ-lorraine.fr/#BU) -> BU Ingénieurs Brabois
+
+<br>
 ```{r, }
-knitr::include_graphics("figures/01.png")
+knitr::include_graphics("figures/01.jpg")
 ```
 
-[https://ent.univ-lorraine.fr/#BU](https://ent.univ-lorraine.fr/#BU) -> BU Ingénieurs Brabois
 
 ---
 ## Connecting to "the ENT "Ressource online"
 
+<br>
+
 ```{r}
-knitr::include_graphics("figures/02.png")
+knitr::include_graphics("figures/02.jpg")
 ```
 
 ---
 
 ## Look for Web Of Science database
 
+<br>
 ```{r, }
-knitr::include_graphics("figures/04.png")
+knitr::include_graphics("figures/04.jpg")
 ```
 
 
@@ -142,42 +147,170 @@ class: middle
 
 # 2. Web of Science / Clarivate
 
+<br>
+
+Deeping  into the scientific databases
 
 ---
 
 ## Web of Science: Simple research mode
 
+<br>
+
 ```{r, }
-knitr::include_graphics("figures/05.png")
+knitr::include_graphics("figures/05.jpg")
 ```
 
 ---
 
 ## Web of Science: Go for a Advance research
 
+<br>
+
 ```{r}
-knitr::include_graphics("figures/06.png")
+knitr::include_graphics("figures/06.jpg")
 ```
 
 ---
 
 ## Web of Science: Add you search query
 
-```{r}
-knitr::include_graphics("figures/07.png")
-```
-
 Remember the:  **Topic + Subject + Problem**
+
+<br>
+
+```{r}
+knitr::include_graphics("figures/07.jpg")
+```
 
 ---
 
-## Web of Science: Use `Topic` filter
-
-```{r, }
-knitr::include_graphics("figures/07.png")
-```
+## Web of Science: Advance search
 
 But, take a look of the other type of searches 
+
+<br>
+
+```{r, }
+knitr::include_graphics("figures/08.jpg")
+```
+
+
+---
+
+## Web of Science: put the Search Equation
+
+<br>
+
+```{r, }
+knitr::include_graphics("figures/09.jpg")
+```
+
+---
+
+## Web of Science: Results
+
+<br>
+
+```{r, }
+knitr::include_graphics("figures/10.jpg")
+```
+
+
+---
+
+## Web of Science: Export results
+
+<br>
+
+```{r, }
+knitr::include_graphics("figures/11.jpg")
+```
+
+
+---
+
+## Web of Science: Select Tab Deliminated File
+
+<br>
+
+```{r, }
+knitr::include_graphics("figures/12.jpg")
+```
+
+
+---
+
+## Web of Science: Export Full record
+
+<br>
+
+```{r, }
+knitr::include_graphics("figures/13.jpg")
+```
+
+
+---
+
+## Web of Science: Analyze the Results
+
+<br>
+
+```{r, }
+knitr::include_graphics("figures/14.jpg")
+```
+
+
+---
+
+## Web of Science: Analyze the Results
+
+<br>
+
+```{r, }
+knitr::include_graphics("figures/14.jpg")
+```
+
+---
+
+## Web of Science: Analyze the Categories
+
+<br>
+
+```{r, }
+knitr::include_graphics("figures/15.jpg")
+```
+
+
+---
+
+## Web of Science: Analyze the Authors
+
+<br>
+
+```{r, }
+knitr::include_graphics("figures/16.jpg")
+```
+
+---
+
+## Web of Science: Analyze the Funding Agencies
+
+<br>
+
+```{r, }
+knitr::include_graphics("figures/17.jpg")
+```
+
+---
+
+## Web of Science: Analyze the Countries
+
+<br>
+
+```{r, }
+knitr::include_graphics("figures/18.jpg")
+```
 
 
 ---
@@ -220,7 +353,6 @@ embed_youtube(
 
 
 
-
 ---
 
 
@@ -228,60 +360,74 @@ embed_youtube(
 
 ## Add data 
 
+<br>
+
 ```{r}
-knitr::include_graphics("figures/vos/01.png")
+knitr::include_graphics("figures/vos/01.jpg")
 ```
 
 ---
 
-## Add data 
+## Add data: from `Bibliographic database file`
+
+<br>
 
 ```{r}
-knitr::include_graphics("figures/vos/02.png")
+knitr::include_graphics("figures/vos/02.jpg")
 ```
 
 ---
 
+## Add data: from `Bibliographic database file`
+
+<br>
 
 ```{r}
-knitr::include_graphics("figures/vos/03.png")
-```
-
-
----
-
-
-```{r}
-knitr::include_graphics("figures/vos/04.png")
-```
-
-
-
----
-
-```{r}
-knitr::include_graphics("figures/vos/05.png")
+knitr::include_graphics("figures/vos/03.jpg")
 ```
 
 
 ---
 
+## Add data: Select the `.txt` files from WoS
+
+<br>
+
 ```{r}
-knitr::include_graphics("figures/vos/06.png")
+knitr::include_graphics("figures/vos/04.jpg")
+```
+
+
+
+---
+
+## Add data: Analysing Keyworkds
+
+<br>
+
+```{r}
+knitr::include_graphics("figures/vos/05.jpg")
 ```
 
 
 ---
 
 ```{r}
-knitr::include_graphics("figures/vos/07.png")
+knitr::include_graphics("figures/vos/06.jpg")
 ```
 
 
 ---
 
 ```{r}
-knitr::include_graphics("figures/vos/08.png")
+knitr::include_graphics("figures/vos/07.jpg")
+```
+
+
+---
+
+```{r}
+knitr::include_graphics("figures/vos/08.jpg")
 ```
 
 
@@ -290,7 +436,7 @@ knitr::include_graphics("figures/vos/08.png")
 ## Network Visualitation
 
 ```{r}
-knitr::include_graphics("figures/vos/09.png")
+knitr::include_graphics("figures/vos/09.jpg")
 ```
 
 ---
@@ -299,7 +445,7 @@ knitr::include_graphics("figures/vos/09.png")
 ## Overlay Visualitation
 
 ```{r}
-knitr::include_graphics("figures/vos/10.png")
+knitr::include_graphics("figures/vos/10.jpg")
 ```
 
 ---
@@ -307,7 +453,7 @@ knitr::include_graphics("figures/vos/10.png")
 ## Overlay Visualitation: Selecting the node
 
 ```{r}
-knitr::include_graphics("figures/vos/09-1.png")
+knitr::include_graphics("figures/vos/09-1.jpg")
 ```
 
 
@@ -315,28 +461,11 @@ knitr::include_graphics("figures/vos/09-1.png")
 ---
 
 
-## Density Visualitation
+## Density Visualization
 
 ```{r}
-knitr::include_graphics("figures/vos/11.png")
+knitr::include_graphics("figures/vos/11.jpg")
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ---
