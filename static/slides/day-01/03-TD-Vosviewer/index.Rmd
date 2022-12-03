@@ -138,6 +138,13 @@ knitr::include_graphics("figures/04.png")
 
 ---
 
+class: middle
+
+# 2. Web of Science / Clarivate
+
+
+---
+
 ## Web of Science: Simple research mode
 
 ```{r, }
