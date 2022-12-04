@@ -1,5 +1,5 @@
 ---
-title: "Rule of the game"
+title: "Rules of the game"
 weight: 1
 subtitle: "For Master IDEAS + IUVTT and & 3AI"
 excerpt: "Here you can find the elements to prepare ahead of time."
@@ -29,8 +29,8 @@ The final grade is composed of two main elements:
 
 - There is an activity to summit on ARCHE at the end of each session. There are 4 sessions, so each represents a **12.5%** of the final grade.
 
-- A final report will made the other **50%** of final grade. The objective of this final report is a literature review (Etat de l'Art) based on a specific research question and conntext. *Preferably* this report could be related to your stage missino.**
-This due on **April 28th 2023** on the ARCHE platform
+- A final report will made the other **50%** of final grade. The objective of this final report is a literature review (Etat de l'Art) based on a specific research question and conntext. *Preferably this report could be related to your stage mission.*
+This due on **April 28th 2023** on the ARCHE platform. [A template can be found here](Template-Article/Template-Article.pdf)
 
 All activities are to be summited on **ARCHE and only on ARCHE! deadlines**, validation, automatic verification of text to avoid plagiarism.
 
@@ -55,7 +55,7 @@ All activities are to be summited on **ARCHE and only on ARCHE! deadlines**, val
 <tbody>
   <tr>
    <td style="text-align:right;vertical-align: middle !important;" rowspan="5"> 1 </td>
-   <td style="text-align:left;vertical-align: middle !important;" rowspan="5"> 2022-12-10 </td>
+   <td style="text-align:left;vertical-align: middle !important;" rowspan="5"> 2022-12-05 </td>
    <td style="text-align:left;"> 9h00 - 10h00 </td>
    <td style="text-align:left;"> CM - Introduction to the module </td>
    <td style="text-align:left;"> MC </td>
@@ -65,7 +65,7 @@ All activities are to be summited on **ARCHE and only on ARCHE! deadlines**, val
    
    
    <td style="text-align:left;"> 10h00 - 10h45 </td>
-   <td style="text-align:left;"> CM - Veille technologique et VOSviewer </td>
+   <td style="text-align:left;"> CM - Technology Watch and VOSviewer </td>
    <td style="text-align:left;"> FA </td>
    <td style="text-align:left;"> ENSGSI B9 </td>
   </tr>
@@ -89,7 +89,7 @@ All activities are to be summited on **ARCHE and only on ARCHE! deadlines**, val
    
    
    <td style="text-align:left;"> 16h00-17h00 </td>
-   <td style="text-align:left;"> CM - Présentation d'articles de review </td>
+   <td style="text-align:left;"> CM - Articles of Literature Review </td>
    <td style="text-align:left;"> MC </td>
    <td style="text-align:left;"> ENSGSI B9 </td>
   </tr>
@@ -97,7 +97,7 @@ All activities are to be summited on **ARCHE and only on ARCHE! deadlines**, val
    <td style="text-align:right;vertical-align: middle !important;" rowspan="4"> 2 </td>
    <td style="text-align:left;vertical-align: middle !important;" rowspan="4"> 2023-01-10 </td>
    <td style="text-align:left;"> 9h00 - 10h00 </td>
-   <td style="text-align:left;"> CM - Conception et implémentation d'un atelier expérimentale </td>
+   <td style="text-align:left;"> CM - Design of a research project </td>
    <td style="text-align:left;"> FC + FO </td>
    <td style="text-align:left;"> ENSGSI B9 </td>
   </tr>
@@ -105,7 +105,7 @@ All activities are to be summited on **ARCHE and only on ARCHE! deadlines**, val
    
    
    <td style="text-align:left;"> 10h00-12h00 </td>
-   <td style="text-align:left;"> TD 2 - définition et mise en place du protocole expérimentale </td>
+   <td style="text-align:left;"> TD 2 - Definitino and implementation of a experimental protocol </td>
    <td style="text-align:left;"> FC + MC </td>
    <td style="text-align:left;"> ENSGSI B9 </td>
   </tr>
@@ -113,7 +113,7 @@ All activities are to be summited on **ARCHE and only on ARCHE! deadlines**, val
    
    
    <td style="text-align:left;"> 13h30 - 16h00 </td>
-   <td style="text-align:left;"> TD 2 - Mise en pratique du protocole </td>
+   <td style="text-align:left;"> TD 2 - Developing the protocol and data collection </td>
    <td style="text-align:left;"> FC + MC </td>
    <td style="text-align:left;"> ENSGSI B9 </td>
   </tr>
@@ -121,7 +121,7 @@ All activities are to be summited on **ARCHE and only on ARCHE! deadlines**, val
    
    
    <td style="text-align:left;"> 16h00 - 17h00 </td>
-   <td style="text-align:left;"> CM - D'autres examples experimentations - article UX </td>
+   <td style="text-align:left;"> CM - Examples of protocols from articles </td>
    <td style="text-align:left;"> MC </td>
    <td style="text-align:left;"> ENSGSI B9 </td>
   </tr>
@@ -129,7 +129,7 @@ All activities are to be summited on **ARCHE and only on ARCHE! deadlines**, val
    <td style="text-align:right;vertical-align: middle !important;" rowspan="4"> 3 </td>
    <td style="text-align:left;vertical-align: middle !important;" rowspan="4"> 2023-01-19 </td>
    <td style="text-align:left;"> 9h00 - 10h00 </td>
-   <td style="text-align:left;"> CM - mendeley zotero / rédiger un papier </td>
+   <td style="text-align:left;"> CM - Data anlaysis and datavisualization </td>
    <td style="text-align:left;"> FC </td>
    <td style="text-align:left;"> ENSGSI B9 </td>
   </tr>
@@ -137,7 +137,7 @@ All activities are to be summited on **ARCHE and only on ARCHE! deadlines**, val
    
    
    <td style="text-align:left;"> 10h00 - 12h00 </td>
-   <td style="text-align:left;"> TD 3 - Ecriture article </td>
+   <td style="text-align:left;"> TD 3 - Introduction to Reproducible tools </td>
    <td style="text-align:left;"> MC + FC </td>
    <td style="text-align:left;"> ENSGSI B9 </td>
   </tr>
@@ -145,7 +145,7 @@ All activities are to be summited on **ARCHE and only on ARCHE! deadlines**, val
    
    
    <td style="text-align:left;"> 13h30 - 15h30 </td>
-   <td style="text-align:left;"> TD 3 - Ecriture article </td>
+   <td style="text-align:left;"> TD 3 - Data analysis of the experimentation </td>
    <td style="text-align:left;"> MC + FC </td>
    <td style="text-align:left;"> ENSGSI B9 </td>
   </tr>
@@ -153,23 +153,23 @@ All activities are to be summited on **ARCHE and only on ARCHE! deadlines**, val
    
    
    <td style="text-align:left;"> 15h30 - 17h00 </td>
-   <td style="text-align:left;"> CM - mendeley zotero / rédiger un papier </td>
+   <td style="text-align:left;"> CM - Writing and  conceptualization of an article </td>
    <td style="text-align:left;"> MC </td>
    <td style="text-align:left;"> ENSGSI C7 </td>
   </tr>
   <tr>
    <td style="text-align:right;vertical-align: middle !important;" rowspan="4"> 4 </td>
-   <td style="text-align:left;vertical-align: middle !important;" rowspan="4"> 2023-02-21 </td>
+   <td style="text-align:left;vertical-align: middle !important;" rowspan="4"> 2023-01-23 </td>
    <td style="text-align:left;"> 8h30-10h00 </td>
-   <td style="text-align:left;"> CM - recherche reproductible - traitement des donnés </td>
-   <td style="text-align:left;"> FC </td>
+   <td style="text-align:left;"> CM - Writing and  conceptualization of an article </td>
+   <td style="text-align:left;"> FC + AG </td>
    <td style="text-align:left;"> ENSGSI C7 </td>
   </tr>
   <tr>
    
    
    <td style="text-align:left;"> 10h00-12h00 </td>
-   <td style="text-align:left;"> TD 4 - Atelier recherche reproductible </td>
+   <td style="text-align:left;"> TD 4 - References management </td>
    <td style="text-align:left;"> FC </td>
    <td style="text-align:left;"> ENSGSI C7 </td>
   </tr>
@@ -177,7 +177,7 @@ All activities are to be summited on **ARCHE and only on ARCHE! deadlines**, val
    
    
    <td style="text-align:left;"> 13h30-16h00 </td>
-   <td style="text-align:left;"> TD 4 - Atelier recherche reproductible </td>
+   <td style="text-align:left;"> TD 4 - Article writing </td>
    <td style="text-align:left;"> FC </td>
    <td style="text-align:left;"> ENSGSI C7 </td>
   </tr>
@@ -185,15 +185,15 @@ All activities are to be summited on **ARCHE and only on ARCHE! deadlines**, val
    
    
    <td style="text-align:left;"> 16h00-17h00 </td>
-   <td style="text-align:left;"> CM - recherche reproductible - traitement des donnés </td>
-   <td style="text-align:left;"> FC </td>
+   <td style="text-align:left;"> CM - Presentation of PhD journey + Open Science </td>
+   <td style="text-align:left;"> MC </td>
    <td style="text-align:left;"> ENSGSI C7 </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 5 </td>
    <td style="text-align:left;"> 2023-04-28 </td>
    <td style="text-align:left;"> NA </td>
-   <td style="text-align:left;"> Rendu rapport Etat de l'art </td>
+   <td style="text-align:left;"> Rapport of Literature Review </td>
    <td style="text-align:left;"> NA </td>
    <td style="text-align:left;"> ENSGSI C7 </td>
   </tr>
