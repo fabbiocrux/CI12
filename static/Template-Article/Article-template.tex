@@ -57,17 +57,6 @@ authoryear]{elsarticle} %review=doublespace preprint=single 5p=2 column
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
-% From pandoc table feature
-\usepackage{longtable,booktabs,array}
-\usepackage{calc} % for calculating minipage widths
-% Correct order of tables after \paragraph or \subparagraph
-\usepackage{etoolbox}
-\makeatletter
-\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
-\makeatother
-% Allow footnotes in longtable head/foot
-\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
-\makesavenoteenv{longtable}
 
 
 
@@ -83,7 +72,7 @@ authoryear]{elsarticle} %review=doublespace preprint=single 5p=2 column
   \corref{cor1}%
   \fnref{1}}
    \ead{alice@example.com} 
-      \affiliation[ENSGSI]{Université de Lorraine, ENSGSI, 8 Rue
+      \affiliation[ENSGSI]{Universite de Lorraine, ENSGSI, 8 Rue
 Bastien-Lepage, 54000 Nancy, France}
     \cortext[cor1]{Corresponding author}
     \fntext[1]{This is the first author footnote.}
@@ -92,8 +81,8 @@ Bastien-Lepage, 54000 Nancy, France}
   \begin{abstract}
   This is the abstract of Max 300 Words.
 
-  \href{http://www.cbs.umn.edu/sites/default/files/public/downloads/Annotated_Nature_abstract.pdf}{Take
-  as inspiration the Nature}
+  \href{https://doi.org/10.1007/978-981-16-5248-6_15}{Take as
+  inspiration}
   \end{abstract}
     \begin{keyword}
     keyword1 \sep keyword2 \sep 
@@ -109,16 +98,16 @@ pages{]}}\label{introduction-max-1.5-pages}}
 \begin{itemize}
 \tightlist
 \item
-  Present the context
+  Present the context.
 \item
-  Presentation of the problematic
+  Presentation of the problematic.
 
   \begin{itemize}
   \tightlist
   \item
     Explain why is it important and relevant.
   \item
-    For who
+    For whom is important the problem?
   \end{itemize}
 \item
   Clearly the research question that the paper wants to answer
@@ -138,6 +127,8 @@ pag.{]}}\label{methodology-of-literature-review-max-1-pag.}}
   \item
     Selection of the Keywords, search equations, databases
   \end{itemize}
+\item
+  Grid lecture of the articles.
 \end{itemize}
 
 \hypertarget{results-max-3-pages}{%
@@ -146,10 +137,42 @@ pag.{]}}\label{methodology-of-literature-review-max-1-pag.}}
 \begin{itemize}
 \tightlist
 \item
-  Table witht he
+  Table the articles
 \item
-  Structuration of the result for t
+  Quantitative analysis
+\item
+  Qualitative analysis
 \end{itemize}
+
+\hypertarget{equations}{%
+\subsection{Equations}\label{equations}}
+
+Here is an equation: \[ 
+  f_{X}(x) = \left(\frac{\alpha}{\beta}\right)
+  \left(\frac{x}{\beta}\right)^{\alpha-1}
+  e^{-\left(\frac{x}{\beta}\right)^{\alpha}}; 
+  \alpha,\beta,x > 0 .
+\]
+
+Here is another: \begin{align}
+  a^2+b^2=c^2.
+\end{align}
+
+Inline equations: \(\sum_{i = 2}^\infty\{\alpha_i^\beta\}\)
+
+\hypertarget{figures-and-tables}{%
+\subsection{Figures and tables}\label{figures-and-tables}}
+
+Figure \ref{fig2} is generated using an R chunk.
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.5\linewidth]{Article-template_files/figure-latex/fig2-1} 
+
+}
+
+\caption{\label{fig2}A meaningless scatterplot.}\label{fig:fig2}
+\end{figure}
 
 \hypertarget{discussion-2-3-pages}{%
 \section{Discussion {[}2-3 pages{]}}\label{discussion-2-3-pages}}
@@ -169,72 +192,8 @@ pag.{]}}\label{methodology-of-literature-review-max-1-pag.}}
 \item
   Do we answer the research questions?
 \item
-  What do we learn and what need to be researche
+  What do we learn and what need to be further explore
 \end{itemize}
-
-\hypertarget{references}{%
-\section{References}\label{references}}
-
-Here are two sample references: \citeauthor{Feynman1963118}
-\citetext{\citeyear{Feynman1963118}; \citealp{Dirac1953888}}.
-
-\hypertarget{elements-of-style}{%
-\section{Elements of Style}\label{elements-of-style}}
-
-\hypertarget{equations}{%
-\subsection{Equations}\label{equations}}
-
-Here is an equation: \[ 
-  f_{X}(x) = \left(\frac{\alpha}{\beta}\right)
-  \left(\frac{x}{\beta}\right)^{\alpha-1}
-  e^{-\left(\frac{x}{\beta}\right)^{\alpha}}; 
-  \alpha,\beta,x > 0 .
-\]
-
-Here is another: \begin{align}
-  a^2+b^2=c^2.
-\end{align}
-
-Inline equations: \(\sum_{i = 2}^\infty\{\alpha_i^\beta\}\)
-
-\hypertarget{figures-and-tables}{%
-\section{Figures and tables}\label{figures-and-tables}}
-
-Figure \ref{fig2} is generated using an R chunk.
-
-\begin{figure}
-
-{\centering \includegraphics[width=0.5\linewidth]{Article-template_files/figure-latex/fig2-1} 
-
-}
-
-\caption{\label{fig2}A meaningless scatterplot.}\label{fig:fig2}
-\end{figure}
-
-\hypertarget{tables-coming-from-r}{%
-\subsection{Tables coming from R}\label{tables-coming-from-r}}
-
-Tables can also be generated using R chunks, as shown in Table
-\ref{tab1} for example.
-
-\begin{longtable}[]{@{}lrrrr@{}}
-\caption{\label{tab1}Caption centered above table}\tabularnewline
-\toprule()
-& mpg & cyl & disp & hp \\
-\midrule()
-\endfirsthead
-\toprule()
-& mpg & cyl & disp & hp \\
-\midrule()
-\endhead
-Mazda RX4 & 21.0 & 6 & 160 & 110 \\
-Mazda RX4 Wag & 21.0 & 6 & 160 & 110 \\
-Datsun 710 & 22.8 & 4 & 108 & 93 \\
-Hornet 4 Drive & 21.4 & 6 & 258 & 110 \\
-Hornet Sportabout & 18.7 & 8 & 360 & 175 \\
-Valiant & 18.1 & 6 & 225 & 105 \\
-\bottomrule()
-\end{longtable}
 
 \renewcommand\refname{References}
 \bibliography{mybibfile.bib}

@@ -21,11 +21,6 @@ knitr::opts_chunk$set(eval=FALSE)
 xaringanExtra::use_clipboard()
 ```
 
-```{r embed-xaringan, echo=FALSE, eval=TRUE, include=TRUE}
-xaringanExtra::embed_xaringan(url = rmarkdown::metadata$links[[1]]$url, ratio = "16:9")
-```
-
-
 
 ## Warminig Activity
 
@@ -36,8 +31,17 @@ xaringanExtra::embed_xaringan(url = rmarkdown::metadata$links[[1]]$url, ratio = 
 | Activity Mode     | [Answer this little questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSenRqlI99pW-Sll9gJFIVwNG0N-gbxhOYT8dUxX4uD8yRGn2A/viewform?usp=sf_link)  |
 :::
 
----
 
+
+## Slides
+
+```{r embed-xaringan, echo=FALSE, eval=TRUE, include=TRUE}
+xaringanExtra::embed_xaringan(url = rmarkdown::metadata$links[[1]]$url, ratio = "16:9")
+```
+
+
+
+---
 
 ## References
 

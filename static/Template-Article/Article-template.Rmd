@@ -18,7 +18,7 @@ footnote:
 abstract: |
   This is the abstract of Max 300 Words.
 
-  [Take as inspiration the Nature](http://www.cbs.umn.edu/sites/default/files/public/downloads/Annotated_Nature_abstract.pdf)
+  [Take as inspiration](https://doi.org/10.1007/978-981-16-5248-6_15)
   
 keywords: 
   - keyword1
