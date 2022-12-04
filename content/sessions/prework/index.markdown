@@ -30,7 +30,7 @@ The final grade is composed of two main elements:
 - There is an activity to summit on ARCHE at the end of each session. There are 4 sessions, so each represents a **12.5%** of the final grade.
 
 - A final report will made the other **50%** of final grade. The objective of this final report is a literature review (Etat de l'Art) based on a specific research question and conntext. *Preferably this report could be related to your stage mission.*
-This due on **April 28th 2023** on the ARCHE platform. [A template can be found here](Template-Article/Template-Article.pdf)
+This due on **April 28th 2023** on the ARCHE platform. [A template can be found here](/Template-Article/Article-template.pdf).
 
 All activities are to be summited on **ARCHE and only on ARCHE! deadlines**, validation, automatic verification of text to avoid plagiarism.
 

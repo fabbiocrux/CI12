@@ -412,6 +412,10 @@ knitr::include_graphics("figures/vos/05.jpg")
 
 ---
 
+## Add data: Minimum number of Occurrencies for Keyworkds
+
+<br>
+
 ```{r}
 knitr::include_graphics("figures/vos/06.jpg")
 ```
@@ -419,12 +423,23 @@ knitr::include_graphics("figures/vos/06.jpg")
 
 ---
 
+## Add data: Keywords to be plotted
+
+<br>
+
+
 ```{r}
 knitr::include_graphics("figures/vos/07.jpg")
 ```
 
 
 ---
+
+## Add data: Verify if Keywords are correct
+
+Attention to the Redundancies
+
+<br>
 
 ```{r}
 knitr::include_graphics("figures/vos/08.jpg")
@@ -435,6 +450,8 @@ knitr::include_graphics("figures/vos/08.jpg")
 
 ## Network Visualitation
 
+<br>
+
 ```{r}
 knitr::include_graphics("figures/vos/09.jpg")
 ```
@@ -444,6 +461,8 @@ knitr::include_graphics("figures/vos/09.jpg")
 
 ## Overlay Visualitation
 
+<br>
+
 ```{r}
 knitr::include_graphics("figures/vos/10.jpg")
 ```
@@ -451,6 +470,8 @@ knitr::include_graphics("figures/vos/10.jpg")
 ---
 
 ## Overlay Visualitation: Selecting the node
+
+<br>
 
 ```{r}
 knitr::include_graphics("figures/vos/09-1.jpg")
@@ -463,9 +484,181 @@ knitr::include_graphics("figures/vos/09-1.jpg")
 
 ## Density Visualization
 
+<br>
+
 ```{r}
 knitr::include_graphics("figures/vos/11.jpg")
 ```
 
 
 ---
+
+# Outline
+
+
+1. Connect to the databases of the UL
+2. Web of Science / Clarivate
+3. .bg-yellow[Vosviewer:]
+
+# For Patents
+
+---
+
+## Clarivate for Patents
+
+<br>
+
+```{r}
+knitr::include_graphics("figures/patents/01.jpg")
+```
+
+
+---
+
+## Clarivate for Patents: use the search equation
+
+<br>
+
+```{r}
+knitr::include_graphics("figures/patents/02.jpg")
+```
+
+
+---
+
+## Clarivate for Patents: Export the Data
+
+<br>
+
+```{r}
+knitr::include_graphics("figures/patents/03.jpg")
+```
+
+---
+
+## Clarivate for Patents: Full record
+
+<br>
+
+```{r}
+knitr::include_graphics("figures/patents/04.jpg")
+```
+
+---
+
+## Don't forget use the analyze tool for Patents
+
+<br>
+
+```{r}
+knitr::include_graphics("figures/patents/04-1.jpg")
+```
+
+---
+
+## VOSviewer for Patents: Create from `text data`.
+
+<br>
+
+```{r}
+knitr::include_graphics("figures/patents/05.jpg")
+```
+
+
+---
+
+## VOSviewer for Patents
+
+<br>
+
+```{r}
+knitr::include_graphics("figures/patents/06.jpg")
+```
+
+---
+
+## VOSviewer for Patents
+
+<br>
+
+```{r}
+knitr::include_graphics("figures/patents/07.jpg")
+```
+
+
+---
+
+## VOSviewer for Patents
+
+<br>
+
+```{r}
+knitr::include_graphics("figures/patents/08.jpg")
+```
+
+
+---
+
+## VOSviewer for Patents
+
+<br>
+
+```{r}
+knitr::include_graphics("figures/patents/09.jpg")
+```
+
+
+---
+
+## VOSviewer for Patents
+
+<br>
+
+```{r}
+knitr::include_graphics("figures/patents/10.jpg")
+```
+
+
+---
+
+## VOSviewer for Patents
+
+<br>
+
+```{r}
+knitr::include_graphics("figures/patents/11.jpg")
+```
+
+
+---
+
+## VOSviewer for Patents
+
+<br>
+
+```{r}
+knitr::include_graphics("figures/patents/12.jpg")
+```
+
+
+---
+
+## VOSviewer for Patents
+
+<br>
+
+```{r}
+knitr::include_graphics("figures/patents/13.jpg")
+```
+
+
+---
+
+## VOSviewer for Patents
+
+<br>
+
+```{r}
+knitr::include_graphics("figures/patents/14.jpg")
+```
+
