@@ -1,0 +1,102 @@
+---
+title: Title of the paper
+author:
+  - name: Alice Anonymous
+    email: alice@example.com
+    affiliation: ENSGSI
+    correspondingauthor: true
+    footnote: 1
+address:
+  - code: ENSGSI
+    address: Universite de Lorraine, ENSGSI,  8 Rue Bastien-Lepage, 54000 Nancy,  France
+
+footnote:
+  - code: 1
+    text: "This is the first author footnote."
+  - code: 2
+    text: "Another author footnote."
+abstract: |
+  This is the abstract of Max 300 Words.
+
+  [Take as inspiration the Nature](http://www.cbs.umn.edu/sites/default/files/public/downloads/Annotated_Nature_abstract.pdf)
+  
+keywords: 
+  - keyword1
+  - keyword2
+  - keyword2
+journal: "An awesome journal"
+date: "`r Sys.Date()`"
+classoption: preprint, 3p, authoryear
+bibliography: mybibfile.bib
+linenumbers: false
+numbersections: true
+link-citations: yes
+linkcolor: blue
+# Use a CSL with `citation_package = "default"`
+# csl: https://www.zotero.org/styles/elsevier-harvard
+output: 
+  rticles::elsevier_article:
+    keep_tex: true
+    citation_package: natbib
+---
+
+
+# Introduction [Max 1.5 pages]
+
+- Present the context.
+- Presentation of the problematic.
+   - Explain why is it important and relevant.
+   - For whom is important the problem?
+- Clearly the research question that the paper wants to answer
+
+# Methodology of literature review [Max 1 pag.]
+
+- Present the literature protocol 
+   - Selection of the Keywords, search equations, databases
+- Grid lecture of the articles. 
+
+# Results [Max 3 pages]
+
+- Table the articles 
+- Quantitative analysis
+- Qualitative analysis 
+
+## Equations
+
+Here is an equation:
+$$ 
+  f_{X}(x) = \left(\frac{\alpha}{\beta}\right)
+  \left(\frac{x}{\beta}\right)^{\alpha-1}
+  e^{-\left(\frac{x}{\beta}\right)^{\alpha}}; 
+  \alpha,\beta,x > 0 .
+$$
+
+Here is another:
+\begin{align}
+  a^2+b^2=c^2.
+\end{align}
+
+Inline equations: $\sum_{i = 2}^\infty\{\alpha_i^\beta\}$
+
+## Figures and tables
+
+Figure \ref{fig2} is generated using an R chunk.
+
+```{r fig2, fig.width = 5, fig.height = 5, fig.align='center', out.width="50%", fig.cap = "\\label{fig2}A meaningless scatterplot.", echo = FALSE}
+plot(runif(25), runif(25))
+```
+
+
+# Discussion [2-3 pages]
+
+- Analysis of the elements founded
+
+- Clearly define the limits of your approach. 
+
+# Conclusion [1 page]
+- Do we answer the research questions?
+- What do we learn and what need to be further explore
+
+
+# References {-}
+
