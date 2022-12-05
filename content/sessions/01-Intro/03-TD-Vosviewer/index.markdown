@@ -31,7 +31,7 @@ links:
 
 |               |                                                        |
 |:--------------|:-------------------------------------------------------|
-| Time          | 3h in total (Part I and II)                            |
+| Time          | 3h in total (Part I, II and III)                       |
 | Materials     | [Download the Word file](/TD/day-01/01-Vosviewer.docx) |
 | Activity Mode | Put in ARCHE at the end of the day                     |
 
