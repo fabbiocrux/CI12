@@ -25,10 +25,10 @@ links:
 
 <div class="activity-table">
 
-|               |                                                                                                                                                     |
-|:--------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Time          | 15 minutes                                                                                                                                          |
-| Activity Mode | [Answer this little questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSenRqlI99pW-Sll9gJFIVwNG0N-gbxhOYT8dUxX4uD8yRGn2A/viewform?usp=sf_link) |
+|               |                                      |
+|:--------------|:-------------------------------------|
+| Time          | 15 minutes                           |
+| Activity Mode | [Answer this little questionnaire]() |
 
 </div>
 

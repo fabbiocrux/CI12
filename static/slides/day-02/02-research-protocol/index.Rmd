@@ -1,0 +1,116 @@
+---
+title: "What is a Research Protocol?"
+subtitle: "Connecting all the dots in research"  
+email: "cruzsanc1@univ-lorraine.fr"
+author: 
+  - "Fabio A. Cruz"
+  - "Mauricio Camargo"
+date: '`r Sys.Date()`'
+output:
+  xaringan::moon_reader:
+    css: ["../../assets/Fabio.css"]
+    seal: false
+    nature:
+#      slideNumberFormat: "%current%"
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+      navigation:
+        scroll: false # disable slide transitions by scrolling
+always_allow_html: true
+---
+
+
+```{r setup, include=FALSE}
+# Load packages -----
+library(tidyverse)
+library(xaringanExtra)
+library(xaringanthemer)
+library(fontawesome)
+library(here)
+library(vembedr)
+#library(xaringanBuilder)
+
+#source(here("xaringan-themer.R"))
+
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "90%",
+  cache = FALSE,
+  echo = FALSE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE,
+  fig.align='center'
+)
+
+
+# Link for the Figures
+URL = c('https://raw.githubusercontent.com/fabbiocrux/Figures/main/')
+
+
+```
+
+
+
+
+class: title-slide, center, bottom
+
+#  `r rmarkdown::metadata$title`
+##  `r rmarkdown::metadata$subtitle`
+<br>
+
+.pull-left[
+
+```{r, out.width = '80%', fig.align='center'}
+
+```
+]
+
+.pull-right[
+### `r fa("comment", fill = "steelblue")` `r rmarkdown::metadata$author`
+  `r paste0("Nancy ",  format(Sys.time(), '%d %B, %Y'))`
+
+
+```{r, out.width="100%", fig.align='center'}
+#knitr::include_graphics(paste0(URL, 'Logos/UL-ENSGSI-ERPI.svg'))
+``` 
+
+]
+
+---
+
+## Learning objectives of the course
+
+1. Have a mental model to understand research development.
+2.
+
+---
+
+## Outline
+
+1. .bg-yellow[Mental model of the research development]
+2. Nature of Reseach Vs. Approaches of Reseachers
+
+---
+
+## Mental model for the research development?
+
+```{r, out.width='80%'}
+#knitr::include_graphics("figures/Research-conceptualization-00.jpg")
+```
+
+---
+
+## Mental model for the research development?
+
+```{r, out.width='70%'}
+#knitr::include_graphics("figures/Research-conceptualization-01.png")
+```
+
+---
+
+ss
+

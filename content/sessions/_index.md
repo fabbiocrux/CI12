@@ -40,7 +40,7 @@ cascade:
 
       | Act II: | Research protocol & Experimentation |
       |:--------------------------------|:----- |
-      |         | 2.1: How to read a scientifc article and not die trying? |      
+      |         | 2.1: [How to read a scientifc article and not die trying?]((/sessions/02-experimental-protocols/01-introduction/)) |      
       |         | 2.2: What is a research protocol? |
       |         | 2.3: Quantitative vs Qualitative research?  |
       |         | 2.4: TD: Proving you Experimental Protocol!  |      
