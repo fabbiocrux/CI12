@@ -1,0 +1,29 @@
+---
+title: "Untitled"
+output: pdf_document
+date: "`r Sys.Date()`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+
+
+::: {.callout-note}
+## Site Web à tester: https://lf2l.fr/
+
+**Objectif  du site** : Informer les visiteurs sur les projets réalisés, les équipements disponibles et les modalités d’accès au Lorraine Fab Living Lab
+
+
+Scénario d’exemple pour tester :
+
+1.	Choisissez le Français sur le site web
+2.	Aller sur la page du projet « GreenFablab », quelles sont les projets recherche associées à ce projet, pouvez-vous les signaler sur la page ?
+3.	Revenir sur la page d’accueil
+4.	Quelles sont les modalités d’accès au LF2L pour la communauté étudiante ? identifiez la page avec l’information correspondante.
+
+
+:::
