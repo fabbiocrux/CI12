@@ -1,5 +1,5 @@
 ---
-title: "What is Scientific Research?"
+title: "How to read a research paper? - Part I"
 weight: 1
 show_post_date: false
 publishDate: 2021-07-06
@@ -8,7 +8,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: "/slides/day-01/01-Research/index.html"
+  url: "/slides/day-02/01-intro/index.html"
 - icon: theater-masks
   icon_pack: fas
   name: activity
@@ -27,7 +27,7 @@ xaringanExtra::use_clipboard()
 ::: activity-table
 |               |                                           |
 |:--------------|:----------------------------------------- |
-| Time          | 5 minutes                                |
+| Time          | 15 minutes                                |
 | Activity Mode     | [Answer this little questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSenRqlI99pW-Sll9gJFIVwNG0N-gbxhOYT8dUxX4uD8yRGn2A/viewform?usp=sf_link)  |
 :::
 

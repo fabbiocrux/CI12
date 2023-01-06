@@ -1,0 +1,58 @@
+---
+title: "TD2 : Conceputalizing Experimental Protocols"
+weight: 3
+show_post_date: false
+#publishDate: 2022-07-06
+excerpt: ""
+links:
+- icon: images
+  icon_pack: fas
+  name: slides
+  url: "/slides/day-02/03-TD-experimental-protocol/index.html"
+- icon: theater-masks
+  icon_pack: fas
+  name: activity
+  url: "/sessions/01-intro/03-TD-Vosviewer/#activity"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(eval=FALSE)
+
+xaringanExtra::use_clipboard()
+```
+
+```{r embed-xaringan, echo=FALSE, eval=TRUE, include=TRUE}
+xaringanExtra::embed_xaringan(url = rmarkdown::metadata$links[[1]]$url, ratio = "16:9")
+```
+
+
+
+
+## Activity
+
+::: activity-table
+|               |                                           |
+|:--------------|:----------------------------------------- |
+| Time          | 3h in total (Part I, II and III)|
+| Materials     |  [Download the Word file](/TD/day-01/01-Vosviewer.docx) |
+| Activity Mode | Put in ARCHE at the end of the day   |
+:::
+
+
+## Distribution of the Groups
+
+
+
+## Ressources
+
+### Méthode AttrakDiff
+
+Reference scientifique:
+
+- Lallemand, C., Koenig, V., Gronier, G., & Martin, R. (2015). [Création et validation d’une version française du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs.](https://doi.org/10.1016/j.erap.2015.08.002) European Review of Applied Psychology, 65(5), 239-252.
+
+
+
+### Méthode UEQ
+

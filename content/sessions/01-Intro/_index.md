@@ -1,5 +1,5 @@
 ---
-title: "Act I: Goals"
+title: "Act I: Scientific Reseach - An intro"
 # list or single layouts are possible
 layout: single-series # list, list-sidebar, single-series
 weight: 2
@@ -10,7 +10,7 @@ cascade:
   draft: false
   # list or single layouts are possible
   layout: single-series # list, list-sidebar, single-series
-  date: 2021-12-05
+  #date: 2022-12-05
 ---
 
 ## Learning objectives of the session

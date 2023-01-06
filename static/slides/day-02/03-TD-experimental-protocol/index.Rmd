@@ -1,0 +1,97 @@
+---
+title: "TD2: Usability and User eXperience test"
+subtitle: "For Innovation management"  
+email: "cruzsanc1@univ-lorraine.fr"
+author: 
+  - "Fabio A. CRUZ SANCHEZ"
+date: '`r Sys.Date()`'
+output:
+  xaringan::moon_reader:
+    css: ["../../assets/Fabio.css"]
+    seal: false
+    nature:
+#      slideNumberFormat: "%current%"
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+      navigation:
+        scroll: false # disable slide transitions by scrolling
+always_allow_html: true
+---
+
+
+
+```{r setup, include=FALSE}
+# Load packages -----
+library(tidyverse)
+library(xaringanExtra)
+library(xaringanthemer)
+library(fontawesome)
+library(here)
+library(vembedr)
+#library(xaringanBuilder)
+
+#source(here("xaringan-themer.R"))
+
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  cache = FALSE,
+  echo = FALSE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE,
+  fig.align='center',
+  out.width = '75%' 
+)
+
+
+# Link for the Figures
+URL = c('https://raw.githubusercontent.com/fabbiocrux/Figures/main/')
+
+xaringanExtra::use_xaringan_extra(c("share_again"))
+
+```
+
+
+
+class: title-slide, center, bottom
+
+#  `r rmarkdown::metadata$title`
+
+<br>
+
+.pull-left[
+
+```{r, out.width = '80%', fig.align='center'}
+
+```
+]
+
+.pull-right[
+### `r fa("comment", fill = "steelblue")` `r rmarkdown::metadata$author`
+`r rmarkdown::metadata$subtitle` |  `r paste0("Nancy ",  format(Sys.time(), '%d %B, %Y'))`
+
+
+```{r, out.width="100%", fig.align='center'}
+knitr::include_graphics(paste0(URL, 'Logos/UL-ENSGSI-ERPI.svg'))
+``` 
+
+]
+
+
+---
+
+# Outline
+
+1. .bg-yellow[Theoretical Models]
+2. Support for test protocols
+3. In practice
+
+
+
+
+
+
+---

@@ -1,5 +1,5 @@
 ---
-title: "Act II: Goals"
+title: "Act II: Experimental Protocols"
 # list or single layouts are possible
 layout: single-series # list, list-sidebar, single-series
 weight: 2
@@ -10,16 +10,24 @@ cascade:
   draft: false
   # list or single layouts are possible
   layout: single-series # list, list-sidebar, single-series
-  date: 2021-12-05
+  #date: 2023-01-09
 ---
 
 ## Learning objectives of the session
-
+<!--
 + Understand the purpose of research skills for your professional path.
 + Consider the differences between engineering perspective from research perspective
 + Have a first insight on the researd method 
 + Illustration of examples of research outputs
 + Definition of the journey path for the course. 
+-->
+
+
++ Have a first mental models of the research journey.
++ First introduction to the structure of a scientific paper.
++ Establishment of a first research conceptualization.
++ Have the compentence to establish a research protocol and perform it.
+
 
 ## Materials
 
