@@ -131,6 +131,20 @@ knitr::include_graphics("figures/Research-conceptualization-01.png")
 ]
 ---
 
+## AIC reading method
+
+<br>
+For screening read abstract only for detailed synthesis use AIC.
+<br>
+<br>
+
+### .bg-yellow[Abstract → Summary of the paper]
+
+### Introduction → Context of problem and research, gap, summary of what is done
+
+### Conclusions → Summary of results and importance of results given the context.
+
+---
 class: middle
 
 ## The abstract
