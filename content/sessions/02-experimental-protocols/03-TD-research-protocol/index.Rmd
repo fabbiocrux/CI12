@@ -27,8 +27,6 @@ xaringanExtra::embed_xaringan(url = rmarkdown::metadata$links[[1]]$url, ratio = 
 ```
 
 
-
-
 ## Activity
 
 ::: activity-table
@@ -43,6 +41,7 @@ xaringanExtra::embed_xaringan(url = rmarkdown::metadata$links[[1]]$url, ratio = 
 ## Distribution of the Groups
 
 
+
 ## Ressources
 
 ### Méthode AttrakDiff
@@ -51,7 +50,9 @@ Reference scientifique:
 
 - Lallemand, C., Koenig, V., Gronier, G., & Martin, R. (2015). [Création et validation d’une version française du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs.](https://doi.org/10.1016/j.erap.2015.08.002) European Review of Applied Psychology, 65(5), 239-252.
 
+- Site web de Carine Lallemand: https://uxmind.eu/portfolio/version-francaise-de-lattrakdiff/
 
 
 ### Méthode UEQ
 
+- Site web: https://www.ueq-online.org/
