@@ -35,13 +35,12 @@ xaringanExtra::embed_xaringan(url = rmarkdown::metadata$links[[1]]$url, ratio = 
 |               |                                           |
 |:--------------|:----------------------------------------- |
 | Time          | 3h in total (Part I, II and III)|
-| Materials     |  [Download the Word file](/TD/day-01/01-Vosviewer.docx) |
+| Materials     |  [Download the Word file](/TD/day-02/02-Experimental-Protocol-ENSGSI.docx) |
 | Activity Mode | Put in ARCHE at the end of the day   |
 :::
 
 
 ## Distribution of the Groups
-
 
 
 ## Ressources

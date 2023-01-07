@@ -1,6 +1,6 @@
 ---
 title: "What is a Research Protocol?"
-subtitle: "Connecting all the dots in research"  
+subtitle: "Connecting all the dots"  
 email: "cruzsanc1@univ-lorraine.fr"
 author: 
   - "Fabio A. Cruz"
@@ -82,7 +82,7 @@ class: title-slide, center, bottom
 
 ---
 
-## Learning objectives of the course
+## Learning objectives
 
 1. Have a mental model to understand research development.
 2. Clearly identify the concept of research protocol
