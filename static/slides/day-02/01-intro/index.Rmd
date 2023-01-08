@@ -37,7 +37,7 @@ library(vembedr)
 options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(
   fig.width=9, fig.height=3.5, fig.retina=3,
-  out.width = "90%",
+  out.width = "80%",
   cache = FALSE,
   echo = FALSE,
   message = FALSE, 
@@ -82,18 +82,21 @@ class: title-slide, center, bottom
 
 ---
 
-## Learning objectives of the course
 
-1. Have a mental model to understand research development.
-2.
-
----
-
-## Outline
+# Outline
 
 1. .bg-yellow[Mental model of the research development]
 2. Reading an Article - Part I
-3. Nature of Reseach Vs. Approaches of Reseachers
+3. Nature of Research Vs. Approaches of the Researcher
+
+---
+
+## Research process
+
+```{r}
+knitr::include_graphics("figures/Research-process.png")
+```
+
 
 ---
 
@@ -105,6 +108,8 @@ knitr::include_graphics("figures/Research-conceptualization-00.jpg")
 
 ---
 
+exclude: true
+
 ## Mental model for the research development?
 
 ```{r, out.width='70%'}
@@ -113,22 +118,46 @@ knitr::include_graphics("figures/Research-conceptualization-01.png")
 
 ---
 
+class: top, left
+background-image: url("figures/Paper-Alex-01.jpg")
+background-position: 50% 70%
+background-size: 55%
+
+
+## What is a Research Paper?
+
+
+---
+
+class: top, left
+background-image: url("figures/Paper-Alex-02.png")
+background-position: 90% 70%
+background-size: 45%
+
 ## What is a Research Paper?
 
 .pull-left[
 
-- Title
-- Abstract
-- Introduction
+- .bg-yellow[Title]
+- .bg-yellow[Abstract]
+- .bg-yellow[Introduction]
 - Literature review
 - Methodology
 - Results
 - Discussion
-- Conclusion
+- .bg-yellow[Conclusion]
 - References
 
 
+**Méthode AIC**
+
 ]
+
+
+
+
+
+
 ---
 
 ## AIC reading method
