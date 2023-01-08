@@ -51,13 +51,23 @@ xaringanExtra::embed_xaringan(url = rmarkdown::metadata$links[[1]]$url, ratio = 
 options(knitr.kable.NA = '')
 
 grupos <- 
-   read_excel(path = here("ENSGSI/Notas.xlsx")) %>% select(PRENOM, NOM, Cursus,`TD2-Group`) %>% 
+   read_excel(path = here("ENSGSI/Notas.xlsx"), sheet = "Notas") %>% select(PRENOM, NOM, Cursus,`TD2-Group`) %>% 
    filter(Cursus !="DD-3AI-IDEAS") %>% select(-Cursus) %>% 
    arrange (`TD2-Group`)
 
-kableExtra::kbl(grupos) %>% 
+TD2_subject <- read_excel(path = here("ENSGSI/Notas.xlsx"), sheet = "TD2")  
+
+grupos <- grupos %>% left_join(TD2_subject, by="TD2-Group") %>% select(-Methodology)
+
+kableExtra::kbl(grupos) %>%
     kable_styling(full_width = T) %>% 
-    column_spec(1:3, width = c("30em","30em", "30em"))
+    collapse_rows(columns = 4:6, valign = "middle") %>% 
+    column_spec(1:3, width = c("40em","40em", "30em")) %>% 
+   #pack_rows("Methodology AttrakDiff", 1, 15) %>%
+   #pack_rows("Methodology UEQ", 16, 31) %>% 
+   column_spec(3, border_right = T) %>% 
+    row_spec(c(3,6, 9, 12, 15, 18, 21, 24, 27),  extra_css = "border-bottom: 2px solid")
+     
 
 ```
 
