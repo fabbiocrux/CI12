@@ -29,14 +29,6 @@ cascade:
 + Have the compentence to design and dploy a research protocol.
 
 
-## Warminig Activity
-
-::: activity-table
-|               |                                           |
-|:--------------|:----------------------------------------- |
-| Time          | 15 minutes                                |
-| Activity Mode     | [Let get started here](https://app.wooclap.com/UXRBRF?from=event-page)  |
-:::
 
 ## Materials
 

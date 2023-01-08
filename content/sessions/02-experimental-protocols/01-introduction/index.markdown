@@ -25,10 +25,10 @@ links:
 
 <div class="activity-table">
 
-|               |                                      |
-|:--------------|:-------------------------------------|
-| Time          | 15 minutes                           |
-| Activity Mode | [Answer this little questionnaire]() |
+|               |                                                                        |
+|:--------------|:-----------------------------------------------------------------------|
+| Time          | 15 minutes                                                             |
+| Activity Mode | [Let get started here](https://app.wooclap.com/UXRBRF?from=event-page) |
 
 </div>
 

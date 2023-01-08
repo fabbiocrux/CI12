@@ -1,5 +1,5 @@
 ---
-title: "Act I: Scientific Reseach - An intro"
+title: "Act I: Scientific Research - An intro"
 # list or single layouts are possible
 layout: single-series # list, list-sidebar, single-series
 weight: 2
