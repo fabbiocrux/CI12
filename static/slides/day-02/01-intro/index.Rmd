@@ -259,7 +259,7 @@ background-position: 90% 55%
 background-size: 70%
 
 
-## Abstract 
+## Exemple 3  
 
 
 .pull-left-1[
@@ -304,7 +304,7 @@ countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
 ```
 
 
-## Your turn
+## Your turn !
 
 
 .pull-left-1[
