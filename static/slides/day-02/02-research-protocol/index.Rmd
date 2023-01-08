@@ -4,7 +4,7 @@ subtitle: "Connecting all the dots"
 email: "cruzsanc1@univ-lorraine.fr"
 author: 
   - "Fabio A. Cruz"
-  - "Fabio A. Cruz"  
+  - "Giovanny Arbelaez"  
   - "Mauricio Camargo"
 date: '`r Sys.Date()`'
 output:
@@ -175,7 +175,8 @@ background-size: 65%
 - Basic Vs. Applied
 - .bg-yellow[**Exploratory**]
 
-.pull-down.pull-left[
+<br>
+
 a) not much is known about a particular phenomenon; 
 
 b) existing research results are unclear or suffer from serious limitations; 
@@ -184,7 +185,7 @@ c) the topic is highly complex; or
 
 d) there is not enough theory available to guide the development of a theoretical framework
 
-]
+
 .footnote[Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
 ]
 
@@ -202,13 +203,15 @@ background-size: 65%
 - Exploratory
 - .bg-yellow[Descriptive]
 
-.pull-down.pull-left[
+<br>
+
 a) obtain data that describes the topic of interest
 
 b) Understand the characteristics of a group in a given situation
 
 c) Think systematically about aspects in a given situation
-]
+
+
 .footnote[Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
 ]
 
@@ -227,13 +230,13 @@ background-size: 65%
 - Descriptive
 - .bg-yellow[Causal]
 
-.pull-down.pull-left[
+<br>
+
 a) whether or not A causes change to B
 
 b) X causes variable Y. So, when variable X is removed or altered in some way, problem Y is solved
 
 
-]
 .footnote[Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
 ]
 
@@ -266,18 +269,26 @@ California, 246 pp., 2003.
 
 ---
 
+## Limits of the Research design
+
+```{r, out.width='75%'}
+knitr::include_graphics("figures/QQ-limits.png")
+```
+
+
+---
+
 class: middle, left
 background-image: url("figures/Research-onion.png")
 background-position: 100% 5%
 background-size: 60%
 
 
-
 ## The Research Onion
 
 
 .pull-left-1[
-[The main challengue in Research <br> is connect all the dots in this figure to create a coherent path !!!](https://www.aesanetwork.org/research-onion-a-systematic-approach-to-designing-research-methodology/#:~:text=Research%20onion%20is%20one%20such,which%20constitute%20our%20research%20philosophy)
+[The main challengue in Research <br> is connect all the 'coherent' dots in this figure to create a path !!!](https://www.aesanetwork.org/research-onion-a-systematic-approach-to-designing-research-methodology/#:~:text=Research%20onion%20is%20one%20such,which%20constitute%20our%20research%20philosophy)
 ]
 
 .footnote[Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019)]
@@ -334,6 +345,28 @@ knitr::include_graphics("figures/age-du-faire.jpeg")
 ```
 
 ]
+---
+
+## Research design: Action research
+
+.pull-left[
+- Research strategy aimed at effecting planned changes. 
+- A tentative problem solution is implemented, with the knowledge that there may be unintended consequences. 
+- The effects are then evaluated, defined, and diagnosed, and the research continues on an ongoing basis until the problem is fully resolved. 
+
+> Linked to change management, interesting when for modifying a practice in action
+
+]
+
+
+.pull-right[
+```{r, out.width='100%'}
+knitr::include_graphics("figures/Action-research.png")
+```
+
+]
+
+
 ---
 
 ## Research design: Action research
