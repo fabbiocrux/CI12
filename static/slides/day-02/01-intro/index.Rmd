@@ -177,6 +177,42 @@ class: middle
 
 > The minimal viable product of a research.
 
+
+---
+
+class: top, left
+background-image: url("figures/Paper-Ferney-00.jpg")
+background-position: 90% 55%
+background-size: 70%
+
+
+## Exemple 1 
+
+---
+
+class: top, left
+background-image: url("figures/Paper-Ferney-01.jpg")
+background-position: 90% 55%
+background-size: 70%
+
+## Exemple 1 
+
+
+.pull-left-1[
+
+What’s the topic?
+
+What’s the research question?
+
+What is the <br> purpose ?
+
+Implications <br> for future ?
+
+.footnote[
+Source: http://doi.wiley.com/10.1111/caim.12301]
+
+]
+
 ---
 
 class: top, left
@@ -185,8 +221,7 @@ background-position: 90% 55%
 background-size: 70%
 
 
-## Exemple 1 
-
+## Exemple 2 
 
 
 .pull-left-1[
