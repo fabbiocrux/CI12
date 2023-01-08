@@ -301,6 +301,19 @@ class: middle
 
 ]
 
+.pull-right[
+
+```{r, out.width='100%'}
+knitr::include_graphics("figures/Ferney-case-study.png")
+```
+
+.footnote[Osorio, F., Dupont, L., Camargo, M., Sandoval, C. & Peña, J. I. Shaping a Public Innovation Laboratory in Bogota: Learning through Time, Space and Stakeholders. Journal of Innovation Economics & Management 31, 69–100 (2020).
+]
+
+]
+
+
+
 ---
 
 ## Research design: Ethnography 
@@ -315,15 +328,35 @@ class: middle
 > e.g. Ethnography of virtual communities, understanding why people behave a certain way
 ]
 
+.pull-right-1[
+```{r, out.width='90%'}
+knitr::include_graphics("figures/age-du-faire.jpeg")
+```
+
+]
 ---
 
 ## Research design: Action research
 
+.pull-left[
 - Research strategy aimed at effecting planned changes. 
 - A tentative problem solution is implemented, with the knowledge that there may be unintended consequences. 
 - The effects are then evaluated, defined, and diagnosed, and the research continues on an ongoing basis until the problem is fully resolved. 
 
-> Linked to change management, interesting when for modifying a practice in action (teachers)
+> Linked to change management, interesting when for modifying a practice in action
+
+]
+
+.pull-right[
+```{r, out.width='100%'}
+knitr::include_graphics("figures/Paper-Maxence.png")
+```
+
+.footnote[Arnould, M., Morel, L. & Fournier, M. Embedding non-industrial private forest owners in forest policy and bioeconomy issues using a Living Lab concept. Forest Policy and Economics 139, 102716 (2022).
+]
+]
+
+
 
 
 ---
@@ -348,7 +381,54 @@ knitr::include_graphics("figures/Action-research-02.png")
 
 ## Research design: Experiments
 
-- To study causal relationships between variables. A->B
+- To study causal relationships between variables A->B
 
-> e.g: A “reward system”, to establish whether (and to what extent) this change will produce a change in “productivity”. Employees might be assigned to two groups after a certain time we are able to determine whether the productivity of the two groups is different after the treatment. 
+```{r, out.width='80%'}
+knitr::include_graphics(paste0(URL, "Metodologies/Master-recherche/Master-00.png"))
+```
+
+.footnote[Cruz Sanchez, F. A., Boudaoud, H., Muller, L. & Camargo, M. Towards a standard experimental protocol for open source additive manufacturing. Virtual and Physical Prototyping 9, 151–167 (2014).
+]
+
+---
+
+# More details of useful methodologies
+
+```{r, out.width='55%'}
+knitr::include_graphics("figures/Manchester.png")
+```
+
+.pull-left[
+University of Manchester: https://www.methods.manchester.ac.uk/themes/
+]
+
+
+
+
+---
+
+class: title-slide, center, bottom
+
+#  `r rmarkdown::metadata$title`
+
+## Questions?
+<br>
+
+.pull-left[
+
+```{r, out.width = '80%', fig.align='center'}
+
+```
+]
+
+.pull-right[
+### `r fa("comment", fill = "steelblue")` `r rmarkdown::metadata$author`
+`r rmarkdown::metadata$subtitle` |  `r paste0("Nancy ",  format(Sys.time(), '%d %B, %Y'))`
+
+
+```{r, out.width="100%", fig.align='center'}
+#knitr::include_graphics(paste0(URL, 'Logos/UL-ENSGSI-ERPI.svg'))
+``` 
+
+]
 
