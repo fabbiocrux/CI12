@@ -1,6 +1,6 @@
 ---
 title: "How to read and scientific article?"
-subtitle: "And not to die"  
+subtitle: "And trying not to die"  
 email: "cruzsanc1@univ-lorraine.fr"
 author: 
   - "Fabio A. Cruz"
@@ -93,7 +93,7 @@ class: title-slide, center, bottom
 
 ## Research process
 
-```{r}
+```{r, out.width='90%'}
 knitr::include_graphics("figures/Research-process.png")
 ```
 
@@ -153,21 +153,18 @@ background-size: 45%
 
 ]
 
-
-
-
-
-
 ---
 
 ## AIC reading method
 
 <br>
-For screening read abstract only for detailed synthesis use AIC.
+For screening read .bg-yellow[**Title, Journal, keywords and Abstract**] 
+
+For detailed synthesis use **AIC**
 <br>
 <br>
 
-### .bg-yellow[Abstract → Summary of the paper]
+### .bg-green[Abstract → Summary of the paper]
 
 ### Introduction → Context of problem and research, gap, summary of what is done
 
@@ -179,6 +176,36 @@ class: middle
 ## The abstract
 
 > The minimal viable product of a research.
+
+---
+
+class: top, left
+background-image: url("figures/Paper-Sandra.png")
+background-position: 90% 55%
+background-size: 70%
+
+
+## Exemple 1 
+
+
+
+.pull-left-1[
+
+What’s the topic?
+
+What’s the research question?
+
+What is the <br> purpose ?
+
+Implications <br> for future ?
+
+.footnote[
+Source: https://doi.org/10.1016/j.eiar.2022.106911]
+
+]
+
+
+
 
 ---
 class: top, left
@@ -195,8 +222,14 @@ background-size: 70%
 4. Research Gap
 5. Methodology
 
----
 
+.pull-left-1[
+
+What’s the thesis <br>or research
+question? 
+
+
+]
 
 
 ---
