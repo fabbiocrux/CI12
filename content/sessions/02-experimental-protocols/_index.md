@@ -26,8 +26,17 @@ cascade:
 + Have a first mental models of the research journey.
 + First introduction to the structure of a scientific paper.
 + Establishment of a first research conceptualization.
-+ Have the compentence to establish a research protocol and perform it.
++ Have the compentence to design and dploy a research protocol.
 
+
+## Warminig Activity
+
+::: activity-table
+|               |                                           |
+|:--------------|:----------------------------------------- |
+| Time          | 15 minutes                                |
+| Activity Mode     | [Let get started here](https://app.wooclap.com/UXRBRF?from=event-page)  |
+:::
 
 ## Materials
 
