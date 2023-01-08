@@ -30,6 +30,7 @@ library(xaringanthemer)
 library(fontawesome)
 library(here)
 library(vembedr)
+library(countdown)
 #library(xaringanBuilder)
 
 #source(here("xaringan-themer.R"))
@@ -202,6 +203,10 @@ background-size: 70%
 
 What’s the topic?
 
+What's the problem?
+
+Is it important? 
+
 What’s the research question?
 
 What is the <br> purpose ?
@@ -228,11 +233,16 @@ background-size: 70%
 
 What’s the topic?
 
+What's the problem?
+
+Is it important? 
+
 What’s the research question?
 
 What is the <br> purpose ?
 
 Implications <br> for future ?
+
 
 .footnote[
 Source: https://doi.org/10.1016/j.eiar.2022.106911]
@@ -251,21 +261,71 @@ background-size: 70%
 
 ## Abstract 
 
-1. Topic
-2. Hypothesis
-3. Problem
-4. Research Gap
-5. Methodology
-
 
 .pull-left-1[
 
-What’s the thesis <br>or research
-question? 
+What’s the topic?
+
+What's the problem?
+
+Is it important? 
+
+What’s the research question?
+
+What is the <br> purpose ?
+
+Implications <br> for future ?
 
 
 ]
 
+---
+
+## Mental model when reading an abstract 
+
+1. Topic
+1. Problem
+1. Research Gap
+1. Hypothesis
+1. Methodology
+1. Results
+1. Implications for the future
+
+---
+
+class: top, left
+background-image: url("figures/Ratatouille-paper.png")
+background-position: 100% 10%
+background-size: 70%
+
+
+```{r echo=FALSE}
+countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
+```
+
+
+## Your turn
+
+
+.pull-left-1[
+
+What’s the topic?
+
+What's the problem?
+
+Is it important? 
+
+What’s the research question?
+
+What is the <br> purpose ?
+
+Implications <br> for future ?
+
+
+]
+
+.footnote[
+Source: Leone, L. The Ratatouille paradox. An inductive study of creativity in haute cuisine. Technovation (2018) https://doi.org/10.1016/j.technovation.2018.11.003]
 
 ---
 class: title-slide, center, bottom
