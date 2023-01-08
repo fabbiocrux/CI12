@@ -203,13 +203,14 @@ background-size: 70%
 
 What’s the topic?
 
-What's the problem?
-
-Is it important? 
+What's the problem?<br>
+(Is it important? )
 
 What’s the research question?
 
 What is the <br> purpose ?
+
+How you resolved it?
 
 Implications <br> for future ?
 
@@ -233,13 +234,14 @@ background-size: 70%
 
 What’s the topic?
 
-What's the problem?
-
-Is it important? 
+What's the problem?<br>
+(Is it important? )
 
 What’s the research question?
 
 What is the <br> purpose ?
+
+How you resolved it?
 
 Implications <br> for future ?
 
@@ -266,13 +268,14 @@ background-size: 70%
 
 What’s the topic?
 
-What's the problem?
-
-Is it important? 
+What's the problem?<br>
+(Is it important? )
 
 What’s the research question?
 
 What is the <br> purpose ?
+
+How you resolved it?
 
 Implications <br> for future ?
 
@@ -283,13 +286,19 @@ Implications <br> for future ?
 
 ## Mental model when reading an abstract 
 
-1. Topic
-1. Problem
-1. Research Gap
-1. Hypothesis
-1. Methodology
-1. Results
-1. Implications for the future
+1. .blue[Topic] → *the writer provides background factual information.*
+
+1. .blue[Problem] → *The writer presents the gap/problem to treat*
+
+1. .blue[Research Gap] → *the writer states the limits of current knowledge.* 
+
+1. .blue[The purpose] : *the writer presents the general aim and the specific aim of the study.*
+
+1. .blue[Methodology] → *the writer summarises the methodology and provides details.*
+
+1. .blue[Results] → *the writer indicates the achievement of the study.*
+
+1. .blue[Perspectives] → *the writer presents the implications of the study.*
 
 ---
 
