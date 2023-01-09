@@ -71,9 +71,10 @@ class: title-slide, center, bottom
 
 .pull-left[
 
-```{r, out.width = '80%', fig.align='center'}
-
+```{r, out.width='100%'}
+knitr::include_graphics("figures/vos/09.jpg")
 ```
+
 ]
 
 .pull-right[
@@ -86,6 +87,12 @@ knitr::include_graphics(paste0(URL, 'Logos/UL-ENSGSI-ERPI.svg'))
 ``` 
 
 ]
+
+---
+
+```{r, out.width="100%"}
+knitr::include_graphics("figures/vos/09.jpg")
+```
 
 
 ---
