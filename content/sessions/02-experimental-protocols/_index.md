@@ -29,6 +29,26 @@ cascade:
 + Have the compentence to design and dploy a research protocol.
 
 
+## Timming
+
+|Timing|Objective|
+|--|---|
+|9:00 - 9:10 | Introduction to the Day and presentation of the objectives|
+|9:15 - 9:25 | Ice-Break for the protocol  |
+|9:30 - 10:00 | Theoretical part to:<br>1) identify the major components of a research; <br>2) Identify the Nature Vs Approaches of the research in general|
+|9:30 - 10:00 | Presentation of the TD |
+|10:15 - 10:30 | Pause |
+|10:30 - 11:00 | Partie 1 du TD |
+|11:00 - 11:30 | Presentation Qualitative Research |
+|11:30 - 12:00 | Test of the protocol |
+|12:00 - 13:30 | Lunch |
+|13:30 - 15:15 | Recruiting process for the data collection |
+|15:15 - 15:30 | Pause |
+|15:15 - 15:30 | Feedback and presentation des Examples ERPI |
+
+
+
+
 
 ## Materials
 
