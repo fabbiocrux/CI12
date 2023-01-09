@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction to Scientific Research</title>
+    <link>https://ci15.netlify.app/sessions/</link>
+    <description>Recent content on Introduction to Scientific Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Laboratoire ERPI - UL</copyright>
+    <lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ci15.netlify.app/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rules of the game</title>
+      <link>https://ci15.netlify.app/sessions/prework/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ci15.netlify.app/sessions/prework/</guid>
+      <description>window.xaringanExtraClipboard(null, {&#34;button&#34;:&#34;Copy Code&#34;,&#34;success&#34;:&#34;Copied!&#34;,&#34;error&#34;:&#34;Press Ctrl+C to Copy&#34;})  Welcome to the Introduction to Research, Innovation &amp;amp; Development course! We look forward to meeting you.
+In order to have a common understanding about the development of the course, we&amp;rsquo;ll have to consider the following elements:
+ Game rule for each session Planning  Grades     The final grade is composed of two main elements:
+  There is an activity to summit on ARCHE at the end of each session.</description>
+    </item>
+    
+  </channel>
+</rss>

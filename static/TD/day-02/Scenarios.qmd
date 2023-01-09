@@ -96,79 +96,51 @@ Scénario d’exemple pour tester :
 
 
 
+::: {.callout-note}
+## Site Web à tester: Kayak.fr - vol
 
-
-
-
-
-
-
-
-
-
-
-
-
-Kayak.fr - vol
-
-Objectif du site : faciliter la réservation des billets d’avion, voitures, hôtels - vol 
+**Objectif du site**: faciliter la réservation des billets d’avion, voitures, hôtels - vol 
 
 Scénario d’exemple pour tester :
 Vous habitez à Nancy et devez-vous rendre le 25 janvier 2022 pour une réunion avec des clients à Nice la réunion aura lieu vers 15h. Vous devez être de retour à Nancy au plus tard le 28 janvier à 14h.
 
-1-	Pouvez-vous trouver un billet d’avion pour votre itinéraire ?
-a.	Quelle est l’itinéraire le plus satisfaisant pour vous ? 
-b.	Maintenant, vous avez la possibilité de partir depuis Paris CDG, pouvez-vous trouver un itinéraire que vous conviens le plus ?
-c.	Vous êtes en voyage d’affaire vous pouvez réserver votre vol en catégorie « affaires » 
-2-	Pouvez-vous vérifier quelle est l’itinéraire que consomme le moins de CO2 ?
+1.	Pouvez-vous trouver un billet d’avion pour votre itinéraire ?
+   - Quelle est l’itinéraire le plus satisfaisant pour vous ? 
+   - Maintenant, vous avez la possibilité de partir depuis Paris CDG, pouvez-vous trouver un itinéraire que vous conviens le plus ?
+   - Vous êtes en voyage d’affaire vous pouvez réserver votre vol en catégorie « affaires » 
+1.	Pouvez-vous vérifier quelle est l’itinéraire que consomme le moins de CO2 ?
+
+:::
 
 
-Kayak.fr - voiture
-Objectif du site : faciliter la réservation des billets d’avion, voitures, hôtels - vol 
+
+::: {.callout-note}
+## Site Web à tester: Kayak.fr - voiture
+
+**Objectif du site**: faciliter la réservation des billets d’avion, voitures, hôtels - vol 
+
 
 Vous habitez à Nancy et devez-vous rendre le 25 janvier 2022 pour une réunion avec des clients à Nice la réunion aura lieu vers 15h. Vous devez être de retour à Nancy au plus tard le 28 janvier à 14h. En arrivant à Nice vous avez besoin d’une voiture de location pour pouvoir vous rendre jusqu’à Sophia Antipolis.
 
-1-	Pouvez-vous trouver une voiture de location pour votre séjour ?
-2-	Votre entreprise vous suggère de louer des voitures uniquement électriques pouvez-vous trouver une offre correspondante ?
-3-	Parmi les fournisseurs acceptés par votre entreprise vous avez hertz ou avis, pouvez-vous trouver une offre proposée par ces entreprises ?
+1.	Pouvez-vous trouver une voiture de location pour votre séjour ?
+1.	Votre entreprise vous suggère de louer des voitures uniquement électriques pouvez-vous trouver une offre correspondante ?
+1.	Parmi les fournisseurs acceptés par votre entreprise vous avez hertz ou avis, pouvez-vous trouver une offre proposée par ces entreprises ?
+
+:::
 
 
+::: {.callout-note}
 
-ENT- UL-biblio  ent.univ-lorraine.fr 
+## Site Web à tester: ENT- UL-biblio -> ent.univ-lorraine.fr 
 
-Objectif du site : espace numérique de travail de l’Université de Lorraine – accès bibliothèque. 
+**Objectif du site**: espace numérique de travail de l’Université de Lorraine – accès bibliothèque. 
 
 Vous êtes étudiant à L’UL est souhaitez vérifier la disponibilité du livre « Design Émotionnel » de Donald Norman (en Français)
 
-1-	Est-ce livre disponible à la bibliothèque du ENSGSI ?
-2-	Quelles sont les informations de localisation à la bibliothèque ? pouvez-vous enregistrer ou vous transmettre ces informations pour pouvoir les consulter sur place ?
-3-	Consulter les horaires d’ouverture de la bibliothèque pour pouvoir aller chercher le livre
+1.	Est-ce livre disponible à la bibliothèque du ENSGSI ?
+2.	Quelles sont les informations de localisation à la bibliothèque ? pouvez-vous enregistrer ou vous transmettre ces informations pour pouvoir les consulter sur place ?
+3.	Consulter les horaires d’ouverture de la bibliothèque pour pouvoir aller chercher le livre
 
-http://capmat.pythonanywhere.com/en/
-
-Objectif du site : plateforme de mise en relation entre demandeurs de capteurs innovants et des développeurs des capteurs
-
-Scénario d’exemple pour tester :
-1-	En consultant les informations sur le site, pouvez-vous dire a quoi sert la plateforme ?
-2-	Identifiez-vous en utilisant les informations suivantes :
-•	Username : testGA
-•	Mdp : test12345
-3-	Consultez la liste d’experts et identifiez les experts en Chimie
-4-	Pouvez-vous identifier quels sont les projets disponibles sur lesquels vous pouvez potentiellement collaborer ? 
-5-	Consultez le détail d’un de ces projets.
-
-
-http://www.innovationstory.net/en/
-
-Vous êtes un étudiant vous connectant sur la plateforme Innovation Stories, vous souhaitez consulter des « fiches d’innovation » pour vous inspirer
-
-1-	Allez sur le site
-2-	Pouvez-vous identifier qui sont les personnes responsables du site ?
-3-	Allez sur la page permettant de consulter les innovations stories disponibles sur le site 
-4-	Consultez la fiche « Vélib’ Métropole »
-a.	Pouvez-vous dire qui est l’auteur de cette fiche ?
-b.	Pouvez-vous identifier les références utilisez pour la création de la fiche ?
-5-	Revenez sur la page stories 
-6-	Pouvez-vous identifier quelles sont les fiches concernant la thématique environnemental ?
+:::
 
 

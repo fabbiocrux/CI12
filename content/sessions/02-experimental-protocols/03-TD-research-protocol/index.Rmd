@@ -73,9 +73,24 @@ kableExtra::kbl(grupos) %>%
 
 ## Ressources
 
+
+::: activity-step
+You can take a look on the following documents:
+
+- informed consent [[Consentement Eclairé](/TD/day-02/Consentement.pdf)]{.pkg} 
+- The examples of [[Scenario of Use](/TD/day-02/Scenarios.pdf)]{.pkg} 
+- Observation grid [[Grille observation](/TD/day-02/Grille-observation.ppt)]{.pkg} 
+- [Article pour la construction des questionnaires](https://nhess.copernicus.org/articles/9/1307/2009/nhess-9-1307-2009.pdf)
+
+Certainly, you can search for other examples of these document on the web.
+
+:::
+
+
+
 ### Méthode AttrakDiff
 
-Reference scientifique:
+Scientific reference:
 
 - Lallemand, C., Koenig, V., Gronier, G., & Martin, R. (2015). [Création et validation d’une version française du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs.](https://doi.org/10.1016/j.erap.2015.08.002) European Review of Applied Psychology, 65(5), 239-252.
 
@@ -86,4 +101,3 @@ Reference scientifique:
 
 - Site web: https://www.ueq-online.org/
 
-- ss
