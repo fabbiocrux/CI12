@@ -333,6 +333,9 @@ Implications <br> for future ?
 
 ]
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+ .bg-yellow[https://www.youtube.com/watch?v=GgiK-HWKPjw ]
+
 .footnote[
 Source: Leone, L. The Ratatouille paradox. An inductive study of creativity in haute cuisine. Technovation (2018) https://doi.org/10.1016/j.technovation.2018.11.003]
 
