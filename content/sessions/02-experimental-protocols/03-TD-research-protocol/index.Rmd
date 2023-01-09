@@ -1,5 +1,5 @@
 ---
-title: "TD2 : Conceputalizing Experimental Protocols"
+title: "TD2: Conceputalizing Experimental Protocols"
 weight: 3
 show_post_date: false
 #publishDate: 2022-07-06
@@ -8,11 +8,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: "/slides/day-02/03-TD-experimental-protocol/index.html"
-- icon: theater-masks
-  icon_pack: fas
-  name: activity
-  url: "/sessions/01-intro/03-TD-Vosviewer/#activity"
+  url: "/slides/day-02/03-td-experimental-protocol/index.html"
 ---
 
 
@@ -43,8 +39,6 @@ xaringanExtra::embed_xaringan(url = rmarkdown::metadata$links[[1]]$url, ratio = 
 
 
 ## Distribution of the Groups
-
-
 
 ```{r}
 
@@ -80,12 +74,10 @@ You can take a look on the following documents:
 - informed consent [[Consentement Eclairé](/TD/day-02/Consentement.pdf)]{.pkg} 
 - The examples of [[Scenario of Use](/TD/day-02/Scenarios.pdf)]{.pkg} 
 - Observation grid [[Grille observation](/TD/day-02/Grille-observation.ppt)]{.pkg} 
-- [Article pour la construction des questionnaires](https://nhess.copernicus.org/articles/9/1307/2009/nhess-9-1307-2009.pdf)
+- [Article pour la construction des questionnaires](https://nhess.copernicus.org/articles/9/1307/2009/nhess-9-1307-2009.pdf) (In english). Soon in french.
 
 Certainly, you can search for other examples of these document on the web.
-
 :::
-
 
 
 ### Méthode AttrakDiff
