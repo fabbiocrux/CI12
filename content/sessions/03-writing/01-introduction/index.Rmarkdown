@@ -1,0 +1,49 @@
+---
+title: "How to read a research paper? - Part I"
+weight: 1
+show_post_date: false
+publishDate: 2021-07-06
+excerpt: ""
+links:
+- icon: images
+  icon_pack: fas
+  name: slides
+  url: "/slides/day-02/01-intro/index.html"
+- icon: theater-masks
+  icon_pack: fas
+  name: activity
+  url: "/sessions/01-intro/01-introduction/#activity"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(eval=FALSE)
+
+xaringanExtra::use_clipboard()
+```
+
+
+
+## Warminig Activity
+
+::: activity-table
+|               |                                           |
+|:--------------|:----------------------------------------- |
+| Time          | 15 minutes                                |
+| Activity Mode     | [Let get started here](https://app.wooclap.com/UXRBRF?from=event-page)  |
+:::
+
+## Slides
+
+```{r embed-xaringan, echo=FALSE, eval=TRUE, include=TRUE}
+xaringanExtra::embed_xaringan(url = rmarkdown::metadata$links[[1]]$url, ratio = "16:9")
+```
+
+
+
+---
+
+## References
+
+- Sekaran, Bougie. 2016. Research Methods For Business: A Skill Building Approach. Wiley & sons.
+- Sørensen, Flemming, Jan Mattsson, and Jon Sundbo. 2010. Experimental Methods in Innovation Research. Research Policy 39 (3): 313–22. 
+
