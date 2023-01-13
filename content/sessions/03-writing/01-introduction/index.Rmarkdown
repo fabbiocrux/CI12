@@ -1,5 +1,5 @@
 ---
-title: "How to read a research paper? - Part I"
+title: "How to read/write a research paper? - Part II"
 weight: 1
 show_post_date: false
 publishDate: 2021-07-06
@@ -8,11 +8,11 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: "/slides/day-02/01-intro/index.html"
+  url: "/slides/day-03/01-introduction/index.html"
 - icon: theater-masks
   icon_pack: fas
   name: activity
-  url: "/sessions/01-intro/01-introduction/#activity"
+  url: "/sessions/03-writing/01-introduction/#warminig-activity"
 ---
 
 ```{r setup, include=FALSE}
@@ -29,7 +29,7 @@ xaringanExtra::use_clipboard()
 |               |                                           |
 |:--------------|:----------------------------------------- |
 | Time          | 15 minutes                                |
-| Activity Mode     | [Let get started here](https://app.wooclap.com/UXRBRF?from=event-page)  |
+| Activity Mode     | [Let get started here]()  |
 :::
 
 ## Slides

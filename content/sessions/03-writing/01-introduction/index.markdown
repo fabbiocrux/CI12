@@ -1,5 +1,5 @@
 ---
-title: "How to read a research paper? - Part I"
+title: "How to read/write a research paper? - Part II"
 weight: 1
 show_post_date: false
 publishDate: 2021-07-06
@@ -8,11 +8,11 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: "/slides/day-02/01-intro/index.html"
+  url: "/slides/day-03/01-introduction/index.html"
 - icon: theater-masks
   icon_pack: fas
   name: activity
-  url: "/sessions/01-intro/01-introduction/#activity"
+  url: "/sessions/03-writing/01-introduction/#warminig-activity"
 ---
 
 <script src="{{< blogdown/postref >}}index_files/clipboard/clipboard.min.js"></script>
@@ -25,17 +25,17 @@ links:
 
 <div class="activity-table">
 
-|               |                                                                        |
-|:--------------|:-----------------------------------------------------------------------|
-| Time          | 15 minutes                                                             |
-| Activity Mode | [Let get started here](https://app.wooclap.com/UXRBRF?from=event-page) |
+|               |                          |
+|:--------------|:-------------------------|
+| Time          | 15 minutes               |
+| Activity Mode | [Let get started here]() |
 
 </div>
 
 ## Slides
 
 <div class="shareagain" style="min-width:300px;margin:1em auto;" data-exeternal="1">
-<iframe src="/slides/day-02/01-intro/index.html" width="1600" height="900" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe>
+<iframe src="/slides/day-03/01-introduction/index.html" width="1600" height="900" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe>
 <script>fitvids('.shareagain', {players: 'iframe'});</script>
 </div>
 
