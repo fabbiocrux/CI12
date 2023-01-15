@@ -1,5 +1,5 @@
 ---
-title: "Act II: Writing with arguments"
+title: "Act III: Writing with arguments"
 # list or single layouts are possible
 layout: single-series # list, list-sidebar, single-series
 weight: 3
@@ -15,9 +15,9 @@ cascade:
 
 ## Learning objectives
 
-+  Control the precise placement and size of content on the slide
-+  Structuration of a first scientific document with the main components.
-+  Use of references managers for a correct citations and bibliography management
++  Understand the structuration of a scientific document with the main components.
++  Use of references managers for a correct citations and bibliography management.
++  Ethical implication in writing
 
 
 
@@ -29,9 +29,10 @@ cascade:
 |9:15 - 9:25 | Ice-Break for the protocol  |
 |9:30 - 11:00 | Partie III du TD2: Data collection for the protocol |
 |12:00 - 13:30 | Lunch |
-|13:30 - 15:15 | Data Analysis: Qualitative |
+|13:30 - 14:30 | Data Analysis - Part I: Qualitative |
+|14:30 - 15:15 | Structuration of a scientific article  |
 |15:15 - 15:30 | Pause |
-|16:00 - 16:30 | Data Analysis: Quantitative |
+|16:00 - 16:30 | TD 3 - Writing your first article |
 
 
 ## Materials

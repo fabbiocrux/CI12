@@ -9,7 +9,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: "/slides/day-03/03-integrity/index.html"
+  url: "/slides/day-03/02-integrity/index.html"
 
 ---
 
@@ -22,6 +22,6 @@ links:
 ## Slides
 
 <div class="shareagain" style="min-width:300px;margin:1em auto;" data-exeternal="1">
-<iframe src="/slides/day-03/03-integrity/index.html" width="1600" height="900" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe>
+<iframe src="/slides/day-03/02-integrity/index.html" width="1600" height="900" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe>
 <script>fitvids('.shareagain', {players: 'iframe'});</script>
 </div>
