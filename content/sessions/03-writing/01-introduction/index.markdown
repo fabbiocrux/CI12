@@ -1,5 +1,6 @@
 ---
 title: "How to read/write a research paper? - Part II"
+subtitle: "Conceptualizing your Paper?"
 weight: 1
 show_post_date: false
 publishDate: 2021-07-06
@@ -8,7 +9,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: "/slides/day-03/01-introduction/index.html"
+  url: "/slides/day-03/01-intro/index.html"
 - icon: theater-masks
   icon_pack: fas
   name: activity
@@ -35,7 +36,7 @@ links:
 ## Slides
 
 <div class="shareagain" style="min-width:300px;margin:1em auto;" data-exeternal="1">
-<iframe src="/slides/day-03/01-introduction/index.html" width="1600" height="900" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe>
+<iframe src="/slides/day-03/01-intro/index.html" width="1600" height="900" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe>
 <script>fitvids('.shareagain', {players: 'iframe'});</script>
 </div>
 
