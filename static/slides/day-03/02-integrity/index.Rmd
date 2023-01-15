@@ -1,6 +1,6 @@
 ---
 title: "Academic Integrity"
-subtitle: "Searching for arguments"  
+subtitle: "in the searching for arguments"
 email: "cruzsanc1@univ-lorraine.fr"
 author: 
   - "Fabio A. Cruz"
@@ -84,8 +84,9 @@ class: title-slide, center, bottom
 
 ---
 
+class: middle
 
-## What do you understand by *'Academic Integrity'*?
+# What do you understand by *'Academic Integrity'*?
 
 ```{r, out.width='90%'}
 #knitr::include_graphics("figures/Research-process.png")
@@ -121,7 +122,7 @@ Both **purposely misrepresenting the work of others** and **plagiarism** are con
 ---
 
 ## Common Forms of  Plagiarism : Sources not cited
-### Sources not cited
+### Sources .bg-yellow[not cited]
 
 
 --
@@ -144,24 +145,21 @@ Both **purposely misrepresenting the work of others** and **plagiarism** are con
 ---
 
 ## Common Forms of  Plagiarism : Sources not cited
-### Sources not cited
+### Sources .bg-yellow[not cited]
 
 
 - .bg-grey.black["The Labor of Laziness"]: Although the writer has retained the essential content of the source, S/he has altered the paper’s appearance slightly by changing key words and phrases..
 
-
-
 --
 
-
-- "The Self‐Stealer"
+- .bg-grey.black["The Self‐Stealer"]
 The writer “borrows” generously from his or her previous work, violating policies concerning the expectation of originality adopted by most academic institutions.
 
 ---
 
 
 ## Common Forms of  Plagiarism 
-### Sources **are** cited
+### Sources .bg-green[**are** cited]
 
 - .bg-grey.black[**The Forgotten Footnote**]: The writer mentions an author’s name for a source, but neglects to include specific information on the location of the material referenced.
 --
@@ -172,13 +170,10 @@ The writer “borrows” generously from his or her previous work, violating pol
 --
 
 - .bg-grey.black[**The Too‐Perfect Paraphrase**]: The writer properly cites a source, but neglects to put in quotation marks text that has been copied word‐for‐word, or close to it. 
+
 --
 
 - .bg-grey.black[**The Resourceful Citer**]: The writer properly cites all sources, paraphrasing and using quotations appropriately. The catch? The paper contains almost no original work! 
-
---
-
--  .bg-grey.black[**The Perfect Crime**]: Well, we all know it doesn’t exist. In this case, the writer properly quotes and cites sources in some places, but goes on to paraphrase other arguments from those sources without citation. This way, the writer tries to pass off the paraphrased material as his or her own analysis of the cited material.
 
 
 ---
@@ -200,3 +195,48 @@ Source:
 https://www.nature.com/articles/d41586-022-04397-7
 
 
+---
+
+class: middle
+
+# Research reference managers (Mendeley, Zotero)
+
+---
+
+## Research reference managers (Mendeley, Zotero)
+
+- allows you to organize, collaborate, discover, and to cite as you write 
+
+```{r,  out.width='60%'}
+knitr::include_graphics("figures/References-00.png")
+```
+
+---
+
+## Research reference managers (Mendeley, Zotero)
+
+- allows you to organize, collaborate, discover, and to cite as you write 
+
+<br>
+
+```{r, out.width='80%'}
+knitr::include_graphics("figures/References-01.png")
+```
+
+
+https://www.zotero.org/
+
+
+---
+
+## [Optional] Zotero + ...
+
+<br>
+
+- Zotero with Notion: .tiny[https://medium.com/@anna-everett/a-technical-guide-to-setting-up-notero-zotero-notion-plugin-d467d675039b]
+
+
+- Zotero with Obsidian: .tiny[https://medium.com/@alexandraphelan/an-academic-workflow-zotero-obsidian-56bf918d51ab]
+
+
+- Zotero with ResearchRabbit: .tiny[https://twitter.com/mushtaqbilalphd/status/1577907501248430082?lang=en]
