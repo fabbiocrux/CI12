@@ -34,7 +34,7 @@ xaringanExtra::use_clipboard()
 |:--------------|:----------------------------------------- |
 | Time          | 3h in total |
 | Materials     |  💾 [Download the Word Template](/TD/day-03/Template_article.doc) |
-| Activity Mode | Put in ARCHE a first version  |
+| ARCHE | Put the final data in ARCHE and a first version of the Paper  |
 :::
 
 

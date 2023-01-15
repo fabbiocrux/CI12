@@ -126,9 +126,39 @@ background-size: 45%
 
 ---
 
-## General Reading Grid
+## Let's talk about
+
+```{r, out.width='80%'}
+knitr::include_graphics("figures/ChatGPT-00.webp")
+```
 
 
+---
+
+## ChatGPT on the Scientific arena
+
+```{r, out.width='80%'}
+knitr::include_graphics("figures/ChatGPT-wos.png")
+```
+
+Nothing ! 😬
+---
+
+## ChatGPT on the Scientific arena
+
+```{r, out.width='75%'}
+knitr::include_graphics("figures/ChatGPT-scopus.png")
+```
+
+Only 3! 😬
+
+---
+
+## ChatGPT on the Scientific arena
+
+```{r, out.width='80%'}
+knitr::include_graphics("figures/ChatGPT-gscholar.png")
+```
 
 ---
 
@@ -145,9 +175,6 @@ class: middle
 
 https://arxiv.org/abs/2212.05856
 
-```{r, out.width='80%'}
-knitr::include_graphics("figures/ChatGPT-00.webp")
-```
 
 ]
 
@@ -284,22 +311,39 @@ class: middle
 
 <br>
 
-### [1min] Screening → Title, Journal, keywords
+### [1min] .bg-grey[Screening] → Title, Journal, keywords
 
-### [5min] Profiling → Screening + Abstract
+### [5min] .bg-yellow[Profiling] → .bg-grey[Screening] + Abstract
 
-### [20min] Focusing → Profiling + Introduction + Conclusions
+### [20min] .bg-orange.white[Focusing] → .bg-yellow[Profiling] + Introduction + Conclusions
 
-### [1hr] In deep → All paper
+### [1hr] .bg-green[In deep] → .bg-orange.white[Focusing] + All other sections
 
-### [2-3 hr] For research → In deep + Reading Grid + References
+### [2-3 hr] For research → .bg-green[In deep] + Reading Grid + References
+
+
+---
+
+# Outline
+
+1. Understanding the Paper structure
+2. .bg-yellow[Structuring your paper]
 
 
 ---
 
 ## The scientific history
 
---
+```{r, out.width='90%'}
+knitr::include_graphics("figures/montagnes2022-1.jpg")
+```
+
+.footnote[Source: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022).]
+
+
+---
+
+## The scientific history
 
 ```{r, out.width='90%'}
 knitr::include_graphics("figures/montagnes2022.jpg")
@@ -309,9 +353,37 @@ knitr::include_graphics("figures/montagnes2022.jpg")
 
 
 
+---
+
+
+class: top, left
+background-image: url("figures/Structuration-abstract.png")
+background-position: 100% 50%
+background-size: 30%
+
+
+## Abstract
+
+Example of Nature:
+
+<br>
+```{r, out.width='45%', fig.align='left'}
+knitr::include_graphics("figures/Abstract-nature.png")
+```
+
 
 ---
-### Introduction
+
+class: top, left
+background-image: url("figures/Structuration-introduction.png")
+background-position: 100% 50%
+background-size: 30%
+
+
+
+## Introduction
+
+.pull-left-2[
 
 
 - 1er Paragraphe: établir le contexte, introduire le sujet. Il doit établir l’importance du sujet de recherche 
@@ -326,30 +398,115 @@ knitr::include_graphics("figures/montagnes2022.jpg")
 
 - Enfin : Décrire la structure de l’article 
 
+]
+
 ---
 
-## Abstract
 
-.pull-left-1[
+class: top, left
+background-image: url("figures/Structuration-methodology.png")
+background-position: 100% 50%
+background-size: 30%
 
+
+
+## Methodology
+
+.pull-left-2[
+
+```{r, out.width='90%', fig.align='left'}
+knitr::include_graphics("figures/Structuration-methodology-1.png")
+```
 ]
-.pull-right-2[
-```{r, out.width='80%'}
-knitr::include_graphics("figures/Abstract-nature.jpeg")
+
+---
+
+
+class: top, left
+background-image: url("figures/Structuration-results.png")
+background-position: 100% 50%
+background-size: 30%
+
+
+
+## Results
+
+.pull-left-2[
+
+```{r, out.width='90%', fig.align='left'}
+knitr::include_graphics("figures/Structuration-results-1.png")
+```
+]
+
+
+---
+
+
+class: top, left
+background-image: url("figures/Structuration-discussion.png")
+background-position: 100% 50%
+background-size: 30%
+
+
+
+## Discussion & Conclusions
+
+.pull-left-2[
+
+```{r, out.width='90%', fig.align='left'}
+knitr::include_graphics("figures/Structuration-discussion-1.png")
+```
+]
+
+
+---
+
+
+## The scientific history
+
+```{r, out.width='90%'}
+knitr::include_graphics("figures/montagnes2022.jpg")
 ```
 
-]
-
-
-
----
-
-## [Optionnal] Zotero + Obsidian
-
+.footnote[Source: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022).]
 
 
 ---
+
 
 ## Some web ressources for writing
 
 - [Essay and dissertation writing skills](https://www.ox.ac.uk/students/academic/guidance/skills/essay)
+
+- [Guide pratique](http://www.cms.fss.ulaval.ca/recherche/upload/jefar/fichiers/devenir_chercheure_nov_2017_web.pdf)
+
+- [Rédiger un article scientifique par David Lindsay, Pascal Poindron](https://www-cairn-info.bases-doc.univ-lorraine.fr/guide-de-redaction-scientifique--9782759210220-page-25.htm)
+
+
+---
+
+
+class: title-slide, center, bottom
+
+#  `r rmarkdown::metadata$title`
+
+## Questions?
+<br>
+
+.pull-left[
+
+```{r, out.width = '80%', fig.align='center'}
+
+```
+]
+
+.pull-right[
+### `r fa("comment", fill = "steelblue")` `r rmarkdown::metadata$author`
+`r rmarkdown::metadata$subtitle` |  `r paste0("Nancy ",  format(Sys.time(), '%d %B, %Y'))`
+
+
+```{r, out.width="100%", fig.align='center'}
+#knitr::include_graphics(paste0(URL, 'Logos/UL-ENSGSI-ERPI.svg'))
+``` 
+
+]

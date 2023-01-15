@@ -1,6 +1,6 @@
 ---
-title: "What is a Academic Integrity?"
-subtitle: "In the times of ChatGPT"
+title: "What is Academic Integrity?"
+subtitle: "Referencing in the times of ChatGPT"
 weight: 1
 show_post_date: false
 publishDate: 2021-07-06
