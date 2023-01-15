@@ -219,7 +219,7 @@ https://arxiv.org/abs/2212.05856
 
 
 ```{r echo=FALSE}
-countdown(minutes = 15, font_size = "5em", color_background="#AED6F1", left='0px')
+countdown(minutes = 20, font_size = "5em", color_background="#AED6F1", left='0px')
 ```
 
 ]
@@ -235,7 +235,7 @@ knitr::include_graphics("figures/ChatGPT-01.png")
 ---
 
 class: top, left
-background-image: url("figures/ChatGPT-02.png")
+background-image: url("figures/ChatGPT-02")
 background-position: 100% 50%
 background-size: 70%
 
@@ -263,9 +263,10 @@ Implications <br> for future ?
 ---
 
 class: top, left
-background-image: url("figures/ChatGPT-03.png")
+background-image: url("figures/ChatGPT-03")
 background-position: 100% 50%
 background-size: 70%
+
 
 ### Introduction
 
@@ -286,16 +287,16 @@ Presenting methods
 ---
 
 class: top, left
-background-image: url("figures/ChatGPT-05.png")
+background-image: url("figures/ChatGPT-05")
 background-position: 100% 50%
 background-size: 70%
+
 
 ### Conclusions
 
 .pull-left-1[
 
 Recall the Purpose
-
 
 Summarise Results
 
