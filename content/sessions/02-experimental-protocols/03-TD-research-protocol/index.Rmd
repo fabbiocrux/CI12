@@ -38,6 +38,18 @@ xaringanExtra::embed_xaringan(url = rmarkdown::metadata$links[[1]]$url, ratio = 
 :::
 
 
+::: activity-step
+## Questions à ajouter dans votre protocole
+
+- Selon votre expérience et votre ressenti, qu'est ce qui a impacté votre expérience de l'ajout d'idée?
+
+- Dans le cadre de l'exploration des idées saisies, qu'est ce qui a impacté votre expérience?
+
+- Quelles sont les ressentis concernant le système de navigation ? Quelles sont les éléments factuels qui ont impacté la navigation ? 
+::: 
+
+
+
 ## Distribution of the Groups
 
 ```{r}
@@ -65,8 +77,10 @@ kableExtra::kbl(grupos) %>%
 
 ```
 
-## Ressources
 
+ 
+
+## Ressources
 
 ::: activity-step
 You can take a look on the following documents:
