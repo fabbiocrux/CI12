@@ -1,6 +1,6 @@
 ---
 title: "Academic Integrity"
-subtitle: "in the searching for arguments"
+subtitle: "In the search of arguments form others"
 email: "cruzsanc1@univ-lorraine.fr"
 author: 
   - "Fabio A. Cruz"
@@ -240,3 +240,11 @@ https://www.zotero.org/
 
 
 - Zotero with ResearchRabbit: .tiny[https://twitter.com/mushtaqbilalphd/status/1577907501248430082?lang=en]
+  - Research rabbit to discover 'pertinent' scientific papers: 
+    + .tiny[https://www.youtube.com/watch?v=wHBql2JncyU]
+    + .tiny[https://www.youtube.com/watch?v=6vVcqwdpfK0]
+  
+  
+  
+  
+  
