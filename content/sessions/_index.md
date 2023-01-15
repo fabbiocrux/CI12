@@ -48,7 +48,7 @@ cascade:
       
       | Act III: | [Data Analysis & Writing](/sessions/03-writing/) |
       |:--------------------------------|:----- |
-      |   | 3.1: Analyzing your data |
+      |   | 3.1: Analyzing your data - Part I |
       |   | 3.2: [How to conceptualize the Paper?](/sessions/03-writing/01-introduction/)  |            
       |   | 3.3: [Making arguments with support and Ethics](/sessions/03-writing/02-integrity/)  |
       |   | 3.4: TD: Writing you article |
@@ -57,6 +57,7 @@ cascade:
       | Act IV: | Conceptualization & Writing articles |
       |:--------------------------------|:----- |
       |   | 4.1: Open Science as future |
+      |   | 4.2: Analyzing your data - Part II |      
       |   | 4.2: TD:  Did you say Reproducible research? |            
       
     show_sidebar_adunit: true # show ad container
