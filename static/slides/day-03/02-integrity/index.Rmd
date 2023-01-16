@@ -238,10 +238,12 @@ https://www.zotero.org/
 - Zotero with Obsidian: .tiny[https://medium.com/@alexandraphelan/an-academic-workflow-zotero-obsidian-56bf918d51ab]
 
 
-- Zotero with ResearchRabbit: .tiny[https://twitter.com/mushtaqbilalphd/status/1577907501248430082?lang=en]
+- Zotero with ResearchRabbit: 
   - Research rabbit to discover 'pertinent' scientific papers: 
-    + .tiny[https://www.youtube.com/watch?v=wHBql2JncyU]
-    + .tiny[https://www.youtube.com/watch?v=6vVcqwdpfK0]
+  
+     - https://twitter.com/mushtaqbilalphd/status/1577907501248430082?lang=en
+     - https://www.youtube.com/watch?v=wHBql2JncyU
+     - https://www.youtube.com/watch?v=6vVcqwdpfK0 
   
   
   
