@@ -31,14 +31,14 @@ cascade:
       ## Overview of the course
       The specific dates and topics will putted in [rules of the game section](prework/)
     
-      | Act I:  | [Introduction to the module](/sessions/01-intro/) |
+      | Act I:  | [Introduction to the module](/sessions/01-intro/index.html) |
       |:-------------|:------------- |
-      |         | 1.1: [What is scientific research?](/sessions/01-intro/01-introduction/) |
+      |         | 1.1: [What is scientific research?](sessions/01-intro/01-introduction/) |
       |         | 1.2: [Literature review: on the shoulders of giants](/sessions/01-intro/02-literature-review/)   |
       |         | 1.3: [TD1 - Landscape of research via Vosviewer](/sessions/01-intro/03-TD-Vosviewer/)   |      
       ---
 
-      | Act II: | [Research protocol & Experimentation](/sessions/01-experimental-protocols/) |
+      | Act II: | [Research protocol & Experimentation](/sessions/02-experimental-protocols/) |
       |:--------------------------------|:----- |
       |         | 2.1: [How to read a scientifc article and not die trying?](/sessions/02-experimental-protocols/01-introduction/) |      
       |         | 2.2: [What is a research protocol?](/sessions/02-experimental-protocols/02-research-protocol/) |
@@ -50,7 +50,7 @@ cascade:
       |:--------------------------------|:----- |
       |   | 3.1: Analyzing your data - Part I |
       |   | 3.2: [How to conceptualize the Paper?](/sessions/03-writing/01-introduction/)  |            
-      |   | 3.3: [Making arguments with support and Ethics](/sessions/02-writing/02-integrity/)  |
+      |   | 3.3: [Making arguments with support and Ethics](/sessions/03-writing/02-integrity/)  |
       |   | 3.4: [TD: Start writing your article](/sessions/03-writing/03-td-writing/) |
       ---
 
