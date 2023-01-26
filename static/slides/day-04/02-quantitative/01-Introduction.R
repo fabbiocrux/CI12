@@ -11,18 +11,13 @@
 
 # 1. Introduction ------
 
-## 1.1 R en tant q'une calculatrice -----
+## 1.1 R en tant que calculatrice -----
 
 1 + 2
 5 - 2
 2 * 3
 3 * 2
 2 / 2
-
-## 1.2 Considering the Parenthesis
-
-3 + 5 * 2
-(3 + 5) * 2
 
 
 ## Assignation et Type de variables
@@ -41,7 +36,7 @@ nom <- "Sess"
 
 message <- paste(prenom, nom)   
 
-### Tabeau
+### Tableau
 salary <- c(20, 30, 40, 50, -10 )
 name <- c("Ram", "Rani", "Ali", "Preeti", "John")
 age <- c(34, 54, 23, 65, 2 )

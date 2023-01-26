@@ -65,8 +65,8 @@ class: title-slide, center, bottom
 
 .pull-left[
 
-```{r, out.width = '80%', fig.align='center'}
-
+```{r, out.width = '70%', fig.align='center'}
+knitr::include_graphics("figures/Thumb.jpg")
 ```
 ]
 
@@ -105,51 +105,59 @@ class: middle
 
 ---
 
+layout: true
 
 ## Engineering vs. Research Activity?
 
-.pull-left.bg-grey.center[
+---
 
-**Engineering activity**
+```{r, out.width="68%"}
+knitr::include_graphics("Figures/Research-01.jpg")
+``` 
 
-Problem definition
-
-Is there a method to use?
-
-.bg-orange.large[Yes / No]
+---
 
 
-I use it
+```{r, out.width="68%"}
+knitr::include_graphics("Figures/Research-02.jpg")
+``` 
 
-I assess the results
+---
 
-I stated the limits
 
-]
+```{r, out.width="68%"}
+knitr::include_graphics("Figures/Research-03.jpg")
+``` 
 
---
+---
 
-.pull-right.bg-green.center[**Research activity**
-
-There is no method
-
-Research questions
-
-Has this problem been solved elsewhere? (**literature review**)
-
-I **propose** a new method
-
-I improve the method
-
-I identify further work (**perspectives**)
-]
-
-### Knowledge generation
+```{r, out.width="68%"}
+knitr::include_graphics("Figures/Research-04.jpg")
+``` 
 
 
 ---
 
-## What is research ?
+```{r, out.width="68%"}
+knitr::include_graphics("Figures/Research-05.jpg")
+``` 
+
+---
+
+```{r, out.width="68%"}
+knitr::include_graphics("Figures/Research-06.jpg")
+``` 
+
+---
+
+```{r, out.width="68%"}
+knitr::include_graphics("Figures/Research-07.jpg")
+``` 
+
+---
+layout: false
+
+## What is Scientific research ?
 
 
 >“The process of finding solutions to a problem after a thorough study and analysis of the situational factors.” (Sekaran and Bougie 2016)
