@@ -83,9 +83,39 @@ knitr::include_graphics(paste0(URL, 'Logos/UL-ENSGSI-ERPI.svg'))
 
 ---
 
-## Learning objectives of the course
+## Objectifs du module
 
-1. Have a first overview of the scientific research field.
+
+- Connaissances : enseignement supérieur et recherche 
+
+- Savoir-faire : rechercher des documents scientifiques pertinents 
+- Savoir-faire : développer une analyse critique des travaux de recherche 
+
+- Savoir-faire : écrire une synthèse bibliographique 
+- Savoir-faire : proposer un projet de recherche sur la base des manques de la - bibliographie 
+
+- Compétence : être capable de rechercher des documents scientifiques, d’évaluer leur pertinence, de proposer un sujet de recherche et de présenter un résultat de recherche 
+
+---
+
+# Evaluation du module -  Dossier
+
+<br>
+1) Rendu TD pour chaque séance sur ARCHE. 
+
+<br>
+
+2) Etat de l'art bibliographique préparatoire à un travail de recherche à de votre sujet de stage (10 pages).
+
+- Titre
+- Sommaire paginé
+- Résumé en anglais 
+- Résumé en français
+- Synthèse (8 pages)
+- Définition d’un projet de recherche (1 page) 
+- Liste des références 
+
+
 
 
 ---
@@ -101,7 +131,7 @@ knitr::include_graphics(paste0(URL, 'Logos/UL-ENSGSI-ERPI.svg'))
 
 class: middle
 
-# What the difference between Engineering activity and Research (*in engineering*) Activity?
+# What are the difference between <br> Engineering and Research (*in engineering*) ?
 
 ---
 
@@ -155,6 +185,12 @@ knitr::include_graphics("Figures/Research-07.jpg")
 ``` 
 
 ---
+
+```{r, out.width="68%"}
+knitr::include_graphics("Figures/Research-08.jpg")
+``` 
+
+---
 layout: false
 
 ## What is Scientific research ?
@@ -171,6 +207,22 @@ Based on two research elements:
 
 ---
 
+.pull-left[
+```{r, out.width="80%", fig.align='center'}
+knitr::include_graphics('figures/Albert-Einstein.jpeg')
+``` 
+Albert Einstein
+]
+
+.pull-right[
+```{r, out.width="70%", fig.align='center'}
+knitr::include_graphics('figures/Charle-Darwin.jpeg')
+``` 
+Charles Darwin
+]
+
+---
+
 ## Inductive vs Deductive Research ?
 
 ```{r, out.width="70%", fig.align='center'}
@@ -179,23 +231,247 @@ knitr::include_graphics(paste0(URL, 'Research/Inductive-deductive.png'))
 
 ---
 
-## Inductive vs Deductive Research ?
 
 ```{r, out.width="100%", fig.align='center'}
 knitr::include_graphics("figures/Inductive-deductive.png")
 ``` 
 
 
-
 .pull-left[
-**Deductive**
+## .blue[La déduction]
+
+la méthode par laquelle on va de la cause aux effets, du principe aux conséquences, du général au particulier.
 ]
 .pull-right[
-**Inductive**
+## .blue[L'induction]
+
+La règle découle de l'observation répétée de faits réels, contingents.
+]
+
+
+---
+
+## Mental model for the research development?
+
+```{r, out.width='70%'}
+knitr::include_graphics("figures/Research-conceptualization-01.png")
+```
+
+
+---
+
+## Mental model for the research development?
+
+```{r, out.width='80%'}
+knitr::include_graphics("figures/Research-conceptualization-00.jpg")
+```
+
+---
+
+class: middle
+
+# Everything start with a good research question !
+
+---
+
+class: top, left
+background-image: url("figures/Research-questions.png")
+background-position: 100% 50%
+background-size: 65%
+
+## Everything start with a good research question
+
+
+.pull-left-1[
+
+- Descriptive:
+
+‘What’, ‘When’, ‘Where’, ‘Who’ or ‘How’ 
+
+.tiny[(e.g. ‘What percentage of coachees <br> report that coaching helped them <br> with a problem they experienced?]
+
+
+- Explanatory ('Why'?)
+
+.tiny[(e.g. ‘Why did 65% of coachees report that coaching helped them with a problem they experienced?’)]
+
+
+]
+
+.footnote[
+Source: Rojon, C. & Saunders, M. N. K. [Formulating a convincing rationale for a research study](https://doi.org/10.1080/17521882.2011.648335). Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012).
 ]
 
 ---
 
+## Everything start with a good research question
+
+### Descriptive + Explanatory 
+
+Being able to provide meaningful explanations requires answers to ‘why’ (i.e. explanatory) questions in addition to ‘what’ (i.e. descriptive) questions.
+
+
+.small.blue[
+- ‘How effective is the coaching process at helping coachees to solve a problem they experience and what are the reasons for this?’ 
+
+- ‘To what extent is the coaching process effective at helping coachees solve a problem and why?
+]
+---
+
+class: middle
+
+# What kind of type of research can we do?
+
+---
+
+class: top, left
+background-image: url("figures/Nature-research-00.png")
+background-position: 100% 50%
+background-size: 65%
+
+
+## Nature of the Research
+
+.pull-left-1[
+- .bg-yellow[**Basic Vs. Applied**]
+]
+
+
+.footnote[Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
+]
+---
+
+class: top, left
+background-position: 100% 50%
+background-size: 65%
+
+
+## Nature of the Research
+
+
+- Basic Vs. Applied
+- .bg-yellow[**Exploratory**]
+
+<br>
+
+a) not much is known about a particular phenomenon; 
+
+b) existing research results are unclear or suffer from serious limitations; 
+
+c) the topic is highly complex; or 
+
+d) there is not enough theory available to guide the development of a theoretical framework
+
+
+.footnote[Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
+]
+
+---
+
+class: top, left
+background-position: 100% 50%
+background-size: 65%
+
+
+## Nature of the Research
+
+
+- Basic Vs. Applied
+- Exploratory
+- .bg-yellow[Descriptive]
+
+<br>
+
+a) obtain data that describes the topic of interest
+
+b) Understand the characteristics of a group in a given situation
+
+c) Think systematically about aspects in a given situation
+
+
+.footnote[Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
+]
+
+---
+
+class: top, left
+background-position: 100% 50%
+background-size: 65%
+
+
+## Nature of the Research
+
+
+- Basic Vs. Applied
+- Exploratory
+- Descriptive
+- .bg-yellow[Causal]
+
+<br>
+
+a) whether or not A causes change to B
+
+b) X causes variable Y. So, when variable X is removed or altered in some way, problem Y is solved
+
+
+.footnote[Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
+]
+
+---
+
+class: top, left
+background-image: url("figures/Research-design.png")
+background-position: 50% 10%
+background-size: 90%
+
+
+.footnote[Source: Sreejesh, S., Mohapatra, S., & Anusree, M. R. (2013). Business Research Design: Exploratory, Descriptive and Causal Designs. Business Research Methods]
+
+---
+
+class: middle, left
+background-image: url("figures/QQM.png")
+background-position: 90% 50%
+background-size: 63%
+
+
+## Approaches of the <br> Research design
+
+.pull-left-1[
+Creswell, J. W.: Research Design: Qualitative, Quantitative and
+Mixed Methods Approaches, 2nd edition, Sage Publications, Inc,
+California, 246 pp., 2003.
+
+]
+
+---
+
+## Limits of the Research design
+
+```{r, out.width='75%'}
+knitr::include_graphics("figures/QQ-limits.png")
+```
+
+
+---
+
+class: middle, left
+background-image: url("figures/Research-onion.png")
+background-position: 100% 5%
+background-size: 60%
+
+
+## The Research Onion
+
+
+.pull-left-1[
+[The main challengue in Research <br> is connect all the 'coherent' dots in this figure to create a path !!!](https://www.aesanetwork.org/research-onion-a-systematic-approach-to-designing-research-methodology/#:~:text=Research%20onion%20is%20one%20such,which%20constitute%20our%20research%20philosophy)
+]
+
+.footnote[Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019)]
+
+
+---
 exclude: true
 
 ## Example of Inductive research
@@ -217,47 +493,23 @@ Deductive reasoning moves from the more general to the more specific
 
 ---
 
-## Research and the manager
 
-The research project:
-- Budget and time constraints (like every project, but…)
-- .bg-orange.white[High degree of uncertainty]
+class: middle
 
-You know where you start but don’t where you will end!
 
-- like on innovation ? 
+# La recherche et les “managers”
 
-- But no direct commercialization --> knowledge or IP Transfer
-
-- "Failures" are also a good outcome
-   - New knowledge in the quest for answers
-
+## Pourquoi devrais-je me renseigner sur le processus de recherche ?
 
 ---
 
-## Whwy should I learn about the research process? 
+## Why should I learn about the research process? 
 
 - To work as a researcher (PhD., R&D Department)
 
 - As an .bg-green[Innovation Manager] you are going to face problems that your R&D department or and external researcher (open-innovation) can help you to solve. 
 
-  - Help to make evidence-based decisions 
-
-
----
-
-## Type of research (on industrial engineering)
-
-
-1. .bg-blue.white[Basic Research (a.k.a. fundamental – pure)]
-  - Mechanics (e.g. statics, kinematics, dynamics)
-  - Mathematics (e.g. calculus, statistics)
-
-
-2. .bg-blue.white[Applied research (technology)]
-  - to improve a system performance
-  - to improve the user performance when using the system (e.g. Improve usability)
-
+  - Help to make evidence-based decisions: e.g. Public politics
 
 ---
 
@@ -300,6 +552,8 @@ knitr::include_graphics("figures/ERPI-Articles.png")
 
 ## Scientific approach and alternatives
 
+.pull-left[
+
 The hallmarks of the scientific method
 - Purposiveness
 - Rigor
@@ -309,6 +563,16 @@ The hallmarks of the scientific method
 - Objectivity
 - Generalizability
 - Parsimony
+
+
+]
+
+.pull-right[
+```{r, out.width="90%", fig.align='center'}
+knitr::include_graphics("figures/microscope.jpg")
+``` 
+
+]
 
 ---
 
