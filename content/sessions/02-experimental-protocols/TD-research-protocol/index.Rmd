@@ -52,7 +52,7 @@ xaringanExtra::embed_xaringan(url = rmarkdown::metadata$links[[1]]$url, ratio = 
 
 ## Distribution of the Groups
 
-```{r}
+```{r, include=FALSE, eval=FALSE}
 
 options(knitr.kable.NA = '')
 
