@@ -53,12 +53,12 @@ links:
 You can take a look on the following documents:
 
 - 📚 [Book reference *“Méthodes de design UX : 30 méthodes fondamentales pour concevoir des expériences optimales”*](https://univ-scholarvox-com.bases-doc.univ-lorraine.fr/reader/docid/88863440/page/560)
-  - Fiche 24: Echelles UX
+  - **Fiche 24: Echelles UX**
     - Attrakdiff page 546
     - Methode UEQ Page 549
-- Informed consent <span class="pkg">[Consentement Eclairé](/TD/day-02/Consentement.pdf)</span>
-- The examples of <span class="pkg">[Scenario of Use](/TD/day-02/Scenarios.pdf)</span>
-- Observation grid <span class="pkg">[Grille observation](/TD/day-02/Grille-observation.ppt)</span>
+- <span class="pkg">[Example Consentement Eclairé](/TD/day-02/Consentement.pdf)</span>
+- <span class="pkg">[Examples of Scenario of Use](/TD/day-02/Scenarios.pdf)</span>
+- <span class="pkg">[Example of Observation Grid](/TD/day-02/Grille-observation.ppt)</span>
 - Questionnaire Design:
   - [Example in the Earth Science - In english-](https://nhess.copernicus.org/articles/9/1307/2009/nhess-9-1307-2009.pdf)  
   - [Questionnaire exploratoire - En Français](https://univ-scholarvox-com.bases-doc.univ-lorraine.fr/reader/docid/88863440/page/196)
