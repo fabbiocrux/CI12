@@ -120,10 +120,7 @@ strong {
   font-weight: bold;
   color: var(--text-bold-color);
 }
-a, a > code {
-  color: var(--link-color);
-  text-decoration: none;
-}
+
 .footnote {
   position: absolute;
   bottom: 0px;
@@ -457,4 +454,11 @@ table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
 }
 .theorem p {
   padding: 15px 15px 15px 15px;
+}
+
+a, a > code {
+  color: var(--link-color);
+  text-decoration-color: #EA215A;
+  text-decoration-thickness: .125em;
+  text-underline-offset: 1.5px;
 }

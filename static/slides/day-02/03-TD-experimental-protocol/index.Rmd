@@ -91,7 +91,7 @@ knitr::include_graphics(paste0(URL, 'Logos/UL-ENSGSI-ERPI.svg'))
 
 ---
 
-## literature review: User testing
+## **U**ser E**X**perience
 
 + How is the UX of the web site perceived ?
 + what are the key factors for improvement ?
@@ -103,7 +103,7 @@ knitr::include_graphics("figures/UX.png")
 
 ---
 
-## Littérature review – Modèle théorique UX
+## UX theory
 
 Confrontation of Perspectives:
 
@@ -117,7 +117,7 @@ knitr::include_graphics("figures/UX-01.png")
 
 ---
 
-## User testing – Tools - UX scale
+## UX Tools & Scales
 
 - Standardized measures (reliability)
 - Single assessment, before/after, benchmark
@@ -128,8 +128,12 @@ knitr::include_graphics("figures/UX-02.png")
 ```
 
 ---
+class: middle
 
-## User testing – UX scale --> .bg-yellow[ Attrakdiff ]
+# AttrakDiff
+
+---
+## Attrakdiff scale
 
 - 28 items  
 
@@ -142,7 +146,7 @@ knitr::include_graphics("figures/Attrakdiff-00.png")
 
 ---
 
-## User testing – UX scale --> .bg-yellow[ Attrakdiff ]
+## Attrakdiff scale
 
 Résultats attendus:
 <br>
@@ -153,17 +157,28 @@ knitr::include_graphics("figures/Attrakdiff-01.png")
 
 ---
 
-## User testing – UX scale --> .bg-yellow[ Méthode  UEQ ]
+class: middle
 
+# User Experience Questionnaire - UEQ
+
+---
+## Méthode  UEQ
+
+
+.pull-left-1[
 - 26 items
-
-```{r, out.width='80%'}
+[Handbook of UEQ](https://www.ueq-online.org/Material/Handbook.pdf)
+]
+.pull-right-2[
+```{r, out.width='100%'}
 knitr::include_graphics("figures/UEQ-00.png")
 ```
 
+]
+
 ---
 
-## User testing – UX scale --> .bg-yellow[ Méthode  UEQ ]
+## Méthode  UEQ
 
 ```{r, out.width='70%'}
 knitr::include_graphics("figures/UEQ-01.png")
@@ -171,7 +186,7 @@ knitr::include_graphics("figures/UEQ-01.png")
 
 ---
 
-## User testing – UX scale --> .bg-yellow[ Méthode  UEQ ]
+## Méthode  UEQ
 
 ```{r, out.width='70%'}
 knitr::include_graphics("figures/UEQ-02.png")
@@ -179,7 +194,9 @@ knitr::include_graphics("figures/UEQ-02.png")
 
 ---
 
-## User testing – Qualitative and Quantitative data
+## User testing in one Tweet 
+
+Qualitative Vs. Quantitative data
 
 ```{r, out.width='40%'}
 knitr::include_graphics("figures/Quantitative-Qualitative.png")
