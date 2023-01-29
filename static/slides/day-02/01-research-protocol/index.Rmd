@@ -3,9 +3,10 @@ title: "What is a Research Protocol?"
 subtitle: "Connecting all the dots"  
 email: "cruzsanc1@univ-lorraine.fr"
 author: 
-  - "Fabio A. Cruz"
-  - "Giovanny Arbelaez"  
+  - "Ferney Osorio"
+  - "Alex Gabriel"    
   - "Mauricio Camargo"
+  - "Fabio Cruz"  
 date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
@@ -52,7 +53,7 @@ knitr::opts_chunk$set(
 
 # Link for the Figures
 URL = c('https://raw.githubusercontent.com/fabbiocrux/Figures/main/')
-figs <- here("slides", "figures/")
+figs <- here("static", "slides", "figures/")
 
 xaringanExtra::use_xaringan_extra(c("share_again"))
 
@@ -70,8 +71,8 @@ class: title-slide, center, bottom
 
 .pull-left[
 
-```{r, out.width = '80%', fig.align='center'}
-
+```{r, out.width = '50%', fig.align='center'}
+include_graphics(path = "../thumb.jpeg")
 ```
 ]
 
@@ -81,7 +82,7 @@ class: title-slide, center, bottom
 
 
 ```{r, out.width="100%", fig.align='center'}
-#knitr::include_graphics(paste0(URL, 'Logos/UL-ENSGSI-ERPI.svg'))
+knitr::include_graphics(paste0(URL, 'Logos/UL-ENSGSI-ERPI.svg'))
 ``` 
 
 ]
@@ -358,18 +359,18 @@ class: title-slide, center, bottom
 
 .pull-left[
 
-```{r, out.width = '80%', fig.align='center'}
-
+```{r, out.width = '50%', fig.align='center'}
+include_graphics(path = "../thumb.jpeg")
 ```
 ]
 
 .pull-right[
 ### `r fa("comment", fill = "steelblue")` `r rmarkdown::metadata$author`
-`r rmarkdown::metadata$subtitle` |  `r paste0("Nancy ",  format(Sys.time(), '%d %B, %Y'))`
+  `r paste0("Nancy ",  format(Sys.time(), '%d %B, %Y'))`
 
 
 ```{r, out.width="100%", fig.align='center'}
-#knitr::include_graphics(paste0(URL, 'Logos/UL-ENSGSI-ERPI.svg'))
+knitr::include_graphics(paste0(URL, 'Logos/UL-ENSGSI-ERPI.svg'))
 ``` 
 
 ]
