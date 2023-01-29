@@ -40,10 +40,10 @@ cascade:
 
       | Act II: | [Research protocol & Experimentation](/sessions/02-experimental-protocols/) |
       |:--------------------------------|:----- |
-      |         | 2.1: [How to read a scientifc article and not die trying?](/sessions/02-experimental-protocols/01-introduction/) |      
-      |         | 2.2: [What is a research protocol?](/sessions/02-experimental-protocols/02-research-protocol/) |
+      |         | 2.1: [What is a research protocol?](/sessions/02-experimental-protocols/research-protocol/) |
+      |         | 2.2: [How to read a scientifc article and not die trying?](/sessions/02-experimental-protocols/reading-abstract/) |      
       |         | 2.3: [Quantitative vs Qualitative research?](/sessions/02-experimental-protocols/)  |
-      |         | 2.4: [TD: Proving you Experimental Protocol!](/sessions/02-experimental-protocols/03-TD-research-protocol/)  |      
+      |         | 2.4: [TD: Proving you Experimental Protocol!](/sessions/02-experimental-protocols/TD-research-protocol/)  |      
       ---
       
       | Act III: | [Data Analysis & Writing](/sessions/03-writing/) |

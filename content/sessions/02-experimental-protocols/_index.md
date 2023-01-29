@@ -24,9 +24,10 @@ cascade:
 
 
 + Have a first mental models of the research journey.
-+ First introduction to the structure of a scientific paper.
-+ Establishment of a first research conceptualization.
 + Have the compentence to design and dploy a research protocol.
++ First introduction to the structure of a scientific paper.
+
+
 
 
 ## Timming
@@ -47,7 +48,7 @@ cascade:
 |16:00 - 16:30 | Feedback and presentation des Examples ERPI |
 
 
-         
+        
 
 ## Materials
 

@@ -1,6 +1,6 @@
 ---
-title: "What is a research protocol?"
-weight: 1
+title: "How to read a research paper? - Part I"
+weight: 2
 show_post_date: false
 publishDate: 2021-07-06
 excerpt: ""
@@ -8,7 +8,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: "/slides/day-02/02-research-protocol/index.html"
+  url: "/slides/day-02/02-abstract/index.html"
 
 ---
 
@@ -20,6 +20,7 @@ xaringanExtra::use_clipboard()
 
 
 
+
 ## Slides
 
 ```{r embed-xaringan, echo=FALSE, eval=TRUE, include=TRUE}
@@ -27,4 +28,11 @@ xaringanExtra::embed_xaringan(url = rmarkdown::metadata$links[[1]]$url, ratio = 
 ```
 
 
+
+---
+
+## References
+
+- Sekaran, Bougie. 2016. Research Methods For Business: A Skill Building Approach. Wiley & sons.
+- Sørensen, Flemming, Jan Mattsson, and Jon Sundbo. 2010. Experimental Methods in Innovation Research. Research Policy 39 (3): 313–22. 
 
