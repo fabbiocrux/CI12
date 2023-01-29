@@ -1,0 +1,146 @@
+---
+title: "Examples de création des Scénarios"
+format:
+  pdf:
+    documentclass: article
+    geometry: [left=2cm,top=1.5cm,right=2cm,bottom=1.5cm]
+    papersize: a4paper
+    fontsize: 11pt
+    linkcolor: blue
+    urlcolor: blue
+    link-citations: yes
+  #   include-in-header: [assets/preamble.tex]
+  #   include-before-body: [assets/titlepage.tex]
+  #   keep-tex: true
+# execute:
+#   echo: false
+#   warning: false    
+#bibliography: [assets/library.bib, assets/OSTRL.bib]
+#csl: assets/sage-vancouver.csl
+#subparagraph: yes
+pdf-engine: lualatex
+---
+
+
+::: {.callout-note}
+## Site Web à tester: https://lf2l.fr/
+
+**Objectif  du site** : Informer les visiteurs sur les projets réalisés, les équipements disponibles et les modalités d’accès au Lorraine Fab Living Lab
+
+
+Scénario d’exemple pour tester :
+
+1.	Choisissez le Français sur le site web
+2.	Aller sur la page du projet « GreenFablab », quelles sont les projets recherche associées à ce projet, pouvez-vous les signaler sur la page ?
+3.	Revenir sur la page d’accueil
+4.	Quelles sont les modalités d’accès au LF2L pour la communauté étudiante ? identifiez la page avec l’information correspondante.
+
+
+:::
+
+
+
+::: {.callout-note}
+## Site Web à tester: https://erpi.univ-lorraine.fr/
+
+**Objectif  du site** : informer les visiteurs sur les projets réalisés, les thèses ou travaux de recherche en cours ou passés et les compétences ou profil des chercheurs du laboratoire.
+
+
+Scénario d’exemple pour tester :
+
+1.	Choisissez le Français sur le site web
+2.	Identifiez parmi les projets du laboratoire le projet CAP-MAT
+3.	Pouvez-vous dire à voix haute les différents partenaires de ce projet ?
+4.	Pouvez-vous dire quels ont été les thèses réalisées (soutenues en 2018)
+5. Trouver sur le site le « profil » de Laure Morel 
+6. À partir du lien dans son profil aller sur sa page « google scholar »
+
+:::
+
+
+
+
+
+::: {.callout-note}
+## Site Web à tester: https://projetailes.com
+
+**Objectif du site** : informer les visiteurs sur le projet Ailes porté par les académies Nancy-Metz et Reims et les universités de la région sur l’accompagnement de l’accès à l’éducation supérieur des Lycéens 
+
+Scénario d’exemple pour tester :
+
+1.	Pouvez-vous identifier quels sont les objectifs de ce projet ?
+2.	Qui sont les partenaires impliqués ?
+3.	Est-ce que vous pouvez nous dire quels sont les actions prévues par le projet pour le volet « mieux informer » ?
+4.	Comment pouvez-vous contacter les responsables du projet ?
+
+:::
+
+
+
+::: {.callout-note}
+## Site Web à tester: https://projetailes.com
+
+**Objectif du site** : informer les visiteurs sur le projet Ailes porté par les académies Nancy-Metz et Reims et les universités de la région sur l’accompagnement de l’accès à l’éducation supérieur des Lycéens 
+
+Scénario d’exemple pour tester :
+
+1.	Pouvez-vous identifier quels sont les objectifs de ce projet ?
+2.	Qui sont les partenaires impliqués ?
+3.	Est-ce que vous pouvez nous dire quels sont les actions prévues par le projet pour le volet « mieux informer » ?
+4.	Comment pouvez-vous contacter les responsables du projet ?
+
+:::
+
+
+
+
+
+
+::: {.callout-note}
+## Site Web à tester: Kayak.fr - vol
+
+**Objectif du site**: faciliter la réservation des billets d’avion, voitures, hôtels - vol 
+
+Scénario d’exemple pour tester :
+Vous habitez à Nancy et devez-vous rendre le 25 janvier 2022 pour une réunion avec des clients à Nice la réunion aura lieu vers 15h. Vous devez être de retour à Nancy au plus tard le 28 janvier à 14h.
+
+1.	Pouvez-vous trouver un billet d’avion pour votre itinéraire ?
+   - Quelle est l’itinéraire le plus satisfaisant pour vous ? 
+   - Maintenant, vous avez la possibilité de partir depuis Paris CDG, pouvez-vous trouver un itinéraire que vous conviens le plus ?
+   - Vous êtes en voyage d’affaire vous pouvez réserver votre vol en catégorie « affaires » 
+1.	Pouvez-vous vérifier quelle est l’itinéraire que consomme le moins de CO2 ?
+
+:::
+
+
+
+::: {.callout-note}
+## Site Web à tester: Kayak.fr - voiture
+
+**Objectif du site**: faciliter la réservation des billets d’avion, voitures, hôtels - vol 
+
+
+Vous habitez à Nancy et devez-vous rendre le 25 janvier 2022 pour une réunion avec des clients à Nice la réunion aura lieu vers 15h. Vous devez être de retour à Nancy au plus tard le 28 janvier à 14h. En arrivant à Nice vous avez besoin d’une voiture de location pour pouvoir vous rendre jusqu’à Sophia Antipolis.
+
+1.	Pouvez-vous trouver une voiture de location pour votre séjour ?
+1.	Votre entreprise vous suggère de louer des voitures uniquement électriques pouvez-vous trouver une offre correspondante ?
+1.	Parmi les fournisseurs acceptés par votre entreprise vous avez hertz ou avis, pouvez-vous trouver une offre proposée par ces entreprises ?
+
+:::
+
+
+::: {.callout-note}
+
+## Site Web à tester: ENT- UL-biblio -> ent.univ-lorraine.fr 
+
+**Objectif du site**: espace numérique de travail de l’Université de Lorraine – accès bibliothèque. 
+
+Vous êtes étudiant à L’UL est souhaitez vérifier la disponibilité du livre « Design Émotionnel » de Donald Norman (en Français)
+
+1.	Est-ce livre disponible à la bibliothèque du ENSGSI ?
+2.	Quelles sont les informations de localisation à la bibliothèque ? pouvez-vous enregistrer ou vous transmettre ces informations pour pouvoir les consulter sur place ?
+3.	Consulter les horaires d’ouverture de la bibliothèque pour pouvoir aller chercher le livre
+
+:::
+
+

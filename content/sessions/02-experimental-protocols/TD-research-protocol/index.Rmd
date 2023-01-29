@@ -89,6 +89,11 @@ kableExtra::kbl(grupos) %>%
 ::: activity-step
 You can take a look on the following documents:
 
+- [Book *"Méthodes de design UX : 30 méthodes fondamentales pour concevoir des expériences optimales"*](https://univ-scholarvox-com.bases-doc.univ-lorraine.fr/reader/docid/88863440/page/562)
+  - Fiche 24: Echelles UX
+    - Attrakdiff page 546
+    - Methode UEQ Page 549
+
 - informed consent [[Consentement Eclairé](/TD/day-02/Consentement.pdf)]{.pkg} 
 - The examples of [[Scenario of Use](/TD/day-02/Scenarios.pdf)]{.pkg} 
 - Observation grid [[Grille observation](/TD/day-02/Grille-observation.ppt)]{.pkg} 
