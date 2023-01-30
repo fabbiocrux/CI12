@@ -44,7 +44,7 @@ cascade:
       |         | 2.2: [TD: Proving you Experimental Protocol!](/sessions/02-experimental-protocols/td-research-protocol/)  |      
       ---
       
-      | Act III: | [Data Analysis & Writing](/sessions/03-writing/) |
+      | Act III: | [Reading articles](/sessions/03-writing/) |
       |:--------------------------------|:----- |
       |         | 3.1: [How to read a scientifc article and not die trying?](/sessions/03-writing/abstract/) |            
       |   | 3.2: [How to conceptualize the Paper?](/sessions/03-writing/article/)  |            
@@ -52,7 +52,7 @@ cascade:
       |   | 3.4: [TD: Start writing your article](/sessions/03-writing/td-writing/) |
       ---
 
-      | Act IV: | Conceptualization & Writing articles |
+      | Act IV: | Data analysis & Writing articles |
       |:--------------------------------|:----- |
       |   | 4.1: Analyzing your data |
       |   | 4.2: Open Science as future |
