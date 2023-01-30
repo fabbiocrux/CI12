@@ -235,12 +235,13 @@ knitr::include_graphics("figures/ChatGPT-01.png")
 ---
 
 class: top, left
-background-image: url("figures/ChatGPT-02.png")
+background-image: url("figures/ChatGPT-02")
 background-position: 100% 50%
 background-size: 70%
 
 
 ### Abstract
+
 
 
 .pull-left-1[
@@ -263,7 +264,7 @@ Implications <br> for future ?
 ---
 
 class: top, left
-background-image: url("figures/ChatGPT-03.png")
+background-image: url("figures/ChatGPT-03")
 background-position: 100% 50%
 background-size: 70%
 
@@ -287,7 +288,7 @@ Presenting methods
 ---
 
 class: top, left
-background-image: url("figures/ChatGPT-05.png")
+background-image: url("figures/ChatGPT-05")
 background-position: 100% 50%
 background-size: 70%
 

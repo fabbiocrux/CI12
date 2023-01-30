@@ -1,5 +1,6 @@
 ---
 title: "How to read a research paper? - Part I"
+subtitle: "The abstract"
 weight: 1
 show_post_date: false
 publishDate: 2021-07-06
@@ -9,7 +10,6 @@ links:
   icon_pack: fas
   name: slides
   url: "/slides/day-03/01-abstract/index.html"
-
 ---
 
 <script src="{{< blogdown/postref >}}index_files/clipboard/clipboard.min.js"></script>
@@ -31,7 +31,7 @@ links:
 
 |           |                                                              |
 |:----------|:-------------------------------------------------------------|
-| Time      | 3h in total                                                  |
+| Time      | Individual (1.5h)                                            |
 | Materials | 💾 [Download the Word Template](/TD/day-03/TD-Articles.docx) |
 | ARCHE     | Put the document at the end of the day                       |
 
