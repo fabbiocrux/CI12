@@ -41,23 +41,21 @@ cascade:
       | Act II: | [Research protocol & Experimentation](/sessions/02-experimental-protocols/) |
       |:--------------------------------|:----- |
       |         | 2.1: [What is a research protocol?](/sessions/02-experimental-protocols/research-protocol/) |
-      |         | 2.2: [How to read a scientifc article and not die trying?](/sessions/02-experimental-protocols/reading-abstract/) |      
-      |         | 2.3: [Quantitative vs Qualitative research?](/sessions/02-experimental-protocols/)  |
-      |         | 2.4: [TD: Proving you Experimental Protocol!](/sessions/02-experimental-protocols/td-research-protocol/)  |      
+      |         | 2.2: [TD: Proving you Experimental Protocol!](/sessions/02-experimental-protocols/td-research-protocol/)  |      
       ---
       
       | Act III: | [Data Analysis & Writing](/sessions/03-writing/) |
       |:--------------------------------|:----- |
-      |   | 3.1: Analyzing your data - Part I |
-      |   | 3.2: [How to conceptualize the Paper?](/sessions/03-writing/01-introduction/)  |            
-      |   | 3.3: [Making arguments with support and Ethics](/sessions/03-writing/02-integrity/)  |
-      |   | 3.4: [TD: Start writing your article](/sessions/03-writing/03-td-writing/) |
+      |         | 3.1: [How to read a scientifc article and not die trying?](/sessions/03-writing/abstract/) |            
+      |   | 3.2: [How to conceptualize the Paper?](/sessions/03-writing/article/)  |            
+      |   | 3.3: [Making arguments with support and Ethics](/sessions/03-writing/integrity/)  |
+      |   | 3.4: [TD: Start writing your article](/sessions/03-writing/td-writing/) |
       ---
 
       | Act IV: | Conceptualization & Writing articles |
       |:--------------------------------|:----- |
-      |   | 4.1: Open Science as future |
-      |   | 4.2: Analyzing your data - Part II |      
+      |   | 4.1: Analyzing your data |
+      |   | 4.2: Open Science as future |
       |   | 4.3: TD:  Did you say reproducible research? |            
       
     show_sidebar_adunit: true # show ad container

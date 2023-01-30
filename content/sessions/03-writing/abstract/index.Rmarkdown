@@ -1,0 +1,42 @@
+---
+title: "How to read a research paper? - Part I"
+weight: 1
+show_post_date: false
+publishDate: 2021-07-06
+excerpt: ""
+links:
+- icon: images
+  icon_pack: fas
+  name: slides
+  url: "/slides/day-03/01-abstract/index.html"
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(eval=FALSE)
+
+xaringanExtra::use_clipboard()
+```
+
+
+
+
+## Slides
+
+```{r embed-xaringan, echo=FALSE, eval=TRUE, include=TRUE}
+xaringanExtra::embed_xaringan(url = rmarkdown::metadata$links[[1]]$url, ratio = "16:9")
+```
+
+
+## Activity
+
+::: activity-table
+|               |                                           |
+|:--------------|:----------------------------------------- |
+| Time          | 3h in total |
+| Materials     |  💾 [Download the Word Template](/TD/day-03/TD-Articles.docx) |
+| ARCHE | Put the document at the end of the day  |
+:::
+
+
+

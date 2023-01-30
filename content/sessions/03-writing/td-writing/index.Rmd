@@ -1,6 +1,6 @@
 ---
 title: "TD3: Start writing your Article"
-weight: 3
+weight: 4
 show_post_date: false
 #publishDate: 2022-07-06
 excerpt: ""
@@ -27,15 +27,6 @@ xaringanExtra::use_clipboard()
 ```
 
 
-## Activity
-
-::: activity-table
-|               |                                           |
-|:--------------|:----------------------------------------- |
-| Time          | 3h in total |
-| Materials     |  💾 [Download the Word Template](/TD/day-03/Template_article.doc) |
-| ARCHE | Put the final data in ARCHE and a first version of the Paper  |
-:::
 
 
 ## TD3: Écriture d'article de recherche
@@ -68,4 +59,12 @@ Quelques précisions sur les sections :
 
 - Identifiez des articles scientifiques en lien avec le test que vous avez réalisé et utilisez-les comme base pour rédiger la partie analyse de résultats ou introduction (n'oubliez pas de citer les articles consultés avec mendeley ou zotero) – vous pouvez utiliser les articles théoriques sur lesquels reposent les questionnaires mis en place (Attrakdiff, UEQ …).
 
+
+
+::: activity-table
+|               |                                           |
+|:--------------|:----------------------------------------- |
+| Docx template     |  💾 [Download the Word Template](/TD/day-03/Template_article.doc) |
+
+:::
 

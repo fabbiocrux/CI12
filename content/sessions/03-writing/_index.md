@@ -26,13 +26,13 @@ cascade:
 |Timing|Objective|
 |--|---|
 |9:00 - 9:10 | Introduction |
-|9:15 - 9:25 | Ice-Break for the protocol  |
-|9:30 - 11:00 | Partie III du TD2: Data collection for the protocol |
+|9:15 - 9:25 | Reading Abstract  |
+|9:30 - 11:00 | TD for Abstract |
 |12:00 - 13:30 | Lunch |
-|13:30 - 14:30 | Data Analysis - Part I: Qualitative |
-|14:30 - 15:15 | Structuration of a scientific article  |
+|13:30 - 14:30 | Structuration of an article |
+|14:30 - 15:15 |  TD on article lecture |
 |15:15 - 15:30 | Pause |
-|16:00 - 16:30 | TD 3 - Writing your first article |
+|16:00 - 17:30 | Start to write your first article |
 
 
 ## Materials

@@ -1,6 +1,6 @@
 ---
 title: "Academic Integrity"
-subtitle: "In the search of arguments form others"
+subtitle: "In the search of arguments from others"
 email: "cruzsanc1@univ-lorraine.fr"
 author: 
   - "Fabio A. Cruz"
