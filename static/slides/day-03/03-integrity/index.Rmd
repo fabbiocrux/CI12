@@ -123,10 +123,9 @@ Both **purposely misrepresenting the work of others** and **plagiarism** are con
 ## Common Forms of  Plagiarism : Sources not cited
 ### Sources .bg-yellow[not cited]
 
-
 --
 
-- 👻 .bg-grey.black["The Ghost Writer"]: The writer copies significant portions of text straight from a single source, without alteration.
+- 👻 .bg-grey.black["The Ghost Writer"]: The writer turns in another’s work, word‐for‐word, as his or her own.
 
 --
 
@@ -140,7 +139,7 @@ Both **purposely misrepresenting the work of others** and **plagiarism** are con
 
 - 🥸 .bg-grey.black["The Poor Disguise"]: Although the writer has retained the essential content of the source, S/he has altered the paper’s appearance slightly by changing key words and phrases.
 
-
+.footnote[Source: Sekaran, Uma, and Roger Bougie. Research methods for business: A skill building approach. john wiley & sons, 2016.]
 ---
 
 ## Common Forms of  Plagiarism : Sources not cited
