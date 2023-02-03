@@ -32,11 +32,18 @@ links:
 
 ### 5. [Attrakdiff](https://fabbiocrux.github.io/RR/module-3/index.html)
 
-### 6. UEQ ( In constructions! 🦾)
+### 6. UEQ ( In construction! 🦾)
 
 
 
 - Data: https://docs.google.com/spreadsheets/d/11f0kvoqPXOfocaKINbbX0S_NtNKPO5M2M1O1NSEyH9U/edit?usp=sharing
 
+## Script
 
-- Rstudio Workshop: https://posit.cloud/content/2139211
+### Attrakdiff: https://posit.cloud/content/5351714
+
+### UEQ: https://posit.cloud/content/5351797
+
+
+
+
