@@ -20,19 +20,19 @@ links:
 
 
 
-## Slides 
+## Slides of Explanation
 
-### 1. [Introduction](https://fabbiocrux.github.io/RR/index.html)
+- 1. [Introduction](https://fabbiocrux.github.io/RR/index.html)
 
-### 2. [Basics to R](https://fabbiocrux.github.io/RR/module-1/index.html)
+- 2. [Basics to R](https://fabbiocrux.github.io/RR/module-1/index.html)
 
-### 3. [Intro to Data Visualization](https://fabbiocrux.github.io/RR/module-2/index.html)
+- 3. [Intro to Data Visualization](https://fabbiocrux.github.io/RR/module-2/index.html)
 
-### 4. [Manipulating data](https://fabbiocrux.github.io/RR/module-3/index.html)
+- 4. [Manipulating data](https://fabbiocrux.github.io/RR/module-3/index.html)
 
-### 5. [Attrakdiff](https://fabbiocrux.github.io/RR/module-3/index.html)
+- 5. [Attrakdiff](https://fabbiocrux.github.io/RR/module-3/index.html)
 
-### 6. UEQ ( In construction! 🦾)
+- 6. UEQ ( In construction! 🦾)
 
 
 
