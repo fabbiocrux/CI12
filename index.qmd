@@ -1,0 +1,14 @@
+---
+title: "List of presentations"
+listing:
+  id: all-presentations 
+  contents: slides
+  type: table
+  fields: [title, author, date, reading-time]
+  page-size: 10
+---
+
+The list of presentations
+
+:::{#all-presentations}
+:::

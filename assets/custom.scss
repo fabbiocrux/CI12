@@ -1,91 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Fira+Sans+Condensed:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-.about-sidebar {
-  height: unset;
-}
-
-.activity-table > table {
-  border: .125rem solid rgb(230,230,230);
-  min-width: 66%;
-  box-sizing: border-box;
-	border-collapse: collapse;
-	border-spacing: 0;
-}
-
-.activity-table > table td:first-child {
-  font-weight: bold;
-  background: rgb(230,230,230);
-}
-
-.activity-table > table td {
-  padding: 0.66rem 1rem;
-}
-
-.activity-table > table > thead {
-  display: none;
-}
-
-.activity-step {
-  @extend .b--dark-green, .pr3, .pv1, .bw1, .ba, .mv3;
-  border-color: #CFE3DC;
-  padding-left: 4rem;
-  position: relative;
-}
-
-.activity-step > :first-child {
-  @extend .dark-green;
-}
-
-.activity-step::before {
-	content: "\f0a4";
-	@extend .dark-green;
-	font-family: 'font awesome 5 free';
-	font-weight: 900;
-	font-size: 1.25rem;
-	position: absolute;
-	top: 1rem;
-	left: 0;
-	width: 4rem;
-	text-align: center;
-}
-
-.activity-step > details {
-  @extend .mb3;
-}
-
-.activity-step ul,
-.activity-step ol {
-  margin-left: -1rem;
-}
-
-kbd {
-  padding: 0.1rem 0.6rem;
-  border-width: 1px;
-  border-style: solid;
-  @extend .b--light-gray;
-  @extend .bg-near-white;
-  @extend .gray;
-  -webkit-box-shadow: 0 1px 0px rgba(0, 0, 0, 0.2), 0 0 0 1px #fff inset;
-  box-shadow: 0 1px 0px 2px rgba(0, 0, 0, 0.2), 0 0 0 1px #fff inset;
-  -webkit-border-radius: 3px;
-  border-radius: 3px;
-  display: inline-block;
-  margin: 0 0.1em;
-  line-height: 1.4;
-  white-space: nowrap;
-  font-size: 1em !important;
-}
-
-.pkg {
-  @extend .dark-green, .bg-black-05, .code, .pv1, .ph1, .br2, .normal;
-}
-
-.checklist ul {
-	list-style: none;
-  padding-left: 1em;
-}
-.checklist ul li {
-  text-indent: 0;
-}
-.checklist ul li .fa {
-  display: inline;
-}
+/*-- scss:defaults --*/
+$white:    #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #ddd !default;
+$gray-400: #ced4da !default;
+$gray-500: #adb5bd !default;
+$gray-600: #868e96 !default;
+$gray-700: #495057 !default;
+$gray-800: #343a40 !default;
+$gray-900: #212529 !default;
+$black:    #000 !default;

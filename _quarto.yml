@@ -1,0 +1,27 @@
+project:
+  type: website
+  #pre-render: R/setup.R
+
+website:
+  title: "mve"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+  sidebar:
+    contents: slides
+
+format:
+  html:
+    theme:
+      - litera
+      - assets/custom.scss
+    toc: true
+    number-sections: true
+    html-math-method: mathjax
+    freeze: true
+
+execute:
+  freeze: auto  # re-render only when source changes
+  cache: true

@@ -1,0 +1,66 @@
+---
+title: "What is Scientific Research?"
+subtitle: "<img src='../assets/img/logos/ENSGSI.png' width='500'>"  
+email: "cruzsanc1@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+author: 
+  - "MdC. Fabio A. CRUZ SANCHEZ"
+  - "Pr. Mauricio Camargo"
+  
+date: 06-Dec-2023
+publishDate: 2021-07-06
+metadata-files:
+  - _metadata.yml
+format:
+  revealjs:
+    footer: 'Introduction'
+---
+
+
+## Objectives of the Module
+
+- Knowledge : enseignement supérieur et recherche 
+
+- Know-how : 
+  - Search on pertinent scientific databases 
+  - Sensibilization of a crical thinking of research
+  - Writing
+
+- Savoir-faire : écrire une synthèse bibliographique 
+- Savoir-faire : proposer un projet de recherche sur la base des manques de la - bibliographie 
+
+- Compétence : être capable de rechercher des documents scientifiques, d’évaluer leur pertinence, de proposer un sujet de recherche et de présenter un résultat de recherche 
+
+
+## Evaluation du module -  Dossier
+
+
+1. Each day, a final output will be putted on **ARCHE**. 
+
+2. Etat de l'art bibliographique préparatoire à un travail de recherche à de votre sujet de stage (10 pages).
+
+    1. **Title**
+    1. Abstract
+    1. Résumé en anglais 
+    1. Résumé en français
+    1. Synthèse (8 pages)
+    1. **References**
+
+
+
+
+# Introduction to the Scientific Research
+
+## What are the difference between <br> Engineering and Research (*in engineering*) ? {.center}
+
+
+![](Figures/Research-01.jpg)
+
+
+
+
+# Scientific approaches
+
+# Research in the context of France
+
+
