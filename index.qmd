@@ -12,3 +12,9 @@ The list of presentations
 
 :::{#all-presentations}
 :::
+
+
+
+```{=html}
+<iframe width="800px" height="533px" style="border:2px solid #dee2e6;" src="slides/01-seance.html"></iframe>
+```
