@@ -13,9 +13,17 @@ $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black:    #000 !default;
 
+$morado: #642C81 !default;
+$orange: #EB811B !default;
+$amarillo: #FFDC00 !default;
 
 
 // headings
 $presentation-heading-font: "Palatino Linotype", "Book Antiqua", Palatino,
   FreeSerif, serif !default;
-$presentation-heading-color: #EB811B !default;
+$presentation-heading-color: $morado;
+
+.caption{
+  text-align: center;
+}
+

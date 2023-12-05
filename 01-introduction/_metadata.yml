@@ -4,12 +4,12 @@ format:
     slide-number: c/t
     controls: true
     transition: none
-    #margin: 0
+    #margin: 10
     width: 1600
     height: 900
     theme: [default, ../assets/custom.scss]
-    #logo: "../../figures/ENSGSI.png"
-    embed-resources: false
+    logo: "../assets/img/logos/ENSGSI.png"
+    #embed-resources: false
     echo: false
     pdf-separate-fragments: true
     #toc: true
@@ -19,11 +19,10 @@ format:
     number-sections: false
     fig-align: center
     code-copy: true        
-    #header-logo: "../../logos/UL.png"
+    header-logo: "../assets/img/logos/UL.png"
     header: '[Presentation](#/TOC)'
     #subtitle-as-header: true
     sc-sb-title: false
-    #footer: 'Test'
     chalkboard: true
 #use reveal-header extension if you need both header and footer on slides. They are declared in the presentation.qmd file
 filters:

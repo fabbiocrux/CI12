@@ -11,38 +11,47 @@ metadata-files:
   - _metadata.yml
 format:
   revealjs:
-    footer: 'Introduction'
+    footer: 'Introduction to Scientific Research'
 ---
 
 
 ## Objectives of the Module
 
-- Knowledge : enseignement supérieur et recherche 
+1. 🧠 **Knowledge** : 
+   - Sensibilization onf the **scientific research  process** and High Superior Education system
 
-- Know-how : 
-  - Search on pertinent scientific databases 
-  - Sensibilization of a crical thinking of research
-  - Writing
+1. 🔨 **Know-how** : 
+   - Search on pertinent scientific databases 
+   - Sensibilization of a crical thinking of research
+   - Identify a pertinent bibliography
 
-- Savoir-faire : écrire une synthèse bibliographique 
-- Savoir-faire : proposer un projet de recherche sur la base des manques de la - bibliographie 
-
-- Compétence : être capable de rechercher des documents scientifiques, d’évaluer leur pertinence, de proposer un sujet de recherche et de présenter un résultat de recherche 
-
-
-## Evaluation du module -  Dossier
+1. ✍**Competence**  : 
+   - Be able to structure a scientific document presening the main components (Context, Problem, Research Question, Methodlogy and Results)
 
 
-1. Each day, a final output will be putted on **ARCHE**. 
+## Evaluation of the Module
 
-2. Etat de l'art bibliographique préparatoire à un travail de recherche à de votre sujet de stage (10 pages).
 
-    1. **Title**
-    1. Abstract
-    1. Résumé en anglais 
-    1. Résumé en français
-    1. Synthèse (8 pages)
-    1. **References**
+:::: {.columns}
+::: {.column width="50%"}
+1. A final output will be putted on **ARCHE**. 
+
+2. Article of **State of the Art about your Internship** (7 pages).
+
+   - **Title**
+   - **Abstract**
+   - **Résumé en anglais**
+   - **Résumé en français**
+   - **Synthèse (7 pages)**
+   - **References**
+
+:::
+::: {.column width="50%"}
+![](figures/01-research.jpg)
+:::
+::::
+
+
 
 
 
@@ -74,17 +83,62 @@ format:
 
 
 
-## What is Scientific research ?
+## What is scientific research ?
 
+
+
+:::: {.columns}
+::: {.column width="50%"}
 
 >“The process of finding solutions to a problem after a thorough study and analysis of the situational factors.” (Sekaran and Bougie 2016)
 
 
 Based on two research elements:
 
-- Observations (information or data)
+- 🔎 Observations (information or data)
 
-- Theory (arguments)
+- 💡 Theory (arguments)
+
+
+:::
+::: {.column width="50%"}
+
+```{mermaid}
+%%| fig-height: 7
+graph TD    
+    1[Observation]
+    2[Hypothesis Formation]
+    3[Experimentation]
+    4[Data Collection]
+    5[Analysis]
+    6[Conclusion Drawing]
+    7[Peer Review]
+    8[Publication]
+    9[Continuous Improvement]
+    10[Application]
+
+    1 --> 2
+    2 --> 3
+    3 --> 4
+    4 --> 5
+    5 --> 6
+    6 --> 7
+    7 --> 8
+    8 --> 9
+    9 --> 10
+    10 --> 1
+ 
+```
+
+:::
+::::
+
+
+
+::: aside
+**Source**: Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
+:::
+
 
 ---
 
@@ -126,11 +180,13 @@ La règle découle de l'observation répétée de faits réels, contingents.
 
 ## Mental model for the research development?
 
-![Research conceptualization](figures/Research-conceptualization-01.png)
+![](figures/Research-conceptualization-01.png){width="1000" fig-align="center"}
 
 
-In more details...
 
+::: aside
+**Source**: Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
+:::
 
 
 # Why bother to study the scientific research?
@@ -141,25 +197,21 @@ In more details...
 ## Pourquoi devrais-je me renseigner sur le processus de recherche ? {.center}
 
 
-## Why should I learn about the research process? 
-
-- To become a pertinent intel
-
-
-
-
 ## Research and the "Managers"
 
-- To work as a researcher (PhD., R&D Department)
+- 🥼 To work as a researcher (PhD., R&D Department)
 
-- As an *Innovation Manager* you are going to face problems that your R&D department or and external researcher (open-innovation) can help you to solve. 
+- 🗣️ To become a pertinent intelocutor at your company
 
-  - Help to make evidence-based decisions: e.g. Public politics
-  - Help in the strategic and future decision
+- ⚖️ Help to make evidence-based decisions: e.g. Public politics
 
+- 🔮 Help in the strategic and future decision-making
+
+As an **Innovation Manager** you are going to face problems that your R&D department or/and external researcher (open-innovation) can help you to solve. 
 
 
 # Everything start with a good research question !
+
 
 
 ## Everything start with a good research question {background-image="figures/Research-questions.png" background-size="50%" background-position="100% 50%" }
@@ -202,21 +254,19 @@ Source: Rojon, C. & Saunders, M. N. K. [Formulating a convincing rationale for a
 :::
 
 
-## Examples of ERPI Research
-
 
 ## What kind of type of research can we do? {.center}
 
-## What kind of type of research can we do? {background-image="figures/Nature-research-00.png" background-size="50%" background-position="100% 50%" }
+## What kind of type of research can we do? {background-image="figures/Nature-research-00.png" background-size="60%" background-position="90% 70%" }
 
 :::: {.columns}
-::: {.column width="50%"}
+::: {.column width="25%"}
 - **Basic Vs. Applied**
 - Exploratory
 - Descriptive
 - Causal
 :::
-::: {.column width="50%"}
+::: {.column width="70%"}
 
 :::
 ::::
@@ -225,36 +275,16 @@ Source: Rojon, C. & Saunders, M. N. K. [Formulating a convincing rationale for a
 ## What kind of type of research can we do? 
 
 :::: {.columns}
-::: {.column width="50%"}
-- Basic Vs. Applied
-- **Exploratory**
-:::
-::: {.column width="50%"}
+::: {.column width="25%"}
 
-- Not much is known about a particular phenomenon; 
-- Existing research results are unclear or suffer from serious limitations; 
-- The topic is highly complex; or 
-- There is not enough theory available to guide the development of a theoretical framework
-
-:::
-::::
-
-
-::: aside
-Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
-:::
-
-
-## What kind of type of research can we do? 
-
-:::: {.columns}
-::: {.column width="50%"}
 - Basic Vs. Applied
 - **Exploratory**
 - Descriptive
 - Causal
+
 :::
-::: {.column width="50%"}
+
+::: {.column width="70%"}
 
 - Not much is known about a particular phenomenon; 
 - Existing research results are unclear or suffer from serious limitations; 
@@ -264,21 +294,24 @@ Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for bu
 :::
 ::::
 
+**e.g: AI and its influence in the future?, Decroissance?**
 
 ::: aside
 Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
 :::
 
+
+
 ## What kind of type of research can we do? 
 
 :::: {.columns}
-::: {.column width="50%"}
+::: {.column width="25%"}
 - Basic Vs. Applied
 - Exploratory
 - **Descriptive**
 - Causal
 :::
-::: {.column width="50%"}
+::: {.column width="70%"}
 
 - Obtain data that describes the topic of interest
 - Understand the characteristics of a group in a given situation
@@ -287,24 +320,24 @@ Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for bu
 :::
 ::::
 
+**e.g: Social Media Usage Patterns, Workplace Satisfaction Surveys, Consumer Behavior Studies, etc...**
+
 
 ::: aside
 Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
 :::
 
 
-
-
 ## What kind of type of research can we do? 
 
 :::: {.columns}
-::: {.column width="50%"}
+::: {.column width="30%"}
 - Basic Vs. Applied
 - Exploratory
 - Descriptive
 - **Causal**
 :::
-::: {.column width="50%"}
+::: {.column width="70%"}
 
 - Whether or not A causes change to B
 - X causes variable Y. So, when variable X is removed or altered in some way, problem Y is solved
@@ -312,6 +345,9 @@ Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for bu
 :::
 ::::
 
+**e.g: Impact of (Educational, Recycling, Motivation, Training ...) Interventions, Efficacy of Medical Treatments,  Causal loops,  etc...**
+
+
 
 ::: aside
 Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
@@ -319,14 +355,18 @@ Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for bu
 
 
 
+## Examples of ERPI Research
+
+![](figures/ERPI-Articles.png)
+
+https://erpi.univ-lorraine.fr/publications/articles/
+
+
 # Research in the context of France
-
-
 
 ## Research Ecosystem in general
 
-
-![Research Ecosystem](figures/pandey2015.png)
+![Research Ecosystem](figures/pandey2015.png){width="600"}
 
 
 ::: aside
@@ -365,10 +405,10 @@ National & EU
 ![High Council for Evaluation of Research and Higher Education - HCERES](figures/HCERES-01.png)
 
 
-[Source: Rapport HCERES](https://www.hceres.fr/sites/default/files/media/downloads/rappScien_VA_web03.pdf)
-
 
 ::: aside
+[Source: Rapport HCERES](https://www.hceres.fr/sites/default/files/media/downloads/rappScien_VA_web03.pdf)
+
 HCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost
 :::
 
@@ -376,8 +416,7 @@ HCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost
 ## Science and technology observatory (OST) 
 
 
-[High Council for Evaluation of Research and Higher Education - HCERES](figures/HCERES-02.png)
-
+![High Council for Evaluation of Research and Higher Education - HCERES](figures/HCERES-02.png)
 
 [Source: Rapport HCERES](https://www.hceres.fr/sites/default/files/media/downloads/rappScien_VA_web03.pdf)
 
@@ -406,3 +445,4 @@ HCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost
 
 
 
+## Thanks

@@ -11,27 +11,30 @@ metadata-files:
   - _metadata.yml
 format:
   revealjs:
-    footer: 'Introduction'
+    footer: 'TD1: Scientific Landscape'
+    subtitle-as-header: true
+    slide-level: 3
 ---
 
 ```{r}
 library(countdown)
 ```
-# Presentation of tools
 
-## The canvas of Step 2
+# Presentation of TD
+
+## The Exercises
 
 ::: columns
 ::: {.column width="30%"}
-![Goal Step 2a : Define the research questions](figures/Step-2a.jpg){fig-align="center"}
+![Step 1: Define the research questions](figures/Step-2a.jpg){fig-align="center"}
 :::
 
 ::: {.column width="30%"}
-![Goal: Define research equation to use in WoS](figures/Step-2b.jpg){fig-align="center"}
+![Step 2: Define research equation to use in WoS](figures/Step-2b.jpg){fig-align="center"}
 :::
 
 ::: {.column width="30%"}
-![Goal Step 2c: Visualize & Analize Scientific and Patent databases](figures/Step-2c.jpg){fig-align="center"}
+![Step 3: Visualize & Analize Scientific and Patent databases](figures/Step-2c.jpg){fig-align="center"}
 :::
 
 :::
@@ -48,7 +51,7 @@ van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program
 :::
 
 
-# Step 1: Research conceptualization
+## Step 1: Research conceptualization
 
 ::: columns
 ::: {.column width="50%"}
@@ -66,7 +69,7 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 :::
 
 
-# Step 2: Patent screening and analysis
+## Step 2: Scientific screening
 
 ::: columns
 ::: {.column width="50%"}
@@ -83,7 +86,7 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 :::
 :::
 
-# Step 3: Comparing the scientific and the Patent domains
+## Step 3: Comparing the scientific and the Patent domains
 
 ::: columns
 ::: {.column width="50%"}
@@ -102,6 +105,8 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 
 # Tutorials
 
+## List of tutorials
+
 1. [Access to WoS database](#access)
 1. [Web of Science Interface](#wos)
 1. [Results on WoS plateform](#wos-results)
@@ -109,7 +114,9 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 1. [Scientific Network visualization](#sci-vos)
 1. [Patent Network visualization](#pat-vos)
 
-##  Access to WoS database {#access}
+
+##  Access to WoS database {#access .center}
+
 ### WoS database → Connect to the UL ENT
 
 Use your UL account to access to the databases
@@ -126,7 +133,7 @@ Use your UL account to access to the databases
 ![Look for the 'Web of Science' database](figures/01-UL-databases/02.png)
 
 
-### Tutorials
+## Tutorials
 
 1. [Access to WoS database](#access)
 1. [Web of Science Interface](#wos)
@@ -136,56 +143,33 @@ Use your UL account to access to the databases
 1. [Patent Network visualization](#pat-vos)
 
 
-## Web of Science Interface {#wos}
+## Web of Science Interface {#wos .center}
+
 ### Simple research mode
-
-
 
 ![](figures/05.jpg)
 
-
 ### Web of Science: Go for a Advance research
 
-
-
 ![](figures/06.jpg)
-
-
-
 
 ### Web of Science: Add you search query
 
 Remember the:  **Topic + Subject + Problem**
 
-
-
 ![](figures/07.jpg)
-
-
-
 
 ### Web of Science: Advance search
 
 But, take a look of the other type of searches 
 
-
 ![](figures/08.jpg)
-
-
-
-
 
 ### Web of Science: put the Search Equation
 
-<br>
-
-
 ![](figures/09.jpg)
 
-
-
-
-### Tutorials
+## Tutorials
 
 1. [Access to WoS database](#access)
 1. [Web of Science Interface](#wos)
@@ -197,62 +181,30 @@ But, take a look of the other type of searches
 
 ## Results on WoS plateform {#wos-results}
 
-
-
 ![](figures/10.jpg)
-
-
-
-
 
 
 ### Analyze the Results
 
-
-
 ![](figures/14.jpg)
-
-
-
 
 ### Analyze the Categories
 
-
-
 ![](figures/15.jpg)
-
-
-
-
 
 ### Analyze the Authors
 
-
-
 ![](figures/16.jpg)
-
-
-
 
 ### Analyze the Funding Agencies
 
-
-
 ![](figures/17.jpg)
-
-
-
 
 ### Analyze the Countries
 
-
-
 ![](figures/18.jpg)
 
-
-
-
-### Tutorials
+## Tutorials
 
 1. [Access to WoS database](#access)
 1. [Web of Science Interface](#wos)
@@ -262,31 +214,19 @@ But, take a look of the other type of searches
 1. [Patent Network visualization](#pat-vos)
 
 
-
-
 ## Web of Science: Export results {#wos-export}
-
-
 
 ![](figures/11.jpg)
 
-
-
-
-
 ### Select Tab Deliminated File
 
-
-
 ![](figures/12.jpg)
-
-
 
 ### Export Full record
 
 ![](figures/13.jpg)
 
-### Tutorials
+## Tutorials
 
 1. [Access to WoS database](#access)
 1. [Web of Science Interface](#wos)
@@ -296,64 +236,46 @@ But, take a look of the other type of searches
 1. [Patent Network visualization](#pat-vos)
 
 
-# Scientific Network visualization {#sci-vos}
-
+## Scientific Network visualization {#sci-vos}
 
 ![](figures/vos/01.jpg)
-
 
 Download Vosviewer at [https://www.vosviewer.com/](https://www.vosviewer.com/)
 
 
-## Small introduction to VosViwer
+### Small introduction to VosViwer
 
 {{< video https://www.youtube.com/embed/9dTWkNRxUtw width="1200" height="500"  >}}
 
-## Add data: from `Bibliographic database file`
+### Add data: from `Bibliographic database file`
 
 ![](figures/vos/02.jpg)
 
-## Add data: from `Bibliographic database file`
+### Add data: from `Bibliographic database file`
 
 ![](figures/vos/03.jpg)
 
-## Add data: Select the `.txt` files from WoS
+### Add data: Select the `.txt` files from WoS
 
 ![](figures/vos/04.jpg)
 
 
-## Add data: Analysing Keyworkds
-
+### Add data: Analysing Keyworkds
 
 ![](figures/vos/05.jpg)
-
-
-
-
 
 ## Add data: Minimum number of Occurrencies for Keyworkds
 
 
 ![](figures/vos/06.jpg)
 
-
-
-
-
-## Add data: Keywords to be plotted
-
-
+### Add data: Keywords to be plotted
 
 ![](figures/vos/07.jpg)
 
-
-
-
-
-## Add data: Verify if Keywords are correct
+### Add data: Verify if Keywords are correct
 
 Attention to the Redundancies
-
 
 ![](figures/vos/08.jpg)
 
@@ -362,48 +284,30 @@ Attention to the Redundancies
 
 ![](figures/vos/09.jpg)
 
-## Overlay Visualitation
-
+### Overlay Visualitation
 
 ![](figures/vos/10.jpg)
 
-
-
-
-## Overlay Visualitation: Selecting the node
+### Overlay Visualitation: Selecting the node
 
 
 ![](figures/vos/09-1.jpg)
 
 
-## Density Visualization
+### Density Visualization
 
 ![](figures/vos/11.jpg)
 
 
-
-
 # Patents Network visualization{#pat-vos}
-
 
 ## Clarivate for Patents
 
-
 ![](figures/patents/01.jpg)
-
-
-
-
 
 ## Clarivate for Patents: use the search equation
 
-
-
 ![](figures/patents/02.jpg)
-
-
-
-
 
 ## Clarivate for Patents: Export the Data
 
@@ -436,7 +340,6 @@ Attention to the Redundancies
 ## VOSviewer for Patents
 
 ![](figures/patents/09.jpg)
-
 
 ## VOSviewer for Patents
 

@@ -200,7 +200,7 @@
     "href": "01-introduction/slides.html#objectives-of-the-module",
     "title": "What is Scientific Research?",
     "section": "Objectives of the Module",
-    "text": "Objectives of the Module\n\nKnowledge : enseignement supérieur et recherche\nKnow-how :\n\nSearch on pertinent scientific databases\nSensibilization of a crical thinking of research\nWriting\n\nSavoir-faire : écrire une synthèse bibliographique\nSavoir-faire : proposer un projet de recherche sur la base des manques de la - bibliographie\nCompétence : être capable de rechercher des documents scientifiques, d’évaluer leur pertinence, de proposer un sujet de recherche et de présenter un résultat de recherche"
+    "text": "Objectives of the Module\n\n🧠 Knowledge :\n\nSensibilization onf the scientific research process and High Superior Education system\n\n🔨 Know-how :\n\nSearch on pertinent scientific databases\nSensibilization of a crical thinking of research\nIdentify a pertinent bibliography\n\n✍Competence :\n\nBe able to structure a scientific document presening the main components (Context, Problem, Research Question, Methodlogy and Results)"
   },
   {
     "objectID": "01-introduction/slides.html#evaluation-du-module---dossier",
@@ -227,8 +227,8 @@
     "objectID": "01-introduction/slides.html#what-is-scientific-research",
     "href": "01-introduction/slides.html#what-is-scientific-research",
     "title": "What is Scientific Research?",
-    "section": "What is Scientific research ?",
-    "text": "What is Scientific research ?\n\n“The process of finding solutions to a problem after a thorough study and analysis of the situational factors.” (Sekaran and Bougie 2016)\n\nBased on two research elements:\n\nObservations (information or data)\nTheory (arguments)"
+    "section": "What is scientific research ?",
+    "text": "What is scientific research ?\n\n\n\n“The process of finding solutions to a problem after a thorough study and analysis of the situational factors.” (Sekaran and Bougie 2016)\n\nBased on two research elements:\n\n🔎 Observations (information or data)\n💡 Theory (arguments)\n\n\n\n\n\n\ngraph TD    \n    1[Observation]\n    2[Hypothesis Formation]\n    3[Experimentation]\n    4[Data Collection]\n    5[Analysis]\n    6[Conclusion Drawing]\n    7[Peer Review]\n    8[Publication]\n    9[Continuous Improvement]\n    10[Application]\n\n    1 --&gt; 2\n    2 --&gt; 3\n    3 --&gt; 4\n    4 --&gt; 5\n    5 --&gt; 6\n    6 --&gt; 7\n    7 --&gt; 8\n    8 --&gt; 9\n    9 --&gt; 10\n    10 --&gt; 1\n \n\n\n\n\n\n\n\n\n\nSource: Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019)."
   },
   {
     "objectID": "01-introduction/slides.html#scientific-approaches",
@@ -249,7 +249,7 @@
     "href": "01-introduction/slides.html#mental-model-for-the-research-development-1",
     "title": "What is Scientific Research?",
     "section": "Mental model for the research development?",
-    "text": "Mental model for the research development?\n\nResearch conceptualizationIn more details…"
+    "text": "Mental model for the research development?\n\n\n\n\n\n\n\nSource: Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019)."
   },
   {
     "objectID": "01-introduction/slides.html#pourquoi-devrais-je-me-renseigner-sur-le-processus-de-recherche",
@@ -263,14 +263,14 @@
     "href": "01-introduction/slides.html#why-should-i-learn-about-the-research-process",
     "title": "What is Scientific Research?",
     "section": "Why should I learn about the research process?",
-    "text": "Why should I learn about the research process?\n\nTo become a pertinent intel"
+    "text": "Why should I learn about the research process?"
   },
   {
     "objectID": "01-introduction/slides.html#research-and-the-managers",
     "href": "01-introduction/slides.html#research-and-the-managers",
     "title": "What is Scientific Research?",
     "section": "Research and the “Managers”",
-    "text": "Research and the “Managers”\n\nTo work as a researcher (PhD., R&D Department)\nAs an Innovation Manager you are going to face problems that your R&D department or and external researcher (open-innovation) can help you to solve.\n\nHelp to make evidence-based decisions: e.g. Public politics\nHelp in the strategic and future decision"
+    "text": "Research and the “Managers”\n\n🥼 To work as a researcher (PhD., R&D Department)\n🗣️ To become a pertinent intelocutor at your company\n⚖️ Help to make evidence-based decisions: e.g. Public politics\n🔮 Help in the strategic and future decision-making\n\nAs an Innovation Manager you are going to face problems that your R&D department or/and external researcher (open-innovation) can help you to solve."
   },
   {
     "objectID": "01-introduction/slides.html#everything-start-with-a-good-research-question-1",
@@ -291,7 +291,7 @@
     "href": "01-introduction/slides.html#examples-of-erpi-research",
     "title": "What is Scientific Research?",
     "section": "Examples of ERPI Research",
-    "text": "Examples of ERPI Research"
+    "text": "Examples of ERPI Research\n\nhttps://erpi.univ-lorraine.fr/publications/articles/"
   },
   {
     "objectID": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do",
@@ -312,21 +312,21 @@
     "href": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-2",
     "title": "What is Scientific Research?",
     "section": "What kind of type of research can we do?",
-    "text": "What kind of type of research can we do?\n\n\n\nBasic Vs. Applied\nExploratory\n\n\n\nNot much is known about a particular phenomenon;\nExisting research results are unclear or suffer from serious limitations;\nThe topic is highly complex; or\nThere is not enough theory available to guide the development of a theoretical framework\n\n\n\n\n\nSource: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019)."
+    "text": "What kind of type of research can we do?\n\n\n\nBasic Vs. Applied\nExploratory\nDescriptive\nCausal\n\n\n\nNot much is known about a particular phenomenon;\nExisting research results are unclear or suffer from serious limitations;\nThe topic is highly complex; or\nThere is not enough theory available to guide the development of a theoretical framework\n\n\n\ne.g: AI and its influence in the future?, Decroissance?\n\n\nSource: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019)."
   },
   {
     "objectID": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-3",
     "href": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-3",
     "title": "What is Scientific Research?",
     "section": "What kind of type of research can we do?",
-    "text": "What kind of type of research can we do?\n\n\n\nBasic Vs. Applied\nExploratory\nDescriptive\nCausal\n\n\n\nNot much is known about a particular phenomenon;\nExisting research results are unclear or suffer from serious limitations;\nThe topic is highly complex; or\nThere is not enough theory available to guide the development of a theoretical framework\n\n\n\n\n\nSource: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019)."
+    "text": "What kind of type of research can we do?\n\n\n\nBasic Vs. Applied\nExploratory\nDescriptive\nCausal\n\n\n\nObtain data that describes the topic of interest\nUnderstand the characteristics of a group in a given situation\nThink systematically about aspects in a given situation\n\n\n\ne.g: Social Media Usage Patterns, Workplace Satisfaction Surveys, Consumer Behavior Studies, etc…\n\n\nSource: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019)."
   },
   {
     "objectID": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-4",
     "href": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-4",
     "title": "What is Scientific Research?",
     "section": "What kind of type of research can we do?",
-    "text": "What kind of type of research can we do?\n\n\n\nBasic Vs. Applied\nExploratory\nDescriptive\nCausal\n\n\n\nObtain data that describes the topic of interest\nUnderstand the characteristics of a group in a given situation\nThink systematically about aspects in a given situation\n\n\n\n\n\nSource: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019)."
+    "text": "What kind of type of research can we do?\n\n\n\nBasic Vs. Applied\nExploratory\nDescriptive\nCausal\n\n\n\nWhether or not A causes change to B\nX causes variable Y. So, when variable X is removed or altered in some way, problem Y is solved\n\n\n\ne.g: Impact of (Educational, Recycling, Motivation, Training …) Interventions, Efficacy of Medical Treatments, Causal loops, etc…\n\n\nSource: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019)."
   },
   {
     "objectID": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-5",
@@ -354,21 +354,21 @@
     "href": "01-introduction/slides.html#science-and-technology-observatory-ost",
     "title": "What is Scientific Research?",
     "section": "Science and technology observatory (OST)",
-    "text": "Science and technology observatory (OST)\n\n\n\nHigh Council for Evaluation of Research and Higher Education - HCERES\n\n\nSource: Rapport HCERES\n\n\nHCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost"
+    "text": "Science and technology observatory (OST)\n\n\n\nHigh Council for Evaluation of Research and Higher Education - HCERES\n\n\n\n\nSource: Rapport HCERES\nHCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost"
   },
   {
     "objectID": "01-introduction/slides.html#science-and-technology-observatory-ost-1",
     "href": "01-introduction/slides.html#science-and-technology-observatory-ost-1",
     "title": "What is Scientific Research?",
     "section": "Science and technology observatory (OST)",
-    "text": "Science and technology observatory (OST)\nHigh Council for Evaluation of Research and Higher Education - HCERES\nSource: Rapport HCERES\n\n\nHCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost"
+    "text": "Science and technology observatory (OST)\n\n\n\nHigh Council for Evaluation of Research and Higher Education - HCERES\n\n\nSource: Rapport HCERES\n\n\nHCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost"
   },
   {
     "objectID": "01-introduction/slides.html#science-and-technology-observatory-ost-2",
     "href": "01-introduction/slides.html#science-and-technology-observatory-ost-2",
     "title": "What is Scientific Research?",
     "section": "Science and technology observatory (OST)",
-    "text": "Science and technology observatory (OST)\n\n\n\nHigh Council for Evaluation of Research and Higher Education - HCERES\n\n\nSource: Rapport HCERES\n\n\n\nIntroduction\n\n\n\n\n\n\n \n\n\nPresentation\n\n\n \n\n\n\nHCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost"
+    "text": "Science and technology observatory (OST)\n\n\n\nHigh Council for Evaluation of Research and Higher Education - HCERES\n\n\nSource: Rapport HCERES\n\n\nHCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost"
   },
   {
     "objectID": "01-introduction/tp1.html#the-canvas-of-step-2",
@@ -389,28 +389,28 @@
     "href": "01-introduction/tp1.html#access",
     "title": "TD1 : Research Landscape via Vosviewer",
     "section": "Access to WoS database",
-    "text": "Access to WoS database\nWoS database → Connect to the UL ENT\nUse your UL account to access to the databases\n\n\n\nhttps://ent.univ-lorraine.fr/#BU -&gt; BU Ingénieurs Brabois\n\n\nWoS database → Access to the ‘Ressources en Ligne’\n\n\n\nResource online of the UL\n\n\nWoS database → UL Web of Science\n\n\n\nLook for the ‘Web of Science’ database\n\n\nTutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
+    "text": "Access to WoS database"
   },
   {
     "objectID": "01-introduction/tp1.html#wos",
     "href": "01-introduction/tp1.html#wos",
     "title": "TD1 : Research Landscape via Vosviewer",
     "section": "Web of Science Interface",
-    "text": "Web of Science Interface\nSimple research mode\n\nWeb of Science: Go for a Advance research\n\nWeb of Science: Add you search query\nRemember the: Topic + Subject + Problem\n\nWeb of Science: Advance search\nBut, take a look of the other type of searches\n\nWeb of Science: put the Search Equation\n\n\nTutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
+    "text": "Web of Science Interface"
   },
   {
     "objectID": "01-introduction/tp1.html#wos-results",
     "href": "01-introduction/tp1.html#wos-results",
     "title": "TD1 : Research Landscape via Vosviewer",
     "section": "Results on WoS plateform",
-    "text": "Results on WoS plateform\n\nAnalyze the Results\n\nAnalyze the Categories\n\nAnalyze the Authors\n\nAnalyze the Funding Agencies\n\nAnalyze the Countries\n\nTutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
+    "text": "Results on WoS plateform"
   },
   {
     "objectID": "01-introduction/tp1.html#wos-export",
     "href": "01-introduction/tp1.html#wos-export",
     "title": "TD1 : Research Landscape via Vosviewer",
     "section": "Web of Science: Export results",
-    "text": "Web of Science: Export results\n\nSelect Tab Deliminated File\n\nExport Full record\n\nTutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
+    "text": "Web of Science: Export results"
   },
   {
     "objectID": "01-introduction/tp1.html#small-introduction-to-vosviwer",
@@ -599,6 +599,188 @@
     "href": "01-introduction/tp1.html#vosviewer-for-patents-8",
     "title": "TD1 : Research Landscape via Vosviewer",
     "section": "VOSviewer for Patents",
-    "text": "VOSviewer for Patents\n\n\n\nIntroduction\n\n\n\n\n\n\n \n\n\nPresentation"
+    "text": "VOSviewer for Patents\n\n\n\n\nTD1: Scientific Landscape\n\n\n\n\n\n\n \n\n\nFor Innovation management"
+  },
+  {
+    "objectID": "01-introduction/slides.html#evaluation-of-the-module",
+    "href": "01-introduction/slides.html#evaluation-of-the-module",
+    "title": "What is Scientific Research?",
+    "section": "Evaluation of the Module",
+    "text": "Evaluation of the Module\n\n\n\nA final output will be putted on ARCHE.\nArticle of State of the Art about your Internship (7 pages).\n\nTitle\nAbstract\nRésumé en anglais\nRésumé en français\nSynthèse (7 pages)\nReferences"
+  },
+  {
+    "objectID": "01-introduction/slides.html#thanks",
+    "href": "01-introduction/slides.html#thanks",
+    "title": "What is Scientific Research?",
+    "section": "Thanks",
+    "text": "Thanks\n\n\n\nIntroduction to Scientific Research\n\n\n\n\n\n\n \n\n\nPresentation"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#the-exercises",
+    "href": "01-introduction/tp1.html#the-exercises",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "The Exercises",
+    "text": "The Exercises\n\n\n\n\n\nStep 1: Define the research questions\n\n\n\n\n\n\nStep 2: Define research equation to use in WoS\n\n\n\n\n\n\nStep 3: Visualize & Analize Scientific and Patent databases"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#step-1-research-conceptualization",
+    "href": "01-introduction/tp1.html#step-1-research-conceptualization",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Step 1: Research conceptualization",
+    "text": "Step 1: Research conceptualization\n\n\n\n\n\nGoal Step 2a : Define the research questions\n\n\n\n\n\n\n−+\n45:00"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#step-2-patent-screening-and-analysis",
+    "href": "01-introduction/tp1.html#step-2-patent-screening-and-analysis",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Step 2: Patent screening and analysis",
+    "text": "Step 2: Patent screening and analysis\n\n\n\n\n\nGoal Step 2a : Define the research questions\n\n\n\n\n\n\n−+\n45:00"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#step-3-comparing-the-scientific-and-the-patent-domains",
+    "href": "01-introduction/tp1.html#step-3-comparing-the-scientific-and-the-patent-domains",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Step 3: Comparing the scientific and the Patent domains",
+    "text": "Step 3: Comparing the scientific and the Patent domains\n\n\n\n\n\nGoal Step 2c : Comparing the scientific and the Patent domains\n\n\n\n\n\n\n−+\n45:00"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#step-2-scientific-screening",
+    "href": "01-introduction/tp1.html#step-2-scientific-screening",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Step 2: Scientific screening",
+    "text": "Step 2: Scientific screening\n\n\n\n\n\nGoal Step 2a : Define the research questions\n\n\n\n\n\n\n−+\n45:00"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#list-of-tutorials",
+    "href": "01-introduction/tp1.html#list-of-tutorials",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "List of tutorials",
+    "text": "List of tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#wos-database-connect-to-the-ul-ent",
+    "href": "01-introduction/tp1.html#wos-database-connect-to-the-ul-ent",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "WoS database → Connect to the UL ENT",
+    "text": "WoS database → Connect to the UL ENT\nUse your UL account to access to the databases\n\nhttps://ent.univ-lorraine.fr/#BU -&gt; BU Ingénieurs Brabois"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#wos-database-access-to-the-ressources-en-ligne",
+    "href": "01-introduction/tp1.html#wos-database-access-to-the-ressources-en-ligne",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "WoS database → Access to the ‘Ressources en Ligne’",
+    "text": "WoS database → Access to the ‘Ressources en Ligne’\n\nResource online of the UL"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#wos-database-ul-web-of-science",
+    "href": "01-introduction/tp1.html#wos-database-ul-web-of-science",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "WoS database → UL Web of Science",
+    "text": "WoS database → UL Web of Science\n\nLook for the ‘Web of Science’ database"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#tutorials-1",
+    "href": "01-introduction/tp1.html#tutorials-1",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Tutorials",
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#simple-research-mode",
+    "href": "01-introduction/tp1.html#simple-research-mode",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Simple research mode",
+    "text": "Simple research mode"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#web-of-science-go-for-a-advance-research",
+    "href": "01-introduction/tp1.html#web-of-science-go-for-a-advance-research",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Web of Science: Go for a Advance research",
+    "text": "Web of Science: Go for a Advance research"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#web-of-science-add-you-search-query",
+    "href": "01-introduction/tp1.html#web-of-science-add-you-search-query",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Web of Science: Add you search query",
+    "text": "Web of Science: Add you search query\nRemember the: Topic + Subject + Problem"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#web-of-science-advance-search",
+    "href": "01-introduction/tp1.html#web-of-science-advance-search",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Web of Science: Advance search",
+    "text": "Web of Science: Advance search\nBut, take a look of the other type of searches"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#web-of-science-put-the-search-equation",
+    "href": "01-introduction/tp1.html#web-of-science-put-the-search-equation",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Web of Science: put the Search Equation",
+    "text": "Web of Science: put the Search Equation"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#tutorials-2",
+    "href": "01-introduction/tp1.html#tutorials-2",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Tutorials",
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#analyze-the-results",
+    "href": "01-introduction/tp1.html#analyze-the-results",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Analyze the Results",
+    "text": "Analyze the Results"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#analyze-the-categories",
+    "href": "01-introduction/tp1.html#analyze-the-categories",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Analyze the Categories",
+    "text": "Analyze the Categories"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#analyze-the-authors",
+    "href": "01-introduction/tp1.html#analyze-the-authors",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Analyze the Authors",
+    "text": "Analyze the Authors"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#analyze-the-funding-agencies",
+    "href": "01-introduction/tp1.html#analyze-the-funding-agencies",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Analyze the Funding Agencies",
+    "text": "Analyze the Funding Agencies"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#analyze-the-countries",
+    "href": "01-introduction/tp1.html#analyze-the-countries",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Analyze the Countries",
+    "text": "Analyze the Countries"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#tutorials-3",
+    "href": "01-introduction/tp1.html#tutorials-3",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Tutorials",
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#tutorials-4",
+    "href": "01-introduction/tp1.html#tutorials-4",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Tutorials",
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#sci-vos",
+    "href": "01-introduction/tp1.html#sci-vos",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Scientific Network visualization",
+    "text": "Scientific Network visualization\n\nDownload Vosviewer at https://www.vosviewer.com/"
   }
 ]
