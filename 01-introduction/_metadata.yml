@@ -19,8 +19,7 @@ format:
     number-sections: false
     fig-align: center
     code-copy: true        
-    header-logo: "../assets/img/logos/UL.png"
-    header: '[Presentation](#/TOC)'
+    header-logo: "../assets/img/logos/UL.png"    
     #subtitle-as-header: true
     sc-sb-title: false
     chalkboard: true

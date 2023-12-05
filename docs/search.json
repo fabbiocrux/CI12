@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Research, Innovation & Development",
     "section": "",
-    "text": "The list of presentations\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nDate\n\n\n\n\n\n\nCI12: Research, Innovation & Development\n\n\nundefined\n\n\n\n\nLiterature review: on the shoulders of giants\n\n\nDec 6, 2023\n\n\n\n\nTD1 : Research Landscape via Vosviewer\n\n\nDec 6, 2023\n\n\n\n\nWhat is Scientific Research?\n\n\nDec 6, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "The list of presentations\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nDate\n\n\n\n\n\n\nCI12: Research, Innovation & Development\n\n\nDec 6, 2023\n\n\n\n\nLiterature review: on the shoulders of giants\n\n\nDec 6, 2023\n\n\n\n\nTD1 : Research Landscape via Vosviewer\n\n\nDec 6, 2023\n\n\n\n\nWhat is Scientific Research?\n\n\nDec 6, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "01-introduction/index.html",
@@ -613,7 +613,7 @@
     "href": "01-introduction/slides.html#thanks",
     "title": "What is Scientific Research?",
     "section": "Thanks",
-    "text": "Thanks\n\n\n\nIntroduction to Scientific Research\n\n\n\n\n\n\n \n\n\nPresentation"
+    "text": "Thanks\n\n\n\nIntroduction to Scientific Research"
   },
   {
     "objectID": "01-introduction/tp1.html#the-exercises",
@@ -782,5 +782,54 @@
     "title": "TD1 : Research Landscape via Vosviewer",
     "section": "Scientific Network visualization",
     "text": "Scientific Network visualization\n\nDownload Vosviewer at https://www.vosviewer.com/"
+  },
+  {
+    "objectID": "01-introduction/slides.html#inductive-vs-deductive-research",
+    "href": "01-introduction/slides.html#inductive-vs-deductive-research",
+    "title": "What is Scientific Research?",
+    "section": "Inductive vs Deductive Research ?",
+    "text": "Inductive vs Deductive Research ?"
+  },
+  {
+    "objectID": "01-introduction/slides.html#research-design",
+    "href": "01-introduction/slides.html#research-design",
+    "title": "What is Scientific Research?",
+    "section": "Research design",
+    "text": "Research design\n\n\nSource: Sreejesh, S., Mohapatra, S., & Anusree, M. R. (2013). Business Research Design: Exploratory, Descriptive and Causal Designs. Business Research Methods"
+  },
+  {
+    "objectID": "01-introduction/slides.html#approaches-of-the-research-design",
+    "href": "01-introduction/slides.html#approaches-of-the-research-design",
+    "title": "What is Scientific Research?",
+    "section": "Approaches of the  Research design",
+    "text": "Approaches of the  Research design\n\n\nCreswell, J. W.: Research Design: Qualitative, Quantitative and Mixed Methods Approaches, 2nd edition, Sage Publications, Inc, California, 246 pp., 2003."
+  },
+  {
+    "objectID": "01-introduction/slides.html#limits-of-the-research-design",
+    "href": "01-introduction/slides.html#limits-of-the-research-design",
+    "title": "What is Scientific Research?",
+    "section": "Limits of the Research design",
+    "text": "Limits of the Research design\n\nclass: middle, left\nbackground-position: 100% 5% background-size: 60%"
+  },
+  {
+    "objectID": "01-introduction/slides.html#the-research-onion",
+    "href": "01-introduction/slides.html#the-research-onion",
+    "title": "What is Scientific Research?",
+    "section": "The Research Onion",
+    "text": "The Research Onion\n\n\n\nThe main challengue in Research  is connect all the ‘coherent’ dots in this figure to create a path !!!"
+  },
+  {
+    "objectID": "01-introduction/slides.html#quantitative-vs-qualitative",
+    "href": "01-introduction/slides.html#quantitative-vs-qualitative",
+    "title": "What is Scientific Research?",
+    "section": "Quantitative vs Qualitative",
+    "text": "Quantitative vs Qualitative\n\nBig data Vs Thick data"
+  },
+  {
+    "objectID": "01-introduction/slides.html#in-summary",
+    "href": "01-introduction/slides.html#in-summary",
+    "title": "What is Scientific Research?",
+    "section": "In summary",
+    "text": "In summary\nThe Art of Design Research"
   }
 ]

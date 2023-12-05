@@ -4,7 +4,9 @@ subtitle: "Seance 1"
 format:
   html:
     toc: false
+date: 06-Dec-2023
 ---
+
 
 # General Presentation
 

@@ -12,8 +12,15 @@ metadata-files:
 format:
   revealjs:
     footer: 'Introduction to Scientific Research'
+    #header: '[Presentation](#/TOC)'
 ---
 
+```{r}
+
+# Link for the Figures
+URL = c('https://raw.githubusercontent.com/fabbiocrux/Figures/main/')
+
+```
 
 ## Objectives of the Module
 
@@ -85,8 +92,6 @@ format:
 
 ## What is scientific research ?
 
-
-
 :::: {.columns}
 ::: {.column width="50%"}
 
@@ -153,6 +158,13 @@ graph TD
 
 
 
+## Inductive vs Deductive Research ?
+
+```{r, out.width="70%", fig.align='center'}
+knitr::include_graphics(paste0(URL, 'Research/Inductive-deductive.png'))
+``` 
+
+
 ## Scientific approaches
 
 ![Scientific approaches](figures/Inductive-deductive.png)
@@ -189,10 +201,9 @@ La règle découle de l'observation répétée de faits réels, contingents.
 :::
 
 
+
+
 # Why bother to study the scientific research?
-
----
-
 
 ## Pourquoi devrais-je me renseigner sur le processus de recherche ? {.center}
 
@@ -354,12 +365,63 @@ Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for bu
 :::
 
 
+## Quantitative vs Qualitative
+
+![](figures/QQ-limits.png){fig-align="center"}
+
+**Big data Vs Thick data**
 
 ## Examples of ERPI Research
 
 ![](figures/ERPI-Articles.png)
 
 https://erpi.univ-lorraine.fr/publications/articles/
+
+## In summary {.center}
+
+### The Art of Design Research
+
+
+## Research design {background-image="figures/Research-design.png" background-size="80%" background-position="50% 50%" }
+
+
+:::aside
+**Source**: Sreejesh, S., Mohapatra, S., & Anusree, M. R. (2013). Business Research Design: Exploratory, Descriptive and Causal Designs. Business Research Methods
+:::
+
+
+
+## Approaches of the <br> Research design{background-image="figures/QQM.png" background-size="65%" background-position="90% 50%" }
+
+
+:::: {.columns}
+::: {.column width="40%"}
+
+Creswell, J. W.: Research Design: Qualitative, Quantitative and
+Mixed Methods Approaches, 2nd edition, Sage Publications, Inc,
+California, 246 pp., 2003.
+
+:::
+
+::: {.column width="50%"}
+
+:::
+::::
+
+
+
+
+
+## The Research Onion {background-image="figures/Research-onion.png" background-size="60%" background-position="95% 50%" }
+
+
+::: {layout="[30,-2,60]" layout-valign="center"}
+
+[The main challengue in Research <br> is connect all the 'coherent' dots in this figure to create a path !!!](https://www.aesanetwork.org/research-onion-a-systematic-approach-to-designing-research-methodology/#:~:text=Research%20onion%20is%20one%20such,which%20constitute%20our%20research%20philosophy)
+
+:::
+
+
 
 
 # Research in the context of France
@@ -445,4 +507,4 @@ HCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost
 
 
 
-## Thanks
+## Thanks {.center}

@@ -264,7 +264,7 @@ Download Vosviewer at [https://www.vosviewer.com/](https://www.vosviewer.com/)
 
 ![](figures/vos/05.jpg)
 
-## Add data: Minimum number of Occurrencies for Keyworkds
+### Add data: Minimum number of Occurrencies for Keyworkds
 
 
 ![](figures/vos/06.jpg)
