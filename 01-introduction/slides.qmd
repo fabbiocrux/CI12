@@ -6,9 +6,7 @@ institute: "Université de Lorraine | ENSGSI"
 author: 
   - "MdC. Fabio A. CRUZ SANCHEZ"
   - "Pr. Mauricio Camargo"
-  
 date: 06-Dec-2023
-publishDate: 2021-07-06
 metadata-files:
   - _metadata.yml
 format:
