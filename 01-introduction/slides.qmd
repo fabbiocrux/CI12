@@ -1,0 +1,410 @@
+---
+title: "What is Scientific Research?"
+subtitle: "<img src='../assets/img/logos/ENSGSI.png' width='500'>"  
+email: "cruzsanc1@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+author: 
+  - "MdC. Fabio A. CRUZ SANCHEZ"
+  - "Pr. Mauricio Camargo"
+  
+date: 06-Dec-2023
+publishDate: 2021-07-06
+metadata-files:
+  - _metadata.yml
+format:
+  revealjs:
+    footer: 'Introduction'
+---
+
+
+## Objectives of the Module
+
+- Knowledge : enseignement supérieur et recherche 
+
+- Know-how : 
+  - Search on pertinent scientific databases 
+  - Sensibilization of a crical thinking of research
+  - Writing
+
+- Savoir-faire : écrire une synthèse bibliographique 
+- Savoir-faire : proposer un projet de recherche sur la base des manques de la - bibliographie 
+
+- Compétence : être capable de rechercher des documents scientifiques, d’évaluer leur pertinence, de proposer un sujet de recherche et de présenter un résultat de recherche 
+
+
+## Evaluation du module -  Dossier
+
+
+1. Each day, a final output will be putted on **ARCHE**. 
+
+2. Etat de l'art bibliographique préparatoire à un travail de recherche à de votre sujet de stage (10 pages).
+
+    1. **Title**
+    1. Abstract
+    1. Résumé en anglais 
+    1. Résumé en français
+    1. Synthèse (8 pages)
+    1. **References**
+
+
+
+
+# Introduction to the Scientific Research
+
+## What are the difference between <br> Engineering and Research (*in Innovation*) ? {.center}
+
+## Engineering vs Research (*in Innovation*)
+
+
+::: {.r-stack}
+![](figures/Research-01.jpg){.fragment width="1100" }
+
+![](figures/Research-02.jpg){.fragment width="1100" }
+
+![](figures/Research-03.jpg){.fragment width="1100" }
+
+![](figures/Research-04.jpg){.fragment width="1100" }
+
+![](figures/Research-05.jpg){.fragment width="1100" }
+
+![](figures/Research-06.jpg){.fragment width="1100" }
+
+![](figures/Research-07.jpg){.fragment width="1100" }
+
+![](figures/Research-08.jpg){.fragment width="1100" }
+:::
+
+
+
+## What is Scientific research ?
+
+
+>“The process of finding solutions to a problem after a thorough study and analysis of the situational factors.” (Sekaran and Bougie 2016)
+
+
+Based on two research elements:
+
+- Observations (information or data)
+
+- Theory (arguments)
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+![](figures/Albert-Einstein.jpeg){height="800"}
+:::
+::: {.column width="50%"}
+![](figures/Charle-Darwin.jpeg){height="800"}
+:::
+::::
+
+
+
+## Scientific approaches
+
+![Scientific approaches](figures/Inductive-deductive.png)
+
+:::: {.columns}
+::: {.column width="50%"}
+### Deduction
+
+la méthode par laquelle on va de la cause aux effets, du principe aux conséquences, du général au particulier.
+
+:::
+
+::: {.column width="50%"}
+### Induction
+La règle découle de l'observation répétée de faits réels, contingents.
+:::
+::::
+
+
+
+## Mental model for the research development?
+
+![Research conceptualization](figures/Research-conceptualization-00.jpg)
+
+
+## Mental model for the research development?
+
+![Research conceptualization](figures/Research-conceptualization-01.png)
+
+
+In more details...
+
+
+
+# Why bother to study the scientific research?
+
+---
+
+
+## Pourquoi devrais-je me renseigner sur le processus de recherche ? {.center}
+
+
+## Why should I learn about the research process? 
+
+- To become a pertinent intel
+
+
+
+
+## Research and the "Managers"
+
+- To work as a researcher (PhD., R&D Department)
+
+- As an *Innovation Manager* you are going to face problems that your R&D department or and external researcher (open-innovation) can help you to solve. 
+
+  - Help to make evidence-based decisions: e.g. Public politics
+  - Help in the strategic and future decision
+
+
+
+# Everything start with a good research question !
+
+
+## Everything start with a good research question {background-image="figures/Research-questions.png" background-size="50%" background-position="100% 50%" }
+
+
+:::: {.columns}
+::: {.column width="50%"}
+1. **Descriptive**:  (*‘What’, ‘When’, ‘Where’, ‘Who’ or ‘How’*) 
+
+e.g. ‘What percentage of coachees <br> report that coaching helped them <br> with a problem they experienced?
+
+
+2. **Explanatory ('Why'?)**
+
+e.g. ‘Why did 65% of coachees report that coaching helped them with a problem they experienced?’
+
+:::
+
+::: {.column width="50%"}
+::: aside
+Source: Rojon, C. & Saunders, M. N. K. [Formulating a convincing rationale for a research study](https://doi.org/10.1080/17521882.2011.648335). Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012).
+:::
+:::
+::::
+
+
+## Good research question: Descriptive + Explanatory 
+
+Being able to provide meaningful explanations requires answers to ‘why’ (i.e. explanatory) questions in addition to ‘what’ (i.e. descriptive) questions.
+
+For example:
+
+- *'How effective is the coaching process at helping coachees to solve a problem they experience and what are the reasons for this?'* 
+
+- *'To what extent is the coaching process effective at helping coachees solve a problem and why?'*
+
+
+::: aside
+Source: Rojon, C. & Saunders, M. N. K. [Formulating a convincing rationale for a research study](https://doi.org/10.1080/17521882.2011.648335). Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012).
+:::
+
+
+## Examples of ERPI Research
+
+
+## What kind of type of research can we do? {.center}
+
+## What kind of type of research can we do? {background-image="figures/Nature-research-00.png" background-size="50%" background-position="100% 50%" }
+
+:::: {.columns}
+::: {.column width="50%"}
+- **Basic Vs. Applied**
+- Exploratory
+- Descriptive
+- Causal
+:::
+::: {.column width="50%"}
+
+:::
+::::
+
+
+## What kind of type of research can we do? 
+
+:::: {.columns}
+::: {.column width="50%"}
+- Basic Vs. Applied
+- **Exploratory**
+:::
+::: {.column width="50%"}
+
+- Not much is known about a particular phenomenon; 
+- Existing research results are unclear or suffer from serious limitations; 
+- The topic is highly complex; or 
+- There is not enough theory available to guide the development of a theoretical framework
+
+:::
+::::
+
+
+::: aside
+Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
+:::
+
+
+## What kind of type of research can we do? 
+
+:::: {.columns}
+::: {.column width="50%"}
+- Basic Vs. Applied
+- **Exploratory**
+- Descriptive
+- Causal
+:::
+::: {.column width="50%"}
+
+- Not much is known about a particular phenomenon; 
+- Existing research results are unclear or suffer from serious limitations; 
+- The topic is highly complex; or 
+- There is not enough theory available to guide the development of a theoretical framework
+
+:::
+::::
+
+
+::: aside
+Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
+:::
+
+## What kind of type of research can we do? 
+
+:::: {.columns}
+::: {.column width="50%"}
+- Basic Vs. Applied
+- Exploratory
+- **Descriptive**
+- Causal
+:::
+::: {.column width="50%"}
+
+- Obtain data that describes the topic of interest
+- Understand the characteristics of a group in a given situation
+- Think systematically about aspects in a given situation
+
+:::
+::::
+
+
+::: aside
+Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
+:::
+
+
+
+
+## What kind of type of research can we do? 
+
+:::: {.columns}
+::: {.column width="50%"}
+- Basic Vs. Applied
+- Exploratory
+- Descriptive
+- **Causal**
+:::
+::: {.column width="50%"}
+
+- Whether or not A causes change to B
+- X causes variable Y. So, when variable X is removed or altered in some way, problem Y is solved
+
+:::
+::::
+
+
+::: aside
+Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
+:::
+
+
+
+# Research in the context of France
+
+
+
+## Research Ecosystem in general
+
+
+![Research Ecosystem](figures/pandey2015.png)
+
+
+::: aside
+Pandey, S., Pattnaik, P., 2015. University Research Ecosystem: A Conceptual Understanding. Review of Economic and Business Studies 8. https://doi.org/10.1515/rebs-2016-0021
+:::
+
+
+## Research Ecosystem in France
+
+
+**Teaching and research**
+
+  - Universities (IUT, Ecoles d’ingénieurs) 
+  - INSA , ENSI , CNAM , ... 
+
+
+**Private companies** (Big/Smee's)
+
+ - Sagem; Véolia; PSA Thales
+ 
+ - TEA; JEI; FITLE; myXtramile...
+
+
+
+**Funding Agencies**
+
+National & EU
+  - Ministeries
+  - ANR
+  - ADEME
+  
+
+
+## Science and technology observatory (OST) 
+
+![High Council for Evaluation of Research and Higher Education - HCERES](figures/HCERES-01.png)
+
+
+[Source: Rapport HCERES](https://www.hceres.fr/sites/default/files/media/downloads/rappScien_VA_web03.pdf)
+
+
+::: aside
+HCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost
+:::
+
+
+## Science and technology observatory (OST) 
+
+
+[High Council for Evaluation of Research and Higher Education - HCERES](figures/HCERES-02.png)
+
+
+[Source: Rapport HCERES](https://www.hceres.fr/sites/default/files/media/downloads/rappScien_VA_web03.pdf)
+
+
+
+::: aside
+HCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost
+:::
+
+
+
+## Science and technology observatory (OST) 
+
+
+![High Council for Evaluation of Research and Higher Education - HCERES](figures/HCERES-03.png)
+
+
+[Source: Rapport HCERES](https://www.hceres.fr/sites/default/files/media/downloads/rappScien_VA_web03.pdf)
+
+
+
+::: aside
+HCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost
+:::
+
+
+
+

@@ -17,4 +17,3 @@ knitr::opts_chunk$set(
 
 # Link for the Figures
 URL = c('https://raw.githubusercontent.com/fabbiocrux/Figures/main/')
-

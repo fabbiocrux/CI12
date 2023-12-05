@@ -1,27 +1,34 @@
 project:
   type: website
-  #pre-render: R/setup.R
+  pre-render: R/setup.R
 
 website:
-  title: "mve"
+  title: "CI12"
   navbar:
     left:
       - href: index.qmd
         text: Home
 
-  sidebar:
-    contents: slides
-
+  sidebar:    
+    contents:
+      - section: "Act I:	Introduction to the module"
+        contents:
+          - 01-introduction/slides.qmd
+          - 01-introduction/literature-review.qmd
+          - 01-introduction/tp1.qmd
+      - section: "Act II:	Reading Scientific Literature"
+      - section: "Act III:	Reading Scientific Literature"
+      - section: "Act IV:	Reading Scientific Literature"      
 format:
   html:
     theme:
       - litera
       - assets/custom.scss
     toc: true
-    number-sections: true
+    number-sections: false
     html-math-method: mathjax
     freeze: true
 
 execute:
   freeze: auto  # re-render only when source changes
-  cache: true
+  cache: false

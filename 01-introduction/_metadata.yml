@@ -1,0 +1,35 @@
+from: gfm+autolink_bare_uris
+format:
+  revealjs:
+    slide-number: c/t
+    controls: true
+    transition: none
+    #margin: 0
+    width: 1600
+    height: 900
+    theme: [default, ../assets/custom.scss]
+    #logo: "../../figures/ENSGSI.png"
+    embed-resources: false
+    echo: false
+    pdf-separate-fragments: true
+    #toc: true
+    #toc-title: Agenda for today
+    #toc-depth: 1
+    center: false
+    number-sections: false
+    fig-align: center
+    code-copy: true        
+    #header-logo: "../../logos/UL.png"
+    header: '[Presentation](#/TOC)'
+    #subtitle-as-header: true
+    sc-sb-title: false
+    #footer: 'Test'
+    chalkboard: true
+#use reveal-header extension if you need both header and footer on slides. They are declared in the presentation.qmd file
+filters:
+  - reveal-header
+  - reveal-auto-agenda
+#slide-level: 3
+auto-agenda:
+  bullets: numbered
+  heading: Agenda for today

@@ -1,10 +1,11 @@
 ---
-title: "List of presentations"
+title: "Research, Innovation & Development"
+subtitle: "ENSGSI"
 listing:
   id: all-presentations 
-  contents: slides
+  contents: 01-introduction
   type: table
-  fields: [title, author, date, reading-time]
+  fields: [title, date ]
   page-size: 10
 ---
 
@@ -14,7 +15,3 @@ The list of presentations
 :::
 
 
-
-```{=html}
-<iframe width="800px" height="533px" style="border:2px solid #dee2e6;" src="slides/01-seance.html"></iframe>
-```

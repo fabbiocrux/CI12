@@ -1,0 +1,226 @@
+---
+title: "Literature review: on the shoulders of giants"
+subtitle: "For Innovation management"  
+email: "cruzsanc1@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+author: 
+  - "MdC. Fabio A. CRUZ SANCHEZ"
+  - "Pr. Mauricio Camargo"
+date: 06-Dec-2023
+metadata-files:
+  - _metadata.yml
+format:
+  revealjs:
+    footer: 'TD: Landscape of Research'
+---
+
+
+## Learning objectives of this Workshop course
+
+1. Know the importance of a literature review
+1. Know-how look for scientific databases
+1. Make a visualization of scientific landscapes
+
+
+
+# Literature review – using what's already known
+
+
+## What the difference these two googles? 
+
+![](figures/Googles.png)
+
+
+## Peer Reviewing process
+
+![](figures/Peer-Review-Process.jpeg)
+
+## Literature review {background-image="figures/databases.png" background-size="40%" background-position="90% 50%" }
+
+### Standing on the shoulders of giants
+
+- Scientific databases
+- Research papers
+- Books 
+- Institutional reports -> WHO, EU…
+- Societies 
+    - conferences proceedings (IEEE, IAMOT, IFAC...)
+- Institutional repositories -> dissertations
+- IP registrars -> Patents
+
+
+
+# What interest of literature review for a company?
+
+
+## Why a company would bother literature review ? {.center}
+
+
+## Technology Readiness → Maturity {.nostretch}
+
+The industrial emergence mapping framework.
+
+![](figures/00.png){width=60% fig-align='center'}
+
+::: aside
+Phaal, R., O’Sullivan, E., Routley, M., Ford, S., Probert, D., 2011. A framework for mapping industrial emergence. Technological Forecasting and Social Change 78, 217–230. [https://doi.org/10.1016/j.techfore.2010.06.018](https://doi.org/10.1016/j.techfore.2010.06.018)
+:::
+
+
+
+## On the case of Entreprise
+
+![](figures/Veille-techno.png){width="90%"}
+
+
+## Technology Readiness → Levels
+
+Framework developed in the Aeronautical field.
+
+![[Technology Readiness Levels (TRL)](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/Technology_Readiness_Levels_TRL)](figures/TRL-00.png)
+
+## Technology Readiness → The Valley of Death
+
+![](figures/TRL-01.png){width="70%" fig-align="center"}
+
+::: aside
+Source: [Hensen, J., Loonen, R., Archontiki, M., Kanellis, M., 2015. Using building simulation for moving innovations across the "Valley of Death." REHVA Journal 52, 58--62.](https://www.researchgate.net/profile/Roel-Loonen/publication/276205251_Using_building_simulation_for_moving_innovations_across_the_Valley_of_Death/links/5552333108ae6fd2d81d4406/Using-building-simulation-for-moving-innovations-across-the-Valley-of-Death.pdf)
+:::
+
+## Technology Readiness → Challenges TRL4 - TRL7
+
+![](figures/TRL-03.png){width="70%" fig-align="center"}
+
+::: aside
+Source: [Hensen, J., Loonen, R., Archontiki, M., Kanellis, M., 2015. Using building simulation for moving innovations across the "Valley of Death." REHVA Journal 52, 58--62.](https://www.researchgate.net/profile/Roel-Loonen/publication/276205251_Using_building_simulation_for_moving_innovations_across_the_Valley_of_Death/links/5552333108ae6fd2d81d4406/Using-building-simulation-for-moving-innovations-across-the-Valley-of-Death.pdf)
+:::
+
+## Technology Readiness → Challenges TRL4 - TRL7
+
+-   There is a **lack of tools** that can provide insights into **technology-integration** issues at an early R&D phase (TRL 1-5).
+-   This results in a **mismatch between information** need and availability and **complicates decision-making**.
+-   The process requires an **interdisciplinary approach**. The right combination of skills and expertise may not always be available
+
+## Technology Readiness → Evolution
+
+::: {.r-stack}
+![](figures/NPD-0.png){width="70%" fig-align="center"}
+
+![](figures/NPD-1.png){.fragment .absolute width="500"  top=250 left=0}
+
+![](figures/NPD-2.png){.fragment width="500" fig-align="center"}
+
+![](figures/NPD-3.png){.fragment .absolute top=50 right=50 width="400" }
+
+![](figures/NPD-4.png){.fragment .absolute top=250 left=0 width="500" }
+
+![](figures/NPD-5.png){.fragment  width="800" fig-align="center"}
+:::
+
+
+## Web of science → Scientific & Patent databases
+
+![](figures/WoS.png){width="400" fig-align="left"}
+
+::: columns
+::: {.column width="50%"}
+![**Core Collections**](figures/01-UL-databases/03.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![**Derwent Innovations Index**](figures/01-UL-databases/04.png){fig-align="center"}
+:::
+:::
+
+
+
+## So..  
+
+![](https://media.giphy.com/media/xT39Db8zIOODTppk08/giphy-downsized-large.gif){width=50% fig-align=center}
+
+
+
+# Examples at ERPI
+
+## How to do a Literature Review?
+
+## Literature review
+
+![](figures/Literature-review-02.png)
+
+**Steps for a Literature Review**
+
+## Literature review: The Context
+
+![](figures/Literature-review-01.png)
+
+
+Take the time to planning because it has the major impact at the end.
+
+## Literature review: Planning
+
+> **Goal:** Identification of material recycling approaches in the Additive Manufacturing contexts (commercial and open-source)
+
+![](figures/Literature-review-03.png)
+
+
+
+## Literature review: Planning
+
+
+![](figures/Literature-review-04.png)
+
+### Subjet + Verb + Complement → Topic + Context + Problem
+
+
+## Literature review: Planning
+
+![](figures/Literature-review-05.png)
+
+
+## Literature review: Planning
+
+![](figures/Literature-review-06.png)
+
+**Grid lecture**
+
+## Literature review: Conducting
+
+![](figures/Literature-review-07.png)
+
+## Literature review: Reporting
+
+![](figures/Literature-review-08.png)
+
+
+## Structure of Literature  {background-image="figures/Example-Fabio.png" background-size="35%" background-position="85% 50%" }
+
+- Title
+- Abstract
+- Introduction
+- Literature review
+- Methodology
+- Results
+- Discussion
+- Conclusion
+- References
+
+
+Example 1:
+
+[https://doi.org/10.1016/j.jclepro.2020.121602](https://doi.org/10.1016/j.jclepro.2020.121602) 
+
+
+## Literature review – Ethics
+
+Report on your literature findings and beware of:
+
+- Purposely misrepresenting the work of other authors. 
+
+> **Plagiarism** – the use of another’s original words, arguments, or ideas as though they were your own, even if this is done in good faith, out of carelessness, or out of ignorance.
+
+- Importance of the References .bg-yellow[(Act 03 we'll take a look)]
+
+
+
+## Questions {.center}
