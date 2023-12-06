@@ -283,6 +283,29 @@ Source: [Hensen, J., Loonen, R., Archontiki, M., Kanellis, M., 2015. Using build
 :::
 
 
+## What the difference these two googles? 
+
+![](figures/Googles.png)
+
+
+## Peer Reviewing process
+
+![](figures/Peer-Review-Process.jpeg)
+
+## Literature review {background-image="figures/databases.png" background-size="40%" background-position="90% 50%" }
+
+### Standing on the shoulders of giants
+
+- Scientific databases
+- Research papers
+- Books 
+- Institutional reports -> WHO, EU…
+- Societies 
+    - conferences proceedings (IEEE, IAMOT, IFAC...)
+- Institutional repositories -> dissertations
+- IP registrars -> Patents
+
+
 ## Web of science → Scientific & Patent databases
 
 ![](figures/WoS.png){width="400" fig-align="left"}
