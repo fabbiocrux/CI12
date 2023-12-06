@@ -548,6 +548,8 @@ California, 246 pp., 2003.
 :::
 
 
+
+
 ## Bibliometric mapping: Vosviewer
 
 ![](figures/vos/09.jpg)
@@ -557,6 +559,8 @@ California, 246 pp., 2003.
 ::: aside
 van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. https://doi.org/10.1007/s11192-009-0146-3
 :::
+
+
 
 
 
