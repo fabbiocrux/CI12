@@ -1,6 +1,6 @@
 ---
 title: "TD1 : Research Landscape via Vosviewer"
-subtitle: "For Innovation management"  
+subtitle: "TD1"  
 email: "cruzsanc1@univ-lorraine.fr"
 institute: "Université de Lorraine | ENSGSI"
 author: 
@@ -42,7 +42,7 @@ library(countdown)
 
 ## Bibliometric mapping: Vosviewer
 
-![](figures/vos/09.jpg)
+![](figures/vos/09.jpg){width="900" fig-align="center"}
 
 [Download at https://www.vosviewer.com/](https://www.vosviewer.com/)
 

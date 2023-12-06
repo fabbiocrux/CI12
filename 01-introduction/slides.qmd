@@ -547,12 +547,12 @@ California, 246 pp., 2003.
 
 :::
 
-
+📃 [Download the Document](https://raw.githubusercontent.com/fabbiocrux/CI12/quarto/01-introduction/01-TD-Vosviewer.docx)
 
 
 ## Bibliometric mapping: Vosviewer
 
-![](figures/vos/09.jpg)
+![](figures/vos/09.jpg){width="900" fig-align="center"}
 
 [Download at https://www.vosviewer.com/](https://www.vosviewer.com/)
 
