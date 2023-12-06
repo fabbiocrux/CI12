@@ -193,7 +193,7 @@
     "href": "01-introduction/literature-review.html#questions",
     "title": "Literature review: on the shoulders of giants",
     "section": "Questions",
-    "text": "Questions\n\n\nTD: Landscape of Research\n\n\n\n\n\n\n \n\n\nPresentation"
+    "text": "Questions\n\n\n\nTD: Landscape of Research"
   },
   {
     "objectID": "01-introduction/slides.html#objectives-of-the-module",
@@ -242,7 +242,7 @@
     "href": "01-introduction/slides.html#mental-model-for-the-research-development",
     "title": "What is Scientific Research?",
     "section": "Mental model for the research development?",
-    "text": "Mental model for the research development?\n\nResearch conceptualization"
+    "text": "Mental model for the research development?\n\n\n\nResearch conceptualization\n\n\n\n\nSource: Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019)."
   },
   {
     "objectID": "01-introduction/slides.html#mental-model-for-the-research-development-1",
@@ -831,5 +831,96 @@
     "title": "What is Scientific Research?",
     "section": "In summary",
     "text": "In summary\nThe Art of Design Research"
+  },
+  {
+    "objectID": "01-introduction/slides.html#why-a-company-would-bother-literature-review",
+    "href": "01-introduction/slides.html#why-a-company-would-bother-literature-review",
+    "title": "What is Scientific Research?",
+    "section": "Why a company would bother literature review ?",
+    "text": "Why a company would bother literature review ?"
+  },
+  {
+    "objectID": "01-introduction/slides.html#technology-readiness-maturity",
+    "href": "01-introduction/slides.html#technology-readiness-maturity",
+    "title": "What is Scientific Research?",
+    "section": "Technology Readiness → Maturity",
+    "text": "Technology Readiness → Maturity\nThe industrial emergence mapping framework.\n\n\n\n\n\n\n\nPhaal, R., O’Sullivan, E., Routley, M., Ford, S., Probert, D., 2011. A framework for mapping industrial emergence. Technological Forecasting and Social Change 78, 217–230. https://doi.org/10.1016/j.techfore.2010.06.018"
+  },
+  {
+    "objectID": "01-introduction/slides.html#on-the-case-of-entreprise",
+    "href": "01-introduction/slides.html#on-the-case-of-entreprise",
+    "title": "What is Scientific Research?",
+    "section": "On the case of Entreprise",
+    "text": "On the case of Entreprise"
+  },
+  {
+    "objectID": "01-introduction/slides.html#technology-readiness-levels",
+    "href": "01-introduction/slides.html#technology-readiness-levels",
+    "title": "What is Scientific Research?",
+    "section": "Technology Readiness → Levels",
+    "text": "Technology Readiness → Levels\nFramework developed in the Aeronautical field.\n\nTechnology Readiness Levels (TRL)"
+  },
+  {
+    "objectID": "01-introduction/slides.html#technology-readiness-the-valley-of-death",
+    "href": "01-introduction/slides.html#technology-readiness-the-valley-of-death",
+    "title": "What is Scientific Research?",
+    "section": "Technology Readiness → The Valley of Death",
+    "text": "Technology Readiness → The Valley of Death\n\n\n\n\n\n\n\nSource: Hensen, J., Loonen, R., Archontiki, M., Kanellis, M., 2015. Using building simulation for moving innovations across the “Valley of Death.” REHVA Journal 52, 58–62."
+  },
+  {
+    "objectID": "01-introduction/slides.html#technology-readiness-challenges-trl4---trl7",
+    "href": "01-introduction/slides.html#technology-readiness-challenges-trl4---trl7",
+    "title": "What is Scientific Research?",
+    "section": "Technology Readiness → Challenges TRL4 - TRL7",
+    "text": "Technology Readiness → Challenges TRL4 - TRL7\n\n\n\n\n\n\n\nSource: Hensen, J., Loonen, R., Archontiki, M., Kanellis, M., 2015. Using building simulation for moving innovations across the “Valley of Death.” REHVA Journal 52, 58–62."
+  },
+  {
+    "objectID": "01-introduction/slides.html#technology-readiness-challenges-trl4---trl7-1",
+    "href": "01-introduction/slides.html#technology-readiness-challenges-trl4---trl7-1",
+    "title": "What is Scientific Research?",
+    "section": "Technology Readiness → Challenges TRL4 - TRL7",
+    "text": "Technology Readiness → Challenges TRL4 - TRL7\n\nThere is a lack of tools that can provide insights into technology-integration issues at an early R&D phase (TRL 1-5).\nThis results in a mismatch between information need and availability and complicates decision-making.\nThe process requires an interdisciplinary approach. The right combination of skills and expertise may not always be available"
+  },
+  {
+    "objectID": "01-introduction/slides.html#technology-readiness-evolution",
+    "href": "01-introduction/slides.html#technology-readiness-evolution",
+    "title": "What is Scientific Research?",
+    "section": "Technology Readiness → Evolution",
+    "text": "Technology Readiness → Evolution"
+  },
+  {
+    "objectID": "01-introduction/slides.html#web-of-science-scientific-patent-databases",
+    "href": "01-introduction/slides.html#web-of-science-scientific-patent-databases",
+    "title": "What is Scientific Research?",
+    "section": "Web of science → Scientific & Patent databases",
+    "text": "Web of science → Scientific & Patent databases\n\n\n\n\n\n\n\n\n\n\nCore Collections\n\n\n\n\n\n\nDerwent Innovations Index"
+  },
+  {
+    "objectID": "01-introduction/slides.html#what-interest-of-literature-review-for-a-company",
+    "href": "01-introduction/slides.html#what-interest-of-literature-review-for-a-company",
+    "title": "What is Scientific Research?",
+    "section": "What interest of literature review for a company?",
+    "text": "What interest of literature review for a company?"
+  },
+  {
+    "objectID": "01-introduction/slides.html#the-exercises",
+    "href": "01-introduction/slides.html#the-exercises",
+    "title": "What is Scientific Research?",
+    "section": "The Exercises",
+    "text": "The Exercises\n\n\n\n\n\nStep 1: Define the research questions\n\n\n\n\n\n\nStep 2: Define research equation to use in WoS\n\n\n\n\n\n\nStep 3: Visualize & Analize Scientific and Patent databases"
+  },
+  {
+    "objectID": "01-introduction/slides.html#bibliometric-mapping-vosviewer",
+    "href": "01-introduction/slides.html#bibliometric-mapping-vosviewer",
+    "title": "What is Scientific Research?",
+    "section": "Bibliometric mapping: Vosviewer",
+    "text": "Bibliometric mapping: Vosviewer\n\nDownload at https://www.vosviewer.com/\n\n\nvan Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. https://doi.org/10.1007/s11192-009-0146-3"
+  },
+  {
+    "objectID": "01-introduction/slides.html#mental-model-of-the-research-process",
+    "href": "01-introduction/slides.html#mental-model-of-the-research-process",
+    "title": "What is Scientific Research?",
+    "section": "Mental model of the research process",
+    "text": "Mental model of the research process\n\nResearch conceptualization"
   }
 ]

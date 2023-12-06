@@ -190,9 +190,6 @@ La règle découle de l'observation répétée de faits réels, contingents.
 ![Research conceptualization](figures/Research-conceptualization-00.jpg)
 
 
-## Mental model for the research development?
-
-![](figures/Research-conceptualization-01.png){width="1000" fig-align="center"}
 
 
 
@@ -219,6 +216,86 @@ La règle découle de l'observation répétée de faits réels, contingents.
 - 🔮 Help in the strategic and future decision-making
 
 As an **Innovation Manager** you are going to face problems that your R&D department or/and external researcher (open-innovation) can help you to solve. 
+
+
+## Why a company would bother literature review ? {.center}
+
+
+## Technology Readiness → Maturity {.nostretch}
+
+The industrial emergence mapping framework.
+
+![](figures/00.png){width=60% fig-align='center'}
+
+::: aside
+Phaal, R., O’Sullivan, E., Routley, M., Ford, S., Probert, D., 2011. A framework for mapping industrial emergence. Technological Forecasting and Social Change 78, 217–230. [https://doi.org/10.1016/j.techfore.2010.06.018](https://doi.org/10.1016/j.techfore.2010.06.018)
+:::
+
+
+
+## On the case of Entreprise
+
+![](figures/Veille-techno.png){width="90%"}
+
+
+## Technology Readiness → Levels
+
+Framework developed in the Aeronautical field.
+
+![[Technology Readiness Levels (TRL)](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/Technology_Readiness_Levels_TRL)](figures/TRL-00.png)
+
+## Technology Readiness → The Valley of Death
+
+![](figures/TRL-01.png){width="70%" fig-align="center"}
+
+::: aside
+Source: [Hensen, J., Loonen, R., Archontiki, M., Kanellis, M., 2015. Using building simulation for moving innovations across the "Valley of Death." REHVA Journal 52, 58--62.](https://www.researchgate.net/profile/Roel-Loonen/publication/276205251_Using_building_simulation_for_moving_innovations_across_the_Valley_of_Death/links/5552333108ae6fd2d81d4406/Using-building-simulation-for-moving-innovations-across-the-Valley-of-Death.pdf)
+:::
+
+## Technology Readiness → Challenges TRL4 - TRL7
+
+![](figures/TRL-03.png){width="70%" fig-align="center"}
+
+::: aside
+Source: [Hensen, J., Loonen, R., Archontiki, M., Kanellis, M., 2015. Using building simulation for moving innovations across the "Valley of Death." REHVA Journal 52, 58--62.](https://www.researchgate.net/profile/Roel-Loonen/publication/276205251_Using_building_simulation_for_moving_innovations_across_the_Valley_of_Death/links/5552333108ae6fd2d81d4406/Using-building-simulation-for-moving-innovations-across-the-Valley-of-Death.pdf)
+:::
+
+## Technology Readiness → Challenges TRL4 - TRL7
+
+-   There is a **lack of tools** that can provide insights into **technology-integration** issues at an early R&D phase (TRL 1-5).
+-   This results in a **mismatch between information** need and availability and **complicates decision-making**.
+-   The process requires an **interdisciplinary approach**. The right combination of skills and expertise may not always be available
+
+## Technology Readiness → Evolution
+
+::: {.r-stack}
+![](figures/NPD-0.png){width="70%" fig-align="center"}
+
+![](figures/NPD-1.png){.fragment .absolute width="500"  top=250 left=0}
+
+![](figures/NPD-2.png){.fragment width="500" fig-align="center"}
+
+![](figures/NPD-3.png){.fragment .absolute top=50 right=50 width="400" }
+
+![](figures/NPD-4.png){.fragment .absolute top=250 left=0 width="500" }
+
+![](figures/NPD-5.png){.fragment  width="800" fig-align="center"}
+:::
+
+
+## Web of science → Scientific & Patent databases
+
+![](figures/WoS.png){width="400" fig-align="left"}
+
+::: columns
+::: {.column width="50%"}
+![**Core Collections**](figures/01-UL-databases/03.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![**Derwent Innovations Index**](figures/01-UL-databases/04.png){fig-align="center"}
+:::
+:::
 
 
 # Everything start with a good research question !
@@ -420,6 +497,46 @@ California, 246 pp., 2003.
 [The main challengue in Research <br> is connect all the 'coherent' dots in this figure to create a path !!!](https://www.aesanetwork.org/research-onion-a-systematic-approach-to-designing-research-methodology/#:~:text=Research%20onion%20is%20one%20such,which%20constitute%20our%20research%20philosophy)
 
 :::
+
+
+# Presentation of TD
+
+
+## Mental model of the research process
+
+![Research conceptualization](figures/Research-conceptualization-00.jpg)
+
+
+## The Exercises
+
+::: columns
+::: {.column width="30%"}
+![Step 1: Define the research questions](figures/Step-2a.jpg){fig-align="center"}
+:::
+
+::: {.column width="30%"}
+![Step 2: Define research equation to use in WoS](figures/Step-2b.jpg){fig-align="center"}
+:::
+
+::: {.column width="30%"}
+![Step 3: Visualize & Analize Scientific and Patent databases](figures/Step-2c.jpg){fig-align="center"}
+:::
+
+:::
+
+
+## Bibliometric mapping: Vosviewer
+
+![](figures/vos/09.jpg)
+
+[Download at https://www.vosviewer.com/](https://www.vosviewer.com/)
+
+::: aside
+van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. https://doi.org/10.1007/s11192-009-0146-3
+:::
+
+
+
 
 
 
