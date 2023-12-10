@@ -2,16 +2,22 @@
 title: "Act II: Literature review"
 subtitle: "On the shoulders of giants"  
 email: "cruzsanc1@univ-lorraine.fr"
+# title-slide-attributes:
+#   data-background-image: figures/Writing.jpg
+#   data-background-size: 50%
+#   data-background-opacity: "0.5"
 institute: "Université de Lorraine | ENSGSI"
-# author: 
-#   - "MdC. Fabio A. CRUZ SANCHEZ"
-#   - "Pr. Mauricio Camargo"
+by-author: 
+  - "MdC. Fabio A. CRUZ SANCHEZ"
+  - "Pr. Mauricio Camargo"
 date: 06-Dec-2023
 metadata-files:
   - _metadata.yml
 format:
   revealjs:
     footer: 'TD: Landscape of Research'
+    template-partials:
+      - title-slide.html
 ---
 
 
@@ -29,7 +35,8 @@ library(countdown)
 1. Make a visualization of scientific landscapes
 
 
-# Literature review: on the shoulders of giants 
+
+# How to do a Literature Review at ERPI?
 
 ## Mental model for the research development?
 
@@ -39,211 +46,9 @@ library(countdown)
 
 ![](figures/Research-process.png)
 
-## Reading an Article - Part I {.center}
 
 
-## What is a Research Paper? {background-image="figures/Paper-Alex-01.jpg" background-size="45%" background-position="90% 50%" }
-
-<br><br><br><br>
-
-### Tip 1
-
-**Start by the Outline !!**
-
-
-## What is a Research Paper? {background-image="figures/Paper-Alex-02.png" background-size="45%" background-position="90% 50%" }
-
-
-
-### Tip 2: **Méthode AIC**
-
-
-- Title
-- 🔎 **Abstract**
-- 🔎 **Introduction**
-- Literature review
-- Methodology
-- Results
-- Discussion
-- 🔎**Conclusion**
-- References
-
-
-
-## AIC Reading method
-
-For screening read : **Title, Journal, keywords and Abstract**
-
-For detailed synthesis use **AIC**:
-
-- **Abstract → Summary of the paper **
-
-- **Introduction → Context of problem and research, gap, summary of what is done**
-
-- **Conclusions → Summary of results and importance of results given the context.**
-
-
-## The abstract {.center}
-
-
-:::: {layout="[50,-1,70]" layout-valign="center"}
-
-::: {}
-> The minimal viable product of a research.
-:::
-
-:::{}
-- What’s the topic?
-- What's the problem? (Is it important? )
-- What’s the research question?
-- What is the purpose ?
-- How you resolved it?
-- Implications for future ?
-:::
-::::
-
-
-## Exemple 1 {background-image="figures/Paper-Ferney-00.jpg" background-size="70%" background-position="90% 50%" }
-
-
-:::aside
-Source: Osorio, F., Dupont, L., Camargo, M., Palominos, P., Peña, J.I., Alfaro, M., 2019. Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100. https://doi.org/10.1111/caim.12301
-:::
-
-## Exemple 1 {background-image="figures/Paper-Ferney-01.jpg" background-size="70%" background-position="90% 30%" }
-
-
-::: columns
-::: {.column width="30%"}
-
-- What’s the topic?
-- What's the problem?<br>(Is it important? )
-- What’s the research question?
-- What is the purpose ?
-- How you resolved it?
-- Implications for future ?
-
-:::
-
-::: {.column width="50%"}
-
-:::aside
-Source: Osorio, et al. (2019). Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100. https://doi.org/10.1111/caim.12301
-:::
-:::
-:::
-
-
-## Exemple 2 {background-image="figures/Paper-Sandra.png" background-size="70%" background-position="90% 30%" }
-
-
-::: columns
-::: {.column width="30%"}
-
-- What’s the topic?
-- What's the problem?<br>(Is it important? )
-- What’s the research question?
-- What is the purpose ?
-- How you resolved it?
-- Implications for future ?
-
-:::
-
-::: {.column width="50%"}
-
-:::aside
-Source: Source: https://doi.org/10.1016/j.eiar.2022.106911
-:::
-:::
-:::
-
-
-
-
-## Exemple 3 {background-image="figures/Paper-Alex.png" background-size="70%" background-position="90% 30%" }
-
-
-
-::: columns
-::: {.column width="30%"}
-
-- What’s the topic?
-- What's the problem?<br>(Is it important? )
-- What’s the research question?
-- What is the purpose ?
-- How you resolved it?
-- Implications for future ?
-
-:::
-
-::: {.column width="50%"}
-
-:::aside
-Source:
-:::
-:::
-:::
-
-
-
-
-
-
-## Mental model when reading an abstract 
-
-
-
-1. [Topic]{.blue} → *the writer provides background factual information.*
-
-1. [Problem]{.blue} → *The writer presents the gap/problem to treat*
-
-1. [Research Gap]{.blue} → *the writer states the limits of current knowledge.* 
-
-1. [The purpose]{.blue} : *the writer presents the general aim and the specific aim of the study.*
-
-1. [Methodology]{.blue} → *the writer summarises the methodology and provides details.*
-
-1. [Results]{.blue} → *the writer indicates the achievement of the study.*
-
-1. [Perspectives]{.blue} → *the writer presents the implications of the study.*
-
-
-
-## Your turn ! {background-image="figures/Ratatouille-paper.png" background-size="70%" background-position="90% 30%" }
-
-```{r echo=FALSE}
-countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
-```
-
-
-- What’s the topic?
-- What's the problem?
-- Is it important? 
-- What’s the research question?
-- What is the <br> purpose ?
-- Implications <br> for future ?
-
-
-https://www.youtube.com/watch?v=GgiK-HWKPjw 
-
-
-
-::: aside
-Source: Leone, L. The Ratatouille paradox. An inductive study of creativity in haute cuisine. Technovation (2018) https://doi.org/10.1016/j.technovation.2018.11.003]
-
-:::
-
-
-
-
-
-
-
-
-
-# How to do a Literature Review at ERPI?
-
-## How to do a Literature Review?
+## How to do a Literature Review? {.center}
 
 ## Literature review
 
@@ -320,8 +125,508 @@ Report on your literature findings and beware of:
 
 > **Plagiarism** – the use of another’s original words, arguments, or ideas as though they were your own, even if this is done in good faith, out of carelessness, or out of ignorance.
 
-- Importance of the References .bg-yellow[(Act 03 we'll take a look)]
-
-
+- Importance of the References [(Act III we'll take a look)]{.bg-yellow}
 
 ## Questions {.center}
+
+
+
+# Understanding the Paper structure I
+
+## Reading an Article - Part I {.center}
+
+
+## What is a Research Paper? {background-image="figures/Paper-Alex-01.jpg" background-size="45%" background-position="90% 50%" }
+
+<br><br><br><br>
+
+### Tip 1
+
+**Start by the Outline !!**
+
+
+## What is a Research Paper? {background-image="figures/Paper-Alex-02.png" background-size="45%" background-position="90% 50%" }
+
+
+
+### Tip 2: **Méthode AIC**
+
+
+- [Title]{.bg-yellow} ✅
+- 🔎 **Abstract**
+- 🔎 **Introduction**
+- Literature review
+- Methodology
+- Results
+- Discussion
+- 🔎**Conclusion**
+- References
+
+
+
+## AIC Reading method
+
+For screening read : **Title, Journal, keywords and Abstract**
+
+For detailed synthesis use **AIC**:
+
+- [**Abstract → Summary of the paper**]{.bg-yellow}🔎
+
+- **Introduction → Context of problem and research, gap, summary of what is done**
+
+- **Conclusions → Summary of results and importance of results given the context.**
+
+
+## The abstract {.center}
+
+
+:::: {layout="[50,-1,70]" layout-valign="center"}
+
+::: {}
+> The minimal viable product of a research.
+:::
+
+:::{}
+- What’s the topic?
+- What's the problem? (Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+:::
+::::
+
+
+## Exemple 1 {background-image="figures/Paper-Ferney-00.jpg" background-size="70%" background-position="90% 0%" }
+
+
+:::aside
+Source: Osorio, F., Dupont, L., Camargo, M., Palominos, P., Peña, J.I., Alfaro, M., 2019. Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100. https://doi.org/10.1111/caim.12301
+:::
+
+## Exemple 1 {background-image="figures/Paper-Ferney-01.jpg" background-size="70%" background-position="90% 0%" }
+
+
+::: columns
+::: {.column width="30%"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+::: {.column width="50%"}
+
+:::aside
+Source: Osorio, et al. (2019). Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100. https://doi.org/10.1111/caim.12301
+:::
+:::
+:::
+
+
+## Exemple 2 {background-image="figures/Paper-Sandra.png" background-size="70%" background-position="90% 0%" }
+
+
+::: columns
+::: {.column width="30%"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+::: {.column width="50%"}
+
+:::aside
+Source: Source: https://doi.org/10.1016/j.eiar.2022.106911
+:::
+:::
+:::
+
+
+
+
+## Exemple 3 {background-image="figures/Paper-Alex.png" background-size="70%" background-position="90% 0%" }
+
+
+::: columns
+::: {.column width="30%"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+::: {.column width="50%"}
+
+:::aside
+Source:
+:::
+:::
+:::
+
+
+
+
+
+
+## Mental model when reading an abstract 
+
+
+
+1. [Topic]{.t-blue} → *the writer provides background factual information.*
+
+1. [Problem]{.t-blue} → *The writer presents the gap/problem to treat*
+
+1. [Research Gap]{.t-blue} → *the writer states the limits of current knowledge.* 
+
+1. [The purpose]{.t-blue} : *the writer presents the general aim and the specific aim of the study.*
+
+1. [Methodology]{.t-blue} → *the writer summarises the methodology and provides details.*
+
+1. [Results]{.t-blue} → *the writer indicates the achievement of the study.*
+
+1. [Perspectives]{.t-blue} → *the writer presents the implications of the study.*
+
+
+
+## Your turn ! {background-image="figures/Ratatouille-paper.png" background-size="70%" background-position="90% 30%" }
+
+```{r echo=FALSE}
+countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
+```
+
+
+- What’s the topic?
+- What's the problem?
+- Is it important? 
+- What’s the research question?
+- What is the <br> purpose ?
+- Implications <br> for future ?
+
+
+https://www.youtube.com/watch?v=GgiK-HWKPjw 
+
+
+
+::: aside
+Source: Leone, L. The Ratatouille paradox. An inductive study of creativity in haute cuisine. Technovation (2018) https://doi.org/10.1016/j.technovation.2018.11.003]
+
+:::
+
+
+# Understanding the Paper structure
+
+
+## What is a Research Paper? {background-image="figures/Paper-Alex-02.png" background-size="40%" background-position="90% 30%" }
+
+
+
+- [Title]{.bg-yellow} ✅
+- [Abstract]{.bg-yellow} ✅
+- Introduction
+- Literature review
+- Methodology
+- Results
+- Discussion
+- [Conclusions]{.bg-yellow} ✅
+- References
+
+
+**Méthode AIC**
+
+
+
+
+## Let's talk about
+
+![](figures/ChatGPT-00.webp)
+
+
+## ChatGPT on the Scientific arena
+
+![](figures/ChatGPT-wos.png)
+
+Nothing (In December 2022) ! 😬
+
+
+
+## ChatGPT on the Scientific arena
+
+![](figures/ChatGPT-scopus.png)
+
+Only 3! 😬
+ (In december 2022)
+
+
+## ChatGPT on the Scientific arena
+
+![](figures/ChatGPT-gscholar.png)
+
+
+In december 2022
+
+
+
+## Example of AIC {background-image="figures/ChatGPT-01.png" background-size="45%" background-position="100% 50%" }
+  
+
+:::: {layout="[40, 40]" layout-valign="center"}
+
+::: {}
+
+*Haque, M. U., Dharmadasa, I., Sworna, Z. T., Rajapakse, R. N., & Ahmad, H. (2022). ."I think this is the most disruptive technology": Exploring Sentiments of ChatGPT Early Adopters using Twitter Data. arXiv preprint arXiv:2212.05856.*
+
+https://arxiv.org/abs/2212.05856
+
+:::
+
+:::{}
+
+:::
+
+::::
+
+
+
+## Before reading.. have an lecture grid in mind ❗{background-image="figures/Lecture-grid-00.jpg" background-size="30%" background-position="90% 30%" }
+
+
+![](figures/Lecture-grid-01.jpg)
+
+
+
+## Abstract {background-image="figures/ChatGPT-02.png" background-size="70%" background-position="90% 50%" }
+
+
+
+What’s the topic?
+
+What's the problem?
+
+Is it important? 
+
+What’s the <br> research question?
+
+What is the <br> purpose ?
+
+Implications <br> for future ?
+
+
+
+## Introduction {background-image="figures/ChatGPT-03.png" background-size="70%" background-position="90% 50%" }
+
+
+
+Context
+
+
+Focus on <br>
+the Research object
+
+Hypothesis
+
+
+Presenting methods
+
+
+
+
+## Conclusions {background-image="figures/ChatGPT-05.png" background-size="70%" background-position="90% 50%" }
+
+
+
+- Recall the Purpose
+
+- Summarise Results
+
+- Perspectives
+
+
+
+
+## Reading technique
+
+
+- [1min] [**Screening**] → Title, Journal, keywords
+
+- [5min] [**Profiling**] → Screening + Abstract
+
+
+--
+
+- [20min] [**Focusing**]{.t-peach} → [Profiling] + Introduction + Conclusions
+
+--
+
+- [1hr] [**In deep**]{.t-blue} → Focusing + All other sections
+
+--
+
+
+- [2-3 hr] [**For research**]{.bg-green .bg-peach} → In deep + Reading Grid + References
+
+
+
+
+
+# Structuring your paper
+
+## The scientific history
+
+![](figures/montagnes2022-1.jpg)
+
+
+```
+
+.footnote[Source: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022).]
+
+
+---
+
+## The scientific history
+
+![](figures/montagnes2022.jpg)
+
+
+```
+
+.footnote[Source: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022).]
+
+
+
+---
+
+
+class: top, left
+background-image: url("figures/Structuration-abstract.png")
+background-position: 100% 50%
+background-size: 30%
+
+
+## Abstract
+
+Example of Nature:
+
+
+![](figures/Abstract-nature.png)<br>
+```{r, out.width='45%', fig.align='left'}
+
+```
+
+
+---
+
+class: top, left
+background-image: url("figures/Structuration-introduction.png")
+background-position: 100% 50%
+background-size: 30%
+
+
+
+## Introduction
+
+.pull-left-2[
+
+
+- 1er Paragraphe: établir le contexte, introduire le sujet. Il doit établir l’importance du sujet de recherche 
+
+- 2ème : établir un lien avec la littérature existante 
+
+- 3ème : établir clairement le “Gap to be filled”
+
+- 4émé Expliquer comment on a traité le sujet 
+
+- 5èmé :“Annoncer la couleur” des résultats
+
+- Enfin : Décrire la structure de l’article 
+
+]
+
+---
+
+
+class: top, left
+background-image: url("figures/Structuration-methodology.png")
+background-position: 100% 50%
+background-size: 30%
+
+
+
+## Methodology
+
+.pull-left-2[
+
+![](figures/Structuration-methodology-1.png)
+```{r, out.width='90%', fig.align='left'}
+
+```
+]
+
+---
+
+
+class: top, left
+background-image: url("figures/Structuration-results.png")
+background-position: 100% 50%
+background-size: 30%
+
+## Results
+
+![](figures/Structuration-results-1.png)
+
+
+---
+
+
+class: top, left
+background-image: url("figures/Structuration-discussion.png")
+background-position: 100% 50%
+background-size: 30%
+
+
+
+## Discussion & Conclusions
+
+![](figures/Structuration-discussion-1.png)
+
+## The scientific history
+
+![](figures/montagnes2022.jpg)
+
+:::aside
+Source: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022).
+:::
+
+
+## Some web ressources for writing
+
+- [Essay and dissertation writing skills](https://www.ox.ac.uk/students/academic/guidance/skills/essay)
+
+- [Guide pratique](http://www.cms.fss.ulaval.ca/recherche/upload/jefar/fichiers/devenir_chercheure_nov_2017_web.pdf)
+
+- [Rédiger un article scientifique par David Lindsay, Pascal Poindron](https://www-cairn-info.bases-doc.univ-lorraine.fr/guide-de-redaction-scientifique--9782759210220-page-25.htm)
+
+- [Writing a scientific article: A step-by-step guide for beginners](http://halfonlab.ccr.buffalo.edu/other_docs/scientific_paper.pdf)
+
+- [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005619&type=printable)
+
+- [Writing for Impact: How to Prepare a Journal Article](https://static1.squarespace.com/static/5854aaa044024321a353bb0d/t/5a14af7271c10b644be97217/1511305075667/WritingForImpact.PDF)
+
+- [Writing the Research Paper: a Handbook](http://ngoaingu.vimaru.edu.vn/wp-content/uploads/Anthony-C.-Winkler-Jo-Ray-Metherell-Writing-the-Research-Paper_-A-Handbook-Wadsworth-Cengage-Learning-2011.pdf)
+
+
+
+
