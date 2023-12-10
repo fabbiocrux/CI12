@@ -27,3 +27,22 @@ $presentation-heading-color: $morado;
   text-align: center;
 }
 
+/* file: style.css */
+#vcenter {
+  vertical-align: middle !important; 
+  text-align: left !important;
+}
+
+.center-xy {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 0%;
+  -ms-transform: translateY(-50%), translateX(-50%);
+  transform: translateY(-50%), translateX(-50%);
+}
+
+
+.blue { 
+  color:blue
+  }
