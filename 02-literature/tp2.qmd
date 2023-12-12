@@ -7,11 +7,13 @@ author:
   - "MdC. Fabio A. CRUZ SANCHEZ"
   - "Pr. Mauricio Camargo"
 date: 06-Dec-2023
+fig-align: center
 metadata-files:
   - _metadata.yml
 format:
   revealjs:
-    footer: 'TD1: Scientific Landscape'
+    footer: 'TD2: Literature Review'
+    header: ' '
     subtitle-as-header: true
     slide-level: 3
 ---
@@ -26,36 +28,45 @@ library(countdown)
 
 ::: columns
 ::: {.column width="30%"}
-![Step 1: Define the research questions](figures/Step-2a.jpg){fig-align="center"}
+
+**WoS + Bibliometrix**
+
+![](figures/bibliometrix-02.png){width="900" fig-align="center"}
 :::
 
 ::: {.column width="30%"}
-![Step 2: Define research equation to use in WoS](figures/Step-2b.jpg){fig-align="center"}
+
+**Abstract**
+
+
 :::
 
 ::: {.column width="30%"}
-![Step 3: Visualize & Analize Scientific and Patent databases](figures/Step-2c.jpg){fig-align="center"}
+
+**Article**
+
+
 :::
 
 :::
 
 
-## Bibliometric mapping: Vosviewer
+## Bibliometrix sofware: Literature Review
 
-![](figures/vos/09.jpg){width="900" fig-align="center"}
+![](figures/bibliometrix-02.png){width="900" fig-align="center"}
 
-[Download at https://www.vosviewer.com/](https://www.vosviewer.com/)
+[Connectez-vous at https://posit.cloud/content/7229125](https://posit.cloud/content/7229125)
 
 ::: aside
-van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. https://doi.org/10.1007/s11192-009-0146-3
+Source: 
 :::
 
 
-## Step 1: Research conceptualization
+## Step 1: Bibliometrix Anlaysis
 
 ::: columns
 ::: {.column width="50%"}
-![Goal Step 2a : Define the research questions](figures/Step-2a.jpg){fig-align="center"}
+
 :::
 
 ::: {.column width="50%"}
@@ -69,11 +80,11 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 :::
 
 
-## Step 2: Scientific screening
+## Step 2: Abstract Analysis
 
 ::: columns
 ::: {.column width="50%"}
-![Goal Step 2a : Define the research questions](figures/Step-2b.jpg){fig-align="center"}
+
 :::
 
 ::: {.column width="50%"}
@@ -86,11 +97,12 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 :::
 :::
 
-## Step 3: Comparing the scientific and the Patent domains
+## Step 3: Article Analysis
 
 ::: columns
 ::: {.column width="50%"}
-![Goal Step 2c : Comparing the scientific and the Patent domains](figures/Step-2c.jpg){fig-align="center"}
+
+
 :::
 
 ::: {.column width="50%"}
@@ -105,14 +117,190 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 
 # Tutorials
 
-## List of tutorials
+## List of tutorials {#tutorials}
 
-1. [Access to WoS database](#access)
-1. [Web of Science Interface](#wos)
-1. [Results on WoS plateform](#wos-results)
-1. [Web of Science: Export results](#wos-export)
-1. [Scientific Network visualization](#sci-vos)
-1. [Patent Network visualization](#pat-vos)
+1. [Access to WOS](#wos)
+1. [Use of Bibliometrix](#biblio)
+1. [Doawnload Articles](#wos-results)
 
 
-##  Access to WoS database {#access .center}
+
+##  Web Of Science
+
+###  WoS database: Access 
+
+
+[**Acces to Web Of Science**](https://www-webofscience-com.bases-doc.univ-lorraine.fr/wos/woscc/basic-search)
+
+![](figures/wos-01.png){fig-align="center"}
+
+###  WoS database: Download `.bib` 
+
+
+**Download documents in format `.bib`**
+
+![](figures/wos-02.png)
+
+
+
+###  WoS database: full record 
+
+**Download documents in format `.bib`**
+
+![](figures/wos-03.png)
+
+
+##  Bibliometrix
+
+
+###  Bibliometrix: Access
+
+[Connectez-vous at https://posit.cloud/content/7229125](https://posit.cloud/content/7229125)
+
+![](figures/bibliometrix-00.png)
+
+###  Bibliometrix: Interface of R 
+
+![](figures/bibliometrix-01.png)
+
+
+###  Bibliometrix: Interface
+
+![](figures/bibliometrix-02.png)
+
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-03.png)
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-04.png)
+
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-05.png)
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-06.png)
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-07.png)
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-08.png)
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-09.png)
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-10.png)
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-11.png)
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-12.png)
+
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-13.png)
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-14.png)
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-15.png)
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-16.png)
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-17.png)
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-18.png)
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-19.png)
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-20.png)
+
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-21.png)
+
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-22.png)
+
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-23.png)
+
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-24.png)
+
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-25.png)
+
+
+###  Bibliometrix: 
+
+![](figures/bibliometrix-26.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
