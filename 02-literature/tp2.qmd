@@ -142,7 +142,6 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 ![](figures/wos-02.png)
 
 
-
 ###  WoS database: full record 
 
 **Download documents in format `.bib`**

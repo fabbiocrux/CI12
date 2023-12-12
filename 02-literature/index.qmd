@@ -28,11 +28,18 @@ library(countdown)
 
 ## Learning objectives of today
 
-1. Know the How to read and scientific article? (and trying not to die)
 
-1. Know-how look for scientific databases
+1. 🧠 **Knowledge** : 
+   - Sensibilization on what a **scientific research paper** is. 
 
-1. Make a visualization of scientific landscapes
+1. 🔨 **Know-how** : 
+   - Search on pertinent scientific databases 
+   - How to start to read  scientific article 
+   - Crical thinking of research papers
+   - Visualization of literature review features.
+
+1. ✍**Competence**  : 
+   - Be able to structure a literature review.
 
 
 
@@ -197,18 +204,19 @@ For detailed synthesis use **AIC**:
 ::::
 
 
-## Exemple 1 {background-image="figures/Paper-Ferney-00.jpg" background-size="70%" background-position="90% 0%" }
+## Exemple 1 {background-image="figures/ferney-00.png" background-size="60%" background-position="90% 0%" }
 
 
 :::aside
-Source: Osorio, F., Dupont, L., Camargo, M., Palominos, P., Peña, J.I., Alfaro, M., 2019. Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100. https://doi.org/10.1111/caim.12301
+:::: {layout="[17, 40]"}
+**Source**: Osorio et al (2019). Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100. https://doi.org/10.1111/caim.12301
+
+::::
 :::
 
-## Exemple 1 {background-image="figures/Paper-Ferney-01.jpg" background-size="70%" background-position="90% 0%" }
+## Exemple 1 {background-image="figures/ferney-01.png" background-size="60%" background-position="90% 0%" }
 
-
-::: columns
-::: {.column width="30%"}
+::: {layout="[30]"}
 
 - What’s the topic?
 - What's the problem?<br>(Is it important? )
@@ -219,20 +227,19 @@ Source: Osorio, F., Dupont, L., Camargo, M., Palominos, P., Peña, J.I., Alfaro,
 
 :::
 
-::: {.column width="50%"}
 
 :::aside
-Source: Osorio, et al. (2019). Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100. https://doi.org/10.1111/caim.12301
+:::: {layout="[17, 40]"}
+**Source**: Osorio et al (2019). Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100. https://doi.org/10.1111/caim.12301
+
+::::
 :::
-:::
-:::
 
 
-## Exemple 2 {background-image="figures/Paper-Sandra.png" background-size="70%" background-position="90% 0%" }
+## Exemple 2 {background-image="figures/Sandra-00.png" background-size="60%" background-position="90% 0%" }
 
 
-::: columns
-::: {.column width="30%"}
+::: {layout="[30]"}
 
 - What’s the topic?
 - What's the problem?<br>(Is it important? )
@@ -243,22 +250,18 @@ Source: Osorio, et al. (2019). Design and management of innovation laboratories:
 
 :::
 
-::: {.column width="50%"}
-
 :::aside
-Source: Source: https://doi.org/10.1016/j.eiar.2022.106911
+:::: {layout="[40, 40]"}
+**Source**: 
+Marche, et al 2022. Qualitative sustainability assessment of road verge management in France: An approach from causal diagrams to seize the importance of impact pathways. Environmental Impact Assessment Review 97, 106911. https://doi.org/10.1016/j.eiar.2022.106911
+::::
 :::
-:::
-:::
 
 
 
+## Exemple 2 {background-image="figures/Sandra-01.png" background-size="60%" background-position="90% 0%" }
 
-## Exemple 3 {background-image="figures/Paper-Alex.png" background-size="70%" background-position="90% 0%" }
-
-
-::: columns
-::: {.column width="30%"}
+::: {layout="[30]"}
 
 - What’s the topic?
 - What's the problem?<br>(Is it important? )
@@ -269,15 +272,60 @@ Source: Source: https://doi.org/10.1016/j.eiar.2022.106911
 
 :::
 
-::: {.column width="50%"}
+:::aside
+:::: {layout="[40, 40]"}
+**Source**: <br>
+Marche, et al. (2022)., Qualitative sustainability assessment of road verge management in France: An approach from causal diagrams to seize the importance of impact pathways. Environmental Impact Assessment Review 97, 106911. https://doi.org/10.1016/j.eiar.2022.106911
+::::
+:::
+
+
+
+## Exemple 3 {background-image="figures/Alex-00.png" background-size="60%" background-position="90% 0%" }
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
 
 :::aside
-Source:
-:::
-:::
+:::: {layout="[40, 40]"}
+**Source**: <br>
+Gabriel, et al. (2016), Creativity support systems: A systematic mapping study. Thinking Skills and Creativity 21, 109–122. https://doi.org/10.1016/j.tsc.2016.05.009
+
+::::
 :::
 
 
+## Exemple 3 {background-image="figures/Alex-01.png" background-size="60%" background-position="90% 50%" }
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+
+
+:::aside
+:::: {layout="[40, 40]"}
+**Source**: <br>
+Gabriel, et al. (2016), Creativity support systems: A systematic mapping study. Thinking Skills and Creativity 21, 109–122. https://doi.org/10.1016/j.tsc.2016.05.009
+
+::::
+:::
 
 
 
@@ -302,22 +350,34 @@ Source:
 
 
 
-## Your turn ! {background-image="figures/Ratatouille-paper.png" background-size="70%" background-position="90% 30%" }
+## Your turn ! {background-image="figures/Ratatouille-paper.png" background-size="60%" background-position="90% 30%" }
 
 ```{r echo=FALSE}
 countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
 ```
 
 
+::: {layout="[30]"}
+
 - What’s the topic?
-- What's the problem?
-- Is it important? 
+- What's the problem?<br>(Is it important? )
 - What’s the research question?
-- What is the <br> purpose ?
-- Implications <br> for future ?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
 
 
+:::aside
+:::: {layout="[40, 40]"}
+**Source**: <br>
 https://www.youtube.com/watch?v=GgiK-HWKPjw 
+::::
+:::
+
+
+
 
 
 
