@@ -124,6 +124,24 @@ Example 1:
 [https://doi.org/10.1016/j.jclepro.2020.121602](https://doi.org/10.1016/j.jclepro.2020.121602) 
 
 
+
+## A Useful ressource {background-image="figures/Siddaway2019.png" background-size="45%" background-position="90% 50%" }
+
+
+
+:::: {layout="[30, 30]"}
+
+:::{}
+
+Siddaway, A.P., Wood, A.M., Hedges, L.V., 2019. How to Do a Systematic Review: A Best Practice Guide for Conducting and Reporting Narrative Reviews, Meta-Analyses, and Meta-Syntheses. Annual Review of Psychology 70, 747–770. https://doi.org/10.1146/annurev-psych-010418-102803
+
+:::
+
+::::
+
+
+
+
 ## Literature review – Ethics
 
 Report on your literature findings and beware of:

@@ -66,27 +66,16 @@ library(countdown)
 :::
 
 
-## Bibliometrix sofware: Literature Review
+## Bibliometrix software
 
 🔗 [Connectez-vous at https://posit.cloud/content/7229125](https://posit.cloud/content/7229125)
 
 
 ![](figures/bibliometrix-02.png){width="900" fig-align="center"}
 
-
-## Bibliometrix sofware
-
-🔗 [Connectez-vous at https://posit.cloud/content/7229125](https://posit.cloud/content/7229125)
-
-
-![](figures/bibliometrix-02.png){width="900" fig-align="center"}
-
-##  Bibliometrix Anlaysis
+##  Bibliometrix tutorials
 
 Official tutorials:
-
-
-
 
 
 ::: columns
@@ -112,6 +101,7 @@ Official tutorials:
 :::
 :::
 
+https://bibliometrix.org/ > Tutorials > Biblioshiny
 
 # Tutorials
 
