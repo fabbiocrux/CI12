@@ -1,6 +1,6 @@
 ---
-title: "TD2 : Bibliometrix"
-subtitle: "Literature Review"  
+title: "TD2 : Literature review"
+subtitle: "Bibliometrix et al. (2023)"  
 email: "cruzsanc1@univ-lorraine.fr"
 institute: "Université de Lorraine | ENSGSI"
 author: 
@@ -31,12 +31,23 @@ library(countdown)
 
 **WoS + Bibliometrix**
 
-![](figures/bibliometrix-02.png){width="900" fig-align="center"}
+✅ Select at least 5 important papers
+
+![](figures/wos-01.png){width="90%" fig-align="center"}
+
+
+![](figures/bibliometrix-02.png){width="90%" fig-align="center"}
+
+
 :::
 
 ::: {.column width="30%"}
 
 **Abstract**
+
+✅ Analyse 3 paper's abstract
+
+![](figures/Paper-Ferney-01.jpg){width="90%" fig-align="center"}
 
 
 :::
@@ -44,6 +55,10 @@ library(countdown)
 ::: {.column width="30%"}
 
 **Article**
+
+✅ 1 full paper analysis
+
+![](figures/Paper-Alex-02.png){width="90%" fig-align="center"}
 
 
 :::
@@ -53,77 +68,91 @@ library(countdown)
 
 ## Bibliometrix sofware: Literature Review
 
+🔗 [Connectez-vous at https://posit.cloud/content/7229125](https://posit.cloud/content/7229125)
+
+
 ![](figures/bibliometrix-02.png){width="900" fig-align="center"}
 
-[Connectez-vous at https://posit.cloud/content/7229125](https://posit.cloud/content/7229125)
 
-::: aside
-Source: 
-:::
+## Bibliometrix sofware
 
-
-## Step 1: Bibliometrix Anlaysis
-
-::: columns
-::: {.column width="50%"}
-
-:::
-
-::: {.column width="50%"}
-
-```{r, include=TRUE}
-countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", padding = "5px",
-          margin = "5px",)
-```
-
-:::
-:::
+🔗 [Connectez-vous at https://posit.cloud/content/7229125](https://posit.cloud/content/7229125)
 
 
-## Step 2: Abstract Analysis
+![](figures/bibliometrix-02.png){width="900" fig-align="center"}
+
+##  Bibliometrix Anlaysis
+
+Official tutorials:
+
+
+
+
 
 ::: columns
-::: {.column width="50%"}
+::: {.column width="30%"}
+[**Introduction:**](https://bibliometrix.org/biblioshiny/biblioshiny1.html)
+
+![](figures/bibliometrix-tutorial-01.png){width="90%" fig-align="center"}
 
 :::
 
-::: {.column width="50%"}
+::: {.column width="30%"}
+[**Medium:** Focus on Domain](https://bibliometrix.org/biblioshiny/biblioshiny2.html)
 
-```{r, include=TRUE}
-countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", padding = "5px",
-          margin = "5px",)
-```
+![](figures/bibliometrix-tutorial-02.png){width="90%" fig-align="center"}
+
+:::
+
+::: {.column width="30%"}
+[**Advanced:** Knowledge synthesis](https://bibliometrix.org/biblioshiny/biblioshiny3.html)
+
+![](figures/bibliometrix-tutorial-03.png){width="90%" fig-align="center"}
 
 :::
 :::
 
-## Step 3: Article Analysis
-
-::: columns
-::: {.column width="50%"}
-
-
-:::
-
-::: {.column width="50%"}
-
-```{r, include=TRUE}
-countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", padding = "5px",
-          margin = "5px",)
-```
-
-:::
-:::
 
 # Tutorials
 
-## List of tutorials {#tutorials}
+## List of tutorials
 
+1. [Bibliographic Management](#zotero)
 1. [Access to WOS](#wos)
 1. [Use of Bibliometrix](#biblio)
-1. [Doawnload Articles](#wos-results)
+1. [Download Articles](#wos-results)
 
 
+
+##  Bibliographic Management {.center}
+
+### Research reference managers (Mendeley, Zotero)
+
+- Allows you to organize, collaborate, discover, and to cite as you write 
+
+![](figures/References-00.png)
+
+### Research reference managers (Mendeley, Zotero)
+
+- Allows you to organize, collaborate, discover, and to cite as you write 
+
+![](figures/References-01.png)
+
+
+💡 **Recomendation: https://www.zotero.org/**
+
+
+### Zotero Extension
+
+You can install the (Chrome / Mozilla) extension:
+
+![](figures/Zotero-extension.png)
+
+### Zotero Tip Login
+
+💡 Tip: https://bu.univ-lorraine.fr/ressources-en-ligne/trucs-et-astuces
+
+![](figures/tip.png)
 
 ##  Web Of Science
 
@@ -151,10 +180,9 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 
 ##  Bibliometrix
 
-
 ###  Bibliometrix: Access
 
-[Connectez-vous at https://posit.cloud/content/7229125](https://posit.cloud/content/7229125)
+⚠️ Connect on: [ **https://posit.cloud/content/7229125**](https://posit.cloud/content/7229125)
 
 ![](figures/bibliometrix-00.png)
 

@@ -350,7 +350,7 @@ Gabriel, et al. (2016), Creativity support systems: A systematic mapping study. 
 
 
 
-## Your turn ! {background-image="figures/Ratatouille-paper.png" background-size="60%" background-position="90% 30%" }
+## Your turn ! {background-image="figures/Ratatouille-paper.png" background-size="60%" background-position="90% 20%" }
 
 ```{r echo=FALSE}
 countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
@@ -371,7 +371,7 @@ countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
 
 :::aside
 :::: {layout="[40, 40]"}
-**Source**: <br>
+**Video**: <br>
 https://www.youtube.com/watch?v=GgiK-HWKPjw 
 ::::
 :::
@@ -443,7 +443,7 @@ In december 2022
 ## Example of AIC {background-image="figures/ChatGPT-01.png" background-size="45%" background-position="100% 50%" }
   
 
-:::: {layout="[40, 40]" layout-valign="center"}
+:::: {layout="[40, 40]" }
 
 ::: {}
 
@@ -453,18 +453,27 @@ https://arxiv.org/abs/2212.05856
 
 :::
 
-:::{}
-
-:::
 
 ::::
 
 
 
-## Before reading.. have an lecture grid in mind ❗{background-image="figures/Lecture-grid-00.jpg" background-size="30%" background-position="90% 30%" }
+## Before reading.. have an lecture grid in mind ❗
 
 
+:::: {layout="[40, 40]" }
+
+::: {}
 ![](figures/Lecture-grid-01.jpg)
+:::
+
+::: {}
+![](figures/Lecture-grid-00.jpg)
+:::
+
+::::
+
+
 
 
 

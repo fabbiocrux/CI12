@@ -1229,7 +1229,7 @@
     "href": "02-literature/index.html#your-turn",
     "title": "Act II: Literature review",
     "section": "Your turn !",
-    "text": "Your turn !\n\n\n\n−+\n05:00\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\n\n\n\n\n\nSource:  https://www.youtube.com/watch?v=GgiK-HWKPjw\n\n\n\n\nSource: Leone, L. The Ratatouille paradox. An inductive study of creativity in haute cuisine. Technovation (2018) https://doi.org/10.1016/j.technovation.2018.11.003]"
+    "text": "Your turn !\n\n\n\n−+\n05:00\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\n\n\n\n\n\nVideo:  https://www.youtube.com/watch?v=GgiK-HWKPjw\n\n\n\n\nSource: Leone, L. The Ratatouille paradox. An inductive study of creativity in haute cuisine. Technovation (2018) https://doi.org/10.1016/j.technovation.2018.11.003]"
   },
   {
     "objectID": "02-literature/index.html#exemple-3",
@@ -1404,14 +1404,14 @@
     "href": "02-literature/tp2.html#the-exercises",
     "title": "TD2 : Bibliometrix",
     "section": "The Exercises",
-    "text": "The Exercises\n\n\nWoS + Bibliometrix\n\n\n\n\n\n\nAbstract\n\nArticle"
+    "text": "The Exercises\n\n\nWoS + Bibliometrix\n✅ Select at least 5 important papers\n\n\n\n\n\n\n\n\n\n\n\nAbstract\n✅ Analyse 3 paper’s abstract\n\n\n\n\n\n\nArticle\n✅ 1 full paper analysis"
   },
   {
     "objectID": "02-literature/tp2.html#bibliometrix-sofware-literature-review",
     "href": "02-literature/tp2.html#bibliometrix-sofware-literature-review",
     "title": "TD2 : Bibliometrix",
     "section": "Bibliometrix sofware: Literature Review",
-    "text": "Bibliometrix sofware: Literature Review\n\n\n\n\n\nConnectez-vous at https://posit.cloud/content/7229125\n\n\nSource:"
+    "text": "Bibliometrix sofware: Literature Review\n🔗 Connectez-vous at https://posit.cloud/content/7229125"
   },
   {
     "objectID": "02-literature/tp2.html#step-1-bibliometrix-anlaysis",
@@ -1439,7 +1439,7 @@
     "href": "02-literature/tp2.html#list-of-tutorials",
     "title": "TD2 : Bibliometrix",
     "section": "List of tutorials",
-    "text": "List of tutorials\n\nAccess to Bibliometrix\nUse of Bibliometrix\nDoawnload Articles"
+    "text": "List of tutorials\n\nBibliographic Management\nAccess to WOS\nUse of Bibliometrix\nDownload Articles"
   },
   {
     "objectID": "02-literature/tp2.html#access",
@@ -1453,7 +1453,7 @@
     "href": "02-literature/tp2.html#tutorials",
     "title": "TD2 : Bibliometrix",
     "section": "List of tutorials",
-    "text": "List of tutorials\n\nAccess to WOS\nUse of Bibliometrix\nDoawnload Articles"
+    "text": "List of tutorials\n\nBibliographic Management\nAccess to WOS\nUse of Bibliometrix\nDoawnload Articles"
   },
   {
     "objectID": "02-literature/tp2.html#wos",
@@ -1517,5 +1517,26 @@
     "title": "Act II: Literature review",
     "section": "Exemple 3",
     "text": "Exemple 3\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\n\n\n\n\nSource:  Gabriel, et al. (2016), Creativity support systems: A systematic mapping study. Thinking Skills and Creativity 21, 109–122. https://doi.org/10.1016/j.tsc.2016.05.009"
+  },
+  {
+    "objectID": "02-literature/tp2.html#bibliographic-management",
+    "href": "02-literature/tp2.html#bibliographic-management",
+    "title": "TD2 : Bibliometrix",
+    "section": "Bibliographic Management",
+    "text": "Bibliographic Management"
+  },
+  {
+    "objectID": "02-literature/tp2.html#bibliometrix-sofware",
+    "href": "02-literature/tp2.html#bibliometrix-sofware",
+    "title": "TD2 : Bibliometrix",
+    "section": "Bibliometrix sofware",
+    "text": "Bibliometrix sofware\n🔗 Connectez-vous at https://posit.cloud/content/7229125"
+  },
+  {
+    "objectID": "02-literature/tp2.html#bibliometrix-anlaysis",
+    "href": "02-literature/tp2.html#bibliometrix-anlaysis",
+    "title": "TD2 : Bibliometrix",
+    "section": "Bibliometrix Anlaysis",
+    "text": "Bibliometrix Anlaysis\nOfficial tutorials:\n\n\nIntroduction:\n\n\n\n\n\n\nMedium: Focus on Domain\n\n\n\n\n\n\nAdvanced: Knowledge synthesis"
   }
 ]
