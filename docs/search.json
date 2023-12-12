@@ -1299,7 +1299,7 @@
     "href": "02-literature/index.html#the-scientific-history",
     "title": "Act II: Literature review",
     "section": "The scientific history",
-    "text": "The scientific history\n\n\n.footnote[Source: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022).]\n\n\n---\n\n## The scientific history\n\n![](figures/montagnes2022.jpg)\n\n\n.footnote[Source: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022).]"
+    "text": "The scientific history\n\n\n\nSource: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022)."
   },
   {
     "objectID": "02-literature/index.html#abstract-1",
@@ -1313,14 +1313,14 @@
     "href": "02-literature/index.html#introduction-1",
     "title": "Act II: Literature review",
     "section": "Introduction",
-    "text": "Introduction\n.pull-left-2[\n\n1er Paragraphe: établir le contexte, introduire le sujet. Il doit établir l’importance du sujet de recherche\n2ème : établir un lien avec la littérature existante\n3ème : établir clairement le “Gap to be filled”\n4émé Expliquer comment on a traité le sujet\n5èmé :“Annoncer la couleur” des résultats\nEnfin : Décrire la structure de l’article\n\n]"
+    "text": "Introduction\n\n\n\n1er Paragraphe: établir le contexte, introduire le sujet. Il doit établir l’importance du sujet de recherche\n2ème : établir un lien avec la littérature existante\n3ème : établir clairement le “Gap to be filled”\n4émé Expliquer comment on a traité le sujet\n5èmé :“Annoncer la couleur” des résultats\nEnfin : Décrire la structure de l’article"
   },
   {
     "objectID": "02-literature/index.html#methodology",
     "href": "02-literature/index.html#methodology",
     "title": "Act II: Literature review",
     "section": "Methodology",
-    "text": "Methodology\n.pull-left-2[\n\n]"
+    "text": "Methodology"
   },
   {
     "objectID": "02-literature/index.html#results",
@@ -1391,5 +1391,12 @@
     "title": "Act II: Literature review",
     "section": "Example of AIC",
     "text": "Example of AIC\n\n\n\nHaque, M. U., Dharmadasa, I., Sworna, Z. T., Rajapakse, R. N., & Ahmad, H. (2022). .”I think this is the most disruptive technology”: Exploring Sentiments of ChatGPT Early Adopters using Twitter Data. arXiv preprint arXiv:2212.05856.\nhttps://arxiv.org/abs/2212.05856"
+  },
+  {
+    "objectID": "02-literature/index.html#the-scientific-history-2",
+    "href": "02-literature/index.html#the-scientific-history-2",
+    "title": "Act II: Literature review",
+    "section": "The scientific history",
+    "text": "The scientific history\n\n\n\nSource: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022)."
   }
 ]

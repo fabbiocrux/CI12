@@ -484,123 +484,88 @@ Presenting methods
 
 # Structuring your paper
 
-## The scientific history
+## The scientific history 
 
 ![](figures/montagnes2022-1.jpg)
 
 
-```
-
-.footnote[Source: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022).]
 
 
----
+:::aside
+Source: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022).
+:::  
+
+
 
 ## The scientific history
 
 ![](figures/montagnes2022.jpg)
 
 
-```
-
-.footnote[Source: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022).]
-
-
-
----
+:::aside
+Source: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022).
+:::
 
 
-class: top, left
-background-image: url("figures/Structuration-abstract.png")
-background-position: 100% 50%
-background-size: 30%
 
 
-## Abstract
+
+
+## Abstract {background-image="figures/Structuration-abstract.png" background-size="30%" background-position="90% 50%" }
 
 Example of Nature:
 
 
-![](figures/Abstract-nature.png)<br>
-```{r, out.width='45%', fig.align='left'}
-
-```
-
-
----
-
-class: top, left
-background-image: url("figures/Structuration-introduction.png")
-background-position: 100% 50%
-background-size: 30%
+![](figures/Abstract-nature.png)
 
 
 
-## Introduction
 
-.pull-left-2[
+## Introduction {background-image="figures/Structuration-introduction.png" background-size="30%" background-position="90% 50%" }
 
+
+
+::: columns
+::: {.column width="50%"}
 
 - 1er Paragraphe: établir le contexte, introduire le sujet. Il doit établir l’importance du sujet de recherche 
-
 - 2ème : établir un lien avec la littérature existante 
-
 - 3ème : établir clairement le “Gap to be filled”
-
 - 4émé Expliquer comment on a traité le sujet 
-
 - 5èmé :“Annoncer la couleur” des résultats
-
 - Enfin : Décrire la structure de l’article 
 
-]
 
----
+:::
 
+::: {.column width="30%"}
 
-class: top, left
-background-image: url("figures/Structuration-methodology.png")
-background-position: 100% 50%
-background-size: 30%
+:::
+:::
 
 
 
-## Methodology
 
-.pull-left-2[
+
+## Methodology {background-image="figures/Structuration-methodology.png" background-size="30%" background-position="90% 50%" }
+
 
 ![](figures/Structuration-methodology-1.png)
-```{r, out.width='90%', fig.align='left'}
-
-```
-]
-
----
 
 
-class: top, left
-background-image: url("figures/Structuration-results.png")
-background-position: 100% 50%
-background-size: 30%
 
-## Results
+## Results {background-image="figures/Structuration-results.png" background-size="30%" background-position="90% 50%" }
 
 ![](figures/Structuration-results-1.png)
 
 
----
 
 
-class: top, left
-background-image: url("figures/Structuration-discussion.png")
-background-position: 100% 50%
-background-size: 30%
+## Discussion & Conclusions {background-image="figures/Structuration-discussion.png" background-size="30%" background-position="90% 50%" }
 
 
+![](figures/Structuration-discussion-1.png){width=30%}
 
-## Discussion & Conclusions
-
-![](figures/Structuration-discussion-1.png)
 
 ## The scientific history
 
