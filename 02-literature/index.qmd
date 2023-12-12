@@ -156,7 +156,7 @@ Report on your literature findings and beware of:
 
 
 
-# Understanding the Paper structure I
+# Understanding the Abstract
 
 ## Reading an Article - Part I {.center}
 
@@ -405,7 +405,7 @@ Source: Leone, L. The Ratatouille paradox. An inductive study of creativity in h
 :::
 
 
-# Understanding the Paper structure
+# Understanding the paper structure
 
 
 ## What is a Research Paper? {background-image="figures/Paper-Alex-02.png" background-size="40%" background-position="90% 30%" }
