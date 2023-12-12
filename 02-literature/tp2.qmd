@@ -1,0 +1,118 @@
+---
+title: "TD2 : Bibliometrix"
+subtitle: "Literature Review"  
+email: "cruzsanc1@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+author: 
+  - "MdC. Fabio A. CRUZ SANCHEZ"
+  - "Pr. Mauricio Camargo"
+date: 06-Dec-2023
+metadata-files:
+  - _metadata.yml
+format:
+  revealjs:
+    footer: 'TD1: Scientific Landscape'
+    subtitle-as-header: true
+    slide-level: 3
+---
+
+```{r}
+library(countdown)
+```
+
+# Presentation of TD
+
+## The Exercises
+
+::: columns
+::: {.column width="30%"}
+![Step 1: Define the research questions](figures/Step-2a.jpg){fig-align="center"}
+:::
+
+::: {.column width="30%"}
+![Step 2: Define research equation to use in WoS](figures/Step-2b.jpg){fig-align="center"}
+:::
+
+::: {.column width="30%"}
+![Step 3: Visualize & Analize Scientific and Patent databases](figures/Step-2c.jpg){fig-align="center"}
+:::
+
+:::
+
+
+## Bibliometric mapping: Vosviewer
+
+![](figures/vos/09.jpg){width="900" fig-align="center"}
+
+[Download at https://www.vosviewer.com/](https://www.vosviewer.com/)
+
+::: aside
+van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. https://doi.org/10.1007/s11192-009-0146-3
+:::
+
+
+## Step 1: Research conceptualization
+
+::: columns
+::: {.column width="50%"}
+![Goal Step 2a : Define the research questions](figures/Step-2a.jpg){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+
+```{r, include=TRUE}
+countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", padding = "5px",
+          margin = "5px",)
+```
+
+:::
+:::
+
+
+## Step 2: Scientific screening
+
+::: columns
+::: {.column width="50%"}
+![Goal Step 2a : Define the research questions](figures/Step-2b.jpg){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+
+```{r, include=TRUE}
+countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", padding = "5px",
+          margin = "5px",)
+```
+
+:::
+:::
+
+## Step 3: Comparing the scientific and the Patent domains
+
+::: columns
+::: {.column width="50%"}
+![Goal Step 2c : Comparing the scientific and the Patent domains](figures/Step-2c.jpg){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+
+```{r, include=TRUE}
+countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", padding = "5px",
+          margin = "5px",)
+```
+
+:::
+:::
+
+# Tutorials
+
+## List of tutorials
+
+1. [Access to WoS database](#access)
+1. [Web of Science Interface](#wos)
+1. [Results on WoS plateform](#wos-results)
+1. [Web of Science: Export results](#wos-export)
+1. [Scientific Network visualization](#sci-vos)
+1. [Patent Network visualization](#pat-vos)
+
+
+##  Access to WoS database {#access .center}
