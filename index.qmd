@@ -1,17 +1,41 @@
 ---
 title: "Research, Innovation & Development"
 subtitle: "ENSGSI"
-listing:
-  id: all-presentations 
-  contents: 01-introduction
-  type: table
-  fields: [title, date ]
-  page-size: 10
 ---
 
 The list of presentations
 
-:::{#all-presentations}
-:::
+# Day 1: Introduction
+
+## What is scientific research?
+
+```{=html}
+<iframe class="slide-deck" src="01-introduction/slides.html" width="100%"
+    height="500"></iframe>
+```
+
+## Scientific Landscape
+
+```{=html}
+<iframe class="slide-deck" src="01-introduction/tp1.html" width="100%"
+    height="500"></iframe>
+```
+
+# Day 2: Literature  Review
+
+
+## What is a Literature Review
+
+```{=html}
+<iframe class="slide-deck" src="02-literature/index.html" width="100%"
+    height="500"></iframe>
+```
+
+## Reading Scientific literature
+
+```{=html}
+<iframe class="slide-deck" src="02-literature/tp2.html" width="100%"
+    height="500"></iframe>
+```
 
 

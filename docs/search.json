@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Research, Innovation & Development",
     "section": "",
-    "text": "The list of presentations\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nDate\n\n\n\n\n\n\nCI12: Research, Innovation & Development\n\n\nDec 6, 2023\n\n\n\n\nTD1 : Research Landscape via Vosviewer\n\n\nDec 6, 2023\n\n\n\n\nWhat is Scientific Research?\n\n\nDec 6, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "The list of presentations"
   },
   {
     "objectID": "01-introduction/index.html",
@@ -1402,7 +1402,7 @@
   {
     "objectID": "02-literature/tp2.html#the-exercises",
     "href": "02-literature/tp2.html#the-exercises",
-    "title": "TD2 : Bibliometrix",
+    "title": "TD2 : Literature review",
     "section": "The Exercises",
     "text": "The Exercises\n\n\nWoS + Bibliometrix\n✅ Select at least 5 important papers\n\n\n\n\n\n\n\n\n\n\n\nAbstract\n✅ Analyse 3 paper’s abstract\n\n\n\n\n\n\nArticle\n✅ 1 full paper analysis"
   },
@@ -1437,7 +1437,7 @@
   {
     "objectID": "02-literature/tp2.html#list-of-tutorials",
     "href": "02-literature/tp2.html#list-of-tutorials",
-    "title": "TD2 : Bibliometrix",
+    "title": "TD2 : Literature review",
     "section": "List of tutorials",
     "text": "List of tutorials\n\nBibliographic Management\nAccess to WOS\nUse of Bibliometrix\nDownload Articles"
   },
@@ -1493,14 +1493,14 @@
   {
     "objectID": "02-literature/tp2.html#web-of-science",
     "href": "02-literature/tp2.html#web-of-science",
-    "title": "TD2 : Bibliometrix",
+    "title": "TD2 : Literature review",
     "section": "Web Of Science",
     "text": "Web Of Science"
   },
   {
     "objectID": "02-literature/tp2.html#bibliometrix",
     "href": "02-literature/tp2.html#bibliometrix",
-    "title": "TD2 : Bibliometrix",
+    "title": "TD2 : Literature review",
     "section": "Bibliometrix",
     "text": "Bibliometrix"
   },
@@ -1521,7 +1521,7 @@
   {
     "objectID": "02-literature/tp2.html#bibliographic-management",
     "href": "02-literature/tp2.html#bibliographic-management",
-    "title": "TD2 : Bibliometrix",
+    "title": "TD2 : Literature review",
     "section": "Bibliographic Management",
     "text": "Bibliographic Management"
   },
@@ -1545,5 +1545,54 @@
     "title": "Act II: Literature review",
     "section": "A Useful ressource",
     "text": "A Useful ressource\n\n\n\nSiddaway, A.P., Wood, A.M., Hedges, L.V., 2019. How to Do a Systematic Review: A Best Practice Guide for Conducting and Reporting Narrative Reviews, Meta-Analyses, and Meta-Syntheses. Annual Review of Psychology 70, 747–770. https://doi.org/10.1146/annurev-psych-010418-102803"
+  },
+  {
+    "objectID": "index.html#what-is-scientific-research",
+    "href": "index.html#what-is-scientific-research",
+    "title": "Research, Innovation & Development",
+    "section": "What is scientific research?",
+    "text": "What is scientific research?"
+  },
+  {
+    "objectID": "index.html#what-is-scientific-research-1",
+    "href": "index.html#what-is-scientific-research-1",
+    "title": "Research, Innovation & Development",
+    "section": "What is scientific research?",
+    "text": "What is scientific research?"
+  },
+  {
+    "objectID": "index.html#scientific-landscape",
+    "href": "index.html#scientific-landscape",
+    "title": "Research, Innovation & Development",
+    "section": "Scientific Landscape",
+    "text": "Scientific Landscape"
+  },
+  {
+    "objectID": "index.html#what-is-a-literature-review",
+    "href": "index.html#what-is-a-literature-review",
+    "title": "Research, Innovation & Development",
+    "section": "What is a Literature Review",
+    "text": "What is a Literature Review"
+  },
+  {
+    "objectID": "index.html#reading-scientific-literature",
+    "href": "index.html#reading-scientific-literature",
+    "title": "Research, Innovation & Development",
+    "section": "Reading Scientific literature",
+    "text": "Reading Scientific literature"
+  },
+  {
+    "objectID": "02-literature/tp2.html#bibliometrix-software",
+    "href": "02-literature/tp2.html#bibliometrix-software",
+    "title": "TD2 : Literature review",
+    "section": "Bibliometrix software",
+    "text": "Bibliometrix software\n🔗 Connectez-vous at https://posit.cloud/content/7229125"
+  },
+  {
+    "objectID": "02-literature/tp2.html#bibliometrix-tutorials",
+    "href": "02-literature/tp2.html#bibliometrix-tutorials",
+    "title": "TD2 : Literature review",
+    "section": "Bibliometrix tutorials",
+    "text": "Bibliometrix tutorials\nOfficial tutorials:\n\n\nIntroduction:\n\n\n\n\n\n\nMedium: Focus on Domain\n\n\n\n\n\n\nAdvanced: Knowledge synthesis\n\n\n\n\n\n\n\nhttps://bibliometrix.org/ &gt; Tutorials &gt; Biblioshiny"
   }
 ]
