@@ -22,10 +22,8 @@ donnes <- read_csv("data/Data Experimentaion - Attrakdiff.csv")
 glimpse(donnes)
 
 
-
 ## function `glimpse()`: Obtaining the names of the columns
 names(donnes)
-
 
 
 ## function `View(iris):Affiche les données dans un tableur (attention au V majuscule)
@@ -37,28 +35,36 @@ donnes_attrakdiff <- filter(donnes, Experimentation == "Innoflow")
 
 
 
-## function `select()`:
-attrakdiff_group1 <- attrakdiff_group1
+## function `select()`: Selectionnedes colonnes selon leur nom ou leur fonction assistantes
+donnes_attrakdiff <- select(donnes_attrakdiff, Group:Status, QP1:ATT7)
 
 
-Select columns by name or helper function.
 
+## function `%>%`: Passe l’objetse trouvant à gauche comme premier argument de la fonction se trouvant à droite. (Alt + CMD/Ctrl + M)
+### Version 1
+donnes_attrakdiff <- donnes %>% filter(Experimentation == "Innoflow")
+donnes_attrakdiff <- donnes_attrakdiff %>% select(Group:Status, QP1:ATT7)
+
+### Version 2
+donnes_attrakdiff <- 
+  donnes %>% 
+  filter(Experimentation == "Innoflow") %>% 
+  select(Group:Status, QP1:ATT7)
 
 
 
 # Creating a Global value of the Results ----
 Results <- list()
 
-## Quantity of participants
-total <- nrow(Attrakdiff)
 
 
 
 
-#  2. Treating CSV Data ----
-## 2.1 Change the Participants ----
-Attrakdiff <- Attrakdiff %>% mutate( Participant = paste(LETTERS[1 : total])) # Approach 1
-Attrakdiff$Participant <- paste(LETTERS[1 : total]) # Approach 2
+## function `gather()`: Fusionne des colonnes en lignes.
+step.1 <- donnes_attrakdiff %>% gather(Group:Status, key = "key", value = "value")
+
+
+
 
 
 ## Pivot_longer() to arrange each variable
