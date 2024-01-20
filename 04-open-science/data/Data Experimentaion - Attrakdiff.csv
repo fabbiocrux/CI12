@@ -1,0 +1,40 @@
+Year,Group,Experimentation,ID,Sex,Range,Status,Commentaire_1,Commentaire_2,QP1,QP2,QP3,QP4,QP5,QP6,QP7,QHS1,QHS2,QHS3,QHS4,QHS5,QHS6,QHS7,QHI1,QHI2,QHI3,QHI4,QHI5,QHI6,QHI7,ATT1,ATT2,ATT3,ATT4,ATT5,ATT6,ATT7
+2023,Test,Innoflow,1,Femme,Entre 18-25 ans,Etudiant,12,80.4,7,7,3,3,4,4,2,2,3,3,2,3,1,3,4,3,3,3,5,3,4,3,3,3,5,3,3,6
+2023,Test,Innoflow,2,Femme,Entre 26-35 ans,Etudiant,18,90.2,4,5,3,5,5,5,5,2,5,3,5,5,4,4,5,5,5,3,5,3,5,3,5,3,5,3,5,3
+2023,Test,Innoflow,3,Homme,Entre 26-35 ans,Etudiant,15,50.5,4,5,3,3,2,2,3,4,3,5,5,5,4,5,2,5,4,4,5,4,4,3,3,4,4,3,4,5
+2023,Test,Innoflow,4,Femme,Entre 36-40 ans,Salarie,8,95,7,5,6,6,5,5,6,6,5,6,5,6,4,5,4,6,5,4,6,6,5,4,5,5,4,5,5,5
+2023,Test,Innoflow,5,Homme,Entre 18-25 ans,Salarie,15,60,7,3,2,2,3,3,6,4,3,4,5,5,2,4,4,6,3,2,3,2,3,4,3,2,5,2,1,3
+2023,"Botelho, Basto, Villanueva",Viima,1,Homme,Entre 25-40 ans,Etudiant,4,,6,3,6,6,6,6,6,4,5,4,4,5,3,5,5,5,6,5,6,6,6,6,5,6,6,6,6,6
+2023,"Botelho, Basto, Villanueva",Viima,2,Femme,Entre 25-40 ans,Salarié,5,,6,6,6,6,6,6,6,7,6,5,7,5,5,6,5,6,6,4,6,6,7,7,5,6,6,7,6,7
+2023,"Botelho, Basto, Villanueva",Viima,3,Homme,Entre 41-60 ans,Salarié,3,,4,2,4,4,4,4,4,3,6,6,7,6,6,6,6,6,7,6,6,6,6,4,7,6,5,6,7,5
+2023,"Botelho, Basto, Villanueva",Viima,4,Homme,Entre 21-25 ans,Etudiant,3,,4,4,4,6,4,6,4,4,5,4,4,4,3,5,4,4,4,4,4,4,5,4,4,3,4,4,4,4
+2023,"Botelho, Basto, Villanueva",Viima,5,Homme,Entre 21-25 ans,Etudiant,4,,3,4,3,5,2,2,6,4,2,5,5,4,5,2,5,3,6,3,5,5,2,5,5,5,5,5,4,4
+2023,G,Ideanote,1,Homme,Entre 41-60 ans,Salarie,,,2,1,3,6,1,5,7,7,4,6,6,3,1,7,7,7,4,3,5,1,7,3,4,4,5,2,5,4
+2023,G,Ideanote,2,Homme,Entre 18-25 ans,Etudiant,,,6,1,2,6,1,6,6,4,5,5,3,5,5,2,4,5,4,2,4,7,6,2,5,1,6,4,6,2
+2023,G,Ideanote,3,Femme,Entre 41-60 ans,Salarie,,,7,5,3,4,4,5,5,2,6,4,2,5,5,2,4,2,3,5,5,4,5,4,5,4,5,3,5,4
+2023,G,Ideanote,4,Femme,Plus de 60 ans,Salarie,,,5,3,2,5,4,6,7,3,7,3,3,4,3,3,5,2,2,4,5,3,6,3,4,3,5,3,5,4
+2023,G,Ideanote,5,Femme,Entre 36-40 ans,Salarie,,,6,4,6,3,2,2,3,6,6,3,5,3,2,6,2,4,2,2,4,3,7,5,4,4,6,2,4,5
+2023,G,Ideanote,6,Femme,Entre 41-60 ans,Salarie,,,7,6,6,3,6,2,4,2,7,3,2,6,7,1,1,2,1,6,1,6,6,5,4,2,6,3,6,4
+2023,G,Ideanote,7,Femme,Plus de 60 ans,Salarie,,,4,2,3,4,5,4,7,3,5,4,4,3,2,4,2,3,4,2,2,6,5,3,3,3,3,4,3,4
+2023,G,Ideanote,8,Femme,Entre 18-25 ans,Etudiant,,,3,1,2,6,2,7,6,2,7,2,2,3,3,1,3,3,2,4,3,5,6,1,6,1,6,2,6,2
+2023,G,Ideanote,9,Homme,Entre 18-25 ans,Salarie,,,2,3,6,3,2,5,7,7,3,7,6,6,3,6,3,6,3,2,4,6,6,3,2,4,5,2,5,4
+2023,"Almaric, Tonin, Baptist",Itonics,1,Homme,Entre 18-25 ans,Etudiant,,,6,2,2,5,6,2,5,2,6,3,2,5,6,5,3,1,3,6,5,3,5,5,5,4,5,3,5,5
+2023,"Almaric, Tonin, Baptist",Itonics,2,Homme,Entre 18-25 ans,Etudiant,,,6,3,2,5,4,5,7,2,6,3,2,6,2,7,5,2,2,5,6,5,6,2,6,2,7,3,7,2
+2023,"Almaric, Tonin, Baptist",Itonics,3,Homme,Entre 18-25 ans,Etudiant,,,5,6,3,2,5,3,4,3,5,3,3,3,6,4,4,2,3,5,4,4,6,2,6,3,3,3,4,3
+2023,"Almaric, Tonin, Baptist",Itonics,4,Homme,Entre 18-25 ans,Etudiant,,,5,5,3,4,3,5,6,3,5,3,2,5,6,6,2,2,2,6,6,2,7,2,7,2,6,2,6,5
+2023,"Almaric, Tonin, Baptist",Itonics,5,Femme,Entre 18-25 ans,Etudiant,,,7,5,3,3,4,2,3,3,5,2,5,2,4,3,4,3,4,6,4,4,6,5,4,5,2,3,3,6
+2023,"Almaric, Tonin, Baptist",Itonics,6,Femme,Entre 18-25 ans,Etudiant,,,6,5,2,5,4,5,6,2,6,3,2,6,4,6,4,1,4,6,4,4,6,2,6,2,6,3,6,4
+2023,"Almaric, Tonin, Baptist",Itonics,7,Femme,Entre 18-25 ans,Etudiant,,,6,6,1,5,5,3,5,1,5,2,1,6,6,5,2,1,2,7,6,2,7,3,7,3,7,2,5,5
+2023,"Fiona, Lilas, Justine, Léopold",Aha!,1,Homme,Entre 18-25 ans,Etudiant,,,7,6,5,2,3,3,5,5,3,4,5,3,4,4,1,2,4,4,4,4,6,7,5,6,3,5,4,6
+2023,"Fiona, Lilas, Justine, Léopold",Aha!,2,Femme,Entre 18-25 ans,Etudiant,,,6,3,5,3,2,3,6,5,5,6,3,3,3,5,1,1,3,4,5,3,7,6,4,5,3,3,5,5
+2023,"Fiona, Lilas, Justine, Léopold",Aha!,3,Femme,Entre 18-25 ans,Etudiant,,,6,7,2,2,6,2,2,6,2,5,5,2,6,6,1,6,2,2,2,6,6,6,6,6,3,3,6,6
+2023,"Fiona, Lilas, Justine, Léopold",Aha!,4,Femme,Entre 18-25 ans,Etudiant,,,6,6,3,2,5,2,5,6,2,3,5,3,5,3,3,2,4,5,4,5,5,5,5,5,4,4,3,5
+2023,"Fiona, Lilas, Justine, Léopold",Aha!,5,Femme,Entre 18-25 ans,Etudiant,,,6,2,3,6,3,3,4,4,3,2,6,4,4,5,2,2,2,2,4,4,6,2,5,2,5,2,5,2
+2023,"Fiona, Lilas, Justine, Léopold",Aha!,6,Femme,Entre 18-25 ans,Etudiant,,,5,2,2,5,2,6,6,5,5,6,6,2,2,4,4,3,5,3,4,4,5,5,2,2,3,3,4,3
+2023,"Thomas, Enzo, Célestin",Innoflow,1,Femme,Entre 18-25 ans,Etudiant,23,,6,5,5,2,3,4,6,6,4,3,5,3,3,3,5,4,4,4,5,5,5,5,2,4,4,5,5,5
+2023,"Thomas, Enzo, Célestin",Innoflow,2,Femme,Entre 18-25 ans,Etudiant,23,,3,5,2,3,5,2,4,3,3,2,3,2,2,2,5,3,3,3,3,5,3,3,2,2,3,3,3,3
+2023,"Thomas, Enzo, Célestin",Innoflow,3,Femme,Entre 18-25 ans,Etudiant,21,,1,6,4,3,5,5,5,1,2,2,3,2,2,4,5,5,4,3,5,6,6,3,5,4,3,3,4,4
+2023,"Thomas, Enzo, Célestin",Innoflow,4,Homme ,Entre 18-25 ans,Etudiant,21,,3,4,3,3,4,3,3,3,4,4,5,3,3,4,3,4,3,4,4,2,1,3,3,4,4,3,4,3
+2023,"Thomas, Enzo, Célestin",Innoflow,5,Femme,Entre 18-25 ans,Etudiant,23,,5,5,5,6,7,5,2,2,3,6,6,5,4,7,1,2,2,4,4,2,1,1,2,2,2,3,3,5
+2023,"Thomas, Enzo, Célestin",Innoflow,6,Femme,Entre 18-25 ans,Etudiant,21,,4,3,2,2,2,2,4,2,3,3,3,3,2,3,4,2,3,2,3,3,3,2,4,2,2,3,3,2
+2023,"Thomas, Enzo, Célestin",Innoflow,7,Homme ,Entre 18-25 ans,Etudiant,24,,4,3,3,3,3,3,3,2,3,3,3,3,4,3,3,3,3,3,4,4,4,4,3,3,3,4,3,3
