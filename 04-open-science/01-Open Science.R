@@ -38,7 +38,7 @@ View(UEQ)
 
 ## function `filter()`: Permet d’extraire des observations selon une condition logique ----
 Attrakdiff_donnes <- filter(Attrakdiff, Experimentation == "Innoflow")
-UEQ_donnes <- filter(UEQ, Experimentation == "Itonics")
+UEQ_donnes <- filter(UEQ, Group == "POSSAMAI,ROSEN,COUSIN,COMOR")
 
 
 
@@ -63,7 +63,8 @@ Attrakdiff_donnes_final <-
 ### Version UEQ
 UEQ_donnes_final <- 
   UEQ %>% 
-  filter(Experimentation == "Itonics") %>% 
+  filter(Group == "POSSAMAI,ROSEN,COUSIN,COMOR") %>% 
+  filter(Experimentation == "POLYTECH NANCY") %>% 
   select(Group:Status, EFF1 : ATT6)
 
 
@@ -344,7 +345,7 @@ UEQ.Results$Graphique.1 <-
   scale_y_continuous(limits = c(-3,3), breaks = c(-3:3)) +
   labs(x = "",
        y = "Level ",
-       title = "UEQ Profile for XXX",
+       title = "UEQ Profile for POLYTECH NANCY",
        subtitle = paste("Quantité de Participants:" , UEQ_donnes_final %>% nrow()),
        caption =  paste("Denière mise à jour: ", Sys.time() %>% format( '%d/%m/%Y'))
       ) +
@@ -470,7 +471,7 @@ UEQ.Results$Graphique.2 <-
   theme_minimal(base_size = 12, base_family = "Palatino") +
   labs(x = "",
        y = "Level ",
-       title = "UEQ Profile",
+       title = "UEQ Profile for POLYTECH NANCY",
        subtitle = paste("Total of answers:" , UEQ_donnes_final %>% nrow()),
        caption = "Group X") +
   theme(
@@ -580,7 +581,7 @@ UEQ.Results$Graphique.3 <-
   scale_y_continuous(limits = c(-3,3), breaks = c(-3:3)) +
   labs(x = "UEQ Results",
        y = "Level ",
-       title = "UEQ Profile for XXX",
+       title = "UEQ Profile for POLYTECH NANCY",
        subtitle = paste("Total of answers:" , UEQ_donnes_final %>% nrow()),
        caption =  paste("Denière mise à jour: ", Sys.time() %>% format( '%d/%m/%Y'))
   ) +
@@ -588,3 +589,13 @@ UEQ.Results$Graphique.3 <-
 
 # Saving the File
 #ggsave("Figures/UEQ-3.jpg", width = 10, height = 5, dpi="print" )
+
+UEQ.Results$Graphique.1
+ggsave("figures/UEQ-1-for POLYTECH NANCY.jpg", width = 10, height = 5, dpi="print" )
+
+
+UEQ.Results$Graphique.2
+ggsave("figures/UEQ-2-for POLYTECH NANCY.jpg", width = 8, height = 8, dpi="print" )
+
+UEQ.Results$Graphique.3
+ggsave("Figures/UEQ-3-for POLYTECH NANCY.jpg", width = 10, height = 5, dpi="print" )

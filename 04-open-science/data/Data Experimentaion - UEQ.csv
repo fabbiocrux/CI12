@@ -33,3 +33,104 @@ Year,Group,Experimentation,Part_ID,Sex,Range,Status,Commentaire_1,Commentaire_2,
 2023,Manon & Margaux ,innoflow,4,Femme,entre 18 & 25 ans,Étudiant.e,,,3,3,5,3,5,4,6,4,6,5,7,4,4,3,5,4,4,4,4,6,4,5,5,5,5,6
 2023,Manon & Margaux ,innoflow,5,Femme,entre 18 & 25 ans,Étudiant.e,,,4,4,5,4,5,4,4,5,5,4,6,7,7,5,3,5,7,6,6,4,4,3,4,6,6,4
 2023,Manon & Margaux ,innoflow,6,Homme,entre 18 & 25 ans,Étudiant.e,,,4,4,5,3,6,5,5,4,3,6,4,6,3,6,5,6,4,6,5,7,2,4,4,6,6,7
+2024,"Amelie, Ariane, Etienne, Lucile",GSI,1,Femme,18 - 25 ans,Etudiant.e,,,4,6,4,5,5,3,3,3,4,5,4,2,3,5,2,4,2,2,5,6,6,3,5,5,3,3
+2024,"Amelie, Ariane, Etienne, Lucile",GSI,2,Femme,18 - 25 ans,Etudiant.e,,,5,5,3,3,5,3,5,3,5,5,3,3,3,4,4,3,2,1,4,5,7,2,5,5,3,3
+2024,"Amelie, Ariane, Etienne, Lucile",GSI,3,Homme,18 - 25 ans,Chomeur,,,4,5,4,5,5,3,5,2,4,4,4,1,4,4,5,4,2,3,4,5,6,2,5,5,4,3
+2024,"Amelie, Ariane, Etienne, Lucile",GSI,4,Femme,18 - 25 ans,Etudiant.e,,,5,7,6,4,6,2,7,3,5,4,1,1,1,6,4,4,1,1,5,7,6,2,7,7,2,2
+2024,"Amelie, Ariane, Etienne, Lucile",GSI,5,femme,- 18 ans,Mineur.e,,,4,6,3,6,5,3,5,1,4,4,3,3,6,3,4,5,6,3,5,3,2,3,3,6,3,5
+2024,"Amelie, Ariane, Etienne, Lucile",GSI,6,Autre,25 - 35 ans,Vie Active,,,3,5,4,4,6,3,5,1,3,4,3,2,1,5,5,3,1,2,4,6,5,2,6,6,3,4
+2024,"Amelie, Ariane, Etienne, Lucile",Polytech,1,Femme,18 - 25 ans,Etudiant.e,,,3,3,4,5,5,3,5,3,5,3,4,3,5,3,3,5,6,6,2,2,4,3,4,4,5,5
+2024,"Amelie, Ariane, Etienne, Lucile",Polytech,2,Femme,18 - 25 ans,Etudiant.e,,,4,6,5,6,5,5,4,5,5,5,2,2,5,3,5,6,6,6,1,2,3,5,3,3,5,5
+2024,"Amelie, Ariane, Etienne, Lucile",Polytech,3,Homme,18 - 25 ans,Chomeur,,,3,5,4,5,5,3,6,3,5,5,4,2,3,4,5,4,3,4,4,4,5,3,5,5,4,3
+2024,"Amelie, Ariane, Etienne, Lucile",Polytech,4,Femme,18 - 25 ans,Etudiant.e,,,4,7,7,2,7,1,7,1,4,6,1,1,2,5,6,6,3,4,4,3,5,2,6,2,2,3
+2024,"Amelie, Ariane, Etienne, Lucile",Polytech,5,femme,- 18 ans,Mineur.e,,,3,6,4,3,3,3,5,2,6,3,7,3,5,3,2,7,5,6,4,5,7,1,3,3,2,1
+2024,"Amelie, Ariane, Etienne, Lucile",Polytech,6,Autre,25 - 35 ans,Vie Active,,,2,5,4,5,5,2,5,3,5,5,4,3,3,4,5,4,3,3,4,4,5,3,5,5,3,3
+2024,"MORIAT, DENAT, VALADEAU,GAUB",SITE ENSGSI,1,,18 - 25 ans,Etudiant.e,,,7,7,3,3,4,4,3,2,3,3,2,3,2,3,4,3,3,3,7,3,4,3,3,3,5,3
+2024,"MORIAT, DENAT, VALADEAU,GAUB",SITE ENSGSI,2,,18 - 25 ans,Etudiant.e,,,4,5,3,6,5,7,5,2,5,3,5,5,4,5,5,5,5,6,5,3,5,3,5,3,5,3
+2024,"MORIAT, DENAT, VALADEAU,GAUB",SITE ENSGSI,3,,18 - 25 ans,Etudiant.e,,,4,5,3,4,2,2,3,5,5,5,5,5,5,5,2,4,4,4,5,4,4,3,3,4,4,3
+2024,"MORIAT, DENAT, VALADEAU,GAUB",SITE ENSGSI,4,,18 - 25 ans,Etudiant.e,,,7,5,6,5,5,5,6,6,5,2,5,6,4,5,2,6,5,4,6,3,5,4,5,5,4,5
+2024,"MORIAT, DENAT, VALADEAU,GAUB",SITE ENSGSI,5,,18 - 25 ans,Etudiant.e,,,7,3,2,2,3,3,5,4,3,4,4,5,2,4,4,7,3,2,3,2,3,4,3,2,5,2
+2024,"MORIAT, DENAT, VALADEAU,GAUB",SITE POLYTECH,1,,18 - 25 ans,Etudiant.e,,,6,6,5,5,3,3,3,4,3,5,5,6,5,4,5,5,6,6,5,6,3,4,3,4,5,5
+2024,"MORIAT, DENAT, VALADEAU,GAUB",SITE POLYTECH,2,,18 - 25 ans,Etudiant.e,,,5,4,3,4,4,3,7,4,5,5,7,7,5,4,4,6,4,4,3,4,5,7,7,6,6,6
+2024,"MORIAT, DENAT, VALADEAU,GAUB",SITE POLYTECH,3,,18 - 25 ans,Etudiant.e,,,2,6,4,4,6,3,2,2,4,5,4,5,6,4,6,6,6,6,6,7,5,6,6,6,6,6
+2024,"MORIAT, DENAT, VALADEAU,GAUB",SITE POLYTECH,4,,18 - 25 ans,Etudiant.e,,,3,5,4,2,5,2,3,2,3,3,3,4,5,4,4,5,5,5,5,5,4,5,5,5,4,4
+2024,"MORIAT, DENAT, VALADEAU,GAUB",SITE POLYTECH,5,,18 - 25 ans,Etudiant.e,,,5,5,5,5,5,5,5,6,5,5,5,4,6,3,4,4,4,2,4,5,5,5,3,5,5,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024,"Emma, Alfonso, Flavien, Théo",GSI L'OM est éliminé,1,Homme,28,Etudiant,76,44,1,2,2,-2,1,0,1,0,-1,0,-1,-1,-1,-1,0,1,2,3,4,4,-1,0,1,2,1,1
+2024,"Emma, Alfonso, Flavien, Théo",GSI L'OM est éliminé,2,Homme,35,Etudiant,"27,81",21.27,2,3,3,-2,2,3,4,3,1,2,1,2,-1,-2,-2,-2,1,1,2,1,1,0,0,0,1,2
+2024,"Emma, Alfonso, Flavien, Théo",GSI L'OM est éliminé,3,Homme,27,Salarie,38,44,2,2,1,-1,2,3,3,2,2,2,3,3,0,-1,-1,-1,1,0,0,1,1,1,2,2,3,3
+2024,"Emma, Alfonso, Flavien, Théo",GSI L'OM est éliminé,4,Homme,28,Etudiant,60,60,-1,2,2,0,2,3,4,3,3,3,3,3,-1,0,-1,-2,1,0,-1,0,3,4,4,5,5,6
+2024,"Emma, Alfonso, Flavien, Théo",GSI L'OM est éliminé,5,Homme,27,Salarie,214,266,1,3,2,0,2,2,2,1,2,1,0,1,0,-1,0,-1,0,1,2,3,3,3,3,3,2,1
+2024,"Emma, Alfonso, Flavien, Théo",GSI L'OM est éliminé,6,Homme,26,Salarie,60,60,3,1,3,-2,-1,-1,-2,-3,0,1,0,-1,1,2,3,3,2,2,3,2,0,1,0,-1,-2,-3
+2024,"Emma, Alfonso, Flavien, Théo",GSI L'OM est éliminé,7,Homme,23,Etudiant,42,40,2,2,2,-1,2,3,3,2,2,2,2,2,1,2,2,1,2,1,2,2,2,1,1,1,1,0
+2024,"Emma, Alfonso, Flavien, Théo",INP L'OM est éliminé,1,Homme,28,Etudiant,20,18,3,2,2,-1,2,2,1,0,1,1,2,2,0,0,0,0,1,0,1,1,2,1,1,2,3,2
+2024,"Emma, Alfonso, Flavien, Théo",INP L'OM est éliminé,2,Homme,35,Etudiant,29,32,3,2,1,-1,2,3,3,4,0,0,-1,-1,0,-1,-2,-2,2,3,2,3,2,1,0,0,1,2
+2024,"Emma, Alfonso, Flavien, Théo",INP L'OM est éliminé,3,Homme,27,Salarie,54,63,2,2,2,0,2,1,0,1,1,1,2,3,0,-1,0,0,2,2,3,2,-1,0,0,1,0,0
+2024,"Emma, Alfonso, Flavien, Théo",INP L'OM est éliminé,4,Homme,28,Etudiant,33,40,1,1,2,0,1,1,2,2,1,2,3,3,1,0,1,2,2,2,2,2,1,1,1,0,1,0
+2024,"Emma, Alfonso, Flavien, Théo",INP L'OM est éliminé,5,Homme,27,Salarie,32,38,1,2,2,-2,1,0,-1,-2,1,2,3,4,2,1,0,0,1,0,1,2,1,1,1,1,2,2
+2024,"Emma, Alfonso, Flavien, Théo",INP L'OM est éliminé,6,Homme,26,Salarie,16,21,3,1,3,-2,-1,-2,-3,-3,-1,-1,0,-1,1,2,1,0,2,2,2,1,2,3,4,4,5,6
+2024,"Emma, Alfonso, Flavien, Théo",INP L'OM est éliminé,7,Homme,23,Etudiant,26,31,2,2,2,-1,2,1,0,1,0,-1,-2,-3,2,1,2,1,2,2,1,1,1,1,2,2,1,2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024,Eliette & Hélène,Site ENSGSI,1,H,22,Etudiant ,,,5,6,5,5,7,7,7,7,5,5,4,7,6,7,6,4,7,7,5,7,7,7,6,5,7,6
+2024,Eliette & Hélène,Site ENSGSI,2,F,23,Etudiant ,,,6,6,5,6,6,6,6,6,6,6,5,3,4,5,4,5,5,5,5,6,5,3,5,3,5,3
+2024,Eliette & Hélène,Site ENSGSI,3,F,25,Etudiant ,,,4,5,4,3,6,5,5,6,4,2,3,6,6,5,5,5,2,4,4,4,5,4,4,3,3,4
+2024,Eliette & Hélène,Site ENSGSI,4,H,44,Salarié,,,1,2,3,6,6,6,2,2,5,6,6,5,5,6,4,5,2,6,5,4,6,3,5,4,5,5
+2024,Eliette & Hélène,Site ENSGSI,5,H,22,Etudiant ,,,5,5,6,4,5,5,5,6,5,3,3,6,2,5,2,4,4,7,3,2,3,2,3,4,3,2
+2024,Eliette & Hélène,Site Polytech,1,H,22,Etudiant ,,,3,5,5,1,3,5,2,4,3,4,5,4,5,6,5,4,5,5,6,6,5,6,3,4,3,4
+2024,Eliette & Hélène,Site Polytech,2,F,23,Etudiant ,,,3,2,3,4,3,3,3,7,3,4,5,3,3,5,3,4,4,6,4,4,3,4,5,7,7,6
+2024,Eliette & Hélène,Site Polytech,3,F,25,Etudiant ,,,6,6,5,6,6,6,6,6,4,6,4,3,2,5,6,4,6,6,6,6,6,7,5,6,6,6
+2024,Eliette & Hélène,Site Polytech,4,H,44,Salarié,,,4,5,4,3,6,5,5,6,6,6,6,5,6,4,5,4,4,5,5,5,5,5,4,5,5,5
+2024,Eliette & Hélène,Site Polytech,5,H,22,Etudiant ,,,6,4,4,3,4,5,7,7,6,5,5,6,6,4,6,3,4,4,4,2,4,5,5,5,3,5
+2024,"POSSAMAI,ROSEN,COUSIN,COMOR",ENSGSI,1,HOMME,18-24,Entreprise,,,5,6,5,5,7,7,7,7,5,5,4,7,6,7,6,4,7,7,5,7,7,7,6,5,7,6
+2024,"POSSAMAI,ROSEN,COUSIN,COMOR",ENSGSI,2,HOMME,18-24,Etudiant.e,,,7,7,6,5,5,6,5,5,5,4,5,7,6,5,7,6,7,4,6,5,6,7,6,4,5,5
+2024,"POSSAMAI,ROSEN,COUSIN,COMOR",ENSGSI,3,HOMME,18-24,Etudiant.e,,,5,5,7,5,7,5,7,7,5,4,6,7,6,7,5,5,6,7,6,6,7,6,7,5,7,6
+2024,"POSSAMAI,ROSEN,COUSIN,COMOR",ENSGSI,4,FEMME,18-24,Etudiant.e,,,6,6,5,4,6,5,6,6,6,6,7,6,6,6,4,5,7,6,6,5,7,6,5,6,6,6
+2024,"POSSAMAI,ROSEN,COUSIN,COMOR",POLYTECH NANCY,5,HOMME,18-24,Etudiant.e,,,6,5,6,4,7,6,5,5,7,7,6,7,5,5,6,6,7,5,5,5,6,7,6,6,5,5
+2024,"POSSAMAI,ROSEN,COUSIN,COMOR",ENSGSI,6,HOMME,40-50,Externe,,,5,6,6,5,6,7,5,6,5,6,6,7,5,5,6,6,5,5,6,4,6,6,6,6,6,6
+2024,"POSSAMAI,ROSEN,COUSIN,COMOR",POLYTECH NANCY,7,FEMME,40-50,Externe,,,4,7,5,6,6,5,5,5,6,5,5,6,7,5,7,5,6,5,5,4,4,6,5,7,5,7
+2024,"POSSAMAI,ROSEN,COUSIN,COMOR",POLYTECH NANCY,8,HOMME,50-60,Association,,,5,4,4,5,6,6,4,4,5,6,6,7,6,4,6,6,7,4,5,5,5,5,6,5,4,6
+2024,"POSSAMAI,ROSEN,COUSIN,COMOR",ENSGSI,9,FEMME,30-40,Professeur,,,6,6,5,5,5,6,6,6,4,7,4,6,5,6,6,7,6,6,6,6,6,6,6,6,6,7
+2024,"POSSAMAI,ROSEN,COUSIN,COMOR",ENSGSI,10,FEMME,50-60,Externe,,,6,6,5,5,6,6,5,6,4,5,5,5,5,6,4,5,7,6,5,7,7,6,6,7,6,7
+2024,"POSSAMAI,ROSEN,COUSIN,COMOR",POLYTECH NANCY,11,FEMME,18-24,Etudiant.e,,,4,5,4,6,7,5,7,7,5,6,6,5,5,5,5,4,7,4,5,6,6,6,6,6,6,6
+2024,"POSSAMAI,ROSEN,COUSIN,COMOR",POLYTECH NANCY,12,FEMME,18-24,Etudiant.e,,,6,4,6,5,7,5,5,6,6,7,6,6,4,5,6,4,6,2,5,6,7,5,5,7,6,7
+2024,"POSSAMAI,ROSEN,COUSIN,COMOR",POLYTECH NANCY,13,FEMME,18-24,Etudiant.e,,,7,5,5,6,6,6,6,5,7,7,6,7,5,4,5,6,7,2,6,5,6,6,6,7,4,6
+2024,"POSSAMAI,ROSEN,COUSIN,COMOR",POLYTECH NANCY,14,FEMME,18-24,Etudiant.e,,,5,6,4,5,7,6,4,5,7,6,6,6,4,6,5,5,6,5,5,5,6,7,6,7,6,6
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024,"LOUIS, TAHA,  PAOLA, PABLO",POLYTECH NANCY,1,Femme,21,Étudiant de troisième cycle,,,4,5,6,5,4,5,5,5,5,5,5,6,4,5,4,5,5,5,5,5,4,5,5,5,5,5
+2024,"LOUIS, TAHA,  PAOLA, PABLO",POLYTECH NANCY,2,Homme,23,Professeur universitaire,,,2,6,1,5,5,3,3,2,4,3,2,2,2,5,5,5,5,6,3,2,5,3,6,6,3,3
+2024,"LOUIS, TAHA,  PAOLA, PABLO",POLYTECH NANCY,3,Femme,27,Candidat,,,1,6,2,5,7,1,7,2,7,6,6,3,2,4,4,3,7,5,2,2,6,2,6,5,2,2
+2024,"LOUIS, TAHA,  PAOLA, PABLO",POLYTECH NANCY,4,Homme,23,Professeur universitaire,,,2,6,3,5,5,4,5,3,6,4,2,3,3,4,5,4,4,5,2,3,5,2,4,5,3,2
+2024,"LOUIS, TAHA,  PAOLA, PABLO",POLYTECH NANCY,5,Homme,27,Étudiant de troisième cycle,,,3,5,4,5,5,4,5,2,5,5,3,3,4,4,3,3,5,5,4,4,5,2,5,5,3,3
+2024,"LOUIS, TAHA,  PAOLA, PABLO",POLYTECH NANCY,6,Homme,35,Étudiant de troisième cycle,,,1,6,3,6,7,4,6,3,6,6,2,1,2,6,7,1,3,3,3,5,6,1,7,7,1,2
+2024,"LOUIS, TAHA,  PAOLA, PABLO",POLYTECH NANCY,7,Homme,24,Étudiant de premier cycle,,,4,4,2,4,4,5,6,6,5,2,5,3,3,3,5,6,5,4,4,4,2,5,3,3,3,6
+2024,"LOUIS, TAHA,  PAOLA, PABLO",POLYTECH NANCY,8,Femme,24,Étudiant de troisième cycle,,,7,6,6,3,5,3,4,4,4,5,2,5,2,2,4,5,5,1,5,3,4,6,3,4,4,5
+2024,"LOUIS, TAHA,  PAOLA, PABLO",POLYTECH NANCY,9,Homme,21,Étudiant de troisième cycle,,,6,3,2,4,6,4,3,3,3,2,5,5,4,5,7,3,4,2,5,4,3,5,3,3,2,4
+2024,"LOUIS, TAHA,  PAOLA, PABLO",POLYTECH NANCY,10,Femme,26,Étudiant de troisième cycle,,,4,5,5,4,5,3,6,3,4,4,4,5,3,2,3,5,3,3,3,3,2,5,2,4,5,6
+2024,"LOUIS, TAHA,  PAOLA, PABLO",POLYTECH NANCY,11,Femme,27,Candidat,,,1,6,2,5,4,3,6,3,6,2,2,3,3,5,6,6,3,5,2,5,5,3,6,5,4,3
+2024,"LOUIS, TAHA,  PAOLA, PABLO",POLYTECH NANCY,12,Homme,23,Étudiant de troisième cycle,,,3,5,5,5,4,4,4,4,4,3,3,2,3,4,4,3,3,5,3,3,3,3,4,4,5,3
+2024,"LOUIS, TAHA,  PAOLA, PABLO",ENSGSI,1,Homme,23,Étudiant de troisième cycle,,,3,4,5,3,5,4,3,7,3,2,6,6,2,5,3,3,3,5,3,5,3,5,3,5,4,5
+2024,"LOUIS, TAHA,  PAOLA, PABLO",ENSGSI,2,Homme,22,Candidat,,,5,4,2,4,3,3,5,6,5,6,3,4,3,3,6,6,4,4,3,5,6,4,4,5,4,5
+2024,"LOUIS, TAHA,  PAOLA, PABLO",ENSGSI,3,Femme,25,Étudiant de troisième cycle,,,3,3,5,2,3,2,4,4,3,4,5,3,3,3,2,4,6,4,2,5,4,2,5,2,6,4
+2024,"LOUIS, TAHA,  PAOLA, PABLO",ENSGSI,4,Homme,23,Professeur universitaire,,,1,3,1,7,6,6,1,2,6,2,6,6,6,6,2,2,2,6,2,6,5,6,2,6,6,4
+2024,"LOUIS, TAHA,  PAOLA, PABLO",ENSGSI,5,Femme,27,Candidat,,,2,5,2,3,5,2,4,2,5,2,1,5,5,4,6,2,3,5,5,2,7,3,3,6,5,3
+2024,"LOUIS, TAHA,  PAOLA, PABLO",ENSGSI,6,Homme,23,Professeur universitaire,,,3,4,2,4,6,6,1,2,2,2,6,7,2,7,1,2,1,7,2,7,1,1,1,5,6,7
+2024,"LOUIS, TAHA,  PAOLA, PABLO",ENSGSI,7,Homme,27,Étudiant de troisième cycle,,,1,2,2,6,7,5,2,3,6,2,6,6,5,6,3,2,2,5,5,5,4,2,2,5,6,6
+2024,"LOUIS, TAHA,  PAOLA, PABLO",ENSGSI,8,Homme,35,Étudiant de troisième cycle,,,2,2,1,6,7,6,2,1,6,1,6,7,4,7,3,1,1,7,2,6,5,1,1,7,6,7
+2024,"LOUIS, TAHA,  PAOLA, PABLO",ENSGSI,9,Homme,23,Étudiant de troisième cycle,,,1,3,2,6,2,5,4,1,5,2,4,5,7,5,2,2,2,4,5,5,7,4,2,7,5,4
+2024,"LOUIS, TAHA,  PAOLA, PABLO",ENSGSI,10,Homme,19,Étudiant de premier cycle,,,5,3,5,3,3,5,6,3,4,4,4,3,4,5,4,4,3,4,6,3,4,4,6,4,3,5
+2024,"LOUIS, TAHA,  PAOLA, PABLO",ENSGSI,11,Femme,27,Candidat,,,1,6,2,6,6,5,3,6,3,2,6,6,2,6,2,2,3,6,2,6,6,4,5,6,5,2
+2024,"Emeric, Ayoub, Nada et Aníbal",ENGSI,1,Homme,25-34,Etudiant,,,1,1,2,6,7,2,7,7,5,6,2,1,2,7,6,2,1,5,1,6,1,7,7,6,1,7
+2024,"Emeric, Ayoub, Nada et Aníbal",ENGSI,2,Homme,25-34,Etudiant,,,1,1,3,7,7,4,6,6,6,5,2,2,2,6,7,3,2,7,1,6,3,7,5,3,2,6
+2024,"Emeric, Ayoub, Nada et Aníbal",ENGSI,3,Homme,35-44,Salarié,,,4,1,5,2,7,7,3,7,6,1,1,6,5,5,5,3,6,5,2,7,5,6,2,1,6,6
+2024,"Emeric, Ayoub, Nada et Aníbal",ENGSI,4,Homme,35-44,sans emploi,,,2,3,2,6,7,1,5,6,5,4,1,3,1,6,7,1,2,7,1,7,1,6,5,2,2,7
+2024,"Emeric, Ayoub, Nada et Aníbal",ENGSI,5,Femme,18-24,Etudiant,,,2,1,1,7,7,1,6,7,6,6,1,1,1,6,6,1,1,6,1,7,1,7,7,1,1,7

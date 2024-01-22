@@ -1,4 +1,4 @@
-Year,Group,Experimentation,ID,Sex,Range,Status,Commentaire_1,Commentaire_2,QP1,QP2,QP3,QP4,QP5,QP6,QP7,QHS1,QHS2,QHS3,QHS4,QHS5,QHS6,QHS7,QHI1,QHI2,QHI3,QHI4,QHI5,QHI6,QHI7,ATT1,ATT2,ATT3,ATT4,ATT5,ATT6,ATT7
+Year,Group,Experimentation,Part_ID,Sex,Range,Status,Commentaire_1,Commentaire_2,QP1,QP2,QP3,QP4,QP5,QP6,QP7,QHS1,QHS2,QHS3,QHS4,QHS5,QHS6,QHS7,QHI1,QHI2,QHI3,QHI4,QHI5,QHI6,QHI7,ATT1,ATT2,ATT3,ATT4,ATT5,ATT6,ATT7
 2023,Test,Innoflow,1,Femme,Entre 18-25 ans,Etudiant,12,80.4,7,7,3,3,4,4,2,2,3,3,2,3,1,3,4,3,3,3,5,3,4,3,3,3,5,3,3,6
 2023,Test,Innoflow,2,Femme,Entre 26-35 ans,Etudiant,18,90.2,4,5,3,5,5,5,5,2,5,3,5,5,4,4,5,5,5,3,5,3,5,3,5,3,5,3,5,3
 2023,Test,Innoflow,3,Homme,Entre 26-35 ans,Etudiant,15,50.5,4,5,3,3,2,2,3,4,3,5,5,5,4,5,2,5,4,4,5,4,4,3,3,4,4,3,4,5
@@ -38,3 +38,24 @@ Year,Group,Experimentation,ID,Sex,Range,Status,Commentaire_1,Commentaire_2,QP1,Q
 2023,"Thomas, Enzo, Célestin",Innoflow,5,Femme,Entre 18-25 ans,Etudiant,23,,5,5,5,6,7,5,2,2,3,6,6,5,4,7,1,2,2,4,4,2,1,1,2,2,2,3,3,5
 2023,"Thomas, Enzo, Célestin",Innoflow,6,Femme,Entre 18-25 ans,Etudiant,21,,4,3,2,2,2,2,4,2,3,3,3,3,2,3,4,2,3,2,3,3,3,2,4,2,2,3,3,2
 2023,"Thomas, Enzo, Célestin",Innoflow,7,Homme ,Entre 18-25 ans,Etudiant,24,,4,3,3,3,3,3,3,2,3,3,3,3,4,3,3,3,3,3,4,4,4,4,3,3,3,4,3,3
+2024,Linda-Yasmine-Rodrigo-Syrine,ensgsi,1,Homme ,Entre 20-40 ans ,Doctorant,,,,,2,4,3,6,4,5,5,3,6,5,5,5,4,6,6,4,6,3,5,4,6,3,5,5,3,5
+2024,Linda-Yasmine-Rodrigo-Syrine,ensgsi,2,Homme ,Entre 20-40 ans ,Teacher,,,3,5,4,5,5,5,3,5,6,5,5,5,4,5,5,6,5,5,6,6,4,4,3,5,5,5,2,6
+2024,Linda-Yasmine-Rodrigo-Syrine,ensgsi,3,Homme ,Entre 20-40 ans ,Etudiant,,,5,5,5,5,5,5,5,6,6,4,6,6,6,4,5,6,6,6,6,6,4,4,6,6,6,6,6,4
+2024,Linda-Yasmine-Rodrigo-Syrine,ensgsi,4,Homme ,Entre 20-40 ans ,Etudiant,,,5,2,6,5,6,6,5,7,6,6,3,5,5,4,6,6,5,5,6,4,5,3,3,5,4,5,3,7
+2024,Linda-Yasmine-Rodrigo-Syrine,ensgsi,5,Homme ,Entre 20-40 ans ,Etudiant,,,6,5,7,5,6,4,5,5,5,5,6,4,5,5,6,6,6,5,5,6,6,6,2,3,3,5,2,5
+2024,Linda-Yasmine-Rodrigo-Syrine,ensgsi,6,Homme ,Entre 20-40 ans ,Etudiant,,,5,5,6,6,6,6,5,6,6,6,6,4,6,4,6,6,5,6,6,6,5,4,6,6,6,6,6,6
+2024,Linda-Yasmine-Rodrigo-Syrine,ensgsi,7,Femme,Entre 20-40 ans ,Etudiant,,,2,3,3,1,5,6,3,5,4,6,3,6,4,3,1,6,3,1,4,7,3,1,1,2,2,4,2,6
+2024,Linda-Yasmine-Rodrigo-Syrine,ensgsi,8,Femme,Entre 20-40 ans ,Etudiant,,,4,3,5,5,6,2,2,6,5,2,6,4,2,3,4,6,5,5,5,5,5,6,6,5,2,6,5,2
+2024,Linda-Yasmine-Rodrigo-Syrine,ensgsi,9,Femme,Entre 20-40 ans ,Etudiant,,,1,7,7,1,7,7,7,7,7,7,7,7,2,6,7,7,7,7,7,7,7,7,7,7,6,7,7,7
+2024,Linda-Yasmine-Rodrigo-Syrine,ensgsi,10,Homme,Entre 20-40 ans ,Etudiant,,,6,6,6,6,6,6,6,6,6,6,6,5,6,5,6,6,6,6,6,5,5,5,6,6,3,5,5,5
+2024,Linda-Yasmine-Rodrigo-Syrine,polytech nancy,1,Femme,Entre 20-40 ans ,Doctorant,,,3,5,3,5,5,5,5,5,5,4,5,5,5,5,5,5,5,6,6,5,4,4,5,5,5,5,3,5
+2024,Linda-Yasmine-Rodrigo-Syrine,polytech nancy,2,Homme,Entre 20-40 ans ,Teacher,,,4,3,4,3,5,6,4,5,5,6,4,5,4,4,5,5,4,4,6,5,4,3,5,4,3,4,4,6
+2024,Linda-Yasmine-Rodrigo-Syrine,polytech nancy,3,Femme,Entre 20-40 ans ,Etudiant,,,2,4,3,3,4,5,2,2,5,2,4,5,4,3,4,3,3,2,4,3,3,6,4,3,3,3,2,6
+2024,Linda-Yasmine-Rodrigo-Syrine,polytech nancy,4,Homme,Entre 20-40 ans ,Etudiant,,,6,7,5,3,4,7,5,5,6,3,5,5,5,6,6,7,6,5,6,4,5,4,3,5,4,6,4,5
+2024,Linda-Yasmine-Rodrigo-Syrine,polytech nancy,5,Homme,Entre 20-40 ans ,Etudiant,,,1,6,6,2,5,6,5,5,5,6,6,4,2,5,6,7,6,5,6,3,5,3,3,4,4,4,5,6
+2024,Linda-Yasmine-Rodrigo-Syrine,polytech nancy,6,Femme,Entre 20-40 ans ,Etudiant,,,2,4,6,3,5,6,4,5,6,5,4,5,5,5,4,6,6,3,4,5,4,3,4,3,4,5,3,5
+2024,Linda-Yasmine-Rodrigo-Syrine,polytech nancy,7,Femme,Entre 20-40 ans ,Etudiant,,,4,5,5,6,5,6,5,6,6,4,5,5,4,2,6,6,6,6,7,6,6,3,6,6,6,6,6,6
+2024,Linda-Yasmine-Rodrigo-Syrine,polytech nancy,8,Homme,Entre 20-40 ans ,Etudiant,,,4,3,4,5,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,3,5,5,3,3,5,5,3,4
+2024,Linda-Yasmine-Rodrigo-Syrine,polytech nancy,9,Femme,Entre 20-40 ans ,Etudiant,,,3,5,4,3,4,4,4,3,4,4,3,4,4,5,4,4,4,4,4,3,3,4,4,4,4,3,4,4
+2024,Linda-Yasmine-Rodrigo-Syrine,polytech nancy,10,Homme,Entre 20-40 ans ,Etudiant,,,6,4,5,5,6,6,5,6,6,6,6,6,5,2,4,5,4,2,4,6,4,2,1,4,2,4,3,6
+2024,Linda-Yasmine-Rodrigo-Syrine,polytech nancy,11,Femme,Entre 20-40 ans ,Etudiant,,,4,4,5,3,5,3,3,3,4,5,3,6,3,4,5,5,4,3,4,5,4,4,3,4,3,4,3,5
