@@ -13,7 +13,7 @@ library(readxl)  # Read a Excel File
 
 
 #  Reading the Data ----
-## Méthodologie UEQ ----
+## Méthodologie Attrakdiff ----
 Attrakdiff <- read_csv("data/Data Experimentaion - Attrakdiff.csv")
 
 
@@ -47,8 +47,8 @@ Attrakdiff_donnes <- select(Attrakdiff_donnes, Group:Status, QP1:ATT7)
 UEQ_donnes <- select(UEQ_donnes, Group:Status, EFF1 : ATT6)
 
 
-## function `%>%`: Passe l’objetse trouvant à gauche comme premier argument de la fonction se trouvant à droite. (Alt + CMD/Ctrl + M)  ----
 
+## function `%>%`: Passe l’objetse trouvant à gauche comme premier argument de la fonction se trouvant à droite. (Alt + CMD/Ctrl + M)  ------
 ### Version 1 pour Attrakdiff
 Attrakdiff_donnes <- Attrakdiff %>% filter(Experimentation == "Innoflow")
 Attrakdiff_donnes_final <- Attrakdiff_donnes %>% select(Group:Status, QP1:ATT7)
@@ -66,6 +66,22 @@ UEQ_donnes_final <-
   filter(Experimentation == "Itonics") %>% 
   select(Group:Status, EFF1 : ATT6)
 
+
+
+# Motivation Principal ----
+Attrakdiff_donnes_final %>% 
+  ggplot() +
+  aes(x = Sex, fill = Sex) +
+  geom_bar(stat = "count") +
+  labs(x = "",
+       y = "Quantité de Participants ",
+       title = "QUestionnaire Introduction à. la Recherche",
+       subtitle = paste("Quantité de Participants:" , Attrakdiff_donnes_final %>% nrow()),
+       caption =  paste("Denière mise à jour: ", Sys.time() %>% format( '%d/%m/%Y'))
+  ) +
+  theme_minimal(base_size = 12, base_family = "Palatino")
+
+ggsave("figures/Participants.jpg", dpi = "print", width=5, height = 5)
 
 
 # Data Analysis of the Methodologies ----
@@ -345,6 +361,10 @@ UEQ.Results$Graphique.1 <-
 ## AttrakDiff Graphique 2 ----
 ### Charger les donnes des parametres d'Attrakdiff du Google Docs
 Attrakdiff.parameters <- read_csv("data/Data Experimentaion - Parameters Attrakdiff.csv")
+Attrakdiff.parameters <- 
+  Attrakdiff.parameters %>% arrange(Variable)
+
+
 
 Attrakdiff.step.6 <- 
   Attrakdiff.step.4 %>% group_by(Facteurs,Variable) %>% 
@@ -356,18 +376,24 @@ Attrakdiff.step.7 <-
   Attrakdiff.step.6 %>% 
   mutate(
     Variable = factor(Variable),
-    Scale = factor(Scale)
+    Scale = factor(Scale),
+    Left = factor(Left),
+    Right = factor(Right)
     )
 
+
+  
+  
+  
 Attrakdiff.Results$Graphique.2 <-
   Attrakdiff.step.7 %>%
    ggplot() + 
-   aes(x = Variable, y=Mean, group =1) + 
+   aes(x = Variable, y=Mean, group=1) + 
    geom_line( color="grey" ) +
    geom_point() +
    coord_flip() +
-   annotate("text", x = 1:28, y = -4, label = Attrakdiff.step.7$Left) +
-   annotate("text", x = 1:28, y = 4, label = Attrakdiff.step.7$Right) +
+   annotate("text", x = 1:28, y = -4, label = Attrakdiff.parameters$Right ) +
+   annotate("text", x = 1:28, y = 4, label = Attrakdiff.parameters$Left ) +
    scale_y_continuous(name="Moyenne", breaks=seq(-3,3,1), limits=c(-5, 5)) +
   theme_minimal(base_size = 12, base_family = "Palatino") +
    annotate("rect", xmin=c(1,8,15,22), xmax=c(7,14,21,28),

@@ -1,0 +1,488 @@
+---
+title: "Open Science for a better World"
+subtitle: "An introduction to the main tools"
+author: 
+  - "Fabio CRUZ"
+  - "Alex Gabriel"
+institute: "ERPI"
+date: "`r format(Sys.Date(), '%B %e, %Y')`"
+#output: powerpoint_presentation
+output:
+  xaringan::moon_reader:
+    css: ["default", "css/my-theme.css", "css/my-fonts.css"]
+    #css: ["assets/xaringan-themer.css"]
+    seal: TRUE
+    nature:
+      slideNumberFormat: "%current%/%total%" 
+      highlightStyle: solarized-light
+      highlightLanguage: ["r", "css", "yaml"]      
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+      navigation:
+        scroll: false # disable slide transitions by scrolling
+always_allow_html: true
+---
+
+```{r packages, echo = FALSE, message=FALSE, warning=FALSE}
+# Source
+#source("xaringan-themer.R")
+
+# load packages ----------------------------------------------------------------
+library(tidyverse)
+library(xaringanExtra)
+library(xaringanthemer)
+library(fontawesome)
+library(here)
+library(countdown)
+
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.path = 'assets/chunks/',  
+  collapse = TRUE,
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "90%",
+  fig.align = 'center',
+  cache = FALSE,
+  echo = FALSE,
+  message = FALSE, 
+  warning = FALSE,
+  fig.show = TRUE,
+  include = TRUE
+)
+
+# Link for the Figures
+URL = c('https://raw.githubusercontent.com/fabbiocrux/Figures/main/')
+
+
+# xaringanExtra
+xaringanExtra::use_panelset()
+
+#xaringanExtra::use_share_again()
+xaringanExtra::use_tachyons()
+xaringanExtra::use_tile_view()
+xaringanExtra::use_webcam()
+xaringanExtra::use_fit_screen()
+xaringanExtra::use_extra_styles(hover_code_line = TRUE, mute_unhighlighted_code = TRUE)
+xaringanExtra::use_share_again()
+
+
+
+```
+
+
+# Learning goals
+
+* Understand the process of create reproducible documents
+* Have a first insight in the data visualization practices using datasets
+* Experience the diversity of options that open practices offers to communicate your results. 
+
+
+---
+
+class: middle center
+
+# Motivation 1: Reproducibility
+
+
+---
+
+background-image: url("figures/2023-01-16-OpenScience.jpg")
+background-position: 50% 50%
+background-size: 100%
+class: left bottom
+
+---
+
+
+## Music Vs. Research
+
+.pull-left[
+```{r, include=TRUE, fig.align='center', cache=TRUE, out.width='80%'}
+knitr::include_graphics("figures/Musica.jpeg")
+```
+
+]
+.pull-right[
+```{r, include=TRUE, fig.align='center', cache=TRUE, out.width='100%'}
+knitr::include_graphics("figures/Paper.png")
+```
+
+]
+
+
+---
+
+## Music Vs. Research
+
+.pull-left[
+```{r, include=TRUE, fig.align='center', cache=TRUE, out.width='100%'}
+knitr::include_graphics("figures/excel-chaos.jpg")
+```
+
+]
+.pull-right[
+```{r, include=TRUE, fig.align='center', cache=TRUE, out.width='100%'}
+knitr::include_graphics("figures/Paper.png")
+```
+]
+
+---
+
+## The document pipeline
+
+```{r Fig_open-science, }
+knitr::include_graphics("figures/Article-pipeline-1.png")
+```
+
+
+---
+
+## The document pipeline
+
+```{r, include=TRUE, fig.align='center', cache=TRUE, out.width='90%'}
+knitr::include_graphics("figures/Article-pipeline-2.png")
+```
+
+
+How to describe in detail this section for Research & Industry purposes
+
+---
+
+exclude: true
+
+# Reproducibility and Replicability
+
+.pull-left[
+**Reproducibility**: 
+
+Refers to the ability of a researcher to duplicate the results of a prior study using the same materials as were used by the original researcher (Goodman, Fanelli, and Ioannidis 2016).
+
+- Focuses on the validity of the data analysis
+- "Can we trust this analysis?"
+
+]
+
+.pull-rigth[
+**Replicability:** 
+
+This is the act of repeating an entire study, independently of the original investigator without the use of original data (but generally using the same methods).
+
+- Important for policymakers and regulatory decisions
+
+]
+
+
+.footnote.small[
+Goodman, Steven N., Daniele Fanelli, and John P. A. Ioannidis. 2016. “What Does Research Reproducibility Mean?” Science Translational Medicine 8 (341): 341ps12–341ps12. https://doi.org/10.1126/scitranslmed.aaf5027.
+]
+
+---
+
+
+## Why do we need Reproducible Research?
+
+- Avoid misconduct such as fraudulent data and plagiarism
+- Data-intensive research (e.g Big data research)
+- Distributed research
+
+
+<img height="270px" class="plain" src="figures/Problem-1.png">
+<img height="250px" class="plain" src="figures/Problem-3.png">
+<img height="250px" class="plain" src="figures/Problem-2.png">
+
+---
+
+background-image: url("https://figures-na.ssl-figures-amazon.com/figures/I/41KSVC8Q2JL.jpg")
+background-position: 90% 50%
+background-size: 30%
+
+
+## Reproducibility concepts
+
+Two key elements: 
+
+- .bg-yellow[**Literate programming for enabling reproducibilty**]
+- Version control for enhancing transparency
+
+*Literate programming refers to the use of a computing environment for authoring documents that contain a mix of natural (eg. English) and computer (eg. R) languages (Schulte et al. 2012)*
+
+
+
+.footnote[
+D. E. Knuth, Literate Programming, The Computer Journal, Volume 27, Issue 2, 1984, Pages 97–111, https://doi.org/10.1093/comjnl/27.2.97
+]
+
+---
+
+## Literate Programming
+
+.pull-left[
+
+```{r, include=TRUE, fig.align='center', cache=TRUE, out.width='100%'}
+knitr::include_graphics("figures/rstudio.png")
+```
+
+]
+.pull-right[
+```{r, include=TRUE, fig.align='center', out.width='100%'}
+knitr::include_graphics("figures/Word-excel.jpg")
+```
+
+]
+
+
+---
+
+class: middle 
+
+#  Motivation 2: Data Visualization
+
+
+---
+
+## What is Data Visualization?
+
+- Graphical representations of data
+
+- Use different colors, shapes, and the coordinate system to summarize data
+
+- Tell a story
+
+- Useful for understanding
+
+
+---
+
+
+# R is FREE 
+
+- R is a language and environment for statistical computing and graphics. (R project)
+- In August 1993, designed by
+
+.pull-left[
+```{r founders-r1, out.width="80%", fig.align='center', fig.cap="Ross Ihaka <br>(New Zealand Statistician)"  }
+knitr::include_graphics("https://cdn.auckland.ac.nz/aem/content/auckland/en/science/about-the-faculty/department-of-statistics/ihaka-lecture-series/_jcr_content/leftpar/imagecomponent/image.img.480.low.jpg/1561079330278.jpg")
+```
+
+]
+
+.pull-right[
+```{r founders-r2, out.width="50%",  fig.align='center', fig.cap="Robert Gentleman<br>(Canadian Statistician)"}
+knitr::include_graphics("https://www.computerhope.com/people/pictures/robert_gentleman.jpg")
+```
+
+]
+
+---
+
+class: center
+
+## Download R from [CRAN](https://cran.r-project.org/mirrors.html)
+
+```{r cran, fig.align='center', out.width="80%"}
+knitr::include_graphics("figures/cran.png")
+```
+
+
+---
+
+background-image: url("https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png")
+background-size: 90%
+
+## R Studio
+
+---
+
+background-image: url("https://res-5.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco/v1398402407/chvmdsmomg96uoz8g3ad.jpg")
+background-size: 20%
+background-position: 99% 1%
+
+## R Studio
+
+- 2009, Joseph J. Allaire founded RStudio.
+
+- 2011, RStudio IDE for R was launched.
+
+- "RStudio is dedicated to sustainable investment in free and open-source software for data science." (16 Jan 2022)
+
+```{r, out.width='50%'}
+knitr::include_graphics("https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png")
+```
+
+
+.footnote[
+[Source: https://www.rstudio.com/about/](https://www.rstudio.com/about/)
+]
+
+---
+
+class: center
+
+# R $\rightleftharpoons$ RStudio
+
+
+.pull-left[
+## Imagine RStudio as a stylish car ...
+
+# .big-text[`r emo::ji("car")`]
+]
+
+
+
+.pull-right[
+## and R as its powerful engine.
+
+# .big-text[`r emo::ji("gear")`]
+]
+
+---
+
+class: center
+
+# RStudio IDE
+
+```{r ide, out.width="75%"}
+knitr::include_graphics("figures/rstd-ide.png")
+```
+
+---
+
+class: middle
+
+## For example
+
+- [How the BBC Visual and Data Journalism team works with graphics in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535)
+
+-[Explore your activity on Spotify with R and “spotifyr”: How to analyze and visualize your streaming history and music tastes](https://towardsdatascience.com/explore-your-activity-on-spotify-with-r-and-spotifyr-how-to-analyze-and-visualize-your-stream-dee41cb63526)
+
+-[Covid](https://statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/)
+- [Open Data Science (In french)](https://github.com/frrrenchies/frrrenchies)
+
+
+---
+
+# Summary
+
+- Reproducible research as a **minimum standard**, particularly for studies that are difficult to replicate
+
+- Change of 
+- Infrastructure is needed for creating and distributing reproducible documents, beyond what is currently available
+
+- There is a growing number of tools for creating reproducible documents
+
+## Some challengues
+
+- It is not the solution for everyone.
+
+
+
+---
+
+class: middle 
+
+# Mental Model 
+## for (Applied) data science
+
+
+---
+
+```{r, out.width = '100%', fig.align="center"}
+knitr::include_graphics("figures/01-Introduction.001.jpeg")
+```
+
+---
+
+```{r, out.width = '100%', fig.align="center"}
+knitr::include_graphics("figures/01-Introduction.002.jpeg")
+```
+
+---
+
+
+```{r, out.width = '100%', fig.align="center"}
+knitr::include_graphics("figures/01-Introduction.003.jpeg")
+```
+
+---
+
+```{r, out.width = '100%', fig.align="center"}
+knitr::include_graphics("figures/01-Introduction.004.jpeg")
+```
+
+---
+
+```{r, out.width = '100%', fig.align="center"}
+knitr::include_graphics("figures/01-Introduction.005.jpeg")
+```
+
+---
+
+```{r, out.width = '100%', fig.align="center"}
+knitr::include_graphics("figures/01-Introduction.006.jpeg")
+```
+
+
+---
+
+```{r, out.width = '100%', fig.align="center"}
+knitr::include_graphics("figures/01-Introduction.007.jpeg")
+```
+
+---
+
+class:  middle
+
+# Goal of the Day:
+
+## Make your AttrakDiff / UEQ data analysis!!
+
+
+
+---
+
+class: middle
+
+# Goal of the Day:
+## Make your AttrakDiff / UEQ data analysis!!
+
+
+.center[
+##  https://posit.cloud/content/5349937
+]
+
+
+## So:
+
+1. Sign up 
+
+1. Make a .bg-yellow[Permanent Copy].
+
+1. Voila!, C'est bon
+
+
+---
+
+
+class: center, middle
+
+# Pause of 5 minutes
+
+
+---
+
+
+
+class: center, hide-logo
+
+background-image: url("figures/learn.png")
+background-size: 125%
+
+background-color: #F5F4F2
+
+.footnote[
+[Source: https://education.rstudio.com](https://education.rstudio.com)
+]
+
+
+
