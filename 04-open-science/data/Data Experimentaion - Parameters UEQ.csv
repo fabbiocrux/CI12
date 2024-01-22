@@ -1,0 +1,27 @@
+ID,Variable,Inversion,Left,Right,Scale
+1,ATT1,,Agaçant,Agréable,Attraction
+2,PERS1,,Incompréhensible,Compréhensible,Compréhensibilité
+3,NOV1,Yes,Moderne,Sans fantaisie,Originalité
+4,PERS2,Yes,Appropriation simple,Appropriation compliquée,Compréhensibilité
+5,STIM1,Yes,Apporte de la valeur,Peu de valeur ajoutée,Stimulation
+6,STIM2,,Ennuyeux,Captivant,Stimulation
+7,STIM3,,Inintéressant,Intéressant,Stimulation
+8,DEP1,,Imprévisible,Prévisible,Contrôlabilité
+9,EFF1,Yes,Rapide,Lent,Efficacité
+10,NOV2,Yes,Original,Conventionnel,Originalité
+11,DEP2,,Rigide,Facilitant,Contrôlabilité
+12,ATT2,Yes,Bien,Médiocre,Attraction
+13,PERS3,,Compliqué,Simple,Compréhensibilité
+14,ATT3,,Repoussant,Attractif,Attraction
+15,NOV3,,Habituel,Avant-gardiste,Originalité
+16,ATT4,,Désagréable,Agréable,Attraction
+17,DEP3,Yes,Sécurisant,Insécurisant,Contrôlabilité
+18,STIM4,Yes,Stimulant,Soporifique,Stimulation
+19,DEP4,Yes,Répond aux attentes,Ne répond pas aux attentes,Contrôlabilité
+20,EFF2,,Inefficace,Efficace,Efficacité
+21,PERS4,Yes,Clair,Déroutant,Compréhensibilité
+22,EFF3,,Non pragmatique,Pragmatique,Efficacité
+23,EFF4,Yes,Sobre,Surchargé,Efficacité
+24,ATT5,Yes,Attrayant,Rébarbatif,Attraction
+25,ATT6,Yes,Sympathique,Inamical,Attraction
+26,NOV4,,Conservateur,Innovant,Originalité

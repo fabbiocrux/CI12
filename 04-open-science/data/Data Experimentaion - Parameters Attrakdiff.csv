@@ -1,0 +1,29 @@
+ID,Variable,Inversion,Left,Right,Scale
+1,QP1,Yes,Humain,Technique,Qualité pragmatique
+2,QHI1,,M'isole,Me sociabilise,Qualité hédonique - identification
+3,ATT1,Yes,Plaisant,Déplaissant,Attractivité globale
+4,QHS1,Yes,Original,Conventionnnel,Qualité hédonique - stimulation
+5,QP2,Yes,Simple,Compliqué,Qualité pragmatique
+6,QHI2,Yes,Professionnel,Amateur,Qualité hédonique - identification
+7,ATT2,,Laid,Beau,Attractivité globale
+8,QP3,Yes,Pratique,Pas pratique,Qualité pragmatique
+9,ATT3,Yes,Agreable,Désagreable,Attractivité globale
+10,QP4,,Fastideux,Efficace,Qualité pragmatique
+11,QHI3,Yes,De bon goût,De mauvais goût,Qualité hédonique - identification
+12,QP5,Yes,Prévisible,Imprévisible,Qualité pragmatique
+13,QHI4,,Bas de gamme,Haut de gamme,Qualité hédonique - identification
+14,QHI5,,M'exclut,M'intègre,Qualité hédonique - identification
+15,QHI6,Yes,Me rapproche des autres,Me separe des autres,Qualité hédonique - identification
+16,QHI7,,Non présentable,Présentable,Qualité hédonique - identification
+17,ATT4,,Rebutant,Attirant,Attractivité globale
+18,QHS2,,Sans imagination,Créatif,Qualité hédonique - stimulation
+19,ATT5,Yes,Bon,Mauvais,Attractivité globale
+20,QP6,,Confus,Clair,Qualité pragmatique
+21,ATT6,,Repoussant,Attrayant,Attractivité globale
+22,QHS3,Yes,Audacieux,Prudent,Qualité hédonique - stimulation
+23,QHS4,Yes,Novateur,Conservateur,Qualité hédonique - stimulation
+24,QHS5,,Ennuyeyx,Captivant,Qualité hédonique - stimulation
+25,QHS6,,Peu exegeant,Challenging,Qualité hédonique - stimulation
+26,ATT7,Yes,Motivant,Décourageant,Attractivité globale
+27,QHS7,Yes,Nouveau,Commun,Qualité hédonique - stimulation
+28,QP7,,Incontrôlable,Maîtrisable,Qualité pragmatique

@@ -1,0 +1,35 @@
+Year,Group,Experimentation,Part_ID,Sex,Range,Status,Commentaire_1,Commentaire_2,EFF1,EFF2,EFF3,EFF4,PERS1,PERS2,PERS3,PERS4,DEP1,DEP2,DEP3,DEP4,STIM1,STIM2,STIM3,STIM4,NOV1,NOV2,NOV3,NOV4,ATT1,ATT2,ATT3,ATT4,ATT5,ATT6
+2023,Test,Innoflow,1,Une femme,Entre 18-25 ans,Etudiant,,,7,7,3,3,4,4,2,2,3,3,2,3,1,3,4,3,3,3,5,3,4,3,3,3,5,3
+2023,Test,Innoflow,2,Une femme,Entre 26-35 ans,Etudiant,,,4,5,3,5,5,5,5,2,5,3,5,5,4,4,5,5,5,3,5,3,5,3,5,3,5,3
+2023,Test,Innoflow,3,Un homme,Entre 26-35 ans,Etudiant,,,4,5,3,3,2,2,3,4,3,5,5,5,4,5,2,5,4,4,5,4,4,3,3,4,4,3
+2023,Test,Innoflow,4,Une femme,Entre 26-35 ans,Salarie,,,7,5,6,6,5,5,6,6,5,6,5,6,4,5,4,6,5,4,6,6,5,4,5,5,4,5
+2023,Test,Innoflow,5,Un homme,Entre 18-25 ans,Salarie,,,7,3,2,2,3,3,6,4,3,4,5,5,2,4,4,6,3,2,3,2,3,4,3,2,5,2
+2023,Charline Jade Léa,Itonics,1,Femme,,Etudiant,23,,6,6,5,5,3,3,4,4,4,5,5,5,5,4,5,5,5,6,5,6,3,4,3,4,5,5
+2023,Charline Jade Léa,Itonics,2,Femme,,Etudiant,22,,5,4,3,4,5,3,7,4,5,6,7,7,5,4,4,6,5,4,3,4,5,7,7,6,6,6
+2023,Charline Jade Léa,Itonics,3,Femme,,Etudiant,24,,2,6,4,4,5,3,2,2,4,4,4,5,6,5,6,6,6,6,6,7,5,6,6,6,6,6
+2023,Charline Jade Léa,Itonics,4,Femme,,Etudiant,24,,3,5,4,2,5,2,3,2,3,3,3,4,5,4,4,5,5,5,5,5,4,5,5,5,4,4
+2023,Charline Jade Léa,Itonics,5,Homme,,Etudiant,23,,5,5,5,5,5,5,5,5,5,5,5,5,6,3,4,4,5,2,4,5,5,5,3,5,5,5
+2023,Charline Jade Léa,Itonics,6,Homme,,Etudiant,23,,6,4,5,2,2,1,3,2,2,4,3,4,5,5,5,5,7,5,6,6,7,4,5,4,5,5
+2023,Charline Jade Léa,Itonics,7,Femme,,Etudiant,23,,2,5,6,3,6,7,6,6,7,6,4,6,7,7,6,6,7,5,7,4,6,7,6,7,5,6
+2023,Charline Jade Léa,Itonics,8,Homme,,Etudiant,25,,5,5,5,4,5,3,3,5,2,3,5,5,7,6,7,6,7,6,5,6,6,5,6,6,5,5
+2023,"Perrine, Apolline et Cécile",Aha!,1,Une femme,18 - 25 ans,Etudiant(e),,,7,6,7,5,5,6,5,5,6,5,4,7,6,5,6,6,6,6,4,4,6,7,5,5,5,4
+2023,"Perrine, Apolline et Cécile",Aha!,2,Une femme,18 - 25 ans,Etudiant(e),,,7,6,7,6,7,7,6,6,7,5,4,7,6,6,6,5,4,5,4,4,6,6,6,6,5,4
+2023,"Perrine, Apolline et Cécile",Aha!,3,Une femme,18 - 25 ans,Etudiant(e),,,7,5,5,6,5,6,6,7,7,6,4,6,5,5,6,6,3,5,5,4,6,7,6,5,5,4
+2023,"Perrine, Apolline et Cécile",Aha!,4,Une femme,18 - 25 ans,Etudiant(e),,,6,6,4,2,6,6,4,3,5,2,6,6,5,2,4,3,4,4,5,4,4,6,5,6,4,6
+2023,"Perrine, Apolline et Cécile",Aha!,5,Un homme,18 - 25 ans,Etudiant(e),,,5,4,5,4,3,4,3,3,3,4,6,4,3,4,4,5,3,4,4,3,4,5,4,4,3,4
+2023,"Perrine, Apolline et Cécile",Aha!,6,Un homme,18 - 25 ans,Etudiant(e),,,5,5,6,6,6,4,6,6,6,5,6,6,6,6,6,6,5,4,4,4,6,7,6,5,4,6
+2023,"Perrine, Apolline et Cécile",Aha!,7,Un homme,18 - 25 ans,Etudiant(e),,,6,6,5,5,5,5,5,4,5,4,3,6,5,5,6,4,3,4,4,4,5,6,5,6,4,3
+2023,"Perrine, Apolline et Cécile",Aha!,8,Une femme,18 - 25 ans,Etudiant(e),,,6,6,6,5,3,1,1,1,2,3,6,6,6,2,2,5,4,5,5,5,3,7,5,5,5,6
+2023,"Perrine, Apolline et Cécile",Aha!,9,Un homme,25 - 35 ans,Fonctionnaire,,,7,4,5,5,5,6,6,5,5,6,4,5,5,5,6,5,3,4,5,3,4,6,6,5,6,4
+2023,"Ana, Isabela et Jorgeduardo",Ideanote,1,Un homme,Entre 18 et 25 ans,Étudiant.e,,,3,2,1,4,2,3,2,3,5,5,1,3,5,2,4,3,4,5,4,4,2,4,3,3,4,2
+2023,"Ana, Isabela et Jorgeduardo",Ideanote,2,Une femme,Entre 18 et 25 ans,Étudiant.e,,,7,7,6,7,6,6,6,6,5,7,7,7,6,4,6,5,4,6,5,5,7,7,6,7,7,5
+2023,"Ana, Isabela et Jorgeduardo",Ideanote,3,Un homme,Entre 18 et 25 ans,Étudiant.e,,,5,4,5,5,4,3,3,3,4,4,4,4,4,4,5,5,5,5,4,4,3,4,3,5,5,5
+2023,"Ana, Isabela et Jorgeduardo",Ideanote,4,Une femme,Entre 18 et 25 ans,Étudiant.e,,,6,5,4,6,4,4,4,5,5,5,5,6,6,5,6,6,5,5,3,4,5,6,5,6,6,6
+2023,"Ana, Isabela et Jorgeduardo",Ideanote,5,Une femme,Entre 18 et 25 ans,Étudiant.e,,,7,6,5,4,5,5,6,5,4,5,6,6,6,5,6,6,4,4,4,5,6,7,6,6,6,6
+2023,"Ana, Isabela et Jorgeduardo",Ideanote,6,Un homme,Entre 18 et 25 ans,Étudiant.e,,,6,7,5,5,6,5,5,5,3,5,7,6,5,5,6,5,6,5,5,7,5,6,5,5,7,6
+2023,Manon & Margaux ,innoflow,1,Femme,entre 18 & 25 ans,Étudiant.e,,,1,3,4,2,3,5,2,3,1,4,6,7,7,5,3,4,4,6,3,4,5,3,4,7,5,7
+2023,Manon & Margaux ,innoflow,2,Femme,entre 18 & 25 ans,Étudiant.e,,,3,2,5,6,2,1,2,1,3,4,2,3,5,2,3,2,5,5,3,3,5,4,3,6,4,3
+2023,Manon & Margaux ,innoflow,3,Femme,entre 18 & 25 ans,Étudiant.e,,,4,3,4,3,4,4,6,3,2,6,4,6,3,6,5,3,5,4,2,3,4,2,3,5,2,3
+2023,Manon & Margaux ,innoflow,4,Femme,entre 18 & 25 ans,Étudiant.e,,,3,3,5,3,5,4,6,4,6,5,7,4,4,3,5,4,4,4,4,6,4,5,5,5,5,6
+2023,Manon & Margaux ,innoflow,5,Femme,entre 18 & 25 ans,Étudiant.e,,,4,4,5,4,5,4,4,5,5,4,6,7,7,5,3,5,7,6,6,4,4,3,4,6,6,4
+2023,Manon & Margaux ,innoflow,6,Homme,entre 18 & 25 ans,Étudiant.e,,,4,4,5,3,6,5,5,4,3,6,4,6,3,6,5,6,4,6,5,7,2,4,4,6,6,7
