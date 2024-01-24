@@ -1,0 +1,1086 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.543">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Fabio CRUZ">
+<meta name="author" content="Alex Gabriel">
+<meta name="dcterms.date" content="2024-01-24">
+
+<title>CI12 - Open Science for a better World</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<link href="../site_libs/panelset/panelset.css" rel="stylesheet">
+<script src="../site_libs/panelset/panelset.js"></script>
+<link href="../site_libs/tachyons/tachyons.min.css" rel="stylesheet">
+<link href="../site_libs/tile-view/tile-view.css" rel="stylesheet">
+<script src="../site_libs/tile-view/tile-view.js"></script>
+<script src="../site_libs/xaringanExtra-webcam/webcam.js"></script>
+<script id="xaringanExtra-webcam-options" type="application/json">{"width":"200","height":"200","margin":"1em"}</script>
+<script src="../site_libs/xaringanExtra_fit-screen/fit-screen.js"></script>
+<link href="../site_libs/xaringanExtra-extra-styles/xaringanExtra-extra-styles.css" rel="stylesheet">
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<link href="../site_libs/shareon/shareon.min.css" rel="stylesheet">
+<script src="../site_libs/shareon/shareon.min.js"></script>
+<link href="../site_libs/xaringanExtra-shareagain/shareagain.css" rel="stylesheet">
+<script src="../site_libs/xaringanExtra-shareagain/shareagain.js"></script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">CI12</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#learning-goals" id="toc-learning-goals" class="nav-link active" data-scroll-target="#learning-goals">Learning goals</a></li>
+  <li><a href="#motivation-1-reproducibility" id="toc-motivation-1-reproducibility" class="nav-link" data-scroll-target="#motivation-1-reproducibility">Motivation 1: Reproducibility</a>
+  <ul class="collapse">
+  <li><a href="#music-vs.-research" id="toc-music-vs.-research" class="nav-link" data-scroll-target="#music-vs.-research">Music Vs. Research</a></li>
+  <li><a href="#music-vs.-research-1" id="toc-music-vs.-research-1" class="nav-link" data-scroll-target="#music-vs.-research-1">Music Vs. Research</a></li>
+  <li><a href="#the-document-pipeline" id="toc-the-document-pipeline" class="nav-link" data-scroll-target="#the-document-pipeline">The document pipeline</a></li>
+  <li><a href="#the-document-pipeline-1" id="toc-the-document-pipeline-1" class="nav-link" data-scroll-target="#the-document-pipeline-1">The document pipeline</a></li>
+  </ul></li>
+  <li><a href="#reproducibility-and-replicability" id="toc-reproducibility-and-replicability" class="nav-link" data-scroll-target="#reproducibility-and-replicability">Reproducibility and Replicability</a>
+  <ul class="collapse">
+  <li><a href="#why-do-we-need-reproducible-research" id="toc-why-do-we-need-reproducible-research" class="nav-link" data-scroll-target="#why-do-we-need-reproducible-research">Why do we need Reproducible Research?</a></li>
+  <li><a href="#reproducibility-concepts" id="toc-reproducibility-concepts" class="nav-link" data-scroll-target="#reproducibility-concepts">Reproducibility concepts</a></li>
+  <li><a href="#literate-programming" id="toc-literate-programming" class="nav-link" data-scroll-target="#literate-programming">Literate Programming</a></li>
+  </ul></li>
+  <li><a href="#motivation-2-data-visualization" id="toc-motivation-2-data-visualization" class="nav-link" data-scroll-target="#motivation-2-data-visualization">Motivation 2: Data Visualization</a>
+  <ul class="collapse">
+  <li><a href="#what-is-data-visualization" id="toc-what-is-data-visualization" class="nav-link" data-scroll-target="#what-is-data-visualization">What is Data Visualization?</a></li>
+  </ul></li>
+  <li><a href="#r-is-free" id="toc-r-is-free" class="nav-link" data-scroll-target="#r-is-free">R is FREE</a>
+  <ul class="collapse">
+  <li><a href="#download-r-from-cran" id="toc-download-r-from-cran" class="nav-link" data-scroll-target="#download-r-from-cran">Download R from CRAN</a></li>
+  <li><a href="#r-studio" id="toc-r-studio" class="nav-link" data-scroll-target="#r-studio">R Studio</a></li>
+  <li><a href="#r-studio-1" id="toc-r-studio-1" class="nav-link" data-scroll-target="#r-studio-1">R Studio</a></li>
+  </ul></li>
+  <li><a href="#r-rightleftharpoons-rstudio" id="toc-r-rightleftharpoons-rstudio" class="nav-link" data-scroll-target="#r-rightleftharpoons-rstudio">R <span class="math inline">\(\rightleftharpoons\)</span> RStudio</a></li>
+  <li><a href="#big-text" id="toc-big-text" class="nav-link" data-scroll-target="#big-text">.big-text[🚗]</a></li>
+  <li><a href="#big-text-1" id="toc-big-text-1" class="nav-link" data-scroll-target="#big-text-1">.big-text[⚙️]</a></li>
+  <li><a href="#rstudio-ide" id="toc-rstudio-ide" class="nav-link" data-scroll-target="#rstudio-ide">RStudio IDE</a>
+  <ul class="collapse">
+  <li><a href="#for-example" id="toc-for-example" class="nav-link" data-scroll-target="#for-example">For example</a></li>
+  </ul></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a>
+  <ul class="collapse">
+  <li><a href="#some-challengues" id="toc-some-challengues" class="nav-link" data-scroll-target="#some-challengues">Some challengues</a></li>
+  </ul></li>
+  <li><a href="#mental-model" id="toc-mental-model" class="nav-link" data-scroll-target="#mental-model">Mental Model</a>
+  <ul class="collapse">
+  <li><a href="#for-applied-data-science" id="toc-for-applied-data-science" class="nav-link" data-scroll-target="#for-applied-data-science">for (Applied) data science</a></li>
+  </ul></li>
+  <li><a href="#goal-of-the-day" id="toc-goal-of-the-day" class="nav-link" data-scroll-target="#goal-of-the-day">Goal of the Day:</a>
+  <ul class="collapse">
+  <li><a href="#make-your-attrakdiff-ueq-data-analysis" id="toc-make-your-attrakdiff-ueq-data-analysis" class="nav-link" data-scroll-target="#make-your-attrakdiff-ueq-data-analysis">Make your AttrakDiff / UEQ data analysis!!</a></li>
+  </ul></li>
+  <li><a href="#goal-of-the-day-1" id="toc-goal-of-the-day-1" class="nav-link" data-scroll-target="#goal-of-the-day-1">Goal of the Day:</a>
+  <ul class="collapse">
+  <li><a href="#make-your-attrakdiff-ueq-data-analysis-1" id="toc-make-your-attrakdiff-ueq-data-analysis-1" class="nav-link" data-scroll-target="#make-your-attrakdiff-ueq-data-analysis-1">Make your AttrakDiff / UEQ data analysis!!</a></li>
+  <li><a href="#so" id="toc-so" class="nav-link" data-scroll-target="#so">So:</a></li>
+  </ul></li>
+  <li><a href="#pause-of-5-minutes" id="toc-pause-of-5-minutes" class="nav-link" data-scroll-target="#pause-of-5-minutes">Pause of 5 minutes</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Open Science for a better World</h1>
+<p class="subtitle lead">An introduction to the main tools</p>
+</div>
+
+
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Authors</div>
+  <div class="quarto-title-meta-heading">Affiliation</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author">Fabio CRUZ </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            ERPI
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">Alex Gabriel </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+      </div>
+  </div>
+
+<div class="quarto-title-meta">
+
+      
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">January 24, 2024</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="cell">
+<div class="cell-output-display">
+
+</div>
+<div class="cell-output-display">
+
+</div>
+<div class="cell-output-display">
+
+</div>
+<div class="cell-output-display">
+
+</div>
+<div class="cell-output-display">
+
+</div>
+<div class="cell-output-display">
+
+</div>
+<div class="cell-output-display">
+
+</div>
+</div>
+<section id="learning-goals" class="level1">
+<h1>Learning goals</h1>
+<ul>
+<li>Understand the process of create reproducible documents</li>
+<li>Have a first insight in the data visualization practices using datasets</li>
+<li>Experience the diversity of options that open practices offers to communicate your results.</li>
+</ul>
+<hr>
+<p>class: middle center</p>
+</section>
+<section id="motivation-1-reproducibility" class="level1">
+<h1>Motivation 1: Reproducibility</h1>
+<hr>
+<p>background-image: url(“figures/2023-01-16-OpenScience.jpg”) background-position: 50% 50% background-size: 100% class: left bottom</p>
+<hr>
+<section id="music-vs.-research" class="level2">
+<h2 class="anchored" data-anchor-id="music-vs.-research">Music Vs. Research</h2>
+<p>.pull-left[</p>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/Musica.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>] .pull-right[</p>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/Paper.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>]</p>
+<hr>
+</section>
+<section id="music-vs.-research-1" class="level2">
+<h2 class="anchored" data-anchor-id="music-vs.-research-1">Music Vs. Research</h2>
+<p>.pull-left[</p>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/excel-chaos.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>] .pull-right[</p>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/Paper.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>]</p>
+<hr>
+</section>
+<section id="the-document-pipeline" class="level2">
+<h2 class="anchored" data-anchor-id="the-document-pipeline">The document pipeline</h2>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/Article-pipeline-1.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:90.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="the-document-pipeline-1" class="level2">
+<h2 class="anchored" data-anchor-id="the-document-pipeline-1">The document pipeline</h2>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/Article-pipeline-2.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:90.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>How to describe in detail this section for Research &amp; Industry purposes</p>
+<hr>
+<p>exclude: true</p>
+</section>
+</section>
+<section id="reproducibility-and-replicability" class="level1">
+<h1>Reproducibility and Replicability</h1>
+<p>.pull-left[ <strong>Reproducibility</strong>:</p>
+<p>Refers to the ability of a researcher to duplicate the results of a prior study using the same materials as were used by the original researcher (Goodman, Fanelli, and Ioannidis 2016).</p>
+<ul>
+<li>Focuses on the validity of the data analysis</li>
+<li>“Can we trust this analysis?”</li>
+</ul>
+<p>]</p>
+<p>.pull-rigth[ <strong>Replicability:</strong></p>
+<p>This is the act of repeating an entire study, independently of the original investigator without the use of original data (but generally using the same methods).</p>
+<ul>
+<li>Important for policymakers and regulatory decisions</li>
+</ul>
+<p>]</p>
+<p>.footnote.small[ Goodman, Steven N., Daniele Fanelli, and John P. A. Ioannidis. 2016. “What Does Research Reproducibility Mean?” Science Translational Medicine 8 (341): 341ps12–341ps12. https://doi.org/10.1126/scitranslmed.aaf5027.]</p>
+<hr>
+<section id="why-do-we-need-reproducible-research" class="level2">
+<h2 class="anchored" data-anchor-id="why-do-we-need-reproducible-research">Why do we need Reproducible Research?</h2>
+<ul>
+<li>Avoid misconduct such as fraudulent data and plagiarism</li>
+<li>Data-intensive research (e.g Big data research)</li>
+<li>Distributed research</li>
+</ul>
+<p><img height="270px" class="plain" src="figures/Problem-1.png"> <img height="250px" class="plain" src="figures/Problem-3.png"> <img height="250px" class="plain" src="figures/Problem-2.png"></p>
+<hr>
+<p>background-image: url(“https://figures-na.ssl-figures-amazon.com/figures/I/41KSVC8Q2JL.jpg”) background-position: 90% 50% background-size: 30%</p>
+</section>
+<section id="reproducibility-concepts" class="level2">
+<h2 class="anchored" data-anchor-id="reproducibility-concepts">Reproducibility concepts</h2>
+<p>Two key elements:</p>
+<ul>
+<li>.bg-yellow[<strong>Literate programming for enabling reproducibilty</strong>]</li>
+<li>Version control for enhancing transparency</li>
+</ul>
+<p><em>Literate programming refers to the use of a computing environment for authoring documents that contain a mix of natural (eg. English) and computer (eg. R) languages (Schulte et al.&nbsp;2012)</em></p>
+<p>.footnote[ D. E. Knuth, Literate Programming, The Computer Journal, Volume 27, Issue 2, 1984, Pages 97–111, https://doi.org/10.1093/comjnl/27.2.97]</p>
+<hr>
+</section>
+<section id="literate-programming" class="level2">
+<h2 class="anchored" data-anchor-id="literate-programming">Literate Programming</h2>
+<p>.pull-left[</p>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/rstudio.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>] .pull-right[</p>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/Word-excel.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>]</p>
+<hr>
+<p>class: middle</p>
+</section>
+</section>
+<section id="motivation-2-data-visualization" class="level1">
+<h1>Motivation 2: Data Visualization</h1>
+<hr>
+<section id="what-is-data-visualization" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-data-visualization">What is Data Visualization?</h2>
+<ul>
+<li><p>Graphical representations of data</p></li>
+<li><p>Use different colors, shapes, and the coordinate system to summarize data</p></li>
+<li><p>Tell a story</p></li>
+<li><p>Useful for understanding</p></li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="r-is-free" class="level1">
+<h1>R is FREE</h1>
+<ul>
+<li>R is a language and environment for statistical computing and graphics. (R project)</li>
+<li>In August 1993, designed by</li>
+</ul>
+<p>.pull-left[</p>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://cdn.auckland.ac.nz/aem/content/auckland/en/science/about-the-faculty/department-of-statistics/ihaka-lecture-series/_jcr_content/leftpar/imagecomponent/image.img.480.low.jpg/1561079330278.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></p>
+<figcaption>Ross Ihaka <br>(New Zealand Statistician)</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p>]</p>
+<p>.pull-right[</p>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.computerhope.com/people/pictures/robert_gentleman.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+<figcaption>Robert Gentleman<br>(Canadian Statistician)</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p>]</p>
+<hr>
+<p>class: center</p>
+<section id="download-r-from-cran" class="level2">
+<h2 class="anchored" data-anchor-id="download-r-from-cran">Download R from <a href="https://cran.r-project.org/mirrors.html">CRAN</a></h2>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/cran.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<hr>
+<p>background-image: url(“https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png”) background-size: 90%</p>
+</section>
+<section id="r-studio" class="level2">
+<h2 class="anchored" data-anchor-id="r-studio">R Studio</h2>
+<hr>
+<p>background-image: url(“https://res-5.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco/v1398402407/chvmdsmomg96uoz8g3ad.jpg”) background-size: 20% background-position: 99% 1%</p>
+</section>
+<section id="r-studio-1" class="level2">
+<h2 class="anchored" data-anchor-id="r-studio-1">R Studio</h2>
+<ul>
+<li><p>2009, Joseph J. Allaire founded RStudio.</p></li>
+<li><p>2011, RStudio IDE for R was launched.</p></li>
+<li><p>“RStudio is dedicated to sustainable investment in free and open-source software for data science.” (16 Jan 2022)</p></li>
+</ul>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>.footnote[ <a href="https://www.rstudio.com/about/">Source: https://www.rstudio.com/about/</a>]</p>
+<hr>
+<p>class: center</p>
+</section>
+</section>
+<section id="r-rightleftharpoons-rstudio" class="level1">
+<h1>R <span class="math inline">\(\rightleftharpoons\)</span> RStudio</h1>
+<p>.pull-left[ ## Imagine RStudio as a stylish car …</p>
+</section>
+<section id="big-text" class="level1">
+<h1>.big-text[🚗]</h1>
+<p>]</p>
+<p>.pull-right[ ## and R as its powerful engine.</p>
+</section>
+<section id="big-text-1" class="level1">
+<h1>.big-text[⚙️]</h1>
+<p>]</p>
+<hr>
+<p>class: center</p>
+</section>
+<section id="rstudio-ide" class="level1">
+<h1>RStudio IDE</h1>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/rstd-ide.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:75.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<hr>
+<p>class: middle</p>
+<section id="for-example" class="level2">
+<h2 class="anchored" data-anchor-id="for-example">For example</h2>
+<ul>
+<li><a href="https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535">How the BBC Visual and Data Journalism team works with graphics in R</a></li>
+</ul>
+<p>-<a href="https://towardsdatascience.com/explore-your-activity-on-spotify-with-r-and-spotifyr-how-to-analyze-and-visualize-your-stream-dee41cb63526">Explore your activity on Spotify with R and “spotifyr”: How to analyze and visualize your streaming history and music tastes</a></p>
+<p>-<a href="https://statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/">Covid</a> - <a href="https://github.com/frrrenchies/frrrenchies">Open Data Science (In french)</a></p>
+<hr>
+</section>
+</section>
+<section id="summary" class="level1">
+<h1>Summary</h1>
+<ul>
+<li><p>Reproducible research as a <strong>minimum standard</strong>, particularly for studies that are difficult to replicate</p></li>
+<li><p>Change of</p></li>
+<li><p>Infrastructure is needed for creating and distributing reproducible documents, beyond what is currently available</p></li>
+<li><p>There is a growing number of tools for creating reproducible documents</p></li>
+</ul>
+<section id="some-challengues" class="level2">
+<h2 class="anchored" data-anchor-id="some-challengues">Some challengues</h2>
+<ul>
+<li>It is not the solution for everyone.</li>
+</ul>
+<hr>
+<p>class: middle</p>
+</section>
+</section>
+<section id="mental-model" class="level1">
+<h1>Mental Model</h1>
+<section id="for-applied-data-science" class="level2">
+<h2 class="anchored" data-anchor-id="for-applied-data-science">for (Applied) data science</h2>
+<hr>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/01-Introduction.001.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<hr>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/01-Introduction.002.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<hr>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/01-Introduction.003.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<hr>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/01-Introduction.004.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<hr>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/01-Introduction.005.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<hr>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/01-Introduction.006.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<hr>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figures/01-Introduction.007.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<hr>
+<p>class: middle</p>
+</section>
+</section>
+<section id="goal-of-the-day" class="level1">
+<h1>Goal of the Day:</h1>
+<section id="make-your-attrakdiff-ueq-data-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="make-your-attrakdiff-ueq-data-analysis">Make your AttrakDiff / UEQ data analysis!!</h2>
+<hr>
+<p>class: middle</p>
+</section>
+</section>
+<section id="goal-of-the-day-1" class="level1">
+<h1>Goal of the Day:</h1>
+<section id="make-your-attrakdiff-ueq-data-analysis-1" class="level2">
+<h2 class="anchored" data-anchor-id="make-your-attrakdiff-ueq-data-analysis-1">Make your AttrakDiff / UEQ data analysis!!</h2>
+<p>.center[ ## https://posit.cloud/content/5349937]</p>
+</section>
+<section id="so" class="level2">
+<h2 class="anchored" data-anchor-id="so">So:</h2>
+<ol type="1">
+<li><p>Sign up</p></li>
+<li><p>Make a .bg-yellow[Permanent Copy].</p></li>
+<li><p>Voila!, C’est bon</p></li>
+</ol>
+<hr>
+<p>class: center, middle</p>
+</section>
+</section>
+<section id="pause-of-5-minutes" class="level1">
+<h1>Pause of 5 minutes</h1>
+<hr>
+<p>class: center, hide-logo</p>
+<p>background-image: url(“figures/learn.png”) background-size: 125%</p>
+<p>background-color: #F5F4F2</p>
+<p>.footnote[ <a href="https://education.rstudio.com">Source: https://education.rstudio.com</a>]</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

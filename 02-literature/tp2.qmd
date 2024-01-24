@@ -18,7 +18,7 @@ format:
     slide-level: 3
 ---
 
-```{r}
+```{r, include=FALSE}
 library(countdown)
 ```
 

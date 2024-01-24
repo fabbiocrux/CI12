@@ -1,199 +1,521 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Research, Innovation & Development",
-    "section": "",
-    "text": "The list of presentations"
+    "objectID": "02-literature/index.html#learning-objectives-of-today",
+    "href": "02-literature/index.html#learning-objectives-of-today",
+    "title": "Act II: Literature review",
+    "section": "Learning objectives of today",
+    "text": "Learning objectives of today\n\n🧠 Knowledge :\n\nSensibilization on what a scientific research paper is.\n\n🔨 Know-how :\n\nSearch on pertinent scientific databases\nHow to start to read scientific article\nCrical thinking of research papers\nVisualization of literature review features.\n\n✍Competence :\n\nBe able to structure a literature review."
+  },
+  {
+    "objectID": "02-literature/index.html#mental-model-for-the-research-development",
+    "href": "02-literature/index.html#mental-model-for-the-research-development",
+    "title": "Act II: Literature review",
+    "section": "Mental model for the research development?",
+    "text": "Mental model for the research development?"
+  },
+  {
+    "objectID": "02-literature/index.html#the-research-process",
+    "href": "02-literature/index.html#the-research-process",
+    "title": "Act II: Literature review",
+    "section": "The research process",
+    "text": "The research process"
+  },
+  {
+    "objectID": "02-literature/index.html#how-to-do-a-literature-review-center",
+    "href": "02-literature/index.html#how-to-do-a-literature-review-center",
+    "title": "Act II: Literature review",
+    "section": "How to do a Literature Review? {.center}",
+    "text": "How to do a Literature Review? {.center}"
+  },
+  {
+    "objectID": "02-literature/index.html#literature-review",
+    "href": "02-literature/index.html#literature-review",
+    "title": "Act II: Literature review",
+    "section": "Literature review",
+    "text": "Literature review\n\nSteps for a Literature Review"
+  },
+  {
+    "objectID": "02-literature/index.html#literature-review-the-context",
+    "href": "02-literature/index.html#literature-review-the-context",
+    "title": "Act II: Literature review",
+    "section": "Literature review: The Context",
+    "text": "Literature review: The Context\n\nTake the time to planning because it has the major impact at the end."
+  },
+  {
+    "objectID": "02-literature/index.html#literature-review-planning",
+    "href": "02-literature/index.html#literature-review-planning",
+    "title": "Act II: Literature review",
+    "section": "Literature review: Planning",
+    "text": "Literature review: Planning\n\nGoal: Identification of material recycling approaches in the Additive Manufacturing contexts (commercial and open-source)"
+  },
+  {
+    "objectID": "02-literature/index.html#literature-review-planning-1",
+    "href": "02-literature/index.html#literature-review-planning-1",
+    "title": "Act II: Literature review",
+    "section": "Literature review: Planning",
+    "text": "Literature review: Planning\n\nSubjet + Verb + Complement → Topic + Context + Problem"
+  },
+  {
+    "objectID": "02-literature/index.html#literature-review-planning-2",
+    "href": "02-literature/index.html#literature-review-planning-2",
+    "title": "Act II: Literature review",
+    "section": "Literature review: Planning",
+    "text": "Literature review: Planning"
+  },
+  {
+    "objectID": "02-literature/index.html#literature-review-planning-3",
+    "href": "02-literature/index.html#literature-review-planning-3",
+    "title": "Act II: Literature review",
+    "section": "Literature review: Planning",
+    "text": "Literature review: Planning\n\nGrid lecture"
+  },
+  {
+    "objectID": "02-literature/index.html#literature-review-conducting",
+    "href": "02-literature/index.html#literature-review-conducting",
+    "title": "Act II: Literature review",
+    "section": "Literature review: Conducting",
+    "text": "Literature review: Conducting"
+  },
+  {
+    "objectID": "02-literature/index.html#literature-review-reporting",
+    "href": "02-literature/index.html#literature-review-reporting",
+    "title": "Act II: Literature review",
+    "section": "Literature review: Reporting",
+    "text": "Literature review: Reporting"
+  },
+  {
+    "objectID": "02-literature/index.html#structure-of-literature-background-imagefiguresexample-fabiopng-background-size35-background-position85-50-",
+    "href": "02-literature/index.html#structure-of-literature-background-imagefiguresexample-fabiopng-background-size35-background-position85-50-",
+    "title": "Act II: Literature review",
+    "section": "Structure of Literature {background-image=\"figures/Example-Fabio.png\" background-size=\"35%\" background-position=\"85% 50%\" }",
+    "text": "Structure of Literature {background-image=\"figures/Example-Fabio.png\" background-size=\"35%\" background-position=\"85% 50%\" }\n\nTitle\nAbstract\nIntroduction\nLiterature review\nMethodology\nResults\nDiscussion\nConclusion\nReferences\n\nExample 1:\nhttps://doi.org/10.1016/j.jclepro.2020.121602"
+  },
+  {
+    "objectID": "02-literature/index.html#a-useful-ressource-background-imagefiguressiddaway2019png-background-size45-background-position90-50-",
+    "href": "02-literature/index.html#a-useful-ressource-background-imagefiguressiddaway2019png-background-size45-background-position90-50-",
+    "title": "Act II: Literature review",
+    "section": "A Useful ressource {background-image=\"figures/Siddaway2019.png\" background-size=\"45%\" background-position=\"90% 50%\" }",
+    "text": "A Useful ressource {background-image=\"figures/Siddaway2019.png\" background-size=\"45%\" background-position=\"90% 50%\" }\n:::: {layout=\"[30, 30]\"}\n:::{}\nSiddaway, A.P., Wood, A.M., Hedges, L.V., 2019. How to Do a Systematic Review: A Best Practice Guide for Conducting and Reporting Narrative Reviews, Meta-Analyses, and Meta-Syntheses. Annual Review of Psychology 70, 747–770. https://doi.org/10.1146/annurev-psych-010418-102803\n:::\n::::"
+  },
+  {
+    "objectID": "02-literature/index.html#literature-review--ethics",
+    "href": "02-literature/index.html#literature-review--ethics",
+    "title": "Act II: Literature review",
+    "section": "Literature review – Ethics",
+    "text": "Literature review – Ethics\nReport on your literature findings and beware of:\n\nPurposely misrepresenting the work of other authors.\n\n\nPlagiarism – the use of another’s original words, arguments, or ideas as though they were your own, even if this is done in good faith, out of carelessness, or out of ignorance.\n\n\nImportance of the References [(Act III we'll take a look)]{.bg-yellow}"
+  },
+  {
+    "objectID": "02-literature/index.html#questions-center",
+    "href": "02-literature/index.html#questions-center",
+    "title": "Act II: Literature review",
+    "section": "Questions {.center}",
+    "text": "Questions {.center}"
+  },
+  {
+    "objectID": "02-literature/index.html#reading-an-article---part-i-center",
+    "href": "02-literature/index.html#reading-an-article---part-i-center",
+    "title": "Act II: Literature review",
+    "section": "Reading an Article - Part I {.center}",
+    "text": "Reading an Article - Part I {.center}"
+  },
+  {
+    "objectID": "02-literature/index.html#what-is-a-research-paper-background-imagefigurespaper-alex-01jpg-background-size45-background-position90-50-",
+    "href": "02-literature/index.html#what-is-a-research-paper-background-imagefigurespaper-alex-01jpg-background-size45-background-position90-50-",
+    "title": "Act II: Literature review",
+    "section": "What is a Research Paper? {background-image=\"figures/Paper-Alex-01.jpg\" background-size=\"45%\" background-position=\"90% 50%\" }",
+    "text": "What is a Research Paper? {background-image=\"figures/Paper-Alex-01.jpg\" background-size=\"45%\" background-position=\"90% 50%\" }\n\nTip 1\nStart by the Outline !!"
+  },
+  {
+    "objectID": "02-literature/index.html#what-is-a-research-paper-background-imagefigurespaper-alex-02png-background-size45-background-position90-50-",
+    "href": "02-literature/index.html#what-is-a-research-paper-background-imagefigurespaper-alex-02png-background-size45-background-position90-50-",
+    "title": "Act II: Literature review",
+    "section": "What is a Research Paper? {background-image=\"figures/Paper-Alex-02.png\" background-size=\"45%\" background-position=\"90% 50%\" }",
+    "text": "What is a Research Paper? {background-image=\"figures/Paper-Alex-02.png\" background-size=\"45%\" background-position=\"90% 50%\" }\nTip 2: Méthode AIC\n\n[Title]{.bg-yellow} ✅\n🔎 Abstract\n🔎 Introduction\nLiterature review\nMethodology\nResults\nDiscussion\n🔎Conclusion\nReferences"
+  },
+  {
+    "objectID": "02-literature/index.html#aic-reading-method",
+    "href": "02-literature/index.html#aic-reading-method",
+    "title": "Act II: Literature review",
+    "section": "AIC Reading method",
+    "text": "AIC Reading method\nFor screening read : Title, Journal, keywords and Abstract\nFor detailed synthesis use AIC:\n\nAbstract → Summary of the paper🔎\nIntroduction → Context of problem and research, gap, summary of what is done\nConclusions → Summary of results and importance of results given the context."
+  },
+  {
+    "objectID": "02-literature/index.html#the-abstract-center",
+    "href": "02-literature/index.html#the-abstract-center",
+    "title": "Act II: Literature review",
+    "section": "The abstract {.center}",
+    "text": "The abstract {.center}\n:::: {layout=\"[50,-1,70]\" layout-valign=\"center\"}\n::: {}\n\nThe minimal viable product of a research. :::\n\n:::{}\n\nWhat’s the topic?\nWhat's the problem? (Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ? ::: ::::"
+  },
+  {
+    "objectID": "02-literature/index.html#exemple-1-background-imagefiguresferney-00png-background-size60-background-position90-0-",
+    "href": "02-literature/index.html#exemple-1-background-imagefiguresferney-00png-background-size60-background-position90-0-",
+    "title": "Act II: Literature review",
+    "section": "Exemple 1 {background-image=\"figures/ferney-00.png\" background-size=\"60%\" background-position=\"90% 0%\" }",
+    "text": "Exemple 1 {background-image=\"figures/ferney-00.png\" background-size=\"60%\" background-position=\"90% 0%\" }\n:::aside :::: {layout=\"[17, 40]\"} Source: Osorio et al (2019). Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100. https://doi.org/10.1111/caim.12301\n:::: :::"
+  },
+  {
+    "objectID": "02-literature/index.html#exemple-1-background-imagefiguresferney-01png-background-size60-background-position90-0-",
+    "href": "02-literature/index.html#exemple-1-background-imagefiguresferney-01png-background-size60-background-position90-0-",
+    "title": "Act II: Literature review",
+    "section": "Exemple 1 {background-image=\"figures/ferney-01.png\" background-size=\"60%\" background-position=\"90% 0%\" }",
+    "text": "Exemple 1 {background-image=\"figures/ferney-01.png\" background-size=\"60%\" background-position=\"90% 0%\" }\n::: {layout=\"[30]\"}\n\nWhat’s the topic?\nWhat's the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n:::\n:::aside :::: {layout=\"[17, 40]\"} Source: Osorio et al (2019). Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100. https://doi.org/10.1111/caim.12301\n:::: :::"
+  },
+  {
+    "objectID": "02-literature/index.html#exemple-2-background-imagefiguressandra-00png-background-size60-background-position90-0-",
+    "href": "02-literature/index.html#exemple-2-background-imagefiguressandra-00png-background-size60-background-position90-0-",
+    "title": "Act II: Literature review",
+    "section": "Exemple 2 {background-image=\"figures/Sandra-00.png\" background-size=\"60%\" background-position=\"90% 0%\" }",
+    "text": "Exemple 2 {background-image=\"figures/Sandra-00.png\" background-size=\"60%\" background-position=\"90% 0%\" }\n::: {layout=\"[30]\"}\n\nWhat’s the topic?\nWhat's the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n:::\n:::aside :::: {layout=\"[40, 40]\"} Source: Marche, et al 2022. Qualitative sustainability assessment of road verge management in France: An approach from causal diagrams to seize the importance of impact pathways. Environmental Impact Assessment Review 97, 106911. https://doi.org/10.1016/j.eiar.2022.106911 :::: :::"
+  },
+  {
+    "objectID": "02-literature/index.html#exemple-2-background-imagefiguressandra-01png-background-size60-background-position90-0-",
+    "href": "02-literature/index.html#exemple-2-background-imagefiguressandra-01png-background-size60-background-position90-0-",
+    "title": "Act II: Literature review",
+    "section": "Exemple 2 {background-image=\"figures/Sandra-01.png\" background-size=\"60%\" background-position=\"90% 0%\" }",
+    "text": "Exemple 2 {background-image=\"figures/Sandra-01.png\" background-size=\"60%\" background-position=\"90% 0%\" }\n::: {layout=\"[30]\"}\n\nWhat’s the topic?\nWhat's the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n:::\n:::aside :::: {layout=\"[40, 40]\"} Source:  Marche, et al. (2022)., Qualitative sustainability assessment of road verge management in France: An approach from causal diagrams to seize the importance of impact pathways. Environmental Impact Assessment Review 97, 106911. https://doi.org/10.1016/j.eiar.2022.106911 :::: :::"
+  },
+  {
+    "objectID": "02-literature/index.html#exemple-3-background-imagefiguresalex-00png-background-size60-background-position90-0-",
+    "href": "02-literature/index.html#exemple-3-background-imagefiguresalex-00png-background-size60-background-position90-0-",
+    "title": "Act II: Literature review",
+    "section": "Exemple 3 {background-image=\"figures/Alex-00.png\" background-size=\"60%\" background-position=\"90% 0%\" }",
+    "text": "Exemple 3 {background-image=\"figures/Alex-00.png\" background-size=\"60%\" background-position=\"90% 0%\" }\n::: {layout=\"[30]\"}\n\nWhat’s the topic?\nWhat's the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n:::\n:::aside :::: {layout=\"[40, 40]\"} Source:  Gabriel, et al. (2016), Creativity support systems: A systematic mapping study. Thinking Skills and Creativity 21, 109–122. https://doi.org/10.1016/j.tsc.2016.05.009\n:::: :::"
+  },
+  {
+    "objectID": "02-literature/index.html#exemple-3-background-imagefiguresalex-01png-background-size60-background-position90-50-",
+    "href": "02-literature/index.html#exemple-3-background-imagefiguresalex-01png-background-size60-background-position90-50-",
+    "title": "Act II: Literature review",
+    "section": "Exemple 3 {background-image=\"figures/Alex-01.png\" background-size=\"60%\" background-position=\"90% 50%\" }",
+    "text": "Exemple 3 {background-image=\"figures/Alex-01.png\" background-size=\"60%\" background-position=\"90% 50%\" }\n::: {layout=\"[30]\"}\n\nWhat’s the topic?\nWhat's the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n:::\n:::aside :::: {layout=\"[40, 40]\"} Source:  Gabriel, et al. (2016), Creativity support systems: A systematic mapping study. Thinking Skills and Creativity 21, 109–122. https://doi.org/10.1016/j.tsc.2016.05.009\n:::: :::"
+  },
+  {
+    "objectID": "02-literature/index.html#mental-model-when-reading-an-abstract",
+    "href": "02-literature/index.html#mental-model-when-reading-an-abstract",
+    "title": "Act II: Literature review",
+    "section": "Mental model when reading an abstract",
+    "text": "Mental model when reading an abstract\n\nTopic → the writer provides background factual information.\nProblem → The writer presents the gap/problem to treat\nResearch Gap → the writer states the limits of current knowledge.\nThe purpose : the writer presents the general aim and the specific aim of the study.\nMethodology → the writer summarises the methodology and provides details.\nResults → the writer indicates the achievement of the study.\nPerspectives → the writer presents the implications of the study."
+  },
+  {
+    "objectID": "02-literature/index.html#your-turn--background-imagefiguresratatouille-paperpng-background-size60-background-position90-20-",
+    "href": "02-literature/index.html#your-turn--background-imagefiguresratatouille-paperpng-background-size60-background-position90-20-",
+    "title": "Act II: Literature review",
+    "section": "Your turn ! {background-image=\"figures/Ratatouille-paper.png\" background-size=\"60%\" background-position=\"90% 20%\" }",
+    "text": "Your turn ! {background-image=\"figures/Ratatouille-paper.png\" background-size=\"60%\" background-position=\"90% 20%\" }\n::: {.cell} ::: {.cell-output-display}\n&lt;div class=\"countdown\" id=\"timer_22de3a1a\" data-update-every=\"1\" tabindex=\"0\" style=\"right:0;bottom:0;font-size:2.5em;\"&gt;\n&lt;div class=\"countdown-controls\"&gt;&lt;button class=\"countdown-bump-down\"&gt;&minus;&lt;/button&gt;&lt;button class=\"countdown-bump-up\"&gt;&plus;&lt;/button&gt;&lt;/div&gt;\n&lt;code class=\"countdown-time\"&gt;&lt;span class=\"countdown-digits minutes\"&gt;05&lt;/span&gt;&lt;span class=\"countdown-digits colon\"&gt;:&lt;/span&gt;&lt;span class=\"countdown-digits seconds\"&gt;00&lt;/span&gt;&lt;/code&gt;\n&lt;/div&gt;\n::: :::\n::: {layout=\"[30]\"}\n\nWhat’s the topic?\nWhat's the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n:::\n:::aside :::: {layout=\"[40, 40]\"} Video:  https://www.youtube.com/watch?v=GgiK-HWKPjw :::: :::\n::: aside Source: Leone, L. The Ratatouille paradox. An inductive study of creativity in haute cuisine. Technovation (2018) https://doi.org/10.1016/j.technovation.2018.11.003]\n:::"
+  },
+  {
+    "objectID": "02-literature/index.html#what-is-a-research-paper-background-imagefigurespaper-alex-02png-background-size40-background-position90-30-",
+    "href": "02-literature/index.html#what-is-a-research-paper-background-imagefigurespaper-alex-02png-background-size40-background-position90-30-",
+    "title": "Act II: Literature review",
+    "section": "What is a Research Paper? {background-image=\"figures/Paper-Alex-02.png\" background-size=\"40%\" background-position=\"90% 30%\" }",
+    "text": "What is a Research Paper? {background-image=\"figures/Paper-Alex-02.png\" background-size=\"40%\" background-position=\"90% 30%\" }\n\n[Title]{.bg-yellow} ✅\n[Abstract]{.bg-yellow} ✅\nIntroduction\nLiterature review\nMethodology\nResults\nDiscussion\n[Conclusions]{.bg-yellow} ✅\nReferences\n\nMéthode AIC"
+  },
+  {
+    "objectID": "02-literature/index.html#lets-talk-about",
+    "href": "02-literature/index.html#lets-talk-about",
+    "title": "Act II: Literature review",
+    "section": "Let’s talk about",
+    "text": "Let’s talk about"
+  },
+  {
+    "objectID": "02-literature/index.html#chatgpt-on-the-scientific-arena",
+    "href": "02-literature/index.html#chatgpt-on-the-scientific-arena",
+    "title": "Act II: Literature review",
+    "section": "ChatGPT on the Scientific arena",
+    "text": "ChatGPT on the Scientific arena\n\nNothing (In December 2022) ! 😬"
+  },
+  {
+    "objectID": "02-literature/index.html#chatgpt-on-the-scientific-arena-1",
+    "href": "02-literature/index.html#chatgpt-on-the-scientific-arena-1",
+    "title": "Act II: Literature review",
+    "section": "ChatGPT on the Scientific arena",
+    "text": "ChatGPT on the Scientific arena\n\nOnly 3! 😬 (In december 2022)"
+  },
+  {
+    "objectID": "02-literature/index.html#chatgpt-on-the-scientific-arena-2",
+    "href": "02-literature/index.html#chatgpt-on-the-scientific-arena-2",
+    "title": "Act II: Literature review",
+    "section": "ChatGPT on the Scientific arena",
+    "text": "ChatGPT on the Scientific arena\n\nIn december 2022"
+  },
+  {
+    "objectID": "02-literature/index.html#example-of-aic-background-imagefigureschatgpt-01png-background-size45-background-position100-50-",
+    "href": "02-literature/index.html#example-of-aic-background-imagefigureschatgpt-01png-background-size45-background-position100-50-",
+    "title": "Act II: Literature review",
+    "section": "Example of AIC {background-image=\"figures/ChatGPT-01.png\" background-size=\"45%\" background-position=\"100% 50%\" }",
+    "text": "Example of AIC {background-image=\"figures/ChatGPT-01.png\" background-size=\"45%\" background-position=\"100% 50%\" }\n:::: {layout=\"[40, 40]\" }\n::: {}\nHaque, M. U., Dharmadasa, I., Sworna, Z. T., Rajapakse, R. N., & Ahmad, H. (2022). .\"I think this is the most disruptive technology\": Exploring Sentiments of ChatGPT Early Adopters using Twitter Data. arXiv preprint arXiv:2212.05856.\nhttps://arxiv.org/abs/2212.05856\n:::\n::::"
+  },
+  {
+    "objectID": "02-literature/index.html#before-reading-have-an-lecture-grid-in-mind-",
+    "href": "02-literature/index.html#before-reading-have-an-lecture-grid-in-mind-",
+    "title": "Act II: Literature review",
+    "section": "Before reading.. have an lecture grid in mind ❗",
+    "text": "Before reading.. have an lecture grid in mind ❗\n:::: {layout=\"[40, 40]\" }\n::: {}  :::\n::: {}  :::\n::::"
+  },
+  {
+    "objectID": "02-literature/index.html#abstract-background-imagefigureschatgpt-02png-background-size70-background-position90-50-",
+    "href": "02-literature/index.html#abstract-background-imagefigureschatgpt-02png-background-size70-background-position90-50-",
+    "title": "Act II: Literature review",
+    "section": "Abstract {background-image=\"figures/ChatGPT-02.png\" background-size=\"70%\" background-position=\"90% 50%\" }",
+    "text": "Abstract {background-image=\"figures/ChatGPT-02.png\" background-size=\"70%\" background-position=\"90% 50%\" }\nWhat’s the topic?\nWhat's the problem?\nIs it important?\nWhat’s the  research question?\nWhat is the  purpose ?\nImplications  for future ?"
+  },
+  {
+    "objectID": "02-literature/index.html#introduction-background-imagefigureschatgpt-03png-background-size70-background-position90-50-",
+    "href": "02-literature/index.html#introduction-background-imagefigureschatgpt-03png-background-size70-background-position90-50-",
+    "title": "Act II: Literature review",
+    "section": "Introduction {background-image=\"figures/ChatGPT-03.png\" background-size=\"70%\" background-position=\"90% 50%\" }",
+    "text": "Introduction {background-image=\"figures/ChatGPT-03.png\" background-size=\"70%\" background-position=\"90% 50%\" }\nContext\nFocus on  the Research object\nHypothesis\nPresenting methods"
+  },
+  {
+    "objectID": "02-literature/index.html#conclusions-background-imagefigureschatgpt-05png-background-size70-background-position90-50-",
+    "href": "02-literature/index.html#conclusions-background-imagefigureschatgpt-05png-background-size70-background-position90-50-",
+    "title": "Act II: Literature review",
+    "section": "Conclusions {background-image=\"figures/ChatGPT-05.png\" background-size=\"70%\" background-position=\"90% 50%\" }",
+    "text": "Conclusions {background-image=\"figures/ChatGPT-05.png\" background-size=\"70%\" background-position=\"90% 50%\" }\n\nRecall the Purpose\nSummarise Results\nPerspectives"
+  },
+  {
+    "objectID": "02-literature/index.html#reading-technique",
+    "href": "02-literature/index.html#reading-technique",
+    "title": "Act II: Literature review",
+    "section": "Reading technique",
+    "text": "Reading technique\n\n[1min] [Screening] → Title, Journal, keywords\n[5min] [Profiling] → Screening + Abstract\n\n–\n\n[20min] Focusing → [Profiling] + Introduction + Conclusions\n\n–\n\n[1hr] In deep → Focusing + All other sections\n\n–\n\n[2-3 hr] For research → In deep + Reading Grid + References"
+  },
+  {
+    "objectID": "02-literature/index.html#the-scientific-history",
+    "href": "02-literature/index.html#the-scientific-history",
+    "title": "Act II: Literature review",
+    "section": "The scientific history",
+    "text": "The scientific history\n\n\n\nSource: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022)."
+  },
+  {
+    "objectID": "02-literature/index.html#the-scientific-history-1",
+    "href": "02-literature/index.html#the-scientific-history-1",
+    "title": "Act II: Literature review",
+    "section": "The scientific history",
+    "text": "The scientific history\n\n\n\nSource: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022)."
+  },
+  {
+    "objectID": "02-literature/index.html#abstract-background-imagefiguresstructuration-abstractpng-background-size30-background-position90-50-",
+    "href": "02-literature/index.html#abstract-background-imagefiguresstructuration-abstractpng-background-size30-background-position90-50-",
+    "title": "Act II: Literature review",
+    "section": "Abstract {background-image=\"figures/Structuration-abstract.png\" background-size=\"30%\" background-position=\"90% 50%\" }",
+    "text": "Abstract {background-image=\"figures/Structuration-abstract.png\" background-size=\"30%\" background-position=\"90% 50%\" }\nExample of Nature:"
+  },
+  {
+    "objectID": "02-literature/index.html#introduction-background-imagefiguresstructuration-introductionpng-background-size30-background-position90-50-",
+    "href": "02-literature/index.html#introduction-background-imagefiguresstructuration-introductionpng-background-size30-background-position90-50-",
+    "title": "Act II: Literature review",
+    "section": "Introduction {background-image=\"figures/Structuration-introduction.png\" background-size=\"30%\" background-position=\"90% 50%\" }",
+    "text": "Introduction {background-image=\"figures/Structuration-introduction.png\" background-size=\"30%\" background-position=\"90% 50%\" }\n::: columns ::: {.column width=\"50%\"}\n\n1er Paragraphe: établir le contexte, introduire le sujet. Il doit établir l’importance du sujet de recherche\n2ème : établir un lien avec la littérature existante\n3ème : établir clairement le “Gap to be filled”\n4émé Expliquer comment on a traité le sujet\n5èmé :“Annoncer la couleur” des résultats\nEnfin : Décrire la structure de l’article\n\n:::\n::: {.column width=\"30%\"}\n::: :::"
+  },
+  {
+    "objectID": "02-literature/index.html#methodology-background-imagefiguresstructuration-methodologypng-background-size30-background-position90-50-",
+    "href": "02-literature/index.html#methodology-background-imagefiguresstructuration-methodologypng-background-size30-background-position90-50-",
+    "title": "Act II: Literature review",
+    "section": "Methodology {background-image=\"figures/Structuration-methodology.png\" background-size=\"30%\" background-position=\"90% 50%\" }",
+    "text": "Methodology {background-image=\"figures/Structuration-methodology.png\" background-size=\"30%\" background-position=\"90% 50%\" }"
+  },
+  {
+    "objectID": "02-literature/index.html#results-background-imagefiguresstructuration-resultspng-background-size30-background-position90-50-",
+    "href": "02-literature/index.html#results-background-imagefiguresstructuration-resultspng-background-size30-background-position90-50-",
+    "title": "Act II: Literature review",
+    "section": "Results {background-image=\"figures/Structuration-results.png\" background-size=\"30%\" background-position=\"90% 50%\" }",
+    "text": "Results {background-image=\"figures/Structuration-results.png\" background-size=\"30%\" background-position=\"90% 50%\" }"
+  },
+  {
+    "objectID": "02-literature/index.html#discussion--conclusions-background-imagefiguresstructuration-discussionpng-background-size30-background-position90-50-",
+    "href": "02-literature/index.html#discussion--conclusions-background-imagefiguresstructuration-discussionpng-background-size30-background-position90-50-",
+    "title": "Act II: Literature review",
+    "section": "Discussion & Conclusions {background-image=\"figures/Structuration-discussion.png\" background-size=\"30%\" background-position=\"90% 50%\" }",
+    "text": "Discussion & Conclusions {background-image=\"figures/Structuration-discussion.png\" background-size=\"30%\" background-position=\"90% 50%\" }\n{width=30%}"
+  },
+  {
+    "objectID": "02-literature/index.html#the-scientific-history-2",
+    "href": "02-literature/index.html#the-scientific-history-2",
+    "title": "Act II: Literature review",
+    "section": "The scientific history",
+    "text": "The scientific history\n\n\n\nSource: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022)."
+  },
+  {
+    "objectID": "02-literature/index.html#some-web-ressources-for-writing",
+    "href": "02-literature/index.html#some-web-ressources-for-writing",
+    "title": "Act II: Literature review",
+    "section": "Some web ressources for writing",
+    "text": "Some web ressources for writing\n\nEssay and dissertation writing skills\nGuide pratique\nRédiger un article scientifique par David Lindsay, Pascal Poindron\nWriting a scientific article: A step-by-step guide for beginners\nTen simple rules for structuring papers\nWriting for Impact: How to Prepare a Journal Article\nWriting the Research Paper: a Handbook\n\n\n\n\n\nTD: Research overview"
+  },
+  {
+    "objectID": "04-open-science/index.html#music-vs.-research",
+    "href": "04-open-science/index.html#music-vs.-research",
+    "title": "Open Science for a better World",
+    "section": "Music Vs. Research",
+    "text": "Music Vs. Research\n.pull-left[\n\n\n\n\n\n\n\n\n\n] .pull-right[\n\n\n\n\n\n\n\n\n\n]"
+  },
+  {
+    "objectID": "04-open-science/index.html#music-vs.-research-1",
+    "href": "04-open-science/index.html#music-vs.-research-1",
+    "title": "Open Science for a better World",
+    "section": "Music Vs. Research",
+    "text": "Music Vs. Research\n.pull-left[\n\n\n\n\n\n\n\n\n\n] .pull-right[\n\n\n\n\n\n\n\n\n\n]"
+  },
+  {
+    "objectID": "04-open-science/index.html#the-document-pipeline",
+    "href": "04-open-science/index.html#the-document-pipeline",
+    "title": "Open Science for a better World",
+    "section": "The document pipeline",
+    "text": "The document pipeline"
+  },
+  {
+    "objectID": "04-open-science/index.html#the-document-pipeline-1",
+    "href": "04-open-science/index.html#the-document-pipeline-1",
+    "title": "Open Science for a better World",
+    "section": "The document pipeline",
+    "text": "The document pipeline\n\n\n\n\n\n\n\n\n\nHow to describe in detail this section for Research & Industry purposes\n\nexclude: true"
+  },
+  {
+    "objectID": "04-open-science/index.html#why-do-we-need-reproducible-research",
+    "href": "04-open-science/index.html#why-do-we-need-reproducible-research",
+    "title": "Open Science for a better World",
+    "section": "Why do we need Reproducible Research?",
+    "text": "Why do we need Reproducible Research?\n\nAvoid misconduct such as fraudulent data and plagiarism\nData-intensive research (e.g Big data research)\nDistributed research\n\n  \n\nbackground-image: url(“https://figures-na.ssl-figures-amazon.com/figures/I/41KSVC8Q2JL.jpg”) background-position: 90% 50% background-size: 30%"
+  },
+  {
+    "objectID": "04-open-science/index.html#reproducibility-concepts",
+    "href": "04-open-science/index.html#reproducibility-concepts",
+    "title": "Open Science for a better World",
+    "section": "Reproducibility concepts",
+    "text": "Reproducibility concepts\nTwo key elements:\n\n.bg-yellow[Literate programming for enabling reproducibilty]\nVersion control for enhancing transparency\n\nLiterate programming refers to the use of a computing environment for authoring documents that contain a mix of natural (eg. English) and computer (eg. R) languages (Schulte et al. 2012)\n.footnote[ D. E. Knuth, Literate Programming, The Computer Journal, Volume 27, Issue 2, 1984, Pages 97–111, https://doi.org/10.1093/comjnl/27.2.97]"
+  },
+  {
+    "objectID": "04-open-science/index.html#literate-programming",
+    "href": "04-open-science/index.html#literate-programming",
+    "title": "Open Science for a better World",
+    "section": "Literate Programming",
+    "text": "Literate Programming\n.pull-left[\n\n\n\n\n\n\n\n\n\n] .pull-right[\n\n\n\n\n\n\n\n\n\n]\n\nclass: middle"
+  },
+  {
+    "objectID": "04-open-science/index.html#what-is-data-visualization",
+    "href": "04-open-science/index.html#what-is-data-visualization",
+    "title": "Open Science for a better World",
+    "section": "What is Data Visualization?",
+    "text": "What is Data Visualization?\n\nGraphical representations of data\nUse different colors, shapes, and the coordinate system to summarize data\nTell a story\nUseful for understanding"
+  },
+  {
+    "objectID": "04-open-science/index.html#download-r-from-cran",
+    "href": "04-open-science/index.html#download-r-from-cran",
+    "title": "Open Science for a better World",
+    "section": "Download R from CRAN",
+    "text": "Download R from CRAN\n\n\n\n\n\n\n\n\n\n\nbackground-image: url(“https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png”) background-size: 90%"
+  },
+  {
+    "objectID": "04-open-science/index.html#r-studio",
+    "href": "04-open-science/index.html#r-studio",
+    "title": "Open Science for a better World",
+    "section": "R Studio",
+    "text": "R Studio\n\nbackground-image: url(“https://res-5.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco/v1398402407/chvmdsmomg96uoz8g3ad.jpg”) background-size: 20% background-position: 99% 1%"
+  },
+  {
+    "objectID": "04-open-science/index.html#r-studio-1",
+    "href": "04-open-science/index.html#r-studio-1",
+    "title": "Open Science for a better World",
+    "section": "R Studio",
+    "text": "R Studio\n\n2009, Joseph J. Allaire founded RStudio.\n2011, RStudio IDE for R was launched.\n“RStudio is dedicated to sustainable investment in free and open-source software for data science.” (16 Jan 2022)\n\n\n\n\n\n\n\n\n\n\n.footnote[ Source: https://www.rstudio.com/about/]\n\nclass: center"
+  },
+  {
+    "objectID": "04-open-science/index.html#for-example",
+    "href": "04-open-science/index.html#for-example",
+    "title": "Open Science for a better World",
+    "section": "For example",
+    "text": "For example\n\nHow the BBC Visual and Data Journalism team works with graphics in R\n\n-Explore your activity on Spotify with R and “spotifyr”: How to analyze and visualize your streaming history and music tastes\n-Covid - Open Data Science (In french)"
+  },
+  {
+    "objectID": "04-open-science/index.html#some-challengues",
+    "href": "04-open-science/index.html#some-challengues",
+    "title": "Open Science for a better World",
+    "section": "Some challengues",
+    "text": "Some challengues\n\nIt is not the solution for everyone.\n\n\nclass: middle"
+  },
+  {
+    "objectID": "04-open-science/index.html#for-applied-data-science",
+    "href": "04-open-science/index.html#for-applied-data-science",
+    "title": "Open Science for a better World",
+    "section": "for (Applied) data science",
+    "text": "for (Applied) data science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nclass: middle"
+  },
+  {
+    "objectID": "04-open-science/index.html#make-your-attrakdiff-ueq-data-analysis",
+    "href": "04-open-science/index.html#make-your-attrakdiff-ueq-data-analysis",
+    "title": "Open Science for a better World",
+    "section": "Make your AttrakDiff / UEQ data analysis!!",
+    "text": "Make your AttrakDiff / UEQ data analysis!!\n\nclass: middle"
+  },
+  {
+    "objectID": "04-open-science/index.html#make-your-attrakdiff-ueq-data-analysis-1",
+    "href": "04-open-science/index.html#make-your-attrakdiff-ueq-data-analysis-1",
+    "title": "Open Science for a better World",
+    "section": "Make your AttrakDiff / UEQ data analysis!!",
+    "text": "Make your AttrakDiff / UEQ data analysis!!\n.center[ ## https://posit.cloud/content/5349937]"
+  },
+  {
+    "objectID": "04-open-science/index.html#so",
+    "href": "04-open-science/index.html#so",
+    "title": "Open Science for a better World",
+    "section": "So:",
+    "text": "So:\n\nSign up\nMake a .bg-yellow[Permanent Copy].\nVoila!, C’est bon\n\n\nclass: center, middle"
   },
   {
     "objectID": "01-introduction/index.html",
     "href": "01-introduction/index.html",
     "title": "CI12: Research, Innovation & Development",
     "section": "",
-    "text": "General Presentation\n\n\n\nLiterature Review\n\n\n\nTD1 : Research Landscape via Vosviewer"
+    "text": "General Presentation\n&lt;iframe width=\"100%\" height=\"533px\" style=\"border:2px solid #dee2e6;\" src=\"slides.html\"&gt;&lt;/iframe&gt;\n\n\nLiterature Review\n&lt;iframe width=\"100%\" height=\"533px\" style=\"border:2px solid #dee2e6;\" src=\"literature-review.html\"&gt;&lt;/iframe&gt;\n\n\nTD1 : Research Landscape via Vosviewer\n&lt;iframe width=\"100%\" height=\"533px\" style=\"border:2px solid #dee2e6;\" src=\"tp1.html\"&gt;&lt;/iframe&gt;\n:::{#quarto-navigation-envelope .hidden} [CI12]{.hidden render-id=\"quarto-int-sidebar-title\"} [CI12]{.hidden render-id=\"quarto-int-navbar-title\"} [Home]{.hidden render-id=\"quarto-int-navbar:Home\"} [/index.html]{.hidden render-id=\"quarto-int-navbar:/index.html\"} :::\n:::{#quarto-meta-markdown .hidden} [CI12 - CI12: Research, Innovation & Development]{.hidden render-id=\"quarto-metatitle\"} [CI12 - CI12: Research, Innovation & Development]{.hidden render-id=\"quarto-twittercardtitle\"} [CI12 - CI12: Research, Innovation & Development]{.hidden render-id=\"quarto-ogcardtitle\"} [CI12]{.hidden render-id=\"quarto-metasitename\"} [Seance 1]{.hidden render-id=\"quarto-twittercarddesc\"} [Seance 1]{.hidden render-id=\"quarto-ogcardddesc\"} :::"
   },
   {
-    "objectID": "01-introduction/literature-review.html#learning-objectives-of-this-workshop-course",
-    "href": "01-introduction/literature-review.html#learning-objectives-of-this-workshop-course",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Learning objectives of this Workshop course",
-    "text": "Learning objectives of this Workshop course\n\nKnow the importance of a literature review\nKnow-how look for scientific databases\nMake a visualization of scientific landscapes"
+    "objectID": "02-literature/tp2.html#the-exercises",
+    "href": "02-literature/tp2.html#the-exercises",
+    "title": "TD2 : Literature review",
+    "section": "The Exercises",
+    "text": "The Exercises\n\n\nWoS + Bibliometrix\n✅ Select at least 5 important papers\n\n\n\n\n\n\n\n\n\n\n\nAbstract\n✅ Analyse 3 paper’s abstract\n\n\n\n\n\n\nArticle\n✅ 1 full paper analysis"
   },
   {
-    "objectID": "01-introduction/literature-review.html#what-the-difference-these-two-googles",
-    "href": "01-introduction/literature-review.html#what-the-difference-these-two-googles",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "What the difference these two googles?",
-    "text": "What the difference these two googles?"
+    "objectID": "02-literature/tp2.html#bibliometrix-software",
+    "href": "02-literature/tp2.html#bibliometrix-software",
+    "title": "TD2 : Literature review",
+    "section": "Bibliometrix software",
+    "text": "Bibliometrix software\n🔗 Connectez-vous at https://posit.cloud/content/7229125"
   },
   {
-    "objectID": "01-introduction/literature-review.html#peer-reviewing-process",
-    "href": "01-introduction/literature-review.html#peer-reviewing-process",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Peer Reviewing process",
-    "text": "Peer Reviewing process"
+    "objectID": "02-literature/tp2.html#bibliometrix-tutorials",
+    "href": "02-literature/tp2.html#bibliometrix-tutorials",
+    "title": "TD2 : Literature review",
+    "section": "Bibliometrix tutorials",
+    "text": "Bibliometrix tutorials\nOfficial tutorials:\n\n\nIntroduction:\n\n\n\n\n\n\nMedium: Focus on Domain\n\n\n\n\n\n\nAdvanced: Knowledge synthesis\n\n\n\n\n\n\n\nhttps://bibliometrix.org/ &gt; Tutorials &gt; Biblioshiny"
   },
   {
-    "objectID": "01-introduction/literature-review.html#literature-review",
-    "href": "01-introduction/literature-review.html#literature-review",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Literature review",
-    "text": "Literature review\nStanding on the shoulders of giants\n\nScientific databases\nResearch papers\nBooks\nInstitutional reports -&gt; WHO, EU…\nSocieties\n\nconferences proceedings (IEEE, IAMOT, IFAC…)\n\nInstitutional repositories -&gt; dissertations\nIP registrars -&gt; Patents"
+    "objectID": "02-literature/tp2.html#list-of-tutorials",
+    "href": "02-literature/tp2.html#list-of-tutorials",
+    "title": "TD2 : Literature review",
+    "section": "List of tutorials",
+    "text": "List of tutorials\n\nBibliographic Management\nAccess to WOS\nUse of Bibliometrix\nDownload Articles"
   },
   {
-    "objectID": "01-introduction/literature-review.html#why-a-company-would-bother-literature-review",
-    "href": "01-introduction/literature-review.html#why-a-company-would-bother-literature-review",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Why a company would bother literature review ?",
-    "text": "Why a company would bother literature review ?"
+    "objectID": "02-literature/tp2.html#bibliographic-management-center",
+    "href": "02-literature/tp2.html#bibliographic-management-center",
+    "title": "TD2 : Literature review",
+    "section": "Bibliographic Management {.center}",
+    "text": "Bibliographic Management {.center}"
   },
   {
-    "objectID": "01-introduction/literature-review.html#technology-readiness-maturity",
-    "href": "01-introduction/literature-review.html#technology-readiness-maturity",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Technology Readiness → Maturity",
-    "text": "Technology Readiness → Maturity\nThe industrial emergence mapping framework.\n\n\n\n\n\n\n\nPhaal, R., O’Sullivan, E., Routley, M., Ford, S., Probert, D., 2011. A framework for mapping industrial emergence. Technological Forecasting and Social Change 78, 217–230. https://doi.org/10.1016/j.techfore.2010.06.018"
+    "objectID": "02-literature/tp2.html#web-of-science",
+    "href": "02-literature/tp2.html#web-of-science",
+    "title": "TD2 : Literature review",
+    "section": "Web Of Science",
+    "text": "Web Of Science"
   },
   {
-    "objectID": "01-introduction/literature-review.html#on-the-case-of-entreprise",
-    "href": "01-introduction/literature-review.html#on-the-case-of-entreprise",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "On the case of Entreprise",
-    "text": "On the case of Entreprise"
-  },
-  {
-    "objectID": "01-introduction/literature-review.html#technology-readiness-levels",
-    "href": "01-introduction/literature-review.html#technology-readiness-levels",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Technology Readiness → Levels",
-    "text": "Technology Readiness → Levels\nFramework developed in the Aeronautical field.\n\nTechnology Readiness Levels (TRL)"
-  },
-  {
-    "objectID": "01-introduction/literature-review.html#technology-readiness-the-valley-of-death",
-    "href": "01-introduction/literature-review.html#technology-readiness-the-valley-of-death",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Technology Readiness → The Valley of Death",
-    "text": "Technology Readiness → The Valley of Death\n\n\n\n\n\n\n\nSource: Hensen, J., Loonen, R., Archontiki, M., Kanellis, M., 2015. Using building simulation for moving innovations across the “Valley of Death.” REHVA Journal 52, 58–62."
-  },
-  {
-    "objectID": "01-introduction/literature-review.html#technology-readiness-challenges-trl4---trl7",
-    "href": "01-introduction/literature-review.html#technology-readiness-challenges-trl4---trl7",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Technology Readiness → Challenges TRL4 - TRL7",
-    "text": "Technology Readiness → Challenges TRL4 - TRL7\n\n\n\n\n\n\n\nSource: Hensen, J., Loonen, R., Archontiki, M., Kanellis, M., 2015. Using building simulation for moving innovations across the “Valley of Death.” REHVA Journal 52, 58–62."
-  },
-  {
-    "objectID": "01-introduction/literature-review.html#technology-readiness-challenges-trl4---trl7-1",
-    "href": "01-introduction/literature-review.html#technology-readiness-challenges-trl4---trl7-1",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Technology Readiness → Challenges TRL4 - TRL7",
-    "text": "Technology Readiness → Challenges TRL4 - TRL7\n\nThere is a lack of tools that can provide insights into technology-integration issues at an early R&D phase (TRL 1-5).\nThis results in a mismatch between information need and availability and complicates decision-making.\nThe process requires an interdisciplinary approach. The right combination of skills and expertise may not always be available"
-  },
-  {
-    "objectID": "01-introduction/literature-review.html#technology-readiness-evolution",
-    "href": "01-introduction/literature-review.html#technology-readiness-evolution",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Technology Readiness → Evolution",
-    "text": "Technology Readiness → Evolution"
-  },
-  {
-    "objectID": "01-introduction/literature-review.html#web-of-science-scientific-patent-databases",
-    "href": "01-introduction/literature-review.html#web-of-science-scientific-patent-databases",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Web of science → Scientific & Patent databases",
-    "text": "Web of science → Scientific & Patent databases\n\n\n\n\n\n\n\n\n\n\nCore Collections\n\n\n\n\n\n\nDerwent Innovations Index"
-  },
-  {
-    "objectID": "01-introduction/literature-review.html#so..",
-    "href": "01-introduction/literature-review.html#so..",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "So..",
-    "text": "So.."
-  },
-  {
-    "objectID": "01-introduction/literature-review.html#how-to-do-a-literature-review",
-    "href": "01-introduction/literature-review.html#how-to-do-a-literature-review",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "How to do a Literature Review?",
-    "text": "How to do a Literature Review?"
-  },
-  {
-    "objectID": "01-introduction/literature-review.html#literature-review-1",
-    "href": "01-introduction/literature-review.html#literature-review-1",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Literature review",
-    "text": "Literature review\n\nSteps for a Literature Review"
-  },
-  {
-    "objectID": "01-introduction/literature-review.html#literature-review-the-context",
-    "href": "01-introduction/literature-review.html#literature-review-the-context",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Literature review: The Context",
-    "text": "Literature review: The Context\n\nTake the time to planning because it has the major impact at the end."
-  },
-  {
-    "objectID": "01-introduction/literature-review.html#literature-review-planning",
-    "href": "01-introduction/literature-review.html#literature-review-planning",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Literature review: Planning",
-    "text": "Literature review: Planning\n\nGoal: Identification of material recycling approaches in the Additive Manufacturing contexts (commercial and open-source)"
-  },
-  {
-    "objectID": "01-introduction/literature-review.html#literature-review-planning-1",
-    "href": "01-introduction/literature-review.html#literature-review-planning-1",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Literature review: Planning",
-    "text": "Literature review: Planning\n\nSubjet + Verb + Complement → Topic + Context + Problem"
-  },
-  {
-    "objectID": "01-introduction/literature-review.html#literature-review-planning-2",
-    "href": "01-introduction/literature-review.html#literature-review-planning-2",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Literature review: Planning",
-    "text": "Literature review: Planning"
-  },
-  {
-    "objectID": "01-introduction/literature-review.html#literature-review-planning-3",
-    "href": "01-introduction/literature-review.html#literature-review-planning-3",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Literature review: Planning",
-    "text": "Literature review: Planning\n\nGrid lecture"
-  },
-  {
-    "objectID": "01-introduction/literature-review.html#literature-review-conducting",
-    "href": "01-introduction/literature-review.html#literature-review-conducting",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Literature review: Conducting",
-    "text": "Literature review: Conducting"
-  },
-  {
-    "objectID": "01-introduction/literature-review.html#literature-review-reporting",
-    "href": "01-introduction/literature-review.html#literature-review-reporting",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Literature review: Reporting",
-    "text": "Literature review: Reporting"
-  },
-  {
-    "objectID": "01-introduction/literature-review.html#structure-of-literature",
-    "href": "01-introduction/literature-review.html#structure-of-literature",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Structure of Literature",
-    "text": "Structure of Literature\n\nTitle\nAbstract\nIntroduction\nLiterature review\nMethodology\nResults\nDiscussion\nConclusion\nReferences\n\nExample 1:\nhttps://doi.org/10.1016/j.jclepro.2020.121602"
-  },
-  {
-    "objectID": "01-introduction/literature-review.html#literature-review-ethics",
-    "href": "01-introduction/literature-review.html#literature-review-ethics",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Literature review – Ethics",
-    "text": "Literature review – Ethics\nReport on your literature findings and beware of:\n\nPurposely misrepresenting the work of other authors.\n\n\nPlagiarism – the use of another’s original words, arguments, or ideas as though they were your own, even if this is done in good faith, out of carelessness, or out of ignorance.\n\n\nImportance of the References .bg-yellow[(Act 03 we’ll take a look)]"
-  },
-  {
-    "objectID": "01-introduction/literature-review.html#questions",
-    "href": "01-introduction/literature-review.html#questions",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Questions",
-    "text": "Questions\n\n\n\nTD: Landscape of Research"
+    "objectID": "02-literature/tp2.html#bibliometrix",
+    "href": "02-literature/tp2.html#bibliometrix",
+    "title": "TD2 : Literature review",
+    "section": "Bibliometrix",
+    "text": "Bibliometrix"
   },
   {
     "objectID": "01-introduction/slides.html#objectives-of-the-module",
@@ -203,88 +525,207 @@
     "text": "Objectives of the Module\n\n🧠 Knowledge :\n\nSensibilization onf the scientific research process and High Superior Education system\n\n🔨 Know-how :\n\nSearch on pertinent scientific databases\nSensibilization of a crical thinking of research\nIdentify a pertinent bibliography\n\n✍Competence :\n\nBe able to structure a scientific document presening the main components (Context, Problem, Research Question, Methodlogy and Results)"
   },
   {
-    "objectID": "01-introduction/slides.html#evaluation-du-module---dossier",
-    "href": "01-introduction/slides.html#evaluation-du-module---dossier",
+    "objectID": "01-introduction/slides.html#evaluation-of-the-module",
+    "href": "01-introduction/slides.html#evaluation-of-the-module",
     "title": "What is Scientific Research?",
-    "section": "Evaluation du module - Dossier",
-    "text": "Evaluation du module - Dossier\n\nEach day, a final output will be putted on ARCHE.\nEtat de l’art bibliographique préparatoire à un travail de recherche à de votre sujet de stage (10 pages).\n\nTitle\nAbstract\nRésumé en anglais\nRésumé en français\nSynthèse (8 pages)\nReferences"
+    "section": "Evaluation of the Module",
+    "text": "Evaluation of the Module\n:::: {.columns} ::: {.column width=\"50%\"}\n\nA final output will be putted on ARCHE.\nArticle of State of the Art about your Internship (7 pages).\n\nTitle\nAbstract\nRésumé en anglais\nRésumé en français\nSynthèse (7 pages)\nReferences\n\n\n::: ::: {.column width=\"50%\"}  ::: ::::"
   },
   {
-    "objectID": "01-introduction/slides.html#what-are-the-difference-between-engineering-and-research-in-innovation",
-    "href": "01-introduction/slides.html#what-are-the-difference-between-engineering-and-research-in-innovation",
+    "objectID": "01-introduction/slides.html#what-are-the-difference-between---engineering-and-research-in-innovation--center",
+    "href": "01-introduction/slides.html#what-are-the-difference-between---engineering-and-research-in-innovation--center",
     "title": "What is Scientific Research?",
-    "section": "What are the difference between  Engineering and Research (in Innovation) ?",
-    "text": "What are the difference between  Engineering and Research (in Innovation) ?"
+    "section": "What are the difference between  Engineering and Research (in Innovation) ? {.center}",
+    "text": "What are the difference between  Engineering and Research (in Innovation) ? {.center}"
   },
   {
     "objectID": "01-introduction/slides.html#engineering-vs-research-in-innovation",
     "href": "01-introduction/slides.html#engineering-vs-research-in-innovation",
     "title": "What is Scientific Research?",
     "section": "Engineering vs Research (in Innovation)",
-    "text": "Engineering vs Research (in Innovation)"
+    "text": "Engineering vs Research (in Innovation)\n::: {.r-stack} {.fragment width=\"1100\" }\n{.fragment width=\"1100\" }\n{.fragment width=\"1100\" }\n{.fragment width=\"1100\" }\n{.fragment width=\"1100\" }\n{.fragment width=\"1100\" }\n{.fragment width=\"1100\" }\n{.fragment width=\"1100\" } :::"
   },
   {
-    "objectID": "01-introduction/slides.html#what-is-scientific-research",
-    "href": "01-introduction/slides.html#what-is-scientific-research",
+    "objectID": "01-introduction/slides.html#what-is-scientific-research-",
+    "href": "01-introduction/slides.html#what-is-scientific-research-",
     "title": "What is Scientific Research?",
     "section": "What is scientific research ?",
-    "text": "What is scientific research ?\n\n\n\n“The process of finding solutions to a problem after a thorough study and analysis of the situational factors.” (Sekaran and Bougie 2016)\n\nBased on two research elements:\n\n🔎 Observations (information or data)\n💡 Theory (arguments)\n\n\n\n\n\n\ngraph TD    \n    1[Observation]\n    2[Hypothesis Formation]\n    3[Experimentation]\n    4[Data Collection]\n    5[Analysis]\n    6[Conclusion Drawing]\n    7[Peer Review]\n    8[Publication]\n    9[Continuous Improvement]\n    10[Application]\n\n    1 --&gt; 2\n    2 --&gt; 3\n    3 --&gt; 4\n    4 --&gt; 5\n    5 --&gt; 6\n    6 --&gt; 7\n    7 --&gt; 8\n    8 --&gt; 9\n    9 --&gt; 10\n    10 --&gt; 1\n \n\n\n\n\n\n\n\n\n\nSource: Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019)."
+    "text": "What is scientific research ?\n:::: {.columns} ::: {.column width=\"50%\"}\n\n“The process of finding solutions to a problem after a thorough study and analysis of the situational factors.” (Sekaran and Bougie 2016)\n\nBased on two research elements:\n\n🔎 Observations (information or data)\n💡 Theory (arguments)\n\n::: ::: {.column width=\"50%\"}\n:::{.cell reveal=true fig-height=\"7\" layout-align=\"center\"}\n:::{.cell-output-display}\n:::{} &lt;figure class=''&gt;{=html}\n:::{}\ngraph TD    \n    1[Observation]\n    2[Hypothesis Formation]\n    3[Experimentation]\n    4[Data Collection]\n    5[Analysis]\n    6[Conclusion Drawing]\n    7[Peer Review]\n    8[Publication]\n    9[Continuous Improvement]\n    10[Application]\n\n    1 --&gt; 2\n    2 --&gt; 3\n    3 --&gt; 4\n    4 --&gt; 5\n    5 --&gt; 6\n    6 --&gt; 7\n    7 --&gt; 8\n    8 --&gt; 9\n    9 --&gt; 10\n    10 --&gt; 1\n \n\n\n::: &lt;/figure&gt;{=html} ::: ::: :::\n::: ::::\n::: aside Source: Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019). :::"
+  },
+  {
+    "objectID": "01-introduction/slides.html#inductive-vs-deductive-research-",
+    "href": "01-introduction/slides.html#inductive-vs-deductive-research-",
+    "title": "What is Scientific Research?",
+    "section": "Inductive vs Deductive Research ?",
+    "text": "Inductive vs Deductive Research ?\n::: {.cell layout-align=\"center\"} ::: {.cell-output-display} {fig-align='center' width=70%} ::: :::"
   },
   {
     "objectID": "01-introduction/slides.html#scientific-approaches",
     "href": "01-introduction/slides.html#scientific-approaches",
     "title": "What is Scientific Research?",
     "section": "Scientific approaches",
-    "text": "Scientific approaches\n\nScientific approaches\n\nDeduction\nla méthode par laquelle on va de la cause aux effets, du principe aux conséquences, du général au particulier.\n\nInduction\nLa règle découle de l’observation répétée de faits réels, contingents."
+    "text": "Scientific approaches\n\n\nScientific approaches\n:::: {.columns} ::: {.column width=\"50%\"}\nDeduction\nla méthode par laquelle on va de la cause aux effets, du principe aux conséquences, du général au particulier.\n:::\n::: {.column width=\"50%\"}\nInduction\nLa règle découle de l'observation répétée de faits réels, contingents. ::: ::::"
   },
   {
     "objectID": "01-introduction/slides.html#mental-model-for-the-research-development",
     "href": "01-introduction/slides.html#mental-model-for-the-research-development",
     "title": "What is Scientific Research?",
     "section": "Mental model for the research development?",
-    "text": "Mental model for the research development?\n\n\n\nResearch conceptualization\n\n\n\n\nSource: Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019)."
+    "text": "Mental model for the research development?\n\n\nResearch conceptualization\n::: aside Source: Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019). :::"
   },
   {
-    "objectID": "01-introduction/slides.html#mental-model-for-the-research-development-1",
-    "href": "01-introduction/slides.html#mental-model-for-the-research-development-1",
+    "objectID": "01-introduction/slides.html#pourquoi-devrais-je-me-renseigner-sur-le-processus-de-recherche--center",
+    "href": "01-introduction/slides.html#pourquoi-devrais-je-me-renseigner-sur-le-processus-de-recherche--center",
     "title": "What is Scientific Research?",
-    "section": "Mental model for the research development?",
-    "text": "Mental model for the research development?\n\n\n\n\n\n\n\nSource: Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019)."
-  },
-  {
-    "objectID": "01-introduction/slides.html#pourquoi-devrais-je-me-renseigner-sur-le-processus-de-recherche",
-    "href": "01-introduction/slides.html#pourquoi-devrais-je-me-renseigner-sur-le-processus-de-recherche",
-    "title": "What is Scientific Research?",
-    "section": "Pourquoi devrais-je me renseigner sur le processus de recherche ?",
-    "text": "Pourquoi devrais-je me renseigner sur le processus de recherche ?"
-  },
-  {
-    "objectID": "01-introduction/slides.html#why-should-i-learn-about-the-research-process",
-    "href": "01-introduction/slides.html#why-should-i-learn-about-the-research-process",
-    "title": "What is Scientific Research?",
-    "section": "Why should I learn about the research process?",
-    "text": "Why should I learn about the research process?"
+    "section": "Pourquoi devrais-je me renseigner sur le processus de recherche ? {.center}",
+    "text": "Pourquoi devrais-je me renseigner sur le processus de recherche ? {.center}"
   },
   {
     "objectID": "01-introduction/slides.html#research-and-the-managers",
     "href": "01-introduction/slides.html#research-and-the-managers",
     "title": "What is Scientific Research?",
-    "section": "Research and the “Managers”",
-    "text": "Research and the “Managers”\n\n🥼 To work as a researcher (PhD., R&D Department)\n🗣️ To become a pertinent intelocutor at your company\n⚖️ Help to make evidence-based decisions: e.g. Public politics\n🔮 Help in the strategic and future decision-making\n\nAs an Innovation Manager you are going to face problems that your R&D department or/and external researcher (open-innovation) can help you to solve."
+    "section": "Research and the \"Managers\"",
+    "text": "Research and the \"Managers\"\n\n🥼 To work as a researcher (PhD., R&D Department)\n🗣️ To become a pertinent intelocutor at your company\n⚖️ Help to make evidence-based decisions: e.g. Public politics\n🔮 Help in the strategic and future decision-making\n\nAs an Innovation Manager you are going to face problems that your R&D department or/and external researcher (open-innovation) can help you to solve."
   },
   {
-    "objectID": "01-introduction/slides.html#everything-start-with-a-good-research-question-1",
-    "href": "01-introduction/slides.html#everything-start-with-a-good-research-question-1",
+    "objectID": "01-introduction/slides.html#why-a-company-would-bother-literature-review--center",
+    "href": "01-introduction/slides.html#why-a-company-would-bother-literature-review--center",
     "title": "What is Scientific Research?",
-    "section": "Everything start with a good research question",
-    "text": "Everything start with a good research question\n\n\n\nDescriptive: (‘What’, ‘When’, ‘Where’, ‘Who’ or ‘How’)\n\ne.g. ’What percentage of coachees  report that coaching helped them  with a problem they experienced?\n\nExplanatory (‘Why’?)\n\ne.g. ‘Why did 65% of coachees report that coaching helped them with a problem they experienced?’\n\n\n\n\n\nSource: Rojon, C. & Saunders, M. N. K. Formulating a convincing rationale for a research study. Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012)."
+    "section": "Why a company would bother literature review ? {.center}",
+    "text": "Why a company would bother literature review ? {.center}"
   },
   {
-    "objectID": "01-introduction/slides.html#good-research-question-descriptive-explanatory",
-    "href": "01-introduction/slides.html#good-research-question-descriptive-explanatory",
+    "objectID": "01-introduction/slides.html#technology-readiness--maturity-nostretch",
+    "href": "01-introduction/slides.html#technology-readiness--maturity-nostretch",
+    "title": "What is Scientific Research?",
+    "section": "Technology Readiness → Maturity {.nostretch}",
+    "text": "Technology Readiness → Maturity {.nostretch}\nThe industrial emergence mapping framework.\n{width=60% fig-align='center'}\n::: aside Phaal, R., O’Sullivan, E., Routley, M., Ford, S., Probert, D., 2011. A framework for mapping industrial emergence. Technological Forecasting and Social Change 78, 217–230. https://doi.org/10.1016/j.techfore.2010.06.018 :::"
+  },
+  {
+    "objectID": "01-introduction/slides.html#on-the-case-of-entreprise",
+    "href": "01-introduction/slides.html#on-the-case-of-entreprise",
+    "title": "What is Scientific Research?",
+    "section": "On the case of Entreprise",
+    "text": "On the case of Entreprise\n{width=\"90%\"}"
+  },
+  {
+    "objectID": "01-introduction/slides.html#technology-readiness--levels",
+    "href": "01-introduction/slides.html#technology-readiness--levels",
+    "title": "What is Scientific Research?",
+    "section": "Technology Readiness → Levels",
+    "text": "Technology Readiness → Levels\nFramework developed in the Aeronautical field.\n\n\nTechnology Readiness Levels (TRL)"
+  },
+  {
+    "objectID": "01-introduction/slides.html#technology-readiness--the-valley-of-death",
+    "href": "01-introduction/slides.html#technology-readiness--the-valley-of-death",
+    "title": "What is Scientific Research?",
+    "section": "Technology Readiness → The Valley of Death",
+    "text": "Technology Readiness → The Valley of Death\n{width=\"70%\" fig-align=\"center\"}\n::: aside Source: Hensen, J., Loonen, R., Archontiki, M., Kanellis, M., 2015. Using building simulation for moving innovations across the \"Valley of Death.\" REHVA Journal 52, 58--62. :::"
+  },
+  {
+    "objectID": "01-introduction/slides.html#technology-readiness--challenges-trl4---trl7",
+    "href": "01-introduction/slides.html#technology-readiness--challenges-trl4---trl7",
+    "title": "What is Scientific Research?",
+    "section": "Technology Readiness → Challenges TRL4 - TRL7",
+    "text": "Technology Readiness → Challenges TRL4 - TRL7\n{width=\"70%\" fig-align=\"center\"}\n::: aside Source: Hensen, J., Loonen, R., Archontiki, M., Kanellis, M., 2015. Using building simulation for moving innovations across the \"Valley of Death.\" REHVA Journal 52, 58--62. :::"
+  },
+  {
+    "objectID": "01-introduction/slides.html#technology-readiness--challenges-trl4---trl7-1",
+    "href": "01-introduction/slides.html#technology-readiness--challenges-trl4---trl7-1",
+    "title": "What is Scientific Research?",
+    "section": "Technology Readiness → Challenges TRL4 - TRL7",
+    "text": "Technology Readiness → Challenges TRL4 - TRL7\n\nThere is a lack of tools that can provide insights into technology-integration issues at an early R&D phase (TRL 1-5).\nThis results in a mismatch between information need and availability and complicates decision-making.\nThe process requires an interdisciplinary approach. The right combination of skills and expertise may not always be available"
+  },
+  {
+    "objectID": "01-introduction/slides.html#technology-readiness--evolution",
+    "href": "01-introduction/slides.html#technology-readiness--evolution",
+    "title": "What is Scientific Research?",
+    "section": "Technology Readiness → Evolution",
+    "text": "Technology Readiness → Evolution\n::: {.r-stack} {width=\"70%\" fig-align=\"center\"}\n{.fragment .absolute width=\"500\" top=250 left=0}\n{.fragment width=\"500\" fig-align=\"center\"}\n{.fragment .absolute top=50 right=50 width=\"400\" }\n{.fragment .absolute top=250 left=0 width=\"500\" }\n{.fragment width=\"800\" fig-align=\"center\"} :::"
+  },
+  {
+    "objectID": "01-introduction/slides.html#what-the-difference-these-two-googles",
+    "href": "01-introduction/slides.html#what-the-difference-these-two-googles",
+    "title": "What is Scientific Research?",
+    "section": "What the difference these two googles?",
+    "text": "What the difference these two googles?"
+  },
+  {
+    "objectID": "01-introduction/slides.html#peer-reviewing-process",
+    "href": "01-introduction/slides.html#peer-reviewing-process",
+    "title": "What is Scientific Research?",
+    "section": "Peer Reviewing process",
+    "text": "Peer Reviewing process"
+  },
+  {
+    "objectID": "01-introduction/slides.html#literature-review-background-imagefiguresdatabasespng-background-size40-background-position90-50-",
+    "href": "01-introduction/slides.html#literature-review-background-imagefiguresdatabasespng-background-size40-background-position90-50-",
+    "title": "What is Scientific Research?",
+    "section": "Literature review {background-image=\"figures/databases.png\" background-size=\"40%\" background-position=\"90% 50%\" }",
+    "text": "Literature review {background-image=\"figures/databases.png\" background-size=\"40%\" background-position=\"90% 50%\" }\nStanding on the shoulders of giants\n\nScientific databases\nResearch papers\nBooks\nInstitutional reports -&gt; WHO, EU…\nSocieties\n\nconferences proceedings (IEEE, IAMOT, IFAC...)\n\nInstitutional repositories -&gt; dissertations\nIP registrars -&gt; Patents"
+  },
+  {
+    "objectID": "01-introduction/slides.html#web-of-science--scientific--patent-databases",
+    "href": "01-introduction/slides.html#web-of-science--scientific--patent-databases",
+    "title": "What is Scientific Research?",
+    "section": "Web of science → Scientific & Patent databases",
+    "text": "Web of science → Scientific & Patent databases\n{width=\"400\" fig-align=\"left\"}\n::: columns ::: {.column width=\"50%\"} {fig-align=\"center\"} :::\n::: {.column width=\"50%\"} {fig-align=\"center\"} ::: :::"
+  },
+  {
+    "objectID": "01-introduction/slides.html#everything-start-with-a-good-research-question-background-imagefiguresresearch-questionspng-background-size50-background-position100-50-",
+    "href": "01-introduction/slides.html#everything-start-with-a-good-research-question-background-imagefiguresresearch-questionspng-background-size50-background-position100-50-",
+    "title": "What is Scientific Research?",
+    "section": "Everything start with a good research question {background-image=\"figures/Research-questions.png\" background-size=\"50%\" background-position=\"100% 50%\" }",
+    "text": "Everything start with a good research question {background-image=\"figures/Research-questions.png\" background-size=\"50%\" background-position=\"100% 50%\" }\n:::: {.columns} ::: {.column width=\"50%\"}\n\nDescriptive: (‘What’, ‘When’, ‘Where’, ‘Who’ or ‘How’)\n\ne.g. ‘What percentage of coachees  report that coaching helped them  with a problem they experienced?\n\nExplanatory ('Why'?)\n\ne.g. ‘Why did 65% of coachees report that coaching helped them with a problem they experienced?’\n:::\n::: {.column width=\"50%\"} ::: aside Source: Rojon, C. & Saunders, M. N. K. Formulating a convincing rationale for a research study. Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012). ::: ::: ::::"
+  },
+  {
+    "objectID": "01-introduction/slides.html#good-research-question-descriptive--explanatory",
+    "href": "01-introduction/slides.html#good-research-question-descriptive--explanatory",
     "title": "What is Scientific Research?",
     "section": "Good research question: Descriptive + Explanatory",
-    "text": "Good research question: Descriptive + Explanatory\nBeing able to provide meaningful explanations requires answers to ‘why’ (i.e. explanatory) questions in addition to ‘what’ (i.e. descriptive) questions.\nFor example:\n\n‘How effective is the coaching process at helping coachees to solve a problem they experience and what are the reasons for this?’\n‘To what extent is the coaching process effective at helping coachees solve a problem and why?’\n\n\n\nSource: Rojon, C. & Saunders, M. N. K. Formulating a convincing rationale for a research study. Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012)."
+    "text": "Good research question: Descriptive + Explanatory\nBeing able to provide meaningful explanations requires answers to ‘why’ (i.e. explanatory) questions in addition to ‘what’ (i.e. descriptive) questions.\nFor example:\n\n'How effective is the coaching process at helping coachees to solve a problem they experience and what are the reasons for this?'\n'To what extent is the coaching process effective at helping coachees solve a problem and why?'\n\n::: aside Source: Rojon, C. & Saunders, M. N. K. Formulating a convincing rationale for a research study. Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012). :::"
+  },
+  {
+    "objectID": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-center",
+    "href": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-center",
+    "title": "What is Scientific Research?",
+    "section": "What kind of type of research can we do? {.center}",
+    "text": "What kind of type of research can we do? {.center}"
+  },
+  {
+    "objectID": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-background-imagefiguresnature-research-00png-background-size60-background-position90-70-",
+    "href": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-background-imagefiguresnature-research-00png-background-size60-background-position90-70-",
+    "title": "What is Scientific Research?",
+    "section": "What kind of type of research can we do? {background-image=\"figures/Nature-research-00.png\" background-size=\"60%\" background-position=\"90% 70%\" }",
+    "text": "What kind of type of research can we do? {background-image=\"figures/Nature-research-00.png\" background-size=\"60%\" background-position=\"90% 70%\" }\n:::: {.columns} ::: {.column width=\"25%\"}\n\nBasic Vs. Applied\nExploratory\nDescriptive\nCausal ::: ::: {.column width=\"70%\"}\n\n::: ::::"
+  },
+  {
+    "objectID": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do",
+    "href": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do",
+    "title": "What is Scientific Research?",
+    "section": "What kind of type of research can we do?",
+    "text": "What kind of type of research can we do?\n:::: {.columns} ::: {.column width=\"25%\"}\n\nBasic Vs. Applied\nExploratory\nDescriptive\nCausal\n\n:::\n::: {.column width=\"70%\"}\n\nNot much is known about a particular phenomenon;\nExisting research results are unclear or suffer from serious limitations;\nThe topic is highly complex; or\nThere is not enough theory available to guide the development of a theoretical framework\n\n::: ::::\ne.g: AI and its influence in the future?, Decroissance?\n::: aside Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019). :::"
+  },
+  {
+    "objectID": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-1",
+    "href": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-1",
+    "title": "What is Scientific Research?",
+    "section": "What kind of type of research can we do?",
+    "text": "What kind of type of research can we do?\n:::: {.columns} ::: {.column width=\"25%\"}\n\nBasic Vs. Applied\nExploratory\nDescriptive\nCausal ::: ::: {.column width=\"70%\"}\nObtain data that describes the topic of interest\nUnderstand the characteristics of a group in a given situation\nThink systematically about aspects in a given situation\n\n::: ::::\ne.g: Social Media Usage Patterns, Workplace Satisfaction Surveys, Consumer Behavior Studies, etc...\n::: aside Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019). :::"
+  },
+  {
+    "objectID": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-2",
+    "href": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-2",
+    "title": "What is Scientific Research?",
+    "section": "What kind of type of research can we do?",
+    "text": "What kind of type of research can we do?\n:::: {.columns} ::: {.column width=\"30%\"}\n\nBasic Vs. Applied\nExploratory\nDescriptive\nCausal ::: ::: {.column width=\"70%\"}\nWhether or not A causes change to B\nX causes variable Y. So, when variable X is removed or altered in some way, problem Y is solved\n\n::: ::::\ne.g: Impact of (Educational, Recycling, Motivation, Training ...) Interventions, Efficacy of Medical Treatments, Causal loops, etc...\n::: aside Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019). :::"
+  },
+  {
+    "objectID": "01-introduction/slides.html#quantitative-vs-qualitative",
+    "href": "01-introduction/slides.html#quantitative-vs-qualitative",
+    "title": "What is Scientific Research?",
+    "section": "Quantitative vs Qualitative",
+    "text": "Quantitative vs Qualitative\n{fig-align=\"center\"}\nBig data Vs Thick data"
   },
   {
     "objectID": "01-introduction/slides.html#examples-of-erpi-research",
@@ -294,179 +735,200 @@
     "text": "Examples of ERPI Research\n\nhttps://erpi.univ-lorraine.fr/publications/articles/"
   },
   {
-    "objectID": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do",
-    "href": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do",
+    "objectID": "01-introduction/slides.html#in-summary-center",
+    "href": "01-introduction/slides.html#in-summary-center",
     "title": "What is Scientific Research?",
-    "section": "What kind of type of research can we do?",
-    "text": "What kind of type of research can we do?"
+    "section": "In summary {.center}",
+    "text": "In summary {.center}\nThe Art of Design Research"
   },
   {
-    "objectID": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-1",
-    "href": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-1",
+    "objectID": "01-introduction/slides.html#research-design-background-imagefiguresresearch-designpng-background-size80-background-position50-50-",
+    "href": "01-introduction/slides.html#research-design-background-imagefiguresresearch-designpng-background-size80-background-position50-50-",
     "title": "What is Scientific Research?",
-    "section": "What kind of type of research can we do?",
-    "text": "What kind of type of research can we do?\n\n\n\nBasic Vs. Applied\nExploratory\nDescriptive\nCausal"
+    "section": "Research design {background-image=\"figures/Research-design.png\" background-size=\"80%\" background-position=\"50% 50%\" }",
+    "text": "Research design {background-image=\"figures/Research-design.png\" background-size=\"80%\" background-position=\"50% 50%\" }\n:::aside Source: Sreejesh, S., Mohapatra, S., & Anusree, M. R. (2013). Business Research Design: Exploratory, Descriptive and Causal Designs. Business Research Methods :::"
   },
   {
-    "objectID": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-2",
-    "href": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-2",
+    "objectID": "01-introduction/slides.html#approaches-of-the---research-designbackground-imagefiguresqqmpng-background-size65-background-position90-50-",
+    "href": "01-introduction/slides.html#approaches-of-the---research-designbackground-imagefiguresqqmpng-background-size65-background-position90-50-",
     "title": "What is Scientific Research?",
-    "section": "What kind of type of research can we do?",
-    "text": "What kind of type of research can we do?\n\n\n\nBasic Vs. Applied\nExploratory\nDescriptive\nCausal\n\n\n\nNot much is known about a particular phenomenon;\nExisting research results are unclear or suffer from serious limitations;\nThe topic is highly complex; or\nThere is not enough theory available to guide the development of a theoretical framework\n\n\n\ne.g: AI and its influence in the future?, Decroissance?\n\n\nSource: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019)."
+    "section": "Approaches of the  Research design{background-image=\"figures/QQM.png\" background-size=\"65%\" background-position=\"90% 50%\" }",
+    "text": "Approaches of the  Research design{background-image=\"figures/QQM.png\" background-size=\"65%\" background-position=\"90% 50%\" }\n:::: {.columns} ::: {.column width=\"40%\"}\nCreswell, J. W.: Research Design: Qualitative, Quantitative and Mixed Methods Approaches, 2nd edition, Sage Publications, Inc, California, 246 pp., 2003.\n:::\n::: {.column width=\"50%\"}\n::: ::::"
   },
   {
-    "objectID": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-3",
-    "href": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-3",
+    "objectID": "01-introduction/slides.html#the-research-onion-background-imagefiguresresearch-onionpng-background-size60-background-position95-50-",
+    "href": "01-introduction/slides.html#the-research-onion-background-imagefiguresresearch-onionpng-background-size60-background-position95-50-",
     "title": "What is Scientific Research?",
-    "section": "What kind of type of research can we do?",
-    "text": "What kind of type of research can we do?\n\n\n\nBasic Vs. Applied\nExploratory\nDescriptive\nCausal\n\n\n\nObtain data that describes the topic of interest\nUnderstand the characteristics of a group in a given situation\nThink systematically about aspects in a given situation\n\n\n\ne.g: Social Media Usage Patterns, Workplace Satisfaction Surveys, Consumer Behavior Studies, etc…\n\n\nSource: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019)."
+    "section": "The Research Onion {background-image=\"figures/Research-onion.png\" background-size=\"60%\" background-position=\"95% 50%\" }",
+    "text": "The Research Onion {background-image=\"figures/Research-onion.png\" background-size=\"60%\" background-position=\"95% 50%\" }\n::: {layout=\"[30,-2,60]\" layout-valign=\"center\"}\nThe main challengue in Research  is connect all the 'coherent' dots in this figure to create a path !!!\n:::"
   },
   {
-    "objectID": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-4",
-    "href": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-4",
+    "objectID": "01-introduction/slides.html#mental-model-of-the-research-process",
+    "href": "01-introduction/slides.html#mental-model-of-the-research-process",
     "title": "What is Scientific Research?",
-    "section": "What kind of type of research can we do?",
-    "text": "What kind of type of research can we do?\n\n\n\nBasic Vs. Applied\nExploratory\nDescriptive\nCausal\n\n\n\nWhether or not A causes change to B\nX causes variable Y. So, when variable X is removed or altered in some way, problem Y is solved\n\n\n\ne.g: Impact of (Educational, Recycling, Motivation, Training …) Interventions, Efficacy of Medical Treatments, Causal loops, etc…\n\n\nSource: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019)."
+    "section": "Mental model of the research process",
+    "text": "Mental model of the research process\n\n\nResearch conceptualization"
   },
   {
-    "objectID": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-5",
-    "href": "01-introduction/slides.html#what-kind-of-type-of-research-can-we-do-5",
+    "objectID": "01-introduction/slides.html#the-exercises",
+    "href": "01-introduction/slides.html#the-exercises",
     "title": "What is Scientific Research?",
-    "section": "What kind of type of research can we do?",
-    "text": "What kind of type of research can we do?\n\n\n\nBasic Vs. Applied\nExploratory\nDescriptive\nCausal\n\n\n\nWhether or not A causes change to B\nX causes variable Y. So, when variable X is removed or altered in some way, problem Y is solved\n\n\n\n\n\nSource: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019)."
+    "section": "The Exercises",
+    "text": "The Exercises\n::: columns ::: {.column width=\"30%\"} {fig-align=\"center\"} :::\n::: {.column width=\"30%\"} {fig-align=\"center\"} :::\n::: {.column width=\"30%\"} {fig-align=\"center\"} :::\n:::\n📃 Download the Document"
+  },
+  {
+    "objectID": "01-introduction/slides.html#bibliometric-mapping-vosviewer",
+    "href": "01-introduction/slides.html#bibliometric-mapping-vosviewer",
+    "title": "What is Scientific Research?",
+    "section": "Bibliometric mapping: Vosviewer",
+    "text": "Bibliometric mapping: Vosviewer\n{width=\"900\" fig-align=\"center\"}\nDownload at https://www.vosviewer.com/\n::: aside van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. https://doi.org/10.1007/s11192-009-0146-3 :::"
   },
   {
     "objectID": "01-introduction/slides.html#research-ecosystem-in-general",
     "href": "01-introduction/slides.html#research-ecosystem-in-general",
     "title": "What is Scientific Research?",
     "section": "Research Ecosystem in general",
-    "text": "Research Ecosystem in general\n\n\n\nResearch Ecosystem\n\n\n\n\nPandey, S., Pattnaik, P., 2015. University Research Ecosystem: A Conceptual Understanding. Review of Economic and Business Studies 8. https://doi.org/10.1515/rebs-2016-0021"
+    "text": "Research Ecosystem in general\n{width=\"600\"}\n::: aside Pandey, S., Pattnaik, P., 2015. University Research Ecosystem: A Conceptual Understanding. Review of Economic and Business Studies 8. https://doi.org/10.1515/rebs-2016-0021 :::"
   },
   {
     "objectID": "01-introduction/slides.html#research-ecosystem-in-france",
     "href": "01-introduction/slides.html#research-ecosystem-in-france",
     "title": "What is Scientific Research?",
     "section": "Research Ecosystem in France",
-    "text": "Research Ecosystem in France\nTeaching and research\n\nUniversities (IUT, Ecoles d’ingénieurs)\nINSA , ENSI , CNAM , …\n\nPrivate companies (Big/Smee’s)\n\nSagem; Véolia; PSA Thales\nTEA; JEI; FITLE; myXtramile…\n\nFunding Agencies\nNational & EU - Ministeries - ANR - ADEME"
+    "text": "Research Ecosystem in France\nTeaching and research\n\nUniversities (IUT, Ecoles d’ingénieurs)\nINSA , ENSI , CNAM , ...\n\nPrivate companies (Big/Smee's)\n\nSagem; Véolia; PSA Thales\nTEA; JEI; FITLE; myXtramile...\n\nFunding Agencies\nNational & EU\n\nMinisteries\nANR\nADEME"
   },
   {
     "objectID": "01-introduction/slides.html#science-and-technology-observatory-ost",
     "href": "01-introduction/slides.html#science-and-technology-observatory-ost",
     "title": "What is Scientific Research?",
     "section": "Science and technology observatory (OST)",
-    "text": "Science and technology observatory (OST)\n\n\n\nHigh Council for Evaluation of Research and Higher Education - HCERES\n\n\n\n\nSource: Rapport HCERES\nHCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost"
+    "text": "Science and technology observatory (OST)\n\n\nHigh Council for Evaluation of Research and Higher Education - HCERES\n::: aside Source: Rapport HCERES\nHCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost :::"
   },
   {
     "objectID": "01-introduction/slides.html#science-and-technology-observatory-ost-1",
     "href": "01-introduction/slides.html#science-and-technology-observatory-ost-1",
     "title": "What is Scientific Research?",
     "section": "Science and technology observatory (OST)",
-    "text": "Science and technology observatory (OST)\n\n\n\nHigh Council for Evaluation of Research and Higher Education - HCERES\n\n\nSource: Rapport HCERES\n\n\nHCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost"
+    "text": "Science and technology observatory (OST)\n\n\nHigh Council for Evaluation of Research and Higher Education - HCERES\nSource: Rapport HCERES\n::: aside HCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost :::"
   },
   {
     "objectID": "01-introduction/slides.html#science-and-technology-observatory-ost-2",
     "href": "01-introduction/slides.html#science-and-technology-observatory-ost-2",
     "title": "What is Scientific Research?",
     "section": "Science and technology observatory (OST)",
-    "text": "Science and technology observatory (OST)\n\n\n\nHigh Council for Evaluation of Research and Higher Education - HCERES\n\n\nSource: Rapport HCERES\n\n\nHCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost"
+    "text": "Science and technology observatory (OST)\n\n\nHigh Council for Evaluation of Research and Higher Education - HCERES\nSource: Rapport HCERES\n::: aside HCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost :::"
   },
   {
-    "objectID": "01-introduction/tp1.html#the-canvas-of-step-2",
-    "href": "01-introduction/tp1.html#the-canvas-of-step-2",
+    "objectID": "01-introduction/slides.html#thanks-center",
+    "href": "01-introduction/slides.html#thanks-center",
+    "title": "What is Scientific Research?",
+    "section": "Thanks {.center}",
+    "text": "Thanks {.center}\n:::{#quarto-meta-markdown .hidden} [CI12 - What is Scientific Research?]{.hidden render-id=\"quarto-metatitle\"} [CI12 - What is Scientific Research?]{.hidden render-id=\"quarto-twittercardtitle\"} [CI12 - What is Scientific Research?]{.hidden render-id=\"quarto-ogcardtitle\"} [CI12]{.hidden render-id=\"quarto-metasitename\"} []{.hidden render-id=\"quarto-twittercarddesc\"} []{.hidden render-id=\"quarto-ogcardddesc\"} :::\n::: {.quarto-auto-generated-content}\n\n\n::: {.footer .footer-default} Introduction to Scientific Research :::\n:::"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#the-exercises",
+    "href": "01-introduction/tp1.html#the-exercises",
     "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "The canvas of Step 2",
-    "text": "The canvas of Step 2\n\n\n\n\n\nGoal Step 2a : Define the research questions\n\n\n\n\n\n\nGoal: Define research equation to use in WoS\n\n\n\n\n\n\nGoal Step 2c: Visualize & Analize Scientific and Patent databases"
+    "section": "The Exercises",
+    "text": "The Exercises\n::: columns ::: {.column width=\"30%\"} {fig-align=\"center\"} :::\n::: {.column width=\"30%\"} {fig-align=\"center\"} :::\n::: {.column width=\"30%\"} {fig-align=\"center\"} :::\n:::"
   },
   {
     "objectID": "01-introduction/tp1.html#bibliometric-mapping-vosviewer",
     "href": "01-introduction/tp1.html#bibliometric-mapping-vosviewer",
     "title": "TD1 : Research Landscape via Vosviewer",
     "section": "Bibliometric mapping: Vosviewer",
-    "text": "Bibliometric mapping: Vosviewer\n\n\n\n\n\nDownload at https://www.vosviewer.com/\n\n\nvan Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. https://doi.org/10.1007/s11192-009-0146-3"
+    "text": "Bibliometric mapping: Vosviewer\n{width=\"900\" fig-align=\"center\"}\nDownload at https://www.vosviewer.com/\n::: aside van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. https://doi.org/10.1007/s11192-009-0146-3 :::"
   },
   {
-    "objectID": "01-introduction/tp1.html#access",
-    "href": "01-introduction/tp1.html#access",
+    "objectID": "01-introduction/tp1.html#step-1-research-conceptualization",
+    "href": "01-introduction/tp1.html#step-1-research-conceptualization",
     "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Access to WoS database",
-    "text": "Access to WoS database"
+    "section": "Step 1: Research conceptualization",
+    "text": "Step 1: Research conceptualization\n::: columns ::: {.column width=\"50%\"} {fig-align=\"center\"} :::\n::: {.column width=\"50%\"}\n::: {.cell} ::: {.cell-output-display}\n&lt;div class=\"countdown\" id=\"timer_62c6a556\" data-update-every=\"1\" tabindex=\"0\" style=\"top:100;right:50;margin:5px;padding:5px;font-size:4em;\"&gt;\n&lt;div class=\"countdown-controls\"&gt;&lt;button class=\"countdown-bump-down\"&gt;&minus;&lt;/button&gt;&lt;button class=\"countdown-bump-up\"&gt;&plus;&lt;/button&gt;&lt;/div&gt;\n&lt;code class=\"countdown-time\"&gt;&lt;span class=\"countdown-digits minutes\"&gt;45&lt;/span&gt;&lt;span class=\"countdown-digits colon\"&gt;:&lt;/span&gt;&lt;span class=\"countdown-digits seconds\"&gt;00&lt;/span&gt;&lt;/code&gt;\n&lt;/div&gt;\n::: :::\n::: :::"
   },
   {
-    "objectID": "01-introduction/tp1.html#wos",
-    "href": "01-introduction/tp1.html#wos",
+    "objectID": "01-introduction/tp1.html#step-2-scientific-screening",
+    "href": "01-introduction/tp1.html#step-2-scientific-screening",
     "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Web of Science Interface",
-    "text": "Web of Science Interface"
+    "section": "Step 2: Scientific screening",
+    "text": "Step 2: Scientific screening\n::: columns ::: {.column width=\"50%\"} {fig-align=\"center\"} :::\n::: {.column width=\"50%\"}\n::: {.cell} ::: {.cell-output-display}\n&lt;div class=\"countdown\" id=\"timer_1f866fa5\" data-update-every=\"1\" tabindex=\"0\" style=\"top:100;right:50;margin:5px;padding:5px;font-size:4em;\"&gt;\n&lt;div class=\"countdown-controls\"&gt;&lt;button class=\"countdown-bump-down\"&gt;&minus;&lt;/button&gt;&lt;button class=\"countdown-bump-up\"&gt;&plus;&lt;/button&gt;&lt;/div&gt;\n&lt;code class=\"countdown-time\"&gt;&lt;span class=\"countdown-digits minutes\"&gt;45&lt;/span&gt;&lt;span class=\"countdown-digits colon\"&gt;:&lt;/span&gt;&lt;span class=\"countdown-digits seconds\"&gt;00&lt;/span&gt;&lt;/code&gt;\n&lt;/div&gt;\n::: :::\n::: :::"
   },
   {
-    "objectID": "01-introduction/tp1.html#wos-results",
-    "href": "01-introduction/tp1.html#wos-results",
+    "objectID": "01-introduction/tp1.html#step-3-comparing-the-scientific-and-the-patent-domains",
+    "href": "01-introduction/tp1.html#step-3-comparing-the-scientific-and-the-patent-domains",
     "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Results on WoS plateform",
-    "text": "Results on WoS plateform"
+    "section": "Step 3: Comparing the scientific and the Patent domains",
+    "text": "Step 3: Comparing the scientific and the Patent domains\n::: columns ::: {.column width=\"50%\"} {fig-align=\"center\"} :::\n::: {.column width=\"50%\"}\n::: {.cell} ::: {.cell-output-display}\n&lt;div class=\"countdown\" id=\"timer_27ea3c29\" data-update-every=\"1\" tabindex=\"0\" style=\"top:100;right:50;margin:5px;padding:5px;font-size:4em;\"&gt;\n&lt;div class=\"countdown-controls\"&gt;&lt;button class=\"countdown-bump-down\"&gt;&minus;&lt;/button&gt;&lt;button class=\"countdown-bump-up\"&gt;&plus;&lt;/button&gt;&lt;/div&gt;\n&lt;code class=\"countdown-time\"&gt;&lt;span class=\"countdown-digits minutes\"&gt;45&lt;/span&gt;&lt;span class=\"countdown-digits colon\"&gt;:&lt;/span&gt;&lt;span class=\"countdown-digits seconds\"&gt;00&lt;/span&gt;&lt;/code&gt;\n&lt;/div&gt;\n::: :::\n::: :::"
   },
   {
-    "objectID": "01-introduction/tp1.html#wos-export",
-    "href": "01-introduction/tp1.html#wos-export",
+    "objectID": "01-introduction/tp1.html#list-of-tutorials",
+    "href": "01-introduction/tp1.html#list-of-tutorials",
     "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Web of Science: Export results",
-    "text": "Web of Science: Export results"
+    "section": "List of tutorials",
+    "text": "List of tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
   },
   {
-    "objectID": "01-introduction/tp1.html#small-introduction-to-vosviwer",
-    "href": "01-introduction/tp1.html#small-introduction-to-vosviwer",
+    "objectID": "01-introduction/tp1.html#access-to-wos-database-access-center",
+    "href": "01-introduction/tp1.html#access-to-wos-database-access-center",
     "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Small introduction to VosViwer",
-    "text": "Small introduction to VosViwer"
+    "section": "Access to WoS database {#access .center}",
+    "text": "Access to WoS database {#access .center}"
   },
   {
-    "objectID": "01-introduction/tp1.html#add-data-from-bibliographic-database-file",
-    "href": "01-introduction/tp1.html#add-data-from-bibliographic-database-file",
+    "objectID": "01-introduction/tp1.html#tutorials-1",
+    "href": "01-introduction/tp1.html#tutorials-1",
     "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Add data: from Bibliographic database file",
-    "text": "Add data: from Bibliographic database file"
+    "section": "Tutorials",
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
   },
   {
-    "objectID": "01-introduction/tp1.html#add-data-from-bibliographic-database-file-1",
-    "href": "01-introduction/tp1.html#add-data-from-bibliographic-database-file-1",
+    "objectID": "01-introduction/tp1.html#web-of-science-interface-wos-center",
+    "href": "01-introduction/tp1.html#web-of-science-interface-wos-center",
     "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Add data: from Bibliographic database file",
-    "text": "Add data: from Bibliographic database file"
+    "section": "Web of Science Interface {#wos .center}",
+    "text": "Web of Science Interface {#wos .center}"
   },
   {
-    "objectID": "01-introduction/tp1.html#add-data-select-the-.txt-files-from-wos",
-    "href": "01-introduction/tp1.html#add-data-select-the-.txt-files-from-wos",
+    "objectID": "01-introduction/tp1.html#tutorials-2",
+    "href": "01-introduction/tp1.html#tutorials-2",
     "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Add data: Select the .txt files from WoS",
-    "text": "Add data: Select the .txt files from WoS"
+    "section": "Tutorials",
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
   },
   {
-    "objectID": "01-introduction/tp1.html#add-data-analysing-keyworkds",
-    "href": "01-introduction/tp1.html#add-data-analysing-keyworkds",
+    "objectID": "01-introduction/tp1.html#results-on-wos-plateform-wos-results",
+    "href": "01-introduction/tp1.html#results-on-wos-plateform-wos-results",
     "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Add data: Analysing Keyworkds",
-    "text": "Add data: Analysing Keyworkds"
+    "section": "Results on WoS plateform {#wos-results}",
+    "text": "Results on WoS plateform {#wos-results}"
   },
   {
-    "objectID": "01-introduction/tp1.html#add-data-minimum-number-of-occurrencies-for-keyworkds",
-    "href": "01-introduction/tp1.html#add-data-minimum-number-of-occurrencies-for-keyworkds",
+    "objectID": "01-introduction/tp1.html#tutorials-3",
+    "href": "01-introduction/tp1.html#tutorials-3",
     "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Add data: Minimum number of Occurrencies for Keyworkds",
-    "text": "Add data: Minimum number of Occurrencies for Keyworkds"
+    "section": "Tutorials",
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
   },
   {
-    "objectID": "01-introduction/tp1.html#add-data-keywords-to-be-plotted",
-    "href": "01-introduction/tp1.html#add-data-keywords-to-be-plotted",
+    "objectID": "01-introduction/tp1.html#web-of-science-export-results-wos-export",
+    "href": "01-introduction/tp1.html#web-of-science-export-results-wos-export",
     "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Add data: Keywords to be plotted",
-    "text": "Add data: Keywords to be plotted"
+    "section": "Web of Science: Export results {#wos-export}",
+    "text": "Web of Science: Export results {#wos-export}"
   },
   {
-    "objectID": "01-introduction/tp1.html#add-data-verify-if-keywords-are-correct",
-    "href": "01-introduction/tp1.html#add-data-verify-if-keywords-are-correct",
+    "objectID": "01-introduction/tp1.html#tutorials-4",
+    "href": "01-introduction/tp1.html#tutorials-4",
     "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Add data: Verify if Keywords are correct",
-    "text": "Add data: Verify if Keywords are correct\nAttention to the Redundancies"
+    "section": "Tutorials",
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#scientific-network-visualization-sci-vos",
+    "href": "01-introduction/tp1.html#scientific-network-visualization-sci-vos",
+    "title": "TD1 : Research Landscape via Vosviewer",
+    "section": "Scientific Network visualization {#sci-vos}",
+    "text": "Scientific Network visualization {#sci-vos}\n\nDownload Vosviewer at https://www.vosviewer.com/"
   },
   {
     "objectID": "01-introduction/tp1.html#network-visualitation",
@@ -474,27 +936,6 @@
     "title": "TD1 : Research Landscape via Vosviewer",
     "section": "Network Visualitation",
     "text": "Network Visualitation"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#overlay-visualitation",
-    "href": "01-introduction/tp1.html#overlay-visualitation",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Overlay Visualitation",
-    "text": "Overlay Visualitation"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#overlay-visualitation-selecting-the-node",
-    "href": "01-introduction/tp1.html#overlay-visualitation-selecting-the-node",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Overlay Visualitation: Selecting the node",
-    "text": "Overlay Visualitation: Selecting the node"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#density-visualization",
-    "href": "01-introduction/tp1.html#density-visualization",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Density Visualization",
-    "text": "Density Visualization"
   },
   {
     "objectID": "01-introduction/tp1.html#clarivate-for-patents",
@@ -528,12 +969,12 @@
     "objectID": "01-introduction/tp1.html#dont-forget-use-the-analyze-tool-for-patents",
     "href": "01-introduction/tp1.html#dont-forget-use-the-analyze-tool-for-patents",
     "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Don’t forget use the analyze tool for Patents",
-    "text": "Don’t forget use the analyze tool for Patents"
+    "section": "Don't forget use the analyze tool for Patents",
+    "text": "Don't forget use the analyze tool for Patents"
   },
   {
-    "objectID": "01-introduction/tp1.html#vosviewer-for-patents-create-from-text-data.",
-    "href": "01-introduction/tp1.html#vosviewer-for-patents-create-from-text-data.",
+    "objectID": "01-introduction/tp1.html#vosviewer-for-patents-create-from-text-data",
+    "href": "01-introduction/tp1.html#vosviewer-for-patents-create-from-text-data",
     "title": "TD1 : Research Landscape via Vosviewer",
     "section": "VOSviewer for Patents: Create from text data.",
     "text": "VOSviewer for Patents: Create from text data."
@@ -599,448 +1040,49 @@
     "href": "01-introduction/tp1.html#vosviewer-for-patents-8",
     "title": "TD1 : Research Landscape via Vosviewer",
     "section": "VOSviewer for Patents",
-    "text": "VOSviewer for Patents\n\n\n\n\nTD1: Scientific Landscape\n\n\n\n\n\n\n \n\n\nTD1"
+    "text": "VOSviewer for Patents\n\n:::{#quarto-meta-markdown .hidden} [CI12 - TD1 : Research Landscape via Vosviewer]{.hidden render-id=\"quarto-metatitle\"} [CI12 - TD1 : Research Landscape via Vosviewer]{.hidden render-id=\"quarto-twittercardtitle\"} [CI12 - TD1 : Research Landscape via Vosviewer]{.hidden render-id=\"quarto-ogcardtitle\"} [CI12]{.hidden render-id=\"quarto-metasitename\"} [TD1]{.hidden render-id=\"quarto-twittercarddesc\"} [TD1]{.hidden render-id=\"quarto-ogcardddesc\"} :::\n::: {.quarto-auto-generated-content}\n\n\n::: {.footer .footer-default} TD1: Scientific Landscape :::\n:::\n\n\n\n\n\n \n\n\nTD1"
   },
   {
-    "objectID": "01-introduction/slides.html#evaluation-of-the-module",
-    "href": "01-introduction/slides.html#evaluation-of-the-module",
-    "title": "What is Scientific Research?",
-    "section": "Evaluation of the Module",
-    "text": "Evaluation of the Module\n\n\n\nA final output will be putted on ARCHE.\nArticle of State of the Art about your Internship (7 pages).\n\nTitle\nAbstract\nRésumé en anglais\nRésumé en français\nSynthèse (7 pages)\nReferences"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research, Innovation & Development",
+    "section": "",
+    "text": "The list of presentations"
   },
   {
-    "objectID": "01-introduction/slides.html#thanks",
-    "href": "01-introduction/slides.html#thanks",
-    "title": "What is Scientific Research?",
-    "section": "Thanks",
-    "text": "Thanks\n\n\n\nIntroduction to Scientific Research"
+    "objectID": "index.html#what-is-scientific-research",
+    "href": "index.html#what-is-scientific-research",
+    "title": "Research, Innovation & Development",
+    "section": "What is scientific research?",
+    "text": "What is scientific research?"
   },
   {
-    "objectID": "01-introduction/tp1.html#the-exercises",
-    "href": "01-introduction/tp1.html#the-exercises",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "The Exercises",
-    "text": "The Exercises\n\n\n\n\n\nStep 1: Define the research questions\n\n\n\n\n\n\nStep 2: Define research equation to use in WoS\n\n\n\n\n\n\nStep 3: Visualize & Analize Scientific and Patent databases"
+    "objectID": "index.html#scientific-landscape",
+    "href": "index.html#scientific-landscape",
+    "title": "Research, Innovation & Development",
+    "section": "Scientific Landscape",
+    "text": "Scientific Landscape"
   },
   {
-    "objectID": "01-introduction/tp1.html#step-1-research-conceptualization",
-    "href": "01-introduction/tp1.html#step-1-research-conceptualization",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Step 1: Research conceptualization",
-    "text": "Step 1: Research conceptualization\n\n\n\n\n\nGoal Step 2a : Define the research questions\n\n\n\n\n\n\n−+\n45:00"
+    "objectID": "index.html#what-is-a-literature-review",
+    "href": "index.html#what-is-a-literature-review",
+    "title": "Research, Innovation & Development",
+    "section": "What is a Literature Review",
+    "text": "What is a Literature Review"
   },
   {
-    "objectID": "01-introduction/tp1.html#step-2-patent-screening-and-analysis",
-    "href": "01-introduction/tp1.html#step-2-patent-screening-and-analysis",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Step 2: Patent screening and analysis",
-    "text": "Step 2: Patent screening and analysis\n\n\n\n\n\nGoal Step 2a : Define the research questions\n\n\n\n\n\n\n−+\n45:00"
+    "objectID": "index.html#reading-scientific-literature",
+    "href": "index.html#reading-scientific-literature",
+    "title": "Research, Innovation & Development",
+    "section": "Reading Scientific literature",
+    "text": "Reading Scientific literature"
   },
   {
-    "objectID": "01-introduction/tp1.html#step-3-comparing-the-scientific-and-the-patent-domains",
-    "href": "01-introduction/tp1.html#step-3-comparing-the-scientific-and-the-patent-domains",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Step 3: Comparing the scientific and the Patent domains",
-    "text": "Step 3: Comparing the scientific and the Patent domains\n\n\n\n\n\nGoal Step 2c : Comparing the scientific and the Patent domains\n\n\n\n\n\n\n−+\n45:00"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#step-2-scientific-screening",
-    "href": "01-introduction/tp1.html#step-2-scientific-screening",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Step 2: Scientific screening",
-    "text": "Step 2: Scientific screening\n\n\n\n\n\nGoal Step 2a : Define the research questions\n\n\n\n\n\n\n−+\n45:00"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#list-of-tutorials",
-    "href": "01-introduction/tp1.html#list-of-tutorials",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "List of tutorials",
-    "text": "List of tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#wos-database-connect-to-the-ul-ent",
-    "href": "01-introduction/tp1.html#wos-database-connect-to-the-ul-ent",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "WoS database → Connect to the UL ENT",
-    "text": "WoS database → Connect to the UL ENT\nUse your UL account to access to the databases\n\nhttps://ent.univ-lorraine.fr/#BU -&gt; BU Ingénieurs Brabois"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#wos-database-access-to-the-ressources-en-ligne",
-    "href": "01-introduction/tp1.html#wos-database-access-to-the-ressources-en-ligne",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "WoS database → Access to the ‘Ressources en Ligne’",
-    "text": "WoS database → Access to the ‘Ressources en Ligne’\n\nResource online of the UL"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#wos-database-ul-web-of-science",
-    "href": "01-introduction/tp1.html#wos-database-ul-web-of-science",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "WoS database → UL Web of Science",
-    "text": "WoS database → UL Web of Science\n\nLook for the ‘Web of Science’ database"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#tutorials-1",
-    "href": "01-introduction/tp1.html#tutorials-1",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Tutorials",
-    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#simple-research-mode",
-    "href": "01-introduction/tp1.html#simple-research-mode",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Simple research mode",
-    "text": "Simple research mode"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#web-of-science-go-for-a-advance-research",
-    "href": "01-introduction/tp1.html#web-of-science-go-for-a-advance-research",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Web of Science: Go for a Advance research",
-    "text": "Web of Science: Go for a Advance research"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#web-of-science-add-you-search-query",
-    "href": "01-introduction/tp1.html#web-of-science-add-you-search-query",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Web of Science: Add you search query",
-    "text": "Web of Science: Add you search query\nRemember the: Topic + Subject + Problem"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#web-of-science-advance-search",
-    "href": "01-introduction/tp1.html#web-of-science-advance-search",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Web of Science: Advance search",
-    "text": "Web of Science: Advance search\nBut, take a look of the other type of searches"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#web-of-science-put-the-search-equation",
-    "href": "01-introduction/tp1.html#web-of-science-put-the-search-equation",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Web of Science: put the Search Equation",
-    "text": "Web of Science: put the Search Equation"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#tutorials-2",
-    "href": "01-introduction/tp1.html#tutorials-2",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Tutorials",
-    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#analyze-the-results",
-    "href": "01-introduction/tp1.html#analyze-the-results",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Analyze the Results",
-    "text": "Analyze the Results"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#analyze-the-categories",
-    "href": "01-introduction/tp1.html#analyze-the-categories",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Analyze the Categories",
-    "text": "Analyze the Categories"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#analyze-the-authors",
-    "href": "01-introduction/tp1.html#analyze-the-authors",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Analyze the Authors",
-    "text": "Analyze the Authors"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#analyze-the-funding-agencies",
-    "href": "01-introduction/tp1.html#analyze-the-funding-agencies",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Analyze the Funding Agencies",
-    "text": "Analyze the Funding Agencies"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#analyze-the-countries",
-    "href": "01-introduction/tp1.html#analyze-the-countries",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Analyze the Countries",
-    "text": "Analyze the Countries"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#tutorials-3",
-    "href": "01-introduction/tp1.html#tutorials-3",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Tutorials",
-    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#tutorials-4",
-    "href": "01-introduction/tp1.html#tutorials-4",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Tutorials",
-    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
-  },
-  {
-    "objectID": "01-introduction/tp1.html#sci-vos",
-    "href": "01-introduction/tp1.html#sci-vos",
-    "title": "TD1 : Research Landscape via Vosviewer",
-    "section": "Scientific Network visualization",
-    "text": "Scientific Network visualization\n\nDownload Vosviewer at https://www.vosviewer.com/"
-  },
-  {
-    "objectID": "01-introduction/slides.html#inductive-vs-deductive-research",
-    "href": "01-introduction/slides.html#inductive-vs-deductive-research",
-    "title": "What is Scientific Research?",
-    "section": "Inductive vs Deductive Research ?",
-    "text": "Inductive vs Deductive Research ?"
-  },
-  {
-    "objectID": "01-introduction/slides.html#research-design",
-    "href": "01-introduction/slides.html#research-design",
-    "title": "What is Scientific Research?",
-    "section": "Research design",
-    "text": "Research design\n\n\nSource: Sreejesh, S., Mohapatra, S., & Anusree, M. R. (2013). Business Research Design: Exploratory, Descriptive and Causal Designs. Business Research Methods"
-  },
-  {
-    "objectID": "01-introduction/slides.html#approaches-of-the-research-design",
-    "href": "01-introduction/slides.html#approaches-of-the-research-design",
-    "title": "What is Scientific Research?",
-    "section": "Approaches of the  Research design",
-    "text": "Approaches of the  Research design\n\n\nCreswell, J. W.: Research Design: Qualitative, Quantitative and Mixed Methods Approaches, 2nd edition, Sage Publications, Inc, California, 246 pp., 2003."
-  },
-  {
-    "objectID": "01-introduction/slides.html#limits-of-the-research-design",
-    "href": "01-introduction/slides.html#limits-of-the-research-design",
-    "title": "What is Scientific Research?",
-    "section": "Limits of the Research design",
-    "text": "Limits of the Research design\n\nclass: middle, left\nbackground-position: 100% 5% background-size: 60%"
-  },
-  {
-    "objectID": "01-introduction/slides.html#the-research-onion",
-    "href": "01-introduction/slides.html#the-research-onion",
-    "title": "What is Scientific Research?",
-    "section": "The Research Onion",
-    "text": "The Research Onion\n\n\n\nThe main challengue in Research  is connect all the ‘coherent’ dots in this figure to create a path !!!"
-  },
-  {
-    "objectID": "01-introduction/slides.html#quantitative-vs-qualitative",
-    "href": "01-introduction/slides.html#quantitative-vs-qualitative",
-    "title": "What is Scientific Research?",
-    "section": "Quantitative vs Qualitative",
-    "text": "Quantitative vs Qualitative\n\nBig data Vs Thick data"
-  },
-  {
-    "objectID": "01-introduction/slides.html#in-summary",
-    "href": "01-introduction/slides.html#in-summary",
-    "title": "What is Scientific Research?",
-    "section": "In summary",
-    "text": "In summary\nThe Art of Design Research"
-  },
-  {
-    "objectID": "01-introduction/slides.html#why-a-company-would-bother-literature-review",
-    "href": "01-introduction/slides.html#why-a-company-would-bother-literature-review",
-    "title": "What is Scientific Research?",
-    "section": "Why a company would bother literature review ?",
-    "text": "Why a company would bother literature review ?"
-  },
-  {
-    "objectID": "01-introduction/slides.html#technology-readiness-maturity",
-    "href": "01-introduction/slides.html#technology-readiness-maturity",
-    "title": "What is Scientific Research?",
-    "section": "Technology Readiness → Maturity",
-    "text": "Technology Readiness → Maturity\nThe industrial emergence mapping framework.\n\n\n\n\n\n\n\nPhaal, R., O’Sullivan, E., Routley, M., Ford, S., Probert, D., 2011. A framework for mapping industrial emergence. Technological Forecasting and Social Change 78, 217–230. https://doi.org/10.1016/j.techfore.2010.06.018"
-  },
-  {
-    "objectID": "01-introduction/slides.html#on-the-case-of-entreprise",
-    "href": "01-introduction/slides.html#on-the-case-of-entreprise",
-    "title": "What is Scientific Research?",
-    "section": "On the case of Entreprise",
-    "text": "On the case of Entreprise"
-  },
-  {
-    "objectID": "01-introduction/slides.html#technology-readiness-levels",
-    "href": "01-introduction/slides.html#technology-readiness-levels",
-    "title": "What is Scientific Research?",
-    "section": "Technology Readiness → Levels",
-    "text": "Technology Readiness → Levels\nFramework developed in the Aeronautical field.\n\nTechnology Readiness Levels (TRL)"
-  },
-  {
-    "objectID": "01-introduction/slides.html#technology-readiness-the-valley-of-death",
-    "href": "01-introduction/slides.html#technology-readiness-the-valley-of-death",
-    "title": "What is Scientific Research?",
-    "section": "Technology Readiness → The Valley of Death",
-    "text": "Technology Readiness → The Valley of Death\n\n\n\n\n\n\n\nSource: Hensen, J., Loonen, R., Archontiki, M., Kanellis, M., 2015. Using building simulation for moving innovations across the “Valley of Death.” REHVA Journal 52, 58–62."
-  },
-  {
-    "objectID": "01-introduction/slides.html#technology-readiness-challenges-trl4---trl7",
-    "href": "01-introduction/slides.html#technology-readiness-challenges-trl4---trl7",
-    "title": "What is Scientific Research?",
-    "section": "Technology Readiness → Challenges TRL4 - TRL7",
-    "text": "Technology Readiness → Challenges TRL4 - TRL7\n\n\n\n\n\n\n\nSource: Hensen, J., Loonen, R., Archontiki, M., Kanellis, M., 2015. Using building simulation for moving innovations across the “Valley of Death.” REHVA Journal 52, 58–62."
-  },
-  {
-    "objectID": "01-introduction/slides.html#technology-readiness-challenges-trl4---trl7-1",
-    "href": "01-introduction/slides.html#technology-readiness-challenges-trl4---trl7-1",
-    "title": "What is Scientific Research?",
-    "section": "Technology Readiness → Challenges TRL4 - TRL7",
-    "text": "Technology Readiness → Challenges TRL4 - TRL7\n\nThere is a lack of tools that can provide insights into technology-integration issues at an early R&D phase (TRL 1-5).\nThis results in a mismatch between information need and availability and complicates decision-making.\nThe process requires an interdisciplinary approach. The right combination of skills and expertise may not always be available"
-  },
-  {
-    "objectID": "01-introduction/slides.html#technology-readiness-evolution",
-    "href": "01-introduction/slides.html#technology-readiness-evolution",
-    "title": "What is Scientific Research?",
-    "section": "Technology Readiness → Evolution",
-    "text": "Technology Readiness → Evolution"
-  },
-  {
-    "objectID": "01-introduction/slides.html#web-of-science-scientific-patent-databases",
-    "href": "01-introduction/slides.html#web-of-science-scientific-patent-databases",
-    "title": "What is Scientific Research?",
-    "section": "Web of science → Scientific & Patent databases",
-    "text": "Web of science → Scientific & Patent databases\n\n\n\n\n\n\n\n\n\n\nCore Collections\n\n\n\n\n\n\nDerwent Innovations Index"
-  },
-  {
-    "objectID": "01-introduction/slides.html#what-interest-of-literature-review-for-a-company",
-    "href": "01-introduction/slides.html#what-interest-of-literature-review-for-a-company",
-    "title": "What is Scientific Research?",
-    "section": "What interest of literature review for a company?",
-    "text": "What interest of literature review for a company?"
-  },
-  {
-    "objectID": "01-introduction/slides.html#the-exercises",
-    "href": "01-introduction/slides.html#the-exercises",
-    "title": "What is Scientific Research?",
-    "section": "The Exercises",
-    "text": "The Exercises\n\n\n\n\n\nStep 1: Define the research questions\n\n\n\n\n\n\nStep 2: Define research equation to use in WoS\n\n\n\n\n\n\nStep 3: Visualize & Analize Scientific and Patent databases\n\n\n\n\n📃 Download the Document"
-  },
-  {
-    "objectID": "01-introduction/slides.html#bibliometric-mapping-vosviewer",
-    "href": "01-introduction/slides.html#bibliometric-mapping-vosviewer",
-    "title": "What is Scientific Research?",
-    "section": "Bibliometric mapping: Vosviewer",
-    "text": "Bibliometric mapping: Vosviewer\n\n\n\n\n\nDownload at https://www.vosviewer.com/\n\n\nvan Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. https://doi.org/10.1007/s11192-009-0146-3"
-  },
-  {
-    "objectID": "01-introduction/slides.html#mental-model-of-the-research-process",
-    "href": "01-introduction/slides.html#mental-model-of-the-research-process",
-    "title": "What is Scientific Research?",
-    "section": "Mental model of the research process",
-    "text": "Mental model of the research process\n\nResearch conceptualization"
-  },
-  {
-    "objectID": "01-introduction/slides.html#what-the-difference-these-two-googles",
-    "href": "01-introduction/slides.html#what-the-difference-these-two-googles",
-    "title": "What is Scientific Research?",
-    "section": "What the difference these two googles?",
-    "text": "What the difference these two googles?"
-  },
-  {
-    "objectID": "01-introduction/slides.html#peer-reviewing-process",
-    "href": "01-introduction/slides.html#peer-reviewing-process",
-    "title": "What is Scientific Research?",
-    "section": "Peer Reviewing process",
-    "text": "Peer Reviewing process"
-  },
-  {
-    "objectID": "01-introduction/slides.html#literature-review",
-    "href": "01-introduction/slides.html#literature-review",
-    "title": "What is Scientific Research?",
-    "section": "Literature review",
-    "text": "Literature review\nStanding on the shoulders of giants\n\nScientific databases\nResearch papers\nBooks\nInstitutional reports -&gt; WHO, EU…\nSocieties\n\nconferences proceedings (IEEE, IAMOT, IFAC…)\n\nInstitutional repositories -&gt; dissertations\nIP registrars -&gt; Patents"
-  },
-  {
-    "objectID": "02-literature/index.html#learning-objectives-of-this-workshop-course",
-    "href": "02-literature/index.html#learning-objectives-of-this-workshop-course",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Learning objectives of this Workshop course",
-    "text": "Learning objectives of this Workshop course\n\nKnow the How to read and scientific article? (and trying not to die)\nKnow-how look for scientific databases\nMake a visualization of scientific landscapes"
-  },
-  {
-    "objectID": "02-literature/index.html#what-the-difference-these-two-googles",
-    "href": "02-literature/index.html#what-the-difference-these-two-googles",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "What the difference these two googles?",
-    "text": "What the difference these two googles?"
-  },
-  {
-    "objectID": "02-literature/index.html#peer-reviewing-process",
-    "href": "02-literature/index.html#peer-reviewing-process",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Peer Reviewing process",
-    "text": "Peer Reviewing process"
-  },
-  {
-    "objectID": "02-literature/index.html#literature-review",
-    "href": "02-literature/index.html#literature-review",
-    "title": "Act II: Literature review",
-    "section": "Literature review",
-    "text": "Literature review\n\nSteps for a Literature Review"
-  },
-  {
-    "objectID": "02-literature/index.html#why-a-company-would-bother-literature-review",
-    "href": "02-literature/index.html#why-a-company-would-bother-literature-review",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Why a company would bother literature review ?",
-    "text": "Why a company would bother literature review ?"
-  },
-  {
-    "objectID": "02-literature/index.html#technology-readiness-maturity",
-    "href": "02-literature/index.html#technology-readiness-maturity",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Technology Readiness → Maturity",
-    "text": "Technology Readiness → Maturity\nThe industrial emergence mapping framework.\n\n\n\n\n\n\n\nPhaal, R., O’Sullivan, E., Routley, M., Ford, S., Probert, D., 2011. A framework for mapping industrial emergence. Technological Forecasting and Social Change 78, 217–230. https://doi.org/10.1016/j.techfore.2010.06.018"
-  },
-  {
-    "objectID": "02-literature/index.html#on-the-case-of-entreprise",
-    "href": "02-literature/index.html#on-the-case-of-entreprise",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "On the case of Entreprise",
-    "text": "On the case of Entreprise"
-  },
-  {
-    "objectID": "02-literature/index.html#technology-readiness-levels",
-    "href": "02-literature/index.html#technology-readiness-levels",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Technology Readiness → Levels",
-    "text": "Technology Readiness → Levels\nFramework developed in the Aeronautical field.\n\nTechnology Readiness Levels (TRL)"
-  },
-  {
-    "objectID": "02-literature/index.html#technology-readiness-the-valley-of-death",
-    "href": "02-literature/index.html#technology-readiness-the-valley-of-death",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Technology Readiness → The Valley of Death",
-    "text": "Technology Readiness → The Valley of Death\n\n\n\n\n\n\n\nSource: Hensen, J., Loonen, R., Archontiki, M., Kanellis, M., 2015. Using building simulation for moving innovations across the “Valley of Death.” REHVA Journal 52, 58–62."
-  },
-  {
-    "objectID": "02-literature/index.html#technology-readiness-challenges-trl4---trl7",
-    "href": "02-literature/index.html#technology-readiness-challenges-trl4---trl7",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Technology Readiness → Challenges TRL4 - TRL7",
-    "text": "Technology Readiness → Challenges TRL4 - TRL7\n\n\n\n\n\n\n\nSource: Hensen, J., Loonen, R., Archontiki, M., Kanellis, M., 2015. Using building simulation for moving innovations across the “Valley of Death.” REHVA Journal 52, 58–62."
-  },
-  {
-    "objectID": "02-literature/index.html#technology-readiness-challenges-trl4---trl7-1",
-    "href": "02-literature/index.html#technology-readiness-challenges-trl4---trl7-1",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Technology Readiness → Challenges TRL4 - TRL7",
-    "text": "Technology Readiness → Challenges TRL4 - TRL7\n\nThere is a lack of tools that can provide insights into technology-integration issues at an early R&D phase (TRL 1-5).\nThis results in a mismatch between information need and availability and complicates decision-making.\nThe process requires an interdisciplinary approach. The right combination of skills and expertise may not always be available"
-  },
-  {
-    "objectID": "02-literature/index.html#technology-readiness-evolution",
-    "href": "02-literature/index.html#technology-readiness-evolution",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Technology Readiness → Evolution",
-    "text": "Technology Readiness → Evolution"
-  },
-  {
-    "objectID": "02-literature/index.html#web-of-science-scientific-patent-databases",
-    "href": "02-literature/index.html#web-of-science-scientific-patent-databases",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Web of science → Scientific & Patent databases",
-    "text": "Web of science → Scientific & Patent databases\n\n\n\n\n\n\n\n\n\n\nCore Collections\n\n\n\n\n\n\nDerwent Innovations Index"
-  },
-  {
-    "objectID": "02-literature/index.html#so..",
-    "href": "02-literature/index.html#so..",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "So..",
-    "text": "So.."
+    "objectID": "05-test/index.html#tesxt",
+    "href": "05-test/index.html#tesxt",
+    "title": "Untitled",
+    "section": "Tesxt",
+    "text": "Tesxt"
   },
   {
     "objectID": "02-literature/index.html#how-to-do-a-literature-review",
@@ -1050,67 +1092,18 @@
     "text": "How to do a Literature Review?"
   },
   {
-    "objectID": "02-literature/index.html#literature-review-1",
-    "href": "02-literature/index.html#literature-review-1",
-    "title": "Literature review: on the shoulders of giants",
-    "section": "Literature review",
-    "text": "Literature review\n\nSteps for a Literature Review"
-  },
-  {
-    "objectID": "02-literature/index.html#literature-review-the-context",
-    "href": "02-literature/index.html#literature-review-the-context",
-    "title": "Act II: Literature review",
-    "section": "Literature review: The Context",
-    "text": "Literature review: The Context\n\nTake the time to planning because it has the major impact at the end."
-  },
-  {
-    "objectID": "02-literature/index.html#literature-review-planning",
-    "href": "02-literature/index.html#literature-review-planning",
-    "title": "Act II: Literature review",
-    "section": "Literature review: Planning",
-    "text": "Literature review: Planning\n\nGoal: Identification of material recycling approaches in the Additive Manufacturing contexts (commercial and open-source)"
-  },
-  {
-    "objectID": "02-literature/index.html#literature-review-planning-1",
-    "href": "02-literature/index.html#literature-review-planning-1",
-    "title": "Act II: Literature review",
-    "section": "Literature review: Planning",
-    "text": "Literature review: Planning\n\nSubjet + Verb + Complement → Topic + Context + Problem"
-  },
-  {
-    "objectID": "02-literature/index.html#literature-review-planning-2",
-    "href": "02-literature/index.html#literature-review-planning-2",
-    "title": "Act II: Literature review",
-    "section": "Literature review: Planning",
-    "text": "Literature review: Planning"
-  },
-  {
-    "objectID": "02-literature/index.html#literature-review-planning-3",
-    "href": "02-literature/index.html#literature-review-planning-3",
-    "title": "Act II: Literature review",
-    "section": "Literature review: Planning",
-    "text": "Literature review: Planning\n\nGrid lecture"
-  },
-  {
-    "objectID": "02-literature/index.html#literature-review-conducting",
-    "href": "02-literature/index.html#literature-review-conducting",
-    "title": "Act II: Literature review",
-    "section": "Literature review: Conducting",
-    "text": "Literature review: Conducting"
-  },
-  {
-    "objectID": "02-literature/index.html#literature-review-reporting",
-    "href": "02-literature/index.html#literature-review-reporting",
-    "title": "Act II: Literature review",
-    "section": "Literature review: Reporting",
-    "text": "Literature review: Reporting"
-  },
-  {
     "objectID": "02-literature/index.html#structure-of-literature",
     "href": "02-literature/index.html#structure-of-literature",
     "title": "Act II: Literature review",
     "section": "Structure of Literature",
     "text": "Structure of Literature\n\nTitle\nAbstract\nIntroduction\nLiterature review\nMethodology\nResults\nDiscussion\nConclusion\nReferences\n\nExample 1:\nhttps://doi.org/10.1016/j.jclepro.2020.121602"
+  },
+  {
+    "objectID": "02-literature/index.html#a-useful-ressource",
+    "href": "02-literature/index.html#a-useful-ressource",
+    "title": "Act II: Literature review",
+    "section": "A Useful ressource",
+    "text": "A Useful ressource\n\n\n\nSiddaway, A.P., Wood, A.M., Hedges, L.V., 2019. How to Do a Systematic Review: A Best Practice Guide for Conducting and Reporting Narrative Reviews, Meta-Analyses, and Meta-Syntheses. Annual Review of Psychology 70, 747–770. https://doi.org/10.1146/annurev-psych-010418-102803"
   },
   {
     "objectID": "02-literature/index.html#literature-review-ethics",
@@ -1127,39 +1120,11 @@
     "text": "Questions"
   },
   {
-    "objectID": "02-literature/index.html#research-process",
-    "href": "02-literature/index.html#research-process",
-    "title": "Act II: Literature review",
-    "section": "Research process",
-    "text": "Research process"
-  },
-  {
     "objectID": "02-literature/index.html#reading-an-article---part-i",
     "href": "02-literature/index.html#reading-an-article---part-i",
     "title": "Act II: Literature review",
     "section": "Reading an Article - Part I",
     "text": "Reading an Article - Part I"
-  },
-  {
-    "objectID": "02-literature/index.html#learning-objectives-of-today",
-    "href": "02-literature/index.html#learning-objectives-of-today",
-    "title": "Act II: Literature review",
-    "section": "Learning objectives of today",
-    "text": "Learning objectives of today\n\n🧠 Knowledge :\n\nSensibilization on what a scientific research paper is.\n\n🔨 Know-how :\n\nSearch on pertinent scientific databases\nHow to start to read scientific article\nCrical thinking of research papers\nVisualization of literature review features.\n\n✍Competence :\n\nBe able to structure a literature review."
-  },
-  {
-    "objectID": "02-literature/index.html#mental-model-for-the-research-development",
-    "href": "02-literature/index.html#mental-model-for-the-research-development",
-    "title": "Act II: Literature review",
-    "section": "Mental model for the research development?",
-    "text": "Mental model for the research development?"
-  },
-  {
-    "objectID": "02-literature/index.html#the-research-process",
-    "href": "02-literature/index.html#the-research-process",
-    "title": "Act II: Literature review",
-    "section": "The research process",
-    "text": "The research process"
   },
   {
     "objectID": "02-literature/index.html#what-is-a-research-paper",
@@ -1174,20 +1139,6 @@
     "title": "Act II: Literature review",
     "section": "What is a Research Paper?",
     "text": "What is a Research Paper?\nTip 2: Méthode AIC\n\nTitle ✅\n🔎 Abstract\n🔎 Introduction\nLiterature review\nMethodology\nResults\nDiscussion\n🔎Conclusion\nReferences"
-  },
-  {
-    "objectID": "02-literature/index.html#test",
-    "href": "02-literature/index.html#test",
-    "title": "Act II: Literature review",
-    "section": "test",
-    "text": "test\n\n\ncontent\nx\ncontent\n\n\n\nTitle\n\n\n\n\n\n\nTD: Landscape of Research"
-  },
-  {
-    "objectID": "02-literature/index.html#aic-reading-method",
-    "href": "02-literature/index.html#aic-reading-method",
-    "title": "Act II: Literature review",
-    "section": "AIC Reading method",
-    "text": "AIC Reading method\nFor screening read : Title, Journal, keywords and Abstract\nFor detailed synthesis use AIC:\n\nAbstract → Summary of the paper🔎\nIntroduction → Context of problem and research, gap, summary of what is done\nConclusions → Summary of results and importance of results given the context."
   },
   {
     "objectID": "02-literature/index.html#the-abstract",
@@ -1218,18 +1169,11 @@
     "text": "Exemple 2\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\n\n\n\n\nSource: Marche, et al 2022. Qualitative sustainability assessment of road verge management in France: An approach from causal diagrams to seize the importance of impact pathways. Environmental Impact Assessment Review 97, 106911. https://doi.org/10.1016/j.eiar.2022.106911"
   },
   {
-    "objectID": "02-literature/index.html#mental-model-when-reading-an-abstract",
-    "href": "02-literature/index.html#mental-model-when-reading-an-abstract",
+    "objectID": "02-literature/index.html#exemple-2-1",
+    "href": "02-literature/index.html#exemple-2-1",
     "title": "Act II: Literature review",
-    "section": "Mental model when reading an abstract",
-    "text": "Mental model when reading an abstract\n\nTopic → the writer provides background factual information.\nProblem → The writer presents the gap/problem to treat\nResearch Gap → the writer states the limits of current knowledge.\nThe purpose : the writer presents the general aim and the specific aim of the study.\nMethodology → the writer summarises the methodology and provides details.\nResults → the writer indicates the achievement of the study.\nPerspectives → the writer presents the implications of the study."
-  },
-  {
-    "objectID": "02-literature/index.html#your-turn",
-    "href": "02-literature/index.html#your-turn",
-    "title": "Act II: Literature review",
-    "section": "Your turn !",
-    "text": "Your turn !\n\n\n\n−+\n05:00\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\n\n\n\n\n\nVideo:  https://www.youtube.com/watch?v=GgiK-HWKPjw\n\n\n\n\nSource: Leone, L. The Ratatouille paradox. An inductive study of creativity in haute cuisine. Technovation (2018) https://doi.org/10.1016/j.technovation.2018.11.003]"
+    "section": "Exemple 2",
+    "text": "Exemple 2\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\n\n\n\n\nSource:  Marche, et al. (2022)., Qualitative sustainability assessment of road verge management in France: An approach from causal diagrams to seize the importance of impact pathways. Environmental Impact Assessment Review 97, 106911. https://doi.org/10.1016/j.eiar.2022.106911"
   },
   {
     "objectID": "02-literature/index.html#exemple-3",
@@ -1239,6 +1183,20 @@
     "text": "Exemple 3\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\n\n\n\n\nSource:  Gabriel, et al. (2016), Creativity support systems: A systematic mapping study. Thinking Skills and Creativity 21, 109–122. https://doi.org/10.1016/j.tsc.2016.05.009"
   },
   {
+    "objectID": "02-literature/index.html#exemple-3-1",
+    "href": "02-literature/index.html#exemple-3-1",
+    "title": "Act II: Literature review",
+    "section": "Exemple 3",
+    "text": "Exemple 3\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\n\n\n\n\nSource:  Gabriel, et al. (2016), Creativity support systems: A systematic mapping study. Thinking Skills and Creativity 21, 109–122. https://doi.org/10.1016/j.tsc.2016.05.009"
+  },
+  {
+    "objectID": "02-literature/index.html#your-turn",
+    "href": "02-literature/index.html#your-turn",
+    "title": "Act II: Literature review",
+    "section": "Your turn !",
+    "text": "Your turn !\n\n\n\n−+\n05:00\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\n\n\n\n\n\nVideo:  https://www.youtube.com/watch?v=GgiK-HWKPjw\n\n\n\n\nSource: Leone, L. The Ratatouille paradox. An inductive study of creativity in haute cuisine. Technovation (2018) https://doi.org/10.1016/j.technovation.2018.11.003]"
+  },
+  {
     "objectID": "02-literature/index.html#what-is-a-research-paper-2",
     "href": "02-literature/index.html#what-is-a-research-paper-2",
     "title": "Act II: Literature review",
@@ -1246,60 +1204,39 @@
     "text": "What is a Research Paper?\n\nTitle ✅\nAbstract ✅\nIntroduction\nLiterature review\nMethodology\nResults\nDiscussion\nConclusions ✅\nReferences\n\nMéthode AIC"
   },
   {
-    "objectID": "02-literature/index.html#lets-talk-about",
-    "href": "02-literature/index.html#lets-talk-about",
+    "objectID": "02-literature/index.html#example-of-aic",
+    "href": "02-literature/index.html#example-of-aic",
     "title": "Act II: Literature review",
-    "section": "Let’s talk about",
-    "text": "Let’s talk about"
+    "section": "Example of AIC",
+    "text": "Example of AIC\n\n\n\nHaque, M. U., Dharmadasa, I., Sworna, Z. T., Rajapakse, R. N., & Ahmad, H. (2022). .”I think this is the most disruptive technology”: Exploring Sentiments of ChatGPT Early Adopters using Twitter Data. arXiv preprint arXiv:2212.05856.\nhttps://arxiv.org/abs/2212.05856"
   },
   {
-    "objectID": "02-literature/index.html#chatgpt-on-the-scientific-arena",
-    "href": "02-literature/index.html#chatgpt-on-the-scientific-arena",
+    "objectID": "02-literature/index.html#before-reading..-have-an-lecture-grid-in-mind",
+    "href": "02-literature/index.html#before-reading..-have-an-lecture-grid-in-mind",
     "title": "Act II: Literature review",
-    "section": "ChatGPT on the Scientific arena",
-    "text": "ChatGPT on the Scientific arena\n\nNothing (In December 2022) ! 😬"
+    "section": "Before reading.. have an lecture grid in mind ❗",
+    "text": "Before reading.. have an lecture grid in mind ❗"
   },
   {
-    "objectID": "02-literature/index.html#chatgpt-on-the-scientific-arena-1",
-    "href": "02-literature/index.html#chatgpt-on-the-scientific-arena-1",
+    "objectID": "02-literature/index.html#abstract",
+    "href": "02-literature/index.html#abstract",
     "title": "Act II: Literature review",
-    "section": "ChatGPT on the Scientific arena",
-    "text": "ChatGPT on the Scientific arena\n\nOnly 3! 😬 (In december 2022)"
+    "section": "Abstract",
+    "text": "Abstract\nWhat’s the topic?\nWhat’s the problem?\nIs it important?\nWhat’s the  research question?\nWhat is the  purpose ?\nImplications  for future ?"
   },
   {
-    "objectID": "02-literature/index.html#chatgpt-on-the-scientific-arena-2",
-    "href": "02-literature/index.html#chatgpt-on-the-scientific-arena-2",
+    "objectID": "02-literature/index.html#introduction",
+    "href": "02-literature/index.html#introduction",
     "title": "Act II: Literature review",
-    "section": "ChatGPT on the Scientific arena",
-    "text": "ChatGPT on the Scientific arena\n\nIn december 2022"
+    "section": "Introduction",
+    "text": "Introduction\nContext\nFocus on  the Research object\nHypothesis\nPresenting methods"
   },
   {
-    "objectID": "02-literature/index.html#example",
-    "href": "02-literature/index.html#example",
+    "objectID": "02-literature/index.html#conclusions",
+    "href": "02-literature/index.html#conclusions",
     "title": "Act II: Literature review",
-    "section": "Example:",
-    "text": "Example:\n\n\n\nHaque, M. U., Dharmadasa, I., Sworna, Z. T., Rajapakse, R. N., & Ahmad, H. (2022). .”I think this is the most disruptive technology”: Exploring Sentiments of ChatGPT Early Adopters using Twitter Data. arXiv preprint arXiv:2212.05856.\n\n\n \n\n\n\n\n\n\n\n\n\n\n\nhttps://arxiv.org/abs/2212.05856"
-  },
-  {
-    "objectID": "02-literature/index.html#exercise",
-    "href": "02-literature/index.html#exercise",
-    "title": "Act II: Literature review",
-    "section": "Exercise:",
-    "text": "Exercise:\nLire:\n\nAbstract, Introduction et Conclusions de cet article\n\nHaque, M. U., Dharmadasa, I., Sworna, Z. T., Rajapakse, R. N., & Ahmad, H. (2022). .”I think this is the most disruptive technology”: Exploring Sentiments of ChatGPT Early Adopters using Twitter Data. arXiv preprint arXiv:2212.05856.\nhttps://arxiv.org/abs/2212.05856\n\nAbstract\nWhat’s the topic?\nWhat’s the problem?\nIs it important?\nWhat’s the research question?\nWhat is the  purpose ?\nImplications  for future ?\nIntroduction\nContext\nFocus on  the Research object\nHypothesis\nPresenting methods\nConclusions\n\nRecall the Purpose\nSummarise Results\nPerspectives"
-  },
-  {
-    "objectID": "02-literature/index.html#reading-technique",
-    "href": "02-literature/index.html#reading-technique",
-    "title": "Act II: Literature review",
-    "section": "Reading technique",
-    "text": "Reading technique\n\n[1min] [Screening] → Title, Journal, keywords\n[5min] [Profiling] → Screening + Abstract\n\n–\n\n[20min] Focusing → [Profiling] + Introduction + Conclusions\n\n–\n\n[1hr] In deep → Focusing + All other sections\n\n–\n\n[2-3 hr] For research → In deep + Reading Grid + References"
-  },
-  {
-    "objectID": "02-literature/index.html#the-scientific-history",
-    "href": "02-literature/index.html#the-scientific-history",
-    "title": "Act II: Literature review",
-    "section": "The scientific history",
-    "text": "The scientific history\n\n\n\nSource: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022)."
+    "section": "Conclusions",
+    "text": "Conclusions\n\nRecall the Purpose\nSummarise Results\nPerspectives"
   },
   {
     "objectID": "02-literature/index.html#abstract-1",
@@ -1337,262 +1274,10 @@
     "text": "Discussion & Conclusions"
   },
   {
-    "objectID": "02-literature/index.html#the-scientific-history-1",
-    "href": "02-literature/index.html#the-scientific-history-1",
-    "title": "Act II: Literature review",
-    "section": "The scientific history",
-    "text": "The scientific history\n\n\n\nSource: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022)."
-  },
-  {
-    "objectID": "02-literature/index.html#some-web-ressources-for-writing",
-    "href": "02-literature/index.html#some-web-ressources-for-writing",
-    "title": "Act II: Literature review",
-    "section": "Some web ressources for writing",
-    "text": "Some web ressources for writing\n\nEssay and dissertation writing skills\nGuide pratique\nRédiger un article scientifique par David Lindsay, Pascal Poindron\nWriting a scientific article: A step-by-step guide for beginners\nTen simple rules for structuring papers\nWriting for Impact: How to Prepare a Journal Article\nWriting the Research Paper: a Handbook\n\n\n\n\nTD: Landscape of Research"
-  },
-  {
-    "objectID": "02-literature/index.html#before-reading..-have-an-lecture-grid-in-mind",
-    "href": "02-literature/index.html#before-reading..-have-an-lecture-grid-in-mind",
-    "title": "Act II: Literature review",
-    "section": "Before reading.. have an lecture grid in mind ❗",
-    "text": "Before reading.. have an lecture grid in mind ❗"
-  },
-  {
-    "objectID": "02-literature/index.html#as-example-of-reading-the-paper",
-    "href": "02-literature/index.html#as-example-of-reading-the-paper",
-    "title": "Act II: Literature review",
-    "section": "As example of Reading the Paper",
-    "text": "As example of Reading the Paper\nHaque, M. U., Dharmadasa, I., Sworna, Z. T., Rajapakse, R. N., & Ahmad, H. (2022). .”I think this is the most disruptive technology”: Exploring Sentiments of ChatGPT Early Adopters using Twitter Data. arXiv preprint arXiv:2212.05856.\nhttps://arxiv.org/abs/2212.05856"
-  },
-  {
-    "objectID": "02-literature/index.html#abstract",
-    "href": "02-literature/index.html#abstract",
-    "title": "Act II: Literature review",
-    "section": "Abstract",
-    "text": "Abstract\nWhat’s the topic?\nWhat’s the problem?\nIs it important?\nWhat’s the  research question?\nWhat is the  purpose ?\nImplications  for future ?"
-  },
-  {
-    "objectID": "02-literature/index.html#introduction",
-    "href": "02-literature/index.html#introduction",
-    "title": "Act II: Literature review",
-    "section": "Introduction",
-    "text": "Introduction\nContext\nFocus on  the Research object\nHypothesis\nPresenting methods"
-  },
-  {
-    "objectID": "02-literature/index.html#conclusions",
-    "href": "02-literature/index.html#conclusions",
-    "title": "Act II: Literature review",
-    "section": "Conclusions",
-    "text": "Conclusions\n\nRecall the Purpose\nSummarise Results\nPerspectives"
-  },
-  {
-    "objectID": "02-literature/index.html#example-of-aic",
-    "href": "02-literature/index.html#example-of-aic",
-    "title": "Act II: Literature review",
-    "section": "Example of AIC",
-    "text": "Example of AIC\n\n\n\nHaque, M. U., Dharmadasa, I., Sworna, Z. T., Rajapakse, R. N., & Ahmad, H. (2022). .”I think this is the most disruptive technology”: Exploring Sentiments of ChatGPT Early Adopters using Twitter Data. arXiv preprint arXiv:2212.05856.\nhttps://arxiv.org/abs/2212.05856"
-  },
-  {
-    "objectID": "02-literature/index.html#the-scientific-history-2",
-    "href": "02-literature/index.html#the-scientific-history-2",
-    "title": "Act II: Literature review",
-    "section": "The scientific history",
-    "text": "The scientific history\n\n\n\nSource: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022)."
-  },
-  {
-    "objectID": "02-literature/tp2.html#the-exercises",
-    "href": "02-literature/tp2.html#the-exercises",
-    "title": "TD2 : Literature review",
-    "section": "The Exercises",
-    "text": "The Exercises\n\n\nWoS + Bibliometrix\n✅ Select at least 5 important papers\n\n\n\n\n\n\n\n\n\n\n\nAbstract\n✅ Analyse 3 paper’s abstract\n\n\n\n\n\n\nArticle\n✅ 1 full paper analysis"
-  },
-  {
-    "objectID": "02-literature/tp2.html#bibliometrix-sofware-literature-review",
-    "href": "02-literature/tp2.html#bibliometrix-sofware-literature-review",
-    "title": "TD2 : Bibliometrix",
-    "section": "Bibliometrix sofware: Literature Review",
-    "text": "Bibliometrix sofware: Literature Review\n🔗 Connectez-vous at https://posit.cloud/content/7229125"
-  },
-  {
-    "objectID": "02-literature/tp2.html#step-1-bibliometrix-anlaysis",
-    "href": "02-literature/tp2.html#step-1-bibliometrix-anlaysis",
-    "title": "TD2 : Bibliometrix",
-    "section": "Step 1: Bibliometrix Anlaysis",
-    "text": "Step 1: Bibliometrix Anlaysis\n\n\n\n\n\n\n\n−+\n45:00"
-  },
-  {
-    "objectID": "02-literature/tp2.html#step-2-abstract-analysis",
-    "href": "02-literature/tp2.html#step-2-abstract-analysis",
-    "title": "TD2 : Bibliometrix",
-    "section": "Step 2: Abstract Analysis",
-    "text": "Step 2: Abstract Analysis\n\n\n\n\n\n\n\n−+\n45:00"
-  },
-  {
-    "objectID": "02-literature/tp2.html#step-3-article-analysis",
-    "href": "02-literature/tp2.html#step-3-article-analysis",
-    "title": "TD2 : Bibliometrix",
-    "section": "Step 3: Article Analysis",
-    "text": "Step 3: Article Analysis\n\n\n\n\n\n\n\n−+\n45:00"
-  },
-  {
-    "objectID": "02-literature/tp2.html#list-of-tutorials",
-    "href": "02-literature/tp2.html#list-of-tutorials",
-    "title": "TD2 : Literature review",
-    "section": "List of tutorials",
-    "text": "List of tutorials\n\nBibliographic Management\nAccess to WOS\nUse of Bibliometrix\nDownload Articles"
-  },
-  {
-    "objectID": "02-literature/tp2.html#access",
-    "href": "02-literature/tp2.html#access",
-    "title": "TD2 : Bibliometrix",
-    "section": "Access to WoS database",
-    "text": "Access to WoS database\n\n\n\nTD1: Scientific Landscape\n\n\n\n\n\n\n \n\n\nLiterature Review"
-  },
-  {
-    "objectID": "02-literature/tp2.html#tutorials",
-    "href": "02-literature/tp2.html#tutorials",
-    "title": "TD2 : Bibliometrix",
-    "section": "List of tutorials",
-    "text": "List of tutorials\n\nBibliographic Management\nAccess to WOS\nUse of Bibliometrix\nDoawnload Articles"
-  },
-  {
-    "objectID": "02-literature/tp2.html#wos",
-    "href": "02-literature/tp2.html#wos",
-    "title": "TD2 : Bibliometrix",
-    "section": "WoS database:",
-    "text": "WoS database:\nDownload documents in format .bib\n\n\n\n\nTD1: Scientific Landscape\n\n\n\n\n\n\n \n\n\nLiterature Review"
-  },
-  {
-    "objectID": "02-literature/tp2.html#wos-database-access",
-    "href": "02-literature/tp2.html#wos-database-access",
-    "title": "TD2 : Bibliometrix",
-    "section": "WoS database: Access",
-    "text": "WoS database: Access\nAcces to Web Of Science"
-  },
-  {
-    "objectID": "02-literature/tp2.html#wos-database-download-.bib",
-    "href": "02-literature/tp2.html#wos-database-download-.bib",
-    "title": "TD2 : Bibliometrix",
-    "section": "WoS database: Download .bib",
-    "text": "WoS database: Download .bib\nDownload documents in format .bib"
-  },
-  {
-    "objectID": "02-literature/tp2.html#wos-database",
-    "href": "02-literature/tp2.html#wos-database",
-    "title": "TD2 : Bibliometrix",
-    "section": "WoS database:",
-    "text": "WoS database:\nDownload documents in format .bib\n\n\n\n\nTD2: Scientific Landscape\n\n\n\n\n\n\n \n\n\nLiterature Review"
-  },
-  {
-    "objectID": "02-literature/tp2.html#wos-database-full-record",
-    "href": "02-literature/tp2.html#wos-database-full-record",
-    "title": "TD2 : Bibliometrix",
-    "section": "WoS database: full record",
-    "text": "WoS database: full record\nDownload documents in format .bib\n\n\n\n\nTD2: Scientific Landscape\n\n\n\n\n\n\n \n\n\nLiterature Review"
-  },
-  {
-    "objectID": "02-literature/tp2.html#web-of-science",
-    "href": "02-literature/tp2.html#web-of-science",
-    "title": "TD2 : Literature review",
-    "section": "Web Of Science",
-    "text": "Web Of Science"
-  },
-  {
-    "objectID": "02-literature/tp2.html#bibliometrix",
-    "href": "02-literature/tp2.html#bibliometrix",
-    "title": "TD2 : Literature review",
-    "section": "Bibliometrix",
-    "text": "Bibliometrix"
-  },
-  {
-    "objectID": "02-literature/index.html#exemple-2-1",
-    "href": "02-literature/index.html#exemple-2-1",
-    "title": "Act II: Literature review",
-    "section": "Exemple 2",
-    "text": "Exemple 2\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\n\n\n\n\nSource:  Marche, et al. (2022)., Qualitative sustainability assessment of road verge management in France: An approach from causal diagrams to seize the importance of impact pathways. Environmental Impact Assessment Review 97, 106911. https://doi.org/10.1016/j.eiar.2022.106911"
-  },
-  {
-    "objectID": "02-literature/index.html#exemple-3-1",
-    "href": "02-literature/index.html#exemple-3-1",
-    "title": "Act II: Literature review",
-    "section": "Exemple 3",
-    "text": "Exemple 3\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\n\n\n\n\nSource:  Gabriel, et al. (2016), Creativity support systems: A systematic mapping study. Thinking Skills and Creativity 21, 109–122. https://doi.org/10.1016/j.tsc.2016.05.009"
-  },
-  {
     "objectID": "02-literature/tp2.html#bibliographic-management",
     "href": "02-literature/tp2.html#bibliographic-management",
     "title": "TD2 : Literature review",
     "section": "Bibliographic Management",
     "text": "Bibliographic Management"
-  },
-  {
-    "objectID": "02-literature/tp2.html#bibliometrix-sofware",
-    "href": "02-literature/tp2.html#bibliometrix-sofware",
-    "title": "TD2 : Bibliometrix",
-    "section": "Bibliometrix sofware",
-    "text": "Bibliometrix sofware\n🔗 Connectez-vous at https://posit.cloud/content/7229125"
-  },
-  {
-    "objectID": "02-literature/tp2.html#bibliometrix-anlaysis",
-    "href": "02-literature/tp2.html#bibliometrix-anlaysis",
-    "title": "TD2 : Bibliometrix",
-    "section": "Bibliometrix Anlaysis",
-    "text": "Bibliometrix Anlaysis\nOfficial tutorials:\n\n\nIntroduction:\n\n\n\n\n\n\nMedium: Focus on Domain\n\n\n\n\n\n\nAdvanced: Knowledge synthesis"
-  },
-  {
-    "objectID": "02-literature/index.html#a-useful-ressource",
-    "href": "02-literature/index.html#a-useful-ressource",
-    "title": "Act II: Literature review",
-    "section": "A Useful ressource",
-    "text": "A Useful ressource\n\n\n\nSiddaway, A.P., Wood, A.M., Hedges, L.V., 2019. How to Do a Systematic Review: A Best Practice Guide for Conducting and Reporting Narrative Reviews, Meta-Analyses, and Meta-Syntheses. Annual Review of Psychology 70, 747–770. https://doi.org/10.1146/annurev-psych-010418-102803"
-  },
-  {
-    "objectID": "index.html#what-is-scientific-research",
-    "href": "index.html#what-is-scientific-research",
-    "title": "Research, Innovation & Development",
-    "section": "What is scientific research?",
-    "text": "What is scientific research?"
-  },
-  {
-    "objectID": "index.html#what-is-scientific-research-1",
-    "href": "index.html#what-is-scientific-research-1",
-    "title": "Research, Innovation & Development",
-    "section": "What is scientific research?",
-    "text": "What is scientific research?"
-  },
-  {
-    "objectID": "index.html#scientific-landscape",
-    "href": "index.html#scientific-landscape",
-    "title": "Research, Innovation & Development",
-    "section": "Scientific Landscape",
-    "text": "Scientific Landscape"
-  },
-  {
-    "objectID": "index.html#what-is-a-literature-review",
-    "href": "index.html#what-is-a-literature-review",
-    "title": "Research, Innovation & Development",
-    "section": "What is a Literature Review",
-    "text": "What is a Literature Review"
-  },
-  {
-    "objectID": "index.html#reading-scientific-literature",
-    "href": "index.html#reading-scientific-literature",
-    "title": "Research, Innovation & Development",
-    "section": "Reading Scientific literature",
-    "text": "Reading Scientific literature"
-  },
-  {
-    "objectID": "02-literature/tp2.html#bibliometrix-software",
-    "href": "02-literature/tp2.html#bibliometrix-software",
-    "title": "TD2 : Literature review",
-    "section": "Bibliometrix software",
-    "text": "Bibliometrix software\n🔗 Connectez-vous at https://posit.cloud/content/7229125"
-  },
-  {
-    "objectID": "02-literature/tp2.html#bibliometrix-tutorials",
-    "href": "02-literature/tp2.html#bibliometrix-tutorials",
-    "title": "TD2 : Literature review",
-    "section": "Bibliometrix tutorials",
-    "text": "Bibliometrix tutorials\nOfficial tutorials:\n\n\nIntroduction:\n\n\n\n\n\n\nMedium: Focus on Domain\n\n\n\n\n\n\nAdvanced: Knowledge synthesis\n\n\n\n\n\n\n\nhttps://bibliometrix.org/ &gt; Tutorials &gt; Biblioshiny"
   }
 ]

@@ -15,19 +15,17 @@ metadata-files:
   - _metadata.yml
 format:
   revealjs:
-    footer: 'TD: Landscape of Research'
-    template-partials:
-      - title-slide.html
+    footer: 'TD: Research overview'
+#    template-partials:
+#      - title-slide.html
 ---
 
 
-```{r}
+```{r, include=FALSE, eval=TRUE }
 library(countdown)
 ```
 
-
 ## Learning objectives of today
-
 
 1. 🧠 **Knowledge** : 
    - Sensibilization on what a **scientific research paper** is. 

@@ -12,12 +12,12 @@
 <link href="../site_libs/quarto-contrib/reveal-header-1.0.0/add_header.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/grid-no-htext-1.0.0/grid_no_htext.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/reveal-auto-agenda-0.0.3/reveal-auto-agenda.css" rel="stylesheet"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.3.450">
+  <meta name="generator" content="quarto-1.4.543">
 
   <meta name="author" content="MdC. Fabio A. CRUZ SANCHEZ">
   <meta name="author" content="Pr. Mauricio Camargo">
   <meta name="dcterms.date" content="2023-12-06">
-  <title>CI12 - TD1 : Research Landscape via Vosviewer</title>
+  <title>CI12 – TD1 : Research Landscape via Vosviewer</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -35,6 +35,71 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
+    /* CSS for syntax highlighting */
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      { color: #003b4f; background-color: #f1f3f5; }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span { color: #003b4f; } /* Normal */
+    code span.al { color: #ad0000; } /* Alert */
+    code span.an { color: #5e5e5e; } /* Annotation */
+    code span.at { color: #657422; } /* Attribute */
+    code span.bn { color: #ad0000; } /* BaseN */
+    code span.bu { } /* BuiltIn */
+    code span.cf { color: #003b4f; } /* ControlFlow */
+    code span.ch { color: #20794d; } /* Char */
+    code span.cn { color: #8f5902; } /* Constant */
+    code span.co { color: #5e5e5e; } /* Comment */
+    code span.cv { color: #5e5e5e; font-style: italic; } /* CommentVar */
+    code span.do { color: #5e5e5e; font-style: italic; } /* Documentation */
+    code span.dt { color: #ad0000; } /* DataType */
+    code span.dv { color: #ad0000; } /* DecVal */
+    code span.er { color: #ad0000; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #ad0000; } /* Float */
+    code span.fu { color: #4758ab; } /* Function */
+    code span.im { color: #00769e; } /* Import */
+    code span.in { color: #5e5e5e; } /* Information */
+    code span.kw { color: #003b4f; } /* Keyword */
+    code span.op { color: #5e5e5e; } /* Operator */
+    code span.ot { color: #003b4f; } /* Other */
+    code span.pp { color: #ad0000; } /* Preprocessor */
+    code span.sc { color: #5e5e5e; } /* SpecialChar */
+    code span.ss { color: #20794d; } /* SpecialString */
+    code span.st { color: #20794d; } /* String */
+    code span.va { color: #111111; } /* Variable */
+    code span.vs { color: #20794d; } /* VerbatimString */
+    code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
   <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
@@ -164,7 +229,8 @@
   }
 
   .callout.callout-titled .callout-body > .callout-content > :last-child {
-    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0;
   }
 
   .callout.callout-titled .callout-icon::before {
@@ -356,6 +422,11 @@ Pr. Mauricio Camargo
 
   <p class="date">2023-12-06</p>
 </section>
+<section class="slide level3">
+
+<p>::: {.cell}</p>
+<p>:::</p>
+</section>
 <section>
 <section id="presentation-of-td" class="title-slide slide level1 agenda-slide center">
 <h1>Presentation of TD</h1>
@@ -371,119 +442,63 @@ Pr. Mauricio Camargo
 <p>Tutorials</p>
 </div></li>
 <li><div class="agenda-inactive agenda-post-active">
-<p>Patents Network visualization</p>
+<p>Patents Network visualization{#pat-vos}</p>
 </div></li>
 </ol>
 </div>
 </section>
 <section id="the-exercises" class="title-slide slide level2 center">
 <h2>The Exercises</h2>
-<div class="columns">
-<div class="column" style="width:30%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="figures/Step-2a.jpg"></p>
-<figcaption>Step 1: Define the research questions</figcaption>
-</figure>
-</div>
-</div><div class="column" style="width:30%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="figures/Step-2b.jpg"></p>
-<figcaption>Step 2: Define research equation to use in WoS</figcaption>
-</figure>
-</div>
-</div><div class="column" style="width:30%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="figures/Step-2c.jpg"></p>
-<figcaption>Step 3: Visualize &amp; Analize Scientific and Patent databases</figcaption>
-</figure>
-</div>
-</div>
-</div>
+<p>::: columns ::: {.column width="30%"} <img data-src="figures/Step-2a.jpg" alt="Step 1: Define the research questions">{fig-align="center"} :::</p>
+<p>::: {.column width="30%"} <img data-src="figures/Step-2b.jpg" alt="Step 2: Define research equation to use in WoS">{fig-align="center"} :::</p>
+<p>::: {.column width="30%"} <img data-src="figures/Step-2c.jpg" alt="Step 3: Visualize &amp; Analize Scientific and Patent databases">{fig-align="center"} :::</p>
+<p>:::</p>
 </section>
 
 <section id="bibliometric-mapping-vosviewer" class="title-slide slide level2 center">
 <h2>Bibliometric mapping: Vosviewer</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="figures/vos/09.jpg" width="900"></p>
-</figure>
-</div>
-<p><a href="https://www.vosviewer.com/">Download at https://www.vosviewer.com/</a></p>
-
-<aside><div>
-<p>van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. <a href="https://doi.org/10.1007/s11192-009-0146-3" class="uri">https://doi.org/10.1007/s11192-009-0146-3</a></p>
-</div></aside></section>
+<p><img data-src="figures/vos/09.jpg">{width="900" fig-align="center"}</p>
+<p><a href="https://www.vosviewer.com/">Download at <span>https://www.vosviewer.com/</span></a></p>
+<p>::: aside van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. <a href="https://doi.org/10.1007/s11192-009-0146-3">https://doi.org/10.1007/s11192-009-0146-3</a> :::</p>
+</section>
 
 <section id="step-1-research-conceptualization" class="title-slide slide level2 center">
 <h2>Step 1: Research conceptualization</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="figures/Step-2a.jpg"></p>
-<figcaption>Goal Step 2a : Define the research questions</figcaption>
-</figure>
-</div>
-</div><div class="column" style="width:50%;">
-<div class="cell">
-<div class="cell-output-display">
-<div class="countdown" id="timer_185cbc81" data-update-every="1" tabindex="0" style="top:100;right:50;margin:5px;padding:5px;font-size:4em;">
-<div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
-<code class="countdown-time"><span class="countdown-digits minutes">45</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
-</div>
-</div>
-</div>
-</div>
-</div>
+<p>::: columns ::: {.column width="50%"} <img data-src="figures/Step-2a.jpg" alt="Goal Step 2a : Define the research questions">{fig-align="center"} :::</p>
+<p>::: {.column width="50%"}</p>
+<p>::: {.cell} ::: {.cell-output-display}</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode numberSource {=html} number-lines code-with-copy"><code class="sourceCode"><span id="cb1-1"><a></a>&lt;div class="countdown" id="timer_62c6a556" data-update-every="1" tabindex="0" style="top:100;right:50;margin:5px;padding:5px;font-size:4em;"&gt;</span>
+<span id="cb1-2"><a></a>&lt;div class="countdown-controls"&gt;&lt;button class="countdown-bump-down"&gt;&amp;minus;&lt;/button&gt;&lt;button class="countdown-bump-up"&gt;&amp;plus;&lt;/button&gt;&lt;/div&gt;</span>
+<span id="cb1-3"><a></a>&lt;code class="countdown-time"&gt;&lt;span class="countdown-digits minutes"&gt;45&lt;/span&gt;&lt;span class="countdown-digits colon"&gt;:&lt;/span&gt;&lt;span class="countdown-digits seconds"&gt;00&lt;/span&gt;&lt;/code&gt;</span>
+<span id="cb1-4"><a></a>&lt;/div&gt;</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>::: :::</p>
+<p>::: :::</p>
 </section>
 
 <section id="step-2-scientific-screening" class="title-slide slide level2 center">
 <h2>Step 2: Scientific screening</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="figures/Step-2b.jpg"></p>
-<figcaption>Goal Step 2a : Define the research questions</figcaption>
-</figure>
-</div>
-</div><div class="column" style="width:50%;">
-<div class="cell">
-<div class="cell-output-display">
-<div class="countdown" id="timer_94215da5" data-update-every="1" tabindex="0" style="top:100;right:50;margin:5px;padding:5px;font-size:4em;">
-<div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
-<code class="countdown-time"><span class="countdown-digits minutes">45</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
-</div>
-</div>
-</div>
-</div>
-</div>
+<p>::: columns ::: {.column width="50%"} <img data-src="figures/Step-2b.jpg" alt="Goal Step 2a : Define the research questions">{fig-align="center"} :::</p>
+<p>::: {.column width="50%"}</p>
+<p>::: {.cell} ::: {.cell-output-display}</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode numberSource {=html} number-lines code-with-copy"><code class="sourceCode"><span id="cb2-1"><a></a>&lt;div class="countdown" id="timer_1f866fa5" data-update-every="1" tabindex="0" style="top:100;right:50;margin:5px;padding:5px;font-size:4em;"&gt;</span>
+<span id="cb2-2"><a></a>&lt;div class="countdown-controls"&gt;&lt;button class="countdown-bump-down"&gt;&amp;minus;&lt;/button&gt;&lt;button class="countdown-bump-up"&gt;&amp;plus;&lt;/button&gt;&lt;/div&gt;</span>
+<span id="cb2-3"><a></a>&lt;code class="countdown-time"&gt;&lt;span class="countdown-digits minutes"&gt;45&lt;/span&gt;&lt;span class="countdown-digits colon"&gt;:&lt;/span&gt;&lt;span class="countdown-digits seconds"&gt;00&lt;/span&gt;&lt;/code&gt;</span>
+<span id="cb2-4"><a></a>&lt;/div&gt;</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>::: :::</p>
+<p>::: :::</p>
 </section>
 
 <section id="step-3-comparing-the-scientific-and-the-patent-domains" class="title-slide slide level2 center">
 <h2>Step 3: Comparing the scientific and the Patent domains</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="figures/Step-2c.jpg"></p>
-<figcaption>Goal Step 2c : Comparing the scientific and the Patent domains</figcaption>
-</figure>
-</div>
-</div><div class="column" style="width:50%;">
-<div class="cell">
-<div class="cell-output-display">
-<div class="countdown" id="timer_a2e59d34" data-update-every="1" tabindex="0" style="top:100;right:50;margin:5px;padding:5px;font-size:4em;">
-<div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
-<code class="countdown-time"><span class="countdown-digits minutes">45</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
-</div>
-</div>
-</div>
-</div>
-</div>
+<p>::: columns ::: {.column width="50%"} <img data-src="figures/Step-2c.jpg" alt="Goal Step 2c : Comparing the scientific and the Patent domains">{fig-align="center"} :::</p>
+<p>::: {.column width="50%"}</p>
+<p>::: {.cell} ::: {.cell-output-display}</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode numberSource {=html} number-lines code-with-copy"><code class="sourceCode"><span id="cb3-1"><a></a>&lt;div class="countdown" id="timer_27ea3c29" data-update-every="1" tabindex="0" style="top:100;right:50;margin:5px;padding:5px;font-size:4em;"&gt;</span>
+<span id="cb3-2"><a></a>&lt;div class="countdown-controls"&gt;&lt;button class="countdown-bump-down"&gt;&amp;minus;&lt;/button&gt;&lt;button class="countdown-bump-up"&gt;&amp;plus;&lt;/button&gt;&lt;/div&gt;</span>
+<span id="cb3-3"><a></a>&lt;code class="countdown-time"&gt;&lt;span class="countdown-digits minutes"&gt;45&lt;/span&gt;&lt;span class="countdown-digits colon"&gt;:&lt;/span&gt;&lt;span class="countdown-digits seconds"&gt;00&lt;/span&gt;&lt;/code&gt;</span>
+<span id="cb3-4"><a></a>&lt;/div&gt;</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>::: :::</p>
+<p>::: :::</p>
 </section>
 </section>
 <section>
@@ -501,7 +516,7 @@ Pr. Mauricio Camargo
 <p>Tutorials</p>
 </div></li>
 <li><div class="agenda-inactive agenda-post-active">
-<p>Patents Network visualization</p>
+<p>Patents Network visualization{#pat-vos}</p>
 </div></li>
 </ol>
 </div>
@@ -518,23 +533,29 @@ Pr. Mauricio Camargo
 </ol>
 </section>
 
-<section id="access" class="title-slide slide level2 center">
-<h2>Access to WoS database</h2>
+<section id="access-to-wos-database-access-center" class="title-slide slide level2 center">
+<h2>Access to WoS database {#access .center}</h2>
 
 </section>
-<section id="wos-database-connect-to-the-ul-ent" class="slide level3">
+<section id="wos-database--connect-to-the-ul-ent" class="slide level3">
 <h3>WoS database → Connect to the UL ENT</h3>
 <p>Use your UL account to access to the databases</p>
 
-<img data-src="figures/01.jpg" class="r-stretch quarto-figure-center"><p class="caption"><a href="https://ent.univ-lorraine.fr/#BU" class="uri">https://ent.univ-lorraine.fr/#BU</a> -&gt; BU Ingénieurs Brabois</p></section>
-<section id="wos-database-access-to-the-ressources-en-ligne" class="slide level3">
-<h3>WoS database → Access to the ‘Ressources en Ligne’</h3>
+<img data-src="figures/01.jpg" id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="r-stretch quarto-figure-center"><p class="caption">
+<a href="https://ent.univ-lorraine.fr/#BU">https://ent.univ-lorraine.fr/#BU</a> -&gt; BU Ingénieurs Brabois
+</p></section>
+<section id="wos-database--access-to-the-ressources-en-ligne" class="slide level3">
+<h3>WoS database → Access to the 'Ressources en Ligne'</h3>
 
-<img data-src="figures/01-UL-databases/01.png" class="r-stretch quarto-figure-center"><p class="caption">Resource online of the UL</p></section>
-<section id="wos-database-ul-web-of-science" class="slide level3">
+<img data-src="figures/01-UL-databases/01.png" id="fig-539a35d47e664c97a50115a146a7f1bd-2" class="r-stretch quarto-figure-center"><p class="caption">
+Resource online of the UL
+</p></section>
+<section id="wos-database--ul-web-of-science" class="slide level3">
 <h3>WoS database → UL Web of Science</h3>
 
-<img data-src="figures/01-UL-databases/02.png" class="r-stretch quarto-figure-center"><p class="caption">Look for the ‘Web of Science’ database</p></section>
+<img data-src="figures/01-UL-databases/02.png" id="fig-539a35d47e664c97a50115a146a7f1bd-3" class="r-stretch quarto-figure-center"><p class="caption">
+Look for the 'Web of Science' database
+</p></section>
 
 <section id="tutorials-1" class="title-slide slide level2 center">
 <h2>Tutorials</h2>
@@ -548,8 +569,8 @@ Pr. Mauricio Camargo
 </ol>
 </section>
 
-<section id="wos" class="title-slide slide level2 center">
-<h2>Web of Science Interface</h2>
+<section id="web-of-science-interface-wos-center" class="title-slide slide level2 center">
+<h2>Web of Science Interface {#wos .center}</h2>
 
 </section>
 <section id="simple-research-mode" class="slide level3">
@@ -587,8 +608,8 @@ Pr. Mauricio Camargo
 </ol>
 </section>
 
-<section id="wos-results" class="title-slide slide level2 center">
-<h2>Results on WoS plateform</h2>
+<section id="results-on-wos-plateform-wos-results" class="title-slide slide level2 center">
+<h2>Results on WoS plateform {#wos-results}</h2>
 
 <img data-src="figures/10.jpg" class="r-stretch"></section>
 <section id="analyze-the-results" class="slide level3">
@@ -624,8 +645,8 @@ Pr. Mauricio Camargo
 </ol>
 </section>
 
-<section id="wos-export" class="title-slide slide level2 center">
-<h2>Web of Science: Export results</h2>
+<section id="web-of-science-export-results-wos-export" class="title-slide slide level2 center">
+<h2>Web of Science: Export results {#wos-export}</h2>
 
 <img data-src="figures/11.jpg" class="r-stretch"></section>
 <section id="select-tab-deliminated-file" class="slide level3">
@@ -649,14 +670,14 @@ Pr. Mauricio Camargo
 </ol>
 </section>
 
-<section id="sci-vos" class="title-slide slide level2 center">
-<h2>Scientific Network visualization</h2>
+<section id="scientific-network-visualization-sci-vos" class="title-slide slide level2 center">
+<h2>Scientific Network visualization {#sci-vos}</h2>
 
-<img data-src="figures/vos/01.jpg" class="r-stretch"><p>Download Vosviewer at <a href="https://www.vosviewer.com/">https://www.vosviewer.com/</a></p>
+<img data-src="figures/vos/01.jpg" class="r-stretch"><p>Download Vosviewer at <a href="https://www.vosviewer.com/"><span>https://www.vosviewer.com/</span></a></p>
 </section>
 <section id="small-introduction-to-vosviwer" class="slide level3">
 <h3>Small introduction to VosViwer</h3>
-<iframe data-external="1" src="https://www.youtube.com/embed/9dTWkNRxUtw" width="1200" height="500" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p>[[]{.quarto-shortcode__-param data-is-shortcode="1" data-value="video" data-raw="video"} []{.quarto-shortcode__-param data-is-shortcode="1" data-value="<a href="https://www.youtube.com/embed/9dTWkNRxUtw&quot;">https://www.youtube.com/embed/9dTWkNRxUtw"</a> data-raw="<a href="https://www.youtube.com/embed/9dTWkNRxUtw&quot;">https://www.youtube.com/embed/9dTWkNRxUtw"</a>} []{.quarto-shortcode__-param data-is-shortcode="1" data-raw="width="1200"" data-key="width" data-value="1200"} []{.quarto-shortcode__-param data-is-shortcode="1" data-raw="height="500"" data-key="height" data-value="500"} ]{.quarto-shortcode__ data-is-shortcode="1" data-raw="{{&lt; video <a href="https://www.youtube.com/embed/9dTWkNRxUtw">https://www.youtube.com/embed/9dTWkNRxUtw</a> width="1200" height="500" &gt;}}"}</p>
 </section>
 <section id="add-data-from-bibliographic-database-file" class="slide level3">
 <h3>Add data: from <code>Bibliographic database file</code></h3>
@@ -666,7 +687,7 @@ Pr. Mauricio Camargo
 <h3>Add data: from <code>Bibliographic database file</code></h3>
 
 <img data-src="figures/vos/03.jpg" class="r-stretch"></section>
-<section id="add-data-select-the-.txt-files-from-wos" class="slide level3">
+<section id="add-data-select-the-txt-files-from-wos" class="slide level3">
 <h3>Add data: Select the <code>.txt</code> files from WoS</h3>
 
 <img data-src="figures/vos/04.jpg" class="r-stretch"></section>
@@ -706,8 +727,8 @@ Pr. Mauricio Camargo
 <img data-src="figures/vos/11.jpg" class="r-stretch"></section>
 </section>
 <section>
-<section id="pat-vos" class="title-slide slide level1 agenda-slide center">
-<h1>Patents Network visualization</h1>
+<section id="patents-network-visualizationpat-vos" class="title-slide slide level1 agenda-slide center">
+<h1>Patents Network visualization{#pat-vos}</h1>
 <div class="agenda-heading">
 <p>Agenda for today</p>
 </div>
@@ -720,7 +741,7 @@ Pr. Mauricio Camargo
 <p>Tutorials</p>
 </div></li>
 <li><div class="agenda-active">
-<p>Patents Network visualization</p>
+<p>Patents Network visualization{#pat-vos}</p>
 </div></li>
 </ol>
 </div>
@@ -746,11 +767,11 @@ Pr. Mauricio Camargo
 <img data-src="figures/patents/04.jpg" class="r-stretch"></section>
 
 <section id="dont-forget-use-the-analyze-tool-for-patents" class="title-slide slide level2 center">
-<h2>Don’t forget use the analyze tool for Patents</h2>
+<h2>Don't forget use the analyze tool for Patents</h2>
 
 <img data-src="figures/patents/04-1.jpg" class="r-stretch"></section>
 
-<section id="vosviewer-for-patents-create-from-text-data." class="title-slide slide level2 center">
+<section id="vosviewer-for-patents-create-from-text-data" class="title-slide slide level2 center">
 <h2>VOSviewer for Patents: Create from <code>text data</code>.</h2>
 
 <img data-src="figures/patents/05.jpg" class="r-stretch"></section>
@@ -798,11 +819,12 @@ Pr. Mauricio Camargo
 <section id="vosviewer-for-patents-8" class="title-slide slide level2 center">
 <h2>VOSviewer for Patents</h2>
 <p><img data-src="figures/patents/14.jpg"></p>
+<p>:::{#quarto-meta-markdown .hidden} [CI12 - TD1 : Research Landscape via Vosviewer]{.hidden render-id="quarto-metatitle"} [CI12 - TD1 : Research Landscape via Vosviewer]{.hidden render-id="quarto-twittercardtitle"} [CI12 - TD1 : Research Landscape via Vosviewer]{.hidden render-id="quarto-ogcardtitle"} [CI12]{.hidden render-id="quarto-metasitename"} [TD1]{.hidden render-id="quarto-twittercarddesc"} [TD1]{.hidden render-id="quarto-ogcardddesc"} :::</p>
+<p>::: {.quarto-auto-generated-content}</p>
+<img src="../assets/img/logos/ENSGSI.png" class="slide-logo">
 
-<p><img src="../assets/img/logos/ENSGSI.png" class="slide-logo"></p>
-<div class="footer footer-default">
-<p>TD1: Scientific Landscape</p>
-</div>
+<p>::: {.footer .footer-default} TD1: Scientific Landscape :::</p>
+<p>:::</p>
 <div class="reveal-header">
 <div class="header-logo">
 <img data-src="../assets/img/logos/UL.png">
@@ -846,7 +868,6 @@ Pr. Mauricio Camargo
       Reveal.initialize({
 'controlsAuto': false,
 'previewLinksAuto': false,
-'smaller': false,
 'pdfSeparateFragments': true,
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
@@ -1146,10 +1167,9 @@ Pr. Mauricio Camargo
         // clear code selection
         e.clearSelection();
       });
-      function tippyHover(el, contentFn) {
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
         const config = {
           allowHTML: true,
-          content: contentFn,
           maxWidth: 500,
           delay: 100,
           arrow: false,
@@ -1159,8 +1179,17 @@ Pr. Mauricio Camargo
           interactive: true,
           interactiveBorder: 10,
           theme: 'light-border',
-          placement: 'bottom-start'
+          placement: 'bottom-start',
         };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
           config['offset'] = [0,0];
           config['maxWidth'] = 700;
         window.tippy(el, config); 
