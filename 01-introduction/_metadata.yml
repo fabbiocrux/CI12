@@ -1,5 +1,26 @@
-from: gfm+autolink_bare_uris
 format:
+#   beamer: 
+#     keep-tex: true
+#     classoption: c
+#     aspectratio: 169
+#     navigation: horizontal
+#     theme: Luebeck #AnnArbor
+#     #toc: true
+#     #toc-title: "Organisation de la presentation"
+#     #Luebeck
+#     colortheme: beaver
+#     slide-level: 3
+#     toc-depth: 2
+#     fig-align: center
+#     header-includes:
+#       - \titlegraphic{\includegraphics[width=0.6\paperwidth]{Figures/logos/UL-ENSGSI-ERPI.png}}
+# #      - \date{Thisis test }
+#     # beameroption: 
+#     #  - show notes on second screen
+#     #beamerarticle: true
+#     #latex_engine: lualatex
+#     include-in-header: [assets/slides.tex]
+  
   revealjs:
     slide-number: c/t
     controls: true
@@ -23,11 +44,12 @@ format:
     #subtitle-as-header: true
     sc-sb-title: false
     chalkboard: true
-#use reveal-header extension if you need both header and footer on slides. They are declared in the presentation.qmd file
 filters:
   - reveal-header
   - reveal-auto-agenda
-#slide-level: 3
 auto-agenda:
   bullets: numbered
   heading: Agenda for today
+
+
+

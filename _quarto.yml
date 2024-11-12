@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-  pre-render: R/setup.R
+  #pre-render: R/setup.R
 
 website:
   title: "CI12"
@@ -9,13 +9,19 @@ website:
     left:
       - href: index.qmd
         text: Home
-
+  sidebar:
+    contents:
+      - section: "Scientific Research in Innovation Management"
+      - text: "Material course for IDEAS and IUVTT students"
+        contents:
+          - href: 01-introduction/tp1.qmd
+  
 
 format:
   html:
     theme:
-      - litera
-      - assets/custom.scss
+      - cosmo
+#      - assets/custom.scss
     toc: true
     number-sections: false
     html-math-method: mathjax

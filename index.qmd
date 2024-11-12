@@ -3,7 +3,46 @@ title: "Research, Innovation & Development"
 subtitle: "ENSGSI"
 ---
 
-The list of presentations
+# Syllabus
+
+:::: {.grid .course-details .course-details-smaller}
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+### Instructors
+
+- Fabio A. Cruz Sanchez 
+- Mauricio Camargo
+- Ferney Osorio
+- Alex Gabriel
+
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+### Course details
+
+- 
+:::
+
+::: {.g-col-12 .g-col-md-4 .contact-policy}
+### Contacting us
+
+- 
+:::
+
+::::
+
+
+
+## Goal of the module:
+
+This introduction course seeks to to Master and Engineering students to the basis of the scientific research in Innovation Management field. 
+The main purpose is to understand the process of establishing a research process pipeline, including the literature review, structuration of the research problematic, definition of experimental protocol and hypothesis and presentation of the results in from of a scientific paper. 
+Moreover, an overview of the 
+
+avoir une première vue d’ensemble sur l’organisation et les modes de financement de la recherche. 
+
+This course includes a course in presences and a writing workshop of a first scientific paper. 
+
 
 # Day 1: Introduction
 
@@ -16,26 +55,26 @@ The list of presentations
 
 ## Scientific Landscape
 
-```{=html}
+<!-- ```{=html}
 <iframe class="slide-deck" src="01-introduction/tp1.html" width="100%"
     height="500"></iframe>
-```
+``` -->
 
 # Day 2: Literature  Review
 
 
 ## What is a Literature Review
 
-```{=html}
+<!-- ```{=html}
 <iframe class="slide-deck" src="02-literature/index.html" width="100%"
     height="500"></iframe>
-```
+``` -->
 
 ## Reading Scientific literature
 
-```{=html}
+<!-- ```{=html}
 <iframe class="slide-deck" src="02-literature/tp2.html" width="100%"
     height="500"></iframe>
-```
+``` -->
 
 

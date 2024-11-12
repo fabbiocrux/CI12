@@ -1,12 +1,12 @@
 ---
-title: "What is Scientific Research?"
+title: "What is Scientific Research <br> for Innovation Management?"
 subtitle: "<img src='../assets/img/logos/ENSGSI.png' width='500'>"  
 email: "cruzsanc1@univ-lorraine.fr"
 institute: "Université de Lorraine | ENSGSI"
 author: 
   - "MdC. Fabio A. CRUZ SANCHEZ"
   - "Pr. Mauricio Camargo"
-date: 06-Dec-2023
+date: 06-Dec-2024
 metadata-files:
   - _metadata.yml
 format:
@@ -16,28 +16,35 @@ format:
 ---
 
 ```{r}
-
 # Link for the Figures
 URL = c('https://raw.githubusercontent.com/fabbiocrux/Figures/main/')
 
 ```
 
+
+
+## What is Scientific Research **for you**? <br> Why is it important?{.center}
+
+
+
+
 ## Objectives of the Module
 
 1. 🧠 **Knowledge** : 
-   - Sensibilization onf the **scientific research  process** and High Superior Education system
+   - Sensibilization on the **scientific research  process** and High Superior Education system
 
 1. 🔨 **Know-how** : 
    - Search on pertinent scientific databases 
-   - Sensibilization of a crical thinking of research
+   - Sensibilization of a critical thinking of research
    - Identify a pertinent bibliography
 
-1. ✍**Competence**  : 
-   - Be able to structure a scientific document presening the main components (Context, Problem, Research Question, Methodlogy and Results)
+1. ✍**Competences**  : 
+   - Be able to structure a scientific document presening the main components (Context, Problem, Research Question, Methodology and Results)
+
+
 
 
 ## Evaluation of the Module
-
 
 :::: {.columns}
 ::: {.column width="50%"}
@@ -57,9 +64,6 @@ URL = c('https://raw.githubusercontent.com/fabbiocrux/Figures/main/')
 ![](figures/01-research.jpg)
 :::
 ::::
-
-
-
 
 
 
@@ -89,7 +93,6 @@ URL = c('https://raw.githubusercontent.com/fabbiocrux/Figures/main/')
 :::
 
 
-
 ## What is scientific research ?
 
 :::: {.columns}
@@ -103,7 +106,6 @@ Based on two research elements:
 - 🔎 Observations (information or data)
 
 - 💡 Theory (arguments)
-
 
 :::
 ::: {.column width="50%"}
