@@ -414,7 +414,7 @@
     "href": "01-introduction/tp1.html#list-of-tutorials",
     "title": "Research Landscape using Vosviewer",
     "section": "List of tutorials",
-    "text": "List of tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization",
+    "text": "List of tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nOpenAlex\nScientific Network visualization\nPatent Network visualization",
     "crumbs": [
       "Home",
       "Material course for IDEAS and IUVTT students",
@@ -897,8 +897,8 @@
     "objectID": "01-introduction/tp1.html#sci-vos",
     "href": "01-introduction/tp1.html#sci-vos",
     "title": "Research Landscape using Vosviewer",
-    "section": "Scientific Network visualization",
-    "text": "Scientific Network visualization\n\nDownload Vosviewer at https://www.vosviewer.com/",
+    "section": "Vosviewer",
+    "text": "Vosviewer\nScientific Network visualization\n⬇️ https://www.vosviewer.com/",
     "crumbs": [
       "Home",
       "Material course for IDEAS and IUVTT students",
@@ -1059,6 +1059,18 @@
     "title": "Research Landscape using Vosviewer",
     "section": "Tutorials",
     "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization",
+    "crumbs": [
+      "Home",
+      "Material course for IDEAS and IUVTT students",
+      "Research Landscape using Vosviewer"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#openalex",
+    "href": "01-introduction/tp1.html#openalex",
+    "title": "Research Landscape using Vosviewer",
+    "section": "OpenAlex",
+    "text": "OpenAlex\n\nhttps://openalex.org/",
     "crumbs": [
       "Home",
       "Material course for IDEAS and IUVTT students",

@@ -14,6 +14,7 @@ format:
     footer: 'TD1: Scientific Landscape'
     subtitle-as-header: true
     slide-level: 3
+    auto-stretch: false
 ---
 
 ```{r}
@@ -198,6 +199,8 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 ::: {.callout-note}
 ### Scientific reference
 
+
+
 Van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. [https://doi.org/10.1007/s11192-009-0146-3](https://doi.org/10.1007/s11192-009-0146-3)
 :::
 
@@ -214,6 +217,7 @@ Van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program
 1. [Web of Science Interface](#wos)
 1. [Results on WoS plateform](#wos-results)
 1. [Web of Science: Export results](#wos-export)
+1. [OpenAlex](#openalex)
 1. [Scientific Network visualization](#sci-vos)
 1. [Patent Network visualization](#pat-vos)
 
@@ -339,16 +343,142 @@ But, take a look of the other type of searches
 1. [Patent Network visualization](#pat-vos)
 
 
-## Scientific Network visualization {#sci-vos}
+## OpenAlex {background-image="figures/openalex/OA-03.png" background-size="55%" background-position="80% 50%"}
 
-![](figures/vos/01.jpg)
+![](figures/openalex/OpenAlex-banner.png){.nostretch width=500}
 
-Download Vosviewer at [https://www.vosviewer.com/](https://www.vosviewer.com/)
+[https://openalex.org/](https://openalex.org/)
 
 
-### Small introduction to VosViwer
+### Entities in OpenAlex
+
+:::{layout="[50, 50]" layout-valign="top"}
+:::{}
+OpenAlex will identify these metadata:
+
+- Works → Articles, Conferences, Books. 
+- Authors → Names, Institutions
+- Institutions → Name, location..
+- Funding → APC 
+:::
+
+:::{}
+![](figures/openalex/OpenAlex-entities.png)
+:::
+:::
+
+The idea is to obtain the **metadata of the scientific** documentation. 
+
+### Metadata on OpenAlex
+
+![Source. OpenAlex documentation](figures/openalex/Metadata-00.png){fig-align="center" width="80%"}
+
+### Metadata on OpenAlex
+![Source. OpenAlex documentation](figures/openalex/Metadata-01.png){fig-align="center" width="80%"}
+
+
+### Search on OpenAlex
+
+Structure of the search equation:
+
+`(key1 OR key2) AND (key3 OR key4) AND (key5 OR key6)`
+
+![](figures/openalex/OA-03.png){width="80%" fig-align="center"}
+
+
+
+
+### Interface on OpenAlex
+
+:::{layout="[40, 60]" layout-valign="top"}
+:::{}
+1. Type of works
+
+![](figures/openalex/OA-05.png)
+:::
+
+:::{}
+![](figures/openalex/OA-04.png)
+:::
+:::
+
+
+### Filters on OpenAlex
+
+:::{layout="[40, 60]" layout-valign="top"}
+:::{}
+1. Filters are the basis of query-building and allow searching of entities, attributes, and text. 
+
+Currently 47 filters are available in the UI. 
+
+![](figures/openalex/OA-07.png)
+:::
+
+:::{}
+![](figures/openalex/OA-06.png)
+:::
+:::
+
+### Works on OpenAlex
+
+:::{layout="[50, 50]" layout-valign="top"}
+:::{}
+
+Each work can be identified
+
+![](figures/openalex/OA-04.png)
+:::
+
+:::{}
+![](figures/openalex/OA-08.png)
+:::
+:::
+
+
+
+
+### Connecting of OpenAlex
+
+
+:::{layout="[50,50]"}
+:::{}
+
+- Using the API
+- **Less than 50000!!**
+
+:::
+
+:::{}
+{{< video https://www.youtube.com/embed/ZNyi29IER90?si=jd1CN81P50EGpCpG width="1200" height="500"  >}}
+Source. OpenAlex Channel
+:::
+:::
+
+
+## Vosviewer {#sci-vos background-image="figures/vos/10.jpg" background-size="65%" background-position="100% 50%"}
+
+Scientific Network visualization
+
+⬇️ [https://www.vosviewer.com/](https://www.vosviewer.com/)
+
+
+### Small introduction to VosViewer
+
+:::{layout="[50,50]"}
+
+:::{}
+- Focus on visualization of scientometric networks
+- Support for large number of data sources
+- Text mining functionality
+- Advanced visualization features
+- Relatively easy to use
+- Limited analysis options
+- Developed at CWTS
+:::
 
 {{< video https://www.youtube.com/embed/9dTWkNRxUtw width="1200" height="500"  >}}
+:::
+
 
 ### Add data: from `Bibliographic database file`
 
