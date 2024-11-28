@@ -27,7 +27,6 @@ URL = c('https://raw.githubusercontent.com/fabbiocrux/Figures/main/')
 
 
 
-
 ## Objectives of the Module
 
 1. 🧠 **Knowledge** : 
@@ -200,8 +199,6 @@ La règle découle de l'observation répétée de faits réels, contingents.
 :::
 
 
-
-
 # Why bother to study the scientific research?
 
 ## Pourquoi devrais-je me renseigner sur le processus de recherche ? {.center}
@@ -210,7 +207,6 @@ La règle découle de l'observation répétée de faits réels, contingents.
 ## Research and the "Managers"
 
 - 🥼 To work as a researcher (PhD., R&D Department)
-
 - 🗣️ To become a pertinent intelocutor at your company
 
 - ⚖️ Help to make evidence-based decisions: e.g. Public politics

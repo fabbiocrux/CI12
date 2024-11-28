@@ -366,7 +366,7 @@
     "href": "01-introduction/tp1.html#bibliometric-mapping-vosviewer",
     "title": "Research Landscape using Vosviewer",
     "section": "Bibliometric mapping: Vosviewer",
-    "text": "Bibliometric mapping: Vosviewer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTutorials\n\n\n\nScientific Network visualization\nPatent Network visualization\n\n\n\n\n\n\n\n\n\n\n\n\nScientific reference\n\n\nVan Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. https://doi.org/10.1007/s11192-009-0146-3\n\n\n\n⬇️ Download at https://www.vosviewer.com/",
+    "text": "Bibliometric mapping: Vosviewer",
     "crumbs": [
       "Home",
       "Material course for IDEAS and IUVTT students",
@@ -943,7 +943,7 @@
     "href": "01-introduction/tp1.html#pedagogical-goal",
     "title": "Research Landscape using Vosviewer",
     "section": "Pedagogical goal",
-    "text": "Pedagogical goal\n\n🧠 Knowledge :\n\nUnderstand the structure of the scientific articles and databases.\n\n🔨 Know-how :\n\nSearch on pertinent scientific databases as WoS and OpenAlex.\n\nIdentify a pertinent bibliography regarding a subject.\n\n✍Competence :\n\nBe able to visualize a scientific database set of documents from a research question.",
+    "text": "Pedagogical goal\n\n🧠 Knowledge :\n\nUnderstand the structure of the scientific articles and databases.\n\n🔨 Know-how :\n\nSearch on pertinent scientific databases as WoS and OpenAlex.\n\nIdentify a pertinent bibliography regarding a subject.\n\n✍Competence :\n\nBe able to make a bibliometric analysis of set of documents from a research question.",
     "crumbs": [
       "Home",
       "Material course for IDEAS and IUVTT students",
@@ -1021,8 +1021,8 @@
     "objectID": "01-introduction/tp1.html#scientific-databases-web-of-science-wos",
     "href": "01-introduction/tp1.html#scientific-databases-web-of-science-wos",
     "title": "Research Landscape using Vosviewer",
-    "section": "Scientific databases: Web Of Science (WoS)",
-    "text": "Scientific databases: Web Of Science (WoS)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTutorials\n\n\n\n🔑 To Acces to WoS\n🖥️ To the Interface\n📊 To the Results\n\n\n\n\n\n\n\nWoS indexes a wide range of academic publications → peer-reviewed journals, conference proceedings, patents…\nCitation Tracking → 📈\nResearch Analytics → 🏛️🌍\nCurated Content → 📋 Minimal Criteria of indexation\nInterdisciplinary Reach → ⚙️Engineering to 👥 Social Sciences\nDeveloped by Clarivate → 🔒💰",
+    "section": "Scientific databases:  Web Of Science (WoS)",
+    "text": "Scientific databases:  Web Of Science (WoS)",
     "crumbs": [
       "Home",
       "Material course for IDEAS and IUVTT students",
@@ -1068,6 +1068,54 @@
   {
     "objectID": "01-introduction/tp1.html#openalex",
     "href": "01-introduction/tp1.html#openalex",
+    "title": "Research Landscape using Vosviewer",
+    "section": "OpenAlex",
+    "text": "OpenAlex\n\nhttps://openalex.org/",
+    "crumbs": [
+      "Home",
+      "Material course for IDEAS and IUVTT students",
+      "Research Landscape using Vosviewer"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#bibliometric-analysis",
+    "href": "01-introduction/tp1.html#bibliometric-analysis",
+    "title": "Research Landscape using Vosviewer",
+    "section": "Bibliometric Analysis",
+    "text": "Bibliometric Analysis",
+    "crumbs": [
+      "Home",
+      "Material course for IDEAS and IUVTT students",
+      "Research Landscape using Vosviewer"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#functions-of",
+    "href": "01-introduction/tp1.html#functions-of",
+    "title": "Research Landscape using Vosviewer",
+    "section": "Functions of",
+    "text": "Functions of\n\n\n\n\n\n\nTutorials\n\n\n\nScientific Network visualization\nPatent Network visualization",
+    "crumbs": [
+      "Home",
+      "Material course for IDEAS and IUVTT students",
+      "Research Landscape using Vosviewer"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#scientific-databases-web-of-science-wos-and-openalex",
+    "href": "01-introduction/tp1.html#scientific-databases-web-of-science-wos-and-openalex",
+    "title": "Research Landscape using Vosviewer",
+    "section": "Scientific databases:  Web Of Science (WoS) and OpenAlex",
+    "text": "Scientific databases:  Web Of Science (WoS) and OpenAlex",
+    "crumbs": [
+      "Home",
+      "Material course for IDEAS and IUVTT students",
+      "Research Landscape using Vosviewer"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#openalex-1",
+    "href": "01-introduction/tp1.html#openalex-1",
     "title": "Research Landscape using Vosviewer",
     "section": "OpenAlex",
     "text": "OpenAlex\n\nhttps://openalex.org/",

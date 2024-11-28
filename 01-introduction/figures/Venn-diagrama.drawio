@@ -1,0 +1,40 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="3776" dy="2380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="21531" value="" style="ellipse;fillColor=none;opacity=60;strokeColor=#F08705;html=1;fontColor=#FFFFFF;strokeWidth=5;" parent="1" vertex="1">
+          <mxGeometry x="160" y="300" width="900" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="21533" value="" style="ellipse;fillColor=none;opacity=60;strokeColor=#FF6666;html=1;fontColor=#FFFFFF;strokeWidth=5;" parent="1" vertex="1">
+          <mxGeometry x="467" y="10" width="900" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="21536" value="Concept: _________________________" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354.25" y="827" width="470.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="21537" value="Military" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="569.5" y="198.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21538" value="Conflict" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="449.5" y="418.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21539" value="Chaos" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="699.5" y="418.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BH1giV638FDNIjSALhWK-21540" value="" style="ellipse;fillColor=none;opacity=60;strokeColor=#12AAB5;html=1;fontColor=#FFFFFF;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="-190" width="900" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="21540" value="Balance" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="569.5" y="348.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BH1giV638FDNIjSALhWK-21541" value="Concept: _________________________" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="-60" width="470.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BH1giV638FDNIjSALhWK-21542" value="Concept: _________________________" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;" vertex="1" parent="1">
+          <mxGeometry x="896.5" y="-50" width="470.5" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

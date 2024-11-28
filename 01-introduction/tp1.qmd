@@ -34,9 +34,16 @@ library(countdown)
    - Identify a pertinent bibliography regarding a subject.
 
 1. ✍**Competence**  : 
-   - Be able to visualize a scientific database set of documents from a research question.
+   - Be able to make a [**bibliometric analysis**]{.fragment .highlight-red } of set of documents from a research question.
 
 
+
+## Bibliometric Analysis 
+
+### 
+
+
+>It is the 
 
 ## The Exercises
 
@@ -52,7 +59,6 @@ library(countdown)
 ::: {.column width="30%"}
 ![Step 3: Scientific and Patent Landscapes](figures/Step-2c.jpg){fig-align="center"}
 :::
-
 :::
 
 
@@ -69,7 +75,6 @@ library(countdown)
 
 - Based on the canvas, Identify a **research question** from a general topic that you want to study. 
     - Define two or three specific research topics that complete the general research question. 
-
 
 
 ```{r, include=TRUE}
@@ -131,8 +136,9 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 
 
 
+## Scientific databases: <br> Web Of Science (WoS) and OpenAlex 
 
-## Scientific databases: Web Of Science (WoS)
+### Web Of Science (WoS)
 
 :::{layout="[30,70]"}
 :::{}
@@ -163,7 +169,7 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 
 
 
-## Scientific databases: OpenAlex
+### OpenAlex
 
 :::{layout="[30,70]"}
 ![](figures/openalex/OA-00.png){width="95%" fig-align="center"}
@@ -180,18 +186,19 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 
 ## Bibliometric mapping: Vosviewer
 
+![](figures/vos/09.jpg){width="900" fig-align="center"}
+
+### VOSviewer
 
 :::{layout="[60,40]"}
 
 :::{}
+Functions of VosViewer:
+
+1. Create maps based on network data.
+2. Visualize and explore the maps.
+
 ![](figures/vos/09.jpg){width="900" fig-align="center"}
-
-::: {.callout-tip}
-## Tutorials 
-
-1. [Scientific Network visualization](#sci-vos)
-1. [Patent Network visualization](#pat-vos)
-:::
 
 :::
 
@@ -199,15 +206,36 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 ::: {.callout-note}
 ### Scientific reference
 
-
-
 Van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. [https://doi.org/10.1007/s11192-009-0146-3](https://doi.org/10.1007/s11192-009-0146-3)
 :::
 
+::: {.callout-tip}
+## Tutorials 
+
+1. [Scientific Network visualization](#sci-vos)
+1. [Patent Network visualization](#pat-vos)
+
 [⬇️ Download at https://www.vosviewer.com/](https://www.vosviewer.com/)
+:::
 :::
 
 :::
+
+
+### VOSviewer: Terminology
+
+1. **Maps** are created by **items**
+2. **Items** are object of interest → 📚*Publications*, 👩🏻‍🔬👨🏻‍🔬*Researchers* or 🔤*Terms*
+3. **Links** are the relations between two items.
+    - Each link has a *Strength* → Positive number. The higher, the stronger. 
+    <br> For instance:
+      - **Bibliographic coupling** : Number of cited references two publications have in common.
+      - Co-authorship: number of publications that two researches have co-authored.
+      - Co-occurence: Number of publications in which two terms occur together.
+     
+3. **Clusters** are a group of **items** 
+
+
 
 # Tutorials
 
@@ -381,7 +409,7 @@ The idea is to obtain the **metadata of the scientific** documentation.
 
 Structure of the search equation:
 
-`(key1 OR key2) AND (key3 OR key4) AND (key5 OR key6)`
+`(key1 OR key2) AND (key3 OR key4) AND (key5 OR key6)`{style="background-color: #D3D3D3" }
 
 ![](figures/openalex/OA-03.png){width="80%" fig-align="center"}
 
@@ -392,7 +420,13 @@ Structure of the search equation:
 
 :::{layout="[40, 60]" layout-valign="top"}
 :::{}
-1. Type of works
+**Type of search:**
+
+- Works
+- Authors
+- Sources
+- Institutions
+
 
 ![](figures/openalex/OA-05.png)
 :::
@@ -438,7 +472,6 @@ Each work can be identified
 
 
 ### Connecting of OpenAlex
-
 
 :::{layout="[50,50]"}
 :::{}

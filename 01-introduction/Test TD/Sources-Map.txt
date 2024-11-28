@@ -1,0 +1,646 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Documents>	weight<Citations>	weight<Norm. citations>	score<Avg. pub. year>	score<Avg. citations>	score<Avg. norm. citations>
+1	10th international conference on greenhouse gas control technologies	0.2654	-0.4583	35	0	0	1	13	0.6981	2011	13	0.6981
+2	"11th international conference interdisciplinarity in engineering, inter-eng 2017"	-0.3576	0.0782	36	0	0	1	4	0.1186	2018	4	0.1186
+3	16th international scientific conference: engineering for rural development	0.8037	-0.3883	37	0	0	1	0	0	2017	0	0
+4	"17th international conference on optical fibre sensors, pts 1 and 2"	-0.6283	0.5607	38	0	0	1	0	0	2005	0	0
+5	17th world textile conference autex 2017 - shaping the future of textiles	-0.5974	-0.733	39	0	0	1	7	0.2536	2017	7	0.2536
+6	"2001 second international conference on engineering materials, vol i"	0.4858	0.2415	40	0	0	1	0	0	2001	0	0
+7	"2004 ieee power engineering society general meeting, vols 1 and 2"	0.7259	0.0901	41	0	0	1	58	0.7283	2004	58	0.7283
+8	"2007 ieee power electronics specialists conference, vols 1-6"	-0.8094	0.409	42	0	0	1	15	0.7143	2007	15	0.7143
+9	2010 4th international conference on bioinformatics and biomedical engineering (icbbe 2010)	0.4476	0.8309	43	0	0	1	0	0	2010	0	0
+10	2010 american control conference	-0.6468	0.6247	44	0	0	1	0	0	2010	0	0
+11	2011 41st european microwave conference	0.1239	-0.769	45	0	0	1	8	0.4296	2011	8	0.4296
+12	"2011 international conference on electronics, communications and control (icecc)"	-0.5489	-0.2947	46	0	0	1	0	0	2011	0	0
+13	2011 optical fiber communication conference and exposition (ofc/nfoec) and the national fiber optic engineers conference	-0.2946	-0.8983	47	0	0	1	0	0	2011	0	0
+14	"2011 tenth international symposium on distributed computing and applications to business, engineering and science (dcabes)"	-0.8055	-0.5005	48	0	0	1	1	0.0537	2011	1	0.0537
+15	2012 38th ieee photovoltaic specialists conference (pvsc)	0.458	0.4701	49	0	0	1	12	0.4308	2012	12	0.4308
+16	2013 international symposium on environmental science and technology (2013 isest)	-0.2108	-0.636	50	0	0	1	7	0.191	2013	7	0.191
+17	"2014 ieee international conference on acoustics, speech and signal processing (icassp)"	0.4619	0.0828	51	0	0	1	0	0	2014	0	0
+18	2015 conference on raising awareness for the societal and environmental role of engineering and (re) training engineers for participatory design (engineering4society)	0.6676	-0.067	52	0	0	1	2	0.0713	2015	2	0.0713
+19	2015 ieee 42nd photovoltaic specialist conference (pvsc)	0.589	0.7384	53	0	0	1	0	0	2015	0	0
+20	2015 ieee global communications conference (globecom)	-0.0056	0.6938	54	0	0	1	6	0.2138	2015	6	0.2138
+21	2016 ieee 43rd photovoltaic specialists conference (pvsc)	-0.4291	-0.7864	55	0	0	1	1	0.0354	2016	1	0.0354
+22	2017 22nd asia and south pacific design automation conference (asp-dac)	0.6141	0.0037	56	0	0	1	2	0.0724	2017	2	0.0724
+23	2017 ieee international conference on industrial engineering and engineering management (ieem)	-0.5264	0.7838	57	0	0	1	1	0.0362	2017	1	0.0362
+24	2018 15th ieee annual consumer communications & networking conference (ccnc)	-0.0411	0.943	58	0	0	1	1	0.0297	2018	1	0.0297
+25	"2018 56th annual allerton conference on communication, control, and computing (allerton)"	-0.2614	-0.9072	59	0	0	1	14	0.4152	2018	14	0.4152
+26	2018 7th international congress on advanced applied informatics (iiai-aai 2018)	-0.0706	0.8885	60	0	0	1	2	0.0593	2018	2	0.0593
+27	"2018 ieee international conference on engineering, technology and innovation (ice/itmc)"	-0.8365	-0.0027	13	4	4	1	38	1.127	2018	38	1.127
+28	2018 ieee international conference on industrial engineering and engineering management (ieee ieem)	-0.5642	0.4292	61	0	0	1	2	0.0593	2018	2	0.0593
+29	2019 american control conference (acc)	-0.5305	-0.4559	62	0	0	2	2	0.085	2019	1	0.0425
+30	2020 23rd international conference on electrical machines and systems (icems)	-0.2229	0.1099	10	1	1	1	1	0.0528	2020	1	0.0528
+31	2020 4th international workshop on renewable energy and development (iwred 2020)	0.1527	-0.8866	63	0	0	1	0	0	2020	0	0
+32	2020 chinese automation congress (cac 2020)	-0.6987	-0.6379	64	0	0	1	2	0.1057	2020	2	0.1057
+33	2021 ieee 29th international conference on network protocols (icnp 2021)	-0.0734	-0.1841	28	1	1	1	4	0.1286	2021	4	0.1286
+34	2021 ieee 48th photovoltaic specialists conference (pvsc)	0.321	0.082	14	1	1	1	3	0.0964	2021	3	0.0964
+35	"2023 14th power electronics, drive systems, and technologies conference, pedstc"	-0.5152	-0.66	65	0	0	1	0	0	2023	0	0
+36	"2023 asia meeting on environment and electrical engineering, eee-am"	0.6064	0.1604	66	0	0	1	0	0	2023	0	0
+37	"2023 ieee 43rd international conference on distributed computing systems, icdcs"	-0.38	-0.0786	15	1	1	1	0	0	2023	0	0
+38	"2024 20th international conference on distributed computing in smart systems and the internet of things, dcoss-iot 2024"	-0.7519	0.4927	67	0	0	1	0	0	2024	0	0
+39	20th european symposium on computer aided process engineering	-0.8422	0.2284	1	2	3	1	9	0.42	2010	9	0.42
+40	25th cirp life cycle engineering (lce) conference	0.9448	-0.0943	68	0	0	1	17	0.5042	2018	17	0.5042
+41	"27th ieee/acis international summer conference on software engineering artificial intelligence networking and parallel/distributed computing, snpd 2024-summer"	0.1339	0.5925	69	0	0	1	0	0	2024	0	0
+42	"2nd annual international conference on energy, environmental & sustainable ecosystem development (eesed 2016)"	0.2101	0.3663	70	0	0	1	0	0	2016	0	0
+43	2nd international conference on composite materials and material engineering (iccmme2017)	0.8697	-0.1361	71	0	0	1	1	0.0362	2017	1	0.0362
+44	3d printing and additive manufacturing	-0.8297	-0.0368	4	14	33	2	78	5.1572	2021.5	39	2.5786
+45	3rd annual applied science and engineering conference (aasec 2018)	0.2882	0.8982	72	0	0	1	1	0.0297	2018	1	0.0297
+46	"3rd international conference on civil engineering, architecture and sustainable infrastructure, icceasi 2015"	0.7502	-0.4854	73	0	0	1	0	0	2015	0	0
+47	"3rd international conference on energy, environmental and information system (icenis 2018)"	0.1322	-0.9358	74	0	0	1	0	0	2018	0	0
+48	"3rd international conference on manufacturing, material and metallurgical engineering"	0.7779	-0.3159	75	0	0	1	0	0	2018	0	0
+49	3rd world water congress: efficient water supply and water reuse	-0.8398	0.0738	3	1	1	1	12	1.1786	2003	12	1.1786
+50	"7th iswa international congress, proceedings i"	-0.0171	-0.4885	76	0	0	1	0	0	1996	0	0
+51	8th rilem international symposium on testing and characterization of sustainable and innovative bituminous materials	0.4774	0.8155	77	0	0	1	1	0.0354	2016	1	0.0354
+52	"9th international symposium on heating, ventilation and air conditioning (ishvac) joint with the 3rd international conference on building energy and environment (cobee)"	0.2032	-0.3788	78	0	0	1	4	0.1425	2015	4	0.1425
+53	accounts of chemical research	0.1911	0.9244	79	0	0	1	17	1.7257	2022	17	1.7257
+54	acm journal on emerging technologies in computing systems	0.3465	-0.6736	80	0	0	1	5	0.2642	2020	5	0.2642
+55	acm transactions on information and system security	0.1153	0.209	81	0	0	1	7	0.3759	2011	7	0.3759
+56	acs applied nano materials	-0.2055	-0.1864	19	1	1	2	16	1.0564	2021	8	0.5282
+57	acs applied polymer materials	0.5794	0.5702	82	0	0	1	0	0	2024	0	0
+58	acs omega	0.6345	-0.3001	83	0	0	1	1	0.168	2023	1	0.168
+59	acs photonics	-0.2055	-0.1864	19	1	1	1	55	1.9486	2016	55	1.9486
+60	acs sustainable chemistry & engineering	-0.3955	0.4607	84	0	0	2	54	1.661	2019.5	27	0.8305
+61	acta chimica sinica	-0.2858	-0.6495	85	0	0	1	9	0.326	2017	9	0.326
+62	acta logistica	0.3704	-0.5954	86	0	0	1	1	0.1015	2022	1	0.1015
+63	acta metallurgica sinica	-0.5943	0.3484	87	0	0	1	3	0.0489	2014	3	0.0489
+64	adaptive behavior	-0.7983	-0.424	88	0	0	1	13	0.4606	2016	13	0.4606
+65	additive manufacturing	-0.82	-0.0167	4	22	93	5	473	19.7122	2019	94.6	3.9424
+66	advanced composite materials	-0.3182	-0.3156	89	0	0	2	20	0.9114	2013	10	0.4557
+67	advanced energy and sustainability research	-0.1623	-0.9307	90	0	0	1	2	0.203	2022	2	0.203
+68	advanced energy materials	-0.2612	0.3406	91	0	0	1	37	0.6035	2014	37	0.6035
+69	advanced engineering materials	0.1674	-0.2872	92	0	0	1	0	0	2024	0	0
+70	advanced functional materials	0.0519	0.5547	93	0	0	1	84	2.6996	2021	84	2.6996
+71	advanced industrial and engineering polymer research	-0.4323	0.7984	9	1	2	1	40	1.2855	2021	40	1.2855
+72	advanced optical materials	0.2596	-0.3006	94	0	0	1	18	1.8272	2022	18	1.8272
+73	advanced powder technology	-0.2082	0.9207	95	0	0	1	1	0.75	2024	1	0.75
+74	advanced science	-0.3716	0.8661	96	0	0	1	5	0.8398	2023	5	0.8398
+75	advanced synthesis & catalysis	0.0695	-0.2591	97	0	0	1	4	0.1867	2010	4	0.1867
+76	advances in applied energy	0.0346	0.3652	98	0	0	1	30	0.9641	2021	30	0.9641
+77	"advances in applied science and industrial technology, pts 1 and 2"	-0.1852	0.8113	99	0	0	1	1	0.0273	2013	1	0.0273
+78	advances in material & processing technologies conference	-0.2234	-0.066	20	1	1	1	18	0.652	2017	18	0.652
+79	advances in material sciences and engineering	-0.2234	-0.066	20	1	1	1	5	0.2642	2020	5	0.2642
+80	advances in polymer technology	-0.0976	-0.0441	30	1	1	1	9	0.4755	2020	9	0.4755
+81	"advances in production management systems: innovative and knowledge-based production management in a global-local world, apms 2014, pt ii"	0.2117	0.6365	100	0	0	1	2	0.0326	2014	2	0.0326
+82	advances in water resources	0.9136	-0.1146	101	0	0	1	12	0.2531	2006	12	0.2531
+83	african vision and eye health journal	0.5785	-0.0741	102	0	0	1	0	0	2023	0	0
+84	agricultural systems	0.0192	0.8362	103	0	0	1	8	0.2571	2021	8	0.2571
+85	agronomy for sustainable development	-0.3971	0.6769	104	0	0	1	4	0.6719	2023	4	0.6719
+86	aiaa journal	-0.3706	-0.4094	105	0	0	1	63	3.3833	2011	63	3.3833
+87	aiche journal	-0.8413	0.2148	1	7	10	5	43	1.999	2017.6	8.6	0.3998
+88	aina 2003: 17th international conference on advanced information networking and applications	0.6682	-0.3819	106	0	0	1	7	0.6875	2003	7	0.6875
+89	"airfield and highway pavements 2023: design, construction, condition evaluation, and management of pavements"	0.8049	-0.2445	107	0	0	1	0	0	2023	0	0
+90	algal research-biomass biofuels and bioproducts	-0.3403	0.5169	108	0	0	1	11	0.4675	2019	11	0.4675
+91	ambio	0.8373	0.0043	109	0	0	1	155	5.6143	2017	155	5.6143
+92	american journal of physiology-cell physiology	-0.1882	-0.3293	16	1	1	1	136	1.7082	2002	136	1.7082
+93	animal feed science and technology	-0.6588	-0.5188	110	0	0	1	6	0.2173	2017	6	0.2173
+94	annals of nuclear energy	0.2565	0.909	111	0	0	1	1	0.0528	2020	1	0.0528
+95	appita	0.0298	0.2462	112	0	0	1	0	0	2018	0	0
+96	applied chemistry for engineering	0.0272	0.9445	113	0	0	1	1	0.0425	2019	1	0.0425
+97	applied clay science	-0.6159	0.4898	114	0	0	1	18	0.7649	2019	18	0.7649
+98	applied energy	-0.5701	-0.7535	115	0	0	2	171	6.0713	2021.5	85.5	3.0356
+99	applied physics letters	0.3209	0.0821	14	2	2	2	71	3.0527	2009.5	35.5	1.5264
+100	applied radiation and isotopes	0.2047	0.8015	116	0	0	1	10	0.3563	2015	10	0.3563
+101	applied sciences-basel	0.8411	0.307	117	0	0	7	39	3.5569	2021.5714	5.5714	0.5081
+102	applied soft computing	0.0412	-0.9001	118	0	0	1	113	3.6316	2021	113	3.6316
+103	applied surface science	0.6489	-0.6155	119	0	0	1	58	1.5823	2013	58	1.5823
+104	applied thermal engineering	0.0488	0.4616	120	0	0	1	44	1.5938	2017	44	1.5938
+105	applied water science	0.5785	-0.6153	121	0	0	1	2	0.3359	2023	2	0.3359
+106	aquaculture international	0.8971	0.0461	122	0	0	1	2	0.203	2022	2	0.203
+107	archives of metallurgy and materials	-0.3123	0.0035	123	0	0	1	0	0	2019	0	0
+108	asian journal of chemistry	-0.3895	0.58	124	0	0	1	0	0	2014	0	0
+109	atmospheric chemistry and physics	0.3145	-0.8756	7	1	1	1	182	2.9685	2014	182	2.9685
+110	atmospheric environment	-0.4228	-0.8453	125	0	0	1	81	2.2097	2013	81	2.2097
+111	atmospheric pollution research	0.945	0.0768	126	0	0	1	13	0.4667	2012	13	0.4667
+112	automatica	-0.4058	-0.7298	127	0	0	1	4	0.0729	1996	4	0.0729
+113	autophagy	0.4992	0.5932	128	0	0	1	9	0.4191	2009	9	0.4191
+114	best practice & research clinical haematology	-0.2998	-0.721	129	0	0	1	309	6.6759	2005	309	6.6759
+115	biocell	0.6312	-0.7055	130	0	0	1	3	0.3045	2022	3	0.3045
+116	biochemical and biophysical research communications	0.4371	0.5488	131	0	0	3	79	3.5908	2002.3333	26.3333	1.1969
+117	biochemical engineering journal	-0.8525	0.4019	132	0	0	1	14	0.1641	2000	14	0.1641
+118	biochemical journal	0.3153	-0.1281	133	0	0	2	53	0.8116	1988.5	26.5	0.4058
+119	biochimica et biophysica acta-bioenergetics	-0.7093	0.4535	134	0	0	1	107	1.7452	2014	107	1.7452
+120	biochimica et biophysica acta-molecular cell research	-0.4368	-0.0177	135	0	0	1	11	0.5907	2011	11	0.5907
+121	biocycle	0.397	-0.3744	136	0	0	2	0	0	1998	0	0
+122	biofuels bioproducts & biorefining-biofpr	0.2916	0.4864	137	0	0	1	8	0.8121	2022	8	0.8121
+123	biology letters	0.6988	-0.1487	138	0	0	1	1	0.75	2024	1	0.75
+124	biomass & bioenergy	0.3709	0.497	139	0	0	1	52	2.7926	2011	52	2.7926
+125	"biomimetic and biohybrid systems, living machines 2020"	0.6813	0.4844	140	0	0	1	3	0.1585	2020	3	0.1585
+126	bioresource technology	0.1031	0.3115	141	0	0	2	44	2.2115	2011.5	22	1.1058
+127	biosystems engineering	0.7571	0.5647	142	0	0	1	6	0.1779	2018	6	0.1779
+128	boletim do instituto de pesca	-0.0473	-0.5784	143	0	0	1	13	0.3855	2018	13	0.3855
+129	brain research	-0.4521	0.6919	144	0	0	1	23	0.2889	2002	23	0.2889
+130	british food journal	-0.2727	-0.5655	145	0	0	1	7	0.2076	2018	7	0.2076
+131	buildings	0.8459	0.4198	146	0	0	1	0	0	2023	0	0
+132	bunseki kagaku	0.9047	-0.2708	147	0	0	1	1	0.0425	2019	1	0.0425
+133	canadian geotechnical journal	-0.5109	0.68	148	0	0	1	7	0.2975	2019	7	0.2975
+134	canadian journal of chemical engineering	-0.1081	0.9379	149	0	0	1	0	0	2016	0	0
+135	cancer science	0.8798	-0.0682	150	0	0	1	9	0.9136	2022	9	0.9136
+136	carbohydrate polymers	0.5151	0.1595	151	0	0	1	27	1.4265	2020	27	1.4265
+137	"carbon dioxide capture for storage in deep geologic formations - results from the co2 capture project, vols 1 and 2: vol 1 - capture and separation of carbon dioxide from combustion, vol 2 - geologic storage of carbon dioxide with monitoring and verification"	0.3641	0.6671	152	0	0	1	13	0.2809	2005	13	0.2809
+138	case studies in construction materials	-0.3261	-0.886	153	0	0	1	30	0.9641	2021	30	0.9641
+139	cell structure and function	-0.1419	0.9339	154	0	0	1	21	0.6389	1998	21	0.6389
+140	cellular and molecular life sciences	0.5239	0.0062	155	0	0	1	31	1.7282	2008	31	1.7282
+141	cellular and molecular neurobiology	-0.3806	-0.8152	156	0	0	1	8	0.1004	2004	8	0.1004
+142	cellular signalling	-0.1883	-0.3292	16	1	1	1	12	0.5588	2009	12	0.5588
+143	cement & concrete composites	0.9217	-0.1885	26	1	1	2	29	1.7642	2020.5	14.5	0.8821
+144	ceramics international	-0.4633	-0.6993	157	0	0	1	2	0.3359	2023	2	0.3359
+145	chaos solitons & fractals	-0.0664	-0.9235	5	1	1	3	10	0.8279	2010	3.3333	0.276
+146	"characterization of minerals, metals, and materials 2018"	-0.6035	-0.4108	158	0	0	1	1	0.0297	2018	1	0.0297
+147	chemcatchem	0.7692	0.4549	159	0	0	1	124	4.4513	2012	124	4.4513
+148	chemengineering	0.7933	0.4061	160	0	0	1	3	0.1585	2020	3	0.1585
+149	chemical engineering and processing-process intensification	0.3917	0.4144	161	0	0	1	1	0.75	2024	1	0.75
+150	chemical engineering journal	0.8998	0.2944	162	0	0	1	19	1.9287	2022	19	1.9287
+151	chemical engineering journal advances	-0.485	-0.5157	163	0	0	2	6	0.317	2022	3	0.1585
+152	chemical engineering research & design	-0.8413	0.1919	1	3	4	1	130	3.9554	1998	130	3.9554
+153	chemical engineering science	-0.8421	0.2329	1	1	1	1	48	0.8754	1996	48	0.8754
+154	chemical geology	-0.0778	0.2062	21	1	1	2	23	0.6821	2021	11.5	0.3411
+155	chemical journal of chinese universities-chinese	0.4311	0.6319	164	0	0	1	2	0.0422	2006	2	0.0422
+156	chemical science	0.5387	-0.4359	165	0	0	1	94	3.9947	2019	94	3.9947
+157	chemistry-a european journal	0.8795	0.2594	166	0	0	1	4	0.2113	2020	4	0.2113
+158	chemosphere	-0.855	-0.1328	2	1	1	4	283	6.5327	2013	70.75	1.6332
+159	chinese chemical letters	0.1011	-0.6296	167	0	0	1	34	1.0083	2018	34	1.0083
+160	cirp annals-manufacturing technology	-0.7811	0.0121	8	1	1	1	95	1.5495	2014	95	1.5495
+161	civil engineering	0.6251	0.3022	168	0	0	1	0	0	2008	0	0
+162	clean technologies and environmental policy	-0.8413	0.1954	1	4	5	3	29	1.041	2016	9.6667	0.347
+163	"clean technology 2009: bioenergy, renewables, storage, grid, waste and sustainability"	-0.6542	-0.6167	169	0	0	1	0	0	2009	0	0
+164	cleaner engineering and technology	-0.7848	0.0052	8	2	2	1	16	0.5142	2021	16	0.5142
+165	cleaner environmental systems	-0.6097	0.723	170	0	0	1	0	0	2023	0	0
+166	cleaner logistics and supply chain	0.6447	0.5469	171	0	0	1	1	0.75	2024	1	0.75
+167	cleaner waste systems	-0.8166	-0.0389	11	9	15	1	6	1.0078	2023	6	1.0078
+168	climate dynamics	-0.1203	0.5788	22	1	1	1	68	2.0166	2018	68	2.0166
+169	coal combustion facing the 21st century	0.6248	0.6225	172	0	0	1	0	0	2003	0	0
+170	coatings	-0.7242	0.5405	173	0	0	1	7	1.1758	2023	7	1.1758
+171	composites part a-applied science and manufacturing	-0.4325	0.7983	9	2	3	2	173	7.3542	2013	86.5	3.6771
+172	composites science and technology	-0.4332	0.798	9	1	1	1	70	2.5355	2017	70	2.5355
+173	"computational logistics, iccl 2020"	-0.0447	0.0756	23	1	1	1	5	0.2642	2020	5	0.2642
+174	computer applications in biotechnology 1998: horizon of bioprocess systems engineering in 21st century	0.3206	0.8888	174	0	0	1	0	0	1998	0	0
+175	computers & chemical engineering	-0.8421	0.2236	1	7	9	12	347	11.9928	2007.8333	28.9167	0.9994
+176	computers & operations research	-0.0448	0.0756	23	1	1	1	1	0.75	2024	1	0.75
+177	computers in industry	-0.4843	0.4477	175	0	0	1	30	0.9128	1998	30	0.9128
+178	"conference record of the 2006 ieee 4th world conference on photovoltaic energy conversion, vols 1 and 2"	0.5242	-0.153	176	0	0	1	7	0.1476	2006	7	0.1476
+179	conference record of the thirty-first ieee photovoltaic specialists conference - 2005	0.9217	0.1927	17	1	1	1	3	0.0648	2005	3	0.0648
+180	construction and building materials	-0.2543	0.812	177	0	0	14	251	22.8815	2022	17.9286	1.6344
+181	"construction research congress 2022: project management and delivery, contracts, and design and materials"	-0.2524	-0.4784	178	0	0	1	1	0.1015	2022	1	0.1015
+182	control engineering practice	0.0481	-0.7851	179	0	0	1	36	1.6765	2009	36	1.6765
+183	crystals	0.2022	-0.9236	180	0	0	2	21	1.6852	2021.5	10.5	0.8426
+184	cuban journal of agricultural science	0.6401	0.4287	181	0	0	1	2	0.0251	2002	2	0.0251
+185	cue 2015 - applied energy symposium and summit 2015: low carbon cities and urban energy systems	-0.2942	0.852	182	0	0	1	2	0.0709	2016	2	0.0709
+186	current biology	-0.8641	-0.3731	24	1	1	1	301	4.6707	2001	301	4.6707
+187	current pollution reports	0.0228	-0.8489	183	0	0	1	23	3.8633	2023	23	3.8633
+188	current science	0.3379	-0.2123	184	0	0	1	4	0.1417	2016	4	0.1417
+189	desalination	0.8259	0.1336	185	0	0	1	6	0.1265	2006	6	0.1265
+190	detritus	-0.0073	-0.7326	186	0	0	1	20	1.0567	2020	20	1.0567
+191	development	-0.7087	0.6257	187	0	0	1	25	0.682	2013	25	0.682
+192	digital chemical engineering	0.4433	0.3286	188	0	0	1	0	0	2024	0	0
+193	discrete and continuous dynamical systems-series b	-0.0671	-0.9243	5	2	3	1	31	1.6378	2020	31	1.6378
+194	distributed computing	0.9366	0.1324	189	0	0	1	6	0.3133	1999	6	0.3133
+195	distributed computing and artificial intelligence	-0.7133	-0.3733	190	0	0	2	6	0.2592	2014.5	3	0.1296
+196	"distributed computing, artificial intelligence, bioinformatics, soft computing, and ambient assisted living, pt ii, proceedings"	0.7485	-0.5755	191	0	0	1	1	0.0466	2009	1	0.0466
+197	"dynamics & control of process systems 1998, volumes 1 and 2"	-0.8422	0.225	1	1	1	1	0	0	1999	0	0
+198	ecological economics	-0.5095	0.7385	192	0	0	1	43	2.245	1999	43	2.245
+199	embo journal	0.1662	0.1043	33	1	1	2	110	1.314	1997.5	55	0.657
+200	energies	-0.8639	-0.0406	18	1	1	3	16	1.1718	2020.6667	5.3333	0.3906
+201	energy	-0.0812	-0.4155	193	0	0	1	7	0.2536	2017	7	0.2536
+202	energy and buildings	0.4488	-0.4419	194	0	0	1	8	1	1991	8	1
+203	"energy and clean technologies conference proceedings, sgem 2016, vol iii"	0.8468	-0.2877	195	0	0	1	0	0	2016	0	0
+204	energy conversion and management	0.0336	-0.067	25	1	1	1	39	2.1742	2008	39	2.1742
+205	energy economics	0.1402	-0.0942	196	0	0	2	80	2.7402	2016.5	40	1.3701
+206	energy education science and technology part a-energy science and research	-0.5656	-0.6154	197	0	0	1	5	0.1795	2012	5	0.1795
+207	energy sources part a-recovery utilization and environmental effects	-0.8205	-0.4693	198	0	0	1	6	0.255	2019	6	0.255
+208	energy storage materials	0.8144	0.4796	199	0	0	1	6	4.5	2024	6	4.5
+209	engineering applications of artificial intelligence	0.0638	0.9463	200	0	0	1	0	0	2024	0	0
+210	engineering construction and architectural management	0.1838	-0.4814	201	0	0	1	19	3.1914	2023	19	3.1914
+211	engineering structures	0.9217	-0.1885	26	1	1	4	161	5.9835	2020.25	40.25	1.4959
+212	environment development and sustainability	-0.4623	0.3129	202	0	0	2	6	0.317	2022	3	0.1585
+213	environmental & resource economics	-0.0167	0.892	203	0	0	1	4	0.6719	2023	4	0.6719
+214	environmental geochemistry and health	-0.6032	-0.3334	204	0	0	1	65	1.0602	2014	65	1.0602
+215	environmental pollution	0.2881	0.6477	205	0	0	1	0	0	2024	0	0
+216	environmental processes-an international journal	0.6148	-0.6615	206	0	0	1	0	0	2024	0	0
+217	environmental research	0.1575	0.9322	207	0	0	1	4	0.406	2022	4	0.406
+218	environmental science & technology	-0.8566	0.0704	3	1	1	5	371	8.8894	2010.8	74.2	1.7779
+219	environmental science and pollution research	0.3947	-0.8121	208	0	0	2	57	2.1809	2018.5	28.5	1.0905
+220	environmental science-water research & technology	0.7769	0.5372	209	0	0	1	34	1.2315	2017	34	1.2315
+221	environmental technology	0.5055	0.7963	210	0	0	2	117	1.3716	2012	58.5	0.6858
+222	environmental technology & innovation	-0.7542	-0.0461	6	1	1	1	0	0	2024	0	0
+223	environmentally conscious manufacturing	0.8828	-0.3363	211	0	0	1	9	0.1397	2001	9	0.1397
+224	enzyme and microbial technology	0.1576	-0.8279	212	0	0	1	69	2.4769	2012	69	2.4769
+225	ethnography	-0.2797	-0.7876	213	0	0	1	5	0.5075	2022	5	0.5075
+226	eukaryotic cell	0.5345	0.7791	214	0	0	1	18	0.491	2013	18	0.491
+227	eurasian journal of educational research	-0.3151	0.6403	31	1	1	1	0	0	2024	0	0
+228	euro-par 2021: parallel processing workshops	0.0721	0.7238	215	0	0	1	0	0	2022	0	0
+229	european journal of cell biology	0.6455	0.0833	216	0	0	2	87	3.3383	1996	43.5	1.6691
+230	european journal of environmental and civil engineering	0.4615	-0.8226	217	0	0	1	34	1.4449	2019	34	1.4449
+231	european journal of soil biology	0.6199	-0.5579	218	0	0	1	12	0.4252	2016	12	0.4252
+232	european journal of wood and wood products	-0.2314	0.8677	219	0	0	1	34	1.0083	2018	34	1.0083
+233	european polymer journal	0.599	0.6734	220	0	0	1	34	1.7963	2020	34	1.7963
+234	european symposium on computer aided process engineering - 12	-0.6678	-0.4319	221	0	0	1	1	0.0126	2002	1	0.0126
+235	expanding boundaries: systems thinking in the built environment	-0.7518	-0.0411	6	1	1	1	0	0	2016	0	0
+236	"experimental and applied mechanics, vol 4"	0.2969	0.7179	222	0	0	1	0	0	2017	0	0
+237	expert systems with applications	0.0377	-0.5699	223	0	0	3	20	2.7523	2015.3333	6.6667	0.9174
+238	express polymer letters	-0.0835	-0.7408	224	0	0	2	20	1.5384	2016	10	0.7692
+239	febs letters	0.2252	-0.1224	225	0	0	1	26	0.3048	2000	26	0.3048
+240	fibre chemistry	-0.7705	-0.3769	226	0	0	1	0	0	2024	0	0
+241	food policy	0.1405	0.8889	227	0	0	1	5	0.2328	2009	5	0.2328
+242	"fourth international symposium on environmentally conscious design and inverse manufacturing, proceedings"	-0.6175	-0.5706	228	0	0	2	1	0.0216	2005	0.5	0.0108
+243	free radical biology and medicine	-0.1162	0.4673	229	0	0	1	23	0.6275	2013	23	0.6275
+244	fresenius environmental bulletin	0.231	0.1983	230	0	0	2	0	0	2021.5	0	0
+245	freshwater biology	0.6162	0.7171	231	0	0	1	3	0.3045	2022	3	0.3045
+246	frontiers in energy research	0.2647	-0.7761	232	0	0	2	4	3	2024	2	1.5
+247	frontiers in plant science	0.5508	-0.7679	233	0	0	1	15	0.7925	2020	15	0.7925
+248	frontiers in psychology	-0.8603	-0.1466	2	1	1	1	50	1.4828	2018	50	1.4828
+249	frontiers in robotics and ai	0.8702	-0.2335	234	0	0	1	0	0	2024	0	0
+250	frontiers in sustainable food systems	0.8394	-0.4313	235	0	0	1	0	0	2024	0	0
+251	fuel	-0.1171	0.8206	236	0	0	4	30	6.5199	2023	7.5	1.63
+252	fuel processing technology	-0.2425	0.9149	237	0	0	2	38	2.0303	2015.5	19	1.0151
+253	functional composites and structures	-0.555	-0.5421	238	0	0	1	2	0.1057	2020	2	0.1057
+254	future internet	0.0635	0.6424	239	0	0	1	19	1.0038	2020	19	1.0038
+255	gazi university journal of science	-0.7666	-0.558	240	0	0	1	1	0.0528	2020	1	0.0528
+256	genetics	-0.226	-0.7215	241	0	0	1	15	1.4732	2003	15	1.4732
+257	geo-congress 2023: geotechnical systems from pore-scale to city-scale	-0.5382	0.532	27	1	1	1	0	0	2023	0	0
+258	geochemistry geophysics geosystems	0.9432	0.0059	242	0	0	2	29	0.932	2021	14.5	0.466
+259	geochimica et cosmochimica acta	0.6265	-0.4468	243	0	0	1	32	1.0284	2021	32	1.0284
+260	"geoconference on nano, bio and green - technologies for a sustainable future, vol ii (sgem 2014)"	0.7794	0.2934	244	0	0	2	2	0.0326	2014	1	0.0163
+261	geological society of america bulletin	-0.8517	-0.4112	245	0	0	1	0	0	2024	0	0
+262	geomicrobiology journal	-0.2752	0.9026	246	0	0	1	26	0.9264	2015	26	0.9264
+263	geosynthetics international	0.6583	-0.6791	247	0	0	1	19	0.6882	2017	19	0.6882
+264	"geotechnical engineering for disaster mitigation and rehabilitation 2011/geotechnical and highway engineering - practical applications, challenges and opportunities"	0.5029	0.7378	248	0	0	1	0	0	2011	0	0
+265	globalization and intercultural dialogue: multidisciplinary perspectives - literature	-0.0747	0.9417	249	0	0	1	0	0	2014	0	0
+266	green chemistry	0.535	-0.569	250	0	0	1	144	5.1306	2015	144	5.1306
+267	gut microbes	-0.2177	-0.8021	251	0	0	1	6	1.0078	2023	6	1.0078
+268	habitat international	-0.0005	0.7684	252	0	0	1	36	1.2755	2016	36	1.2755
+269	"handbook of waste management and co-product recovery in food processing, volume 2"	-0.2149	0.6072	253	0	0	1	6	0.2794	2009	6	0.2794
+270	hardwarex	-0.8319	-0.0233	4	10	22	2	11	1.8477	2023	5.5	0.9238
+271	health physics	0.9224	0.1009	254	0	0	3	84	3.6774	1997	28	1.2258
+272	hearing research	0.74	0.5011	255	0	0	1	6	0.317	2020	6	0.317
+273	histochemistry and cell biology	0.9119	0.2508	256	0	0	1	39	0.4572	2000	39	0.4572
+274	historical archaeology	0.7067	-0.3181	257	0	0	1	0	0	2020	0	0
+275	holzforschung	-0.1179	0.3739	258	0	0	1	11	0.2377	2005	11	0.2377
+276	horticultural plant journal	-0.5019	0.8113	259	0	0	1	4	0.2113	2020	4	0.2113
+277	hydrometallurgy	-0.2984	0.2544	260	0	0	2	11	1.1122	2020.5	5.5	0.5561
+278	"iciea 2008: 3rd ieee conference on industrial electronics and applications, proceedings, vols 1-3"	0.4919	-0.3658	261	0	0	1	1	0.0557	2008	1	0.0557
+279	icim' 2002: proceedings of the sixth china-japan international conference on industrial management	0.1955	0.8704	262	0	0	1	0	0	2002	0	0
+280	ieee access	0.3524	0.8763	263	0	0	2	6	0.6091	2022.5	3	0.3045
+281	ieee infocom 2016 - the 35th annual ieee international conference on computer communications	0.3817	0.7349	264	0	0	1	13	0.4606	2016	13	0.4606
+282	ieee international symposium on industrial electronics (isie 2010)	-0.6602	0.6754	265	0	0	1	4	0.1867	2010	4	0.1867
+283	ieee journal of quantum electronics	-0.8388	-0.4408	266	0	0	1	125	3.8032	1998	125	3.8032
+284	ieee journal on selected areas in communications	0.9441	0.0404	267	0	0	1	38	1.6149	2019	38	1.6149
+285	ieee photonics technology letters	0.5499	0.7052	268	0	0	1	0	0	2023	0	0
+286	ieee sensors journal	0.1217	-0.4224	269	0	0	1	1	0.75	2024	1	0.75
+287	ieee systems journal	0.2492	-0.6931	270	0	0	1	7	0.2536	2017	7	0.2536
+288	ieee transactions on applied superconductivity	-0.2191	-0.8655	271	0	0	1	5	0.1607	2021	5	0.1607
+289	ieee transactions on circuits and systems i-regular papers	-0.0374	0.424	272	0	0	1	19	0.6821	2012	19	0.6821
+290	ieee transactions on cloud computing	-0.1498	-0.6883	273	0	0	1	9	0.2669	2018	9	0.2669
+291	ieee transactions on education	0.873	0.3588	274	0	0	1	0	0	2024	0	0
+292	ieee transactions on engineering management	-0.0408	0.317	275	0	0	1	137	1.7208	2002	137	1.7208
+293	ieee transactions on industrial electronics	-0.223	0.1101	10	2	2	2	250	7.1868	2014.5	125	3.5934
+294	ieee transactions on information forensics and security	0.3191	0.2158	276	0	0	1	14	0.7397	2020	14	0.7397
+295	ieee transactions on information theory	0.2098	-0.8772	277	0	0	1	2	0.203	2022	2	0.203
+296	ieee transactions on intelligent vehicles	0.3189	-0.5336	278	0	0	1	8	1.3438	2023	8	1.3438
+297	ieee transactions on microwave theory and techniques	-0.0352	-0.3119	29	1	1	2	109	3.8916	2013.5	54.5	1.9458
+298	ieee transactions on parallel and distributed systems	-0.38	-0.0786	15	2	2	2	71	2.2962	2015	35.5	1.1481
+299	ieee transactions on power electronics	-0.223	0.1102	10	1	1	4	228	7.8102	2017.75	57	1.9525
+300	ieee transactions on vehicular technology	0.6905	0.1623	279	0	0	1	16	1.6241	2022	16	1.6241
+301	ieee transactions on very large scale integration (vlsi) systems	0.7146	0.6197	280	0	0	1	2	0.0713	2015	2	0.0713
+302	ieee transactions on wireless communications	-0.0734	-0.1841	28	1	1	1	9	0.2669	2018	9	0.2669
+303	ieej journal of industry applications	-0.3261	-0.8322	281	0	0	1	2	0.0643	2021	2	0.0643
+304	iet microwaves antennas & propagation	-0.0352	-0.3119	29	1	1	1	1	0.0273	2013	1	0.0273
+305	iet power electronics	-0.2229	0.1099	10	2	2	2	35	1.038	2018	17.5	0.519
+306	ifac papersonline	0.6632	0.6658	282	0	0	1	4	0.17	2019	4	0.17
+307	ima journal of applied mathematics	-0.0675	-0.9243	5	2	2	1	45	1.3692	1998	45	1.3692
+308	ima journal of mathematical control and information	-0.842	0.2329	1	1	1	1	0	0	2024	0	0
+309	immunology	-0.2165	0.2572	283	0	0	1	21	0.6749	2021	21	0.6749
+310	"imtc/97 - ieee instrumentation & measurement technology conference: sensing, processing, networking, proceedings vols 1 and 2"	0.7201	-0.5299	284	0	0	1	7	0.3652	1997	7	0.3652
+311	indian journal of marine sciences	0.5551	0.6341	285	0	0	1	107	4.9828	2009	107	4.9828
+312	industrial & engineering chemistry research	-0.8415	0.2024	1	5	7	8	147	4.743	2012.75	18.375	0.5929
+313	industrial management & data systems	-0.6476	0.3663	286	0	0	1	19	0.5183	2013	19	0.5183
+314	industrial marketing management	-0.7318	0.5994	287	0	0	1	38	3.8573	2022	38	3.8573
+315	"information security practice and experience, ispec 2023"	-0.38	-0.0786	15	1	1	1	1	0.168	2023	1	0.168
+316	"instrumentation in the pulp and paper industry, vol 28: proceedings of the 32nd symposium"	0.4276	-0.1995	288	0	0	1	0	0	1992	0	0
+317	instrumentation science & technology	-0.6031	-0.485	289	0	0	1	0	0	2024	0	0
+318	"international conference on biomass: technology, application, and sustainable development, 2016"	0.3598	0.8266	290	0	0	1	0	0	2017	0	0
+319	"international high-performance built environment conference - a sustainable built environment conference 2016 series (sbe16), ihbe 2016"	0.5064	-0.2357	291	0	0	1	9	0.326	2017	9	0.326
+320	international journal of applied ceramic technology	0.5287	-0.7225	292	0	0	1	16	0.8453	2020	16	0.8453
+321	international journal of control	0.3552	-0.7749	293	0	0	1	1	1	1974	1	1
+322	international journal of electrical power & energy systems	-0.3396	0.8221	294	0	0	1	5	0.8398	2023	5	0.8398
+323	international journal of energy research	-0.2398	0.7512	295	0	0	2	24	0.8016	2018.5	12	0.4008
+324	international journal of environment and waste management	0.358	-0.4558	296	0	0	1	3	0.1585	2020	3	0.1585
+325	international journal of environmental research	0.5867	0.3746	297	0	0	1	5	0.1364	2013	5	0.1364
+326	international journal of hydrogen energy	0.0336	-0.067	25	1	1	1	29	0.473	2014	29	0.473
+327	international journal of integrated engineering	0.2093	0.4559	298	0	0	1	3	0.1585	2020	3	0.1585
+328	international journal of life cycle assessment	0.8825	0.132	299	0	0	1	24	0.6547	2013	24	0.6547
+329	international journal of materials research	-0.2728	-0.8526	300	0	0	1	17	0.6103	2012	17	0.6103
+330	international journal of pavement engineering	0.8593	0.3894	301	0	0	1	13	2.1836	2023	13	2.1836
+331	international journal of pharmacy practice	0.2199	0.719	302	0	0	1	0	0	2024	0	0
+332	international journal of production economics	0.7645	-0.0142	303	0	0	2	44	3.4629	2015.5	22	1.7315
+333	international journal of production research	-0.7815	0.0126	8	1	1	1	114	4.8446	2019	114	4.8446
+334	international journal of quantum information	-0.7568	0.4085	304	0	0	1	1	0.0297	2018	1	0.0297
+335	international journal of renewable energy development-ijred	-0.0976	-0.044	30	1	1	1	2	0.203	2022	2	0.203
+336	international journal of robust and nonlinear control	-0.8423	0.2274	1	2	2	2	14	1.2209	2020.5	7	0.6104
+337	international journal of sustainability in higher education	-0.3151	0.6404	31	1	1	3	40	3.1959	2020	13.3333	1.0653
+338	international materials reviews	0.2758	0.2979	305	0	0	1	5	3.75	2024	5	3.75
+339	"international scientific conference energy management of municipal facilities and sustainable energy technologies, emmft 2018, vol 1"	0.0215	-0.4117	306	0	0	1	1	0.0528	2020	1	0.0528
+340	international transactions on electrical energy systems	-0.6129	-0.6533	307	0	0	1	1	0.0321	2021	1	0.0321
+341	inventions	-0.8258	-0.0167	4	12	20	1	19	1.9287	2022	19	1.9287
+342	ionics	-0.674	-0.6635	308	0	0	1	6	0.317	2020	6	0.317
+343	island arc	-0.4247	0.3831	309	0	0	1	16	0.4745	2018	16	0.4745
+344	isme journal	0.7176	0.4228	310	0	0	1	40	2.1133	2020	40	2.1133
+345	japan journal of industrial and applied mathematics	0.4602	-0.5875	311	0	0	1	0	0	2019	0	0
+346	japanese journal of applied physics	0.1294	0.5012	312	0	0	1	13	0.7247	2008	13	0.7247
+347	"joint epri - 123himat international conference on advances in high-temperature materials, 2019"	0.7664	0.157	313	0	0	1	2	0.085	2019	2	0.085
+348	jom	0.2644	0.7852	314	0	0	2	28	0.7946	2012	14	0.3973
+349	journal of agricultural engineering	0.0785	-0.4979	315	0	0	1	13	0.5525	2019	13	0.5525
+350	journal of alloys and compounds	0.4416	-0.2936	316	0	0	3	89	4.3232	2021.3333	29.6667	1.4411
+351	journal of applied engineering sciences	-0.5851	0.6124	317	0	0	1	0	0	2024	0	0
+352	journal of applied physics	0.3209	0.0822	14	1	1	1	4	0.0652	2014	4	0.0652
+353	journal of applied polymer science	0.7077	0.5479	318	0	0	5	48	1.6271	2012.2	9.6	0.3254
+354	journal of applied science and engineering	-0.6779	0.5085	319	0	0	1	0	0	2023	0	0
+355	journal of archaeological science	-0.7428	-0.5847	320	0	0	1	3	2.25	2024	3	2.25
+356	journal of bacteriology	0.4874	-0.0761	321	0	0	1	1	0.168	2023	1	0.168
+357	journal of biochemical and biophysical methods	0.8338	0.1948	322	0	0	1	28	1.561	2008	28	1.561
+358	journal of biological chemistry	-0.1882	-0.3293	16	2	2	3	366	8.2473	2002.6667	122	2.7491
+359	journal of building engineering	0.3956	0.2503	323	0	0	4	46	6.076	2022.5	11.5	1.519
+360	journal of cell biology	-0.864	-0.3731	24	1	1	2	421	2	1991.5	210.5	1
+361	journal of cell science	0.6734	0.5982	324	0	0	3	90	2.1147	2010.3333	30	0.7049
+362	journal of cellular physiology	0.0911	-0.84	325	0	0	1	14	0.5071	2017	14	0.5071
+363	journal of chemical theory and computation	0.6646	-0.5044	326	0	0	1	23	1.2352	2011	23	1.2352
+364	journal of cleaner production	-0.8377	0.0417	3	39	117	32	1364	63.2818	2018.4375	42.625	1.9776
+365	journal of climate	-0.1538	-0.8336	327	0	0	1	60	0.7534	2004	60	0.7534
+366	journal of co2 utilization	-0.5211	0.6204	328	0	0	1	0	0	2024	0	0
+367	journal of composite materials	-0.433	-0.2401	329	0	0	1	6	0.255	2019	6	0.255
+368	journal of composites science	-0.7951	-0.0254	32	3	4	1	4	0.406	2022	4	0.406
+369	journal of dairy science	0.4007	-0.7238	330	0	0	1	9	1	1959	9	1
+370	journal of economic entomology	-0.73	-0.5317	331	0	0	1	261	3.2783	2002	261	3.2783
+371	journal of electroanalytical chemistry	0.5753	0.2356	332	0	0	1	38	1.9839	1999	38	1.9839
+372	journal of electron microscopy	0.8297	0.4493	333	0	0	1	0	0	1999	0	0
+373	journal of energy storage	-0.4144	-0.48	334	0	0	3	67	8.9943	2022.6667	22.3333	2.9981
+374	journal of environmental chemical engineering	0.7278	-0.6023	335	0	0	1	11	1.1166	2022	11	1.1166
+375	journal of environmental health	-0.4313	0.065	336	0	0	1	0	0	2023	0	0
+376	journal of environmental management	0.3525	-0.2957	337	0	0	5	162	8.4958	2021	32.4	1.6992
+377	journal of environmental protection and ecology	0.4942	-0.5076	338	0	0	1	6	0.317	2020	6	0.317
+378	journal of environmental sciences	0.0909	0.9259	339	0	0	1	2	0.0933	2010	2	0.0933
+379	journal of experimental & clinical cancer research	0.3524	-0.0478	340	0	0	1	26	1.1049	2019	26	1.1049
+380	journal of geophysical research-solid earth	0.0603	-0.9435	341	0	0	1	11	1.8477	2023	11	1.8477
+381	journal of geotechnical and geoenvironmental engineering	-0.4184	0.1878	12	1	1	1	241	3.0271	2002	241	3.0271
+382	journal of hazardous materials	-0.8571	-0.1383	2	2	2	6	202	12.8176	2018.5	33.6667	2.1363
+383	journal of hydrology	0.3144	-0.8756	7	1	1	2	17	1.197	2019	8.5	0.5985
+384	journal of hydrology and hydromechanics	0.5916	-0.2239	342	0	0	1	9	0.4833	2011	9	0.4833
+385	journal of hydrometeorology	-0.1202	0.5789	22	1	1	1	12	0.3857	2021	12	0.3857
+386	journal of industrial ecology	-0.8068	-0.0105	11	4	6	3	83	5.1882	2017.3333	27.6667	1.7294
+387	journal of industrial textiles	0.1974	-0.7524	343	0	0	1	10	0.3563	2015	10	0.3563
+388	journal of infectious diseases	0.5612	0.7585	344	0	0	1	12	0.3559	2018	12	0.3559
+389	journal of investigative dermatology	-0.3973	-0.3271	345	0	0	2	85	1.2242	2002.5	42.5	0.6121
+390	journal of iron and steel research international	0.0913	-0.344	346	0	0	1	4	0.1417	2016	4	0.1417
+391	journal of lightwave technology	0.9218	0.1929	17	1	1	2	17	0.8285	2010.5	8.5	0.4143
+392	journal of liquid chromatography	0.0865	0.8645	347	0	0	1	13	0.7879	1986	13	0.7879
+393	journal of management analytics	-0.196	-0.9248	348	0	0	1	8	0.34	2019	8	0.34
+394	journal of manufacturing and materials processing	-0.8465	-0.0299	13	2	2	1	5	0.1607	2021	5	0.1607
+395	journal of manufacturing science and engineering-transactions of the asme	-0.7866	0.0086	8	12	21	3	40	1.521	2018.3333	13.3333	0.507
+396	journal of material culture	0.743	-0.086	349	0	0	2	14	0.5026	2017.5	7	0.2513
+397	journal of material cycles and waste management	-0.433	0.798	9	3	3	5	24	1.4718	2021.6	4.8	0.2944
+398	journal of materials in civil engineering	-0.4184	0.1878	12	3	3	3	43	1.724	2019.3333	14.3333	0.5747
+399	journal of materials processing technology	0.2487	0.856	350	0	0	1	23	0.8331	2017	23	0.8331
+400	journal of materials research and technology-jmr&t	0.4339	-0.7761	351	0	0	1	27	1.4265	2020	27	1.4265
+401	journal of mathematical biology	-0.0669	-0.9237	5	6	9	2	122	3.6379	1994	61	1.819
+402	journal of membrane biology	0.6443	0.6932	352	0	0	1	18	1.7679	2003	18	1.7679
+403	journal of membrane science	-0.0773	0.7564	353	0	0	1	36	0.7592	2006	36	0.7592
+404	journal of metals materials and minerals	-0.8441	0.0709	3	1	1	1	0	0	2023	0	0
+405	journal of microscopy	0.3544	0.3338	354	0	0	1	28	0.992	2016	28	0.992
+406	journal of microwave power and electromagnetic energy	-0.19	-0.5465	355	0	0	1	4	0.1425	2015	4	0.1425
+407	journal of nanoscience and nanotechnology	0.6663	0.2319	356	0	0	1	1	0.0362	2017	1	0.0362
+408	journal of nanostructures	-0.3907	-0.8618	357	0	0	1	3	0.5039	2023	3	0.5039
+409	journal of natural fibers	-0.1694	-0.4547	358	0	0	1	22	0.7969	2017	22	0.7969
+410	journal of neurochemistry	-0.4503	-0.17	359	0	0	2	42	2.4386	1997	21	1.2193
+411	journal of neurocytology	0.3021	0.8407	360	0	0	1	34	1	1981	34	1
+412	journal of neuroscience	-0.8299	0.4556	361	0	0	1	146	2.6626	1996	146	2.6626
+413	journal of nuclear materials	0.236	-0.9143	362	0	0	1	13	0.3824	1990	13	0.3824
+414	journal of physical chemistry b	-0.5187	0.254	363	0	0	2	35	1.4177	2011	17.5	0.7089
+415	journal of physical chemistry c	0.9159	-0.2364	364	0	0	1	14	1.4211	2022	14	1.4211
+416	journal of power sources	0.5096	-0.6444	365	0	0	2	69	1.8585	2009.5	34.5	0.9293
+417	journal of process control	-0.8422	0.2279	1	5	6	6	215	8.4323	2013.1667	35.8333	1.4054
+418	journal of prosthodontic research	0.2013	-0.6279	366	0	0	1	14	0.4499	2021	14	0.4499
+419	journal of renewable materials	0.1846	0.2764	367	0	0	1	1	0.1015	2022	1	0.1015
+420	journal of spacecraft and rockets	0.4691	-0.6989	368	0	0	1	13	0.3855	2018	13	0.3855
+421	journal of structural integrity and maintenance	0.4174	0.8466	369	0	0	1	19	0.8074	2019	19	0.8074
+422	journal of sustainable metallurgy	0.0771	0.7953	370	0	0	1	11	0.3535	2021	11	0.3535
+423	journal of systems science and systems engineering	-0.2386	0.6894	371	0	0	1	1	0.75	2024	1	0.75
+424	journal of testing and evaluation	0.1436	0.6785	372	0	0	1	9	0.4755	2020	9	0.4755
+425	journal of the american water resources association	-0.1295	-0.6044	373	0	0	2	7	0.1787	2001.5	3.5	0.0893
+426	journal of the chinese institute of chemical engineers	-0.3449	0.7252	374	0	0	1	0	0	2005	0	0
+427	journal of the chinese institute of engineers	-0.4595	-0.4092	375	0	0	1	2	0.0593	2018	2	0.0593
+428	journal of the electrochemical society	0.5906	-0.3757	376	0	0	2	216	7.8929	2018	108	3.9464
+429	journal of the japan institute of metals	0.816	0.356	377	0	0	1	2	0.0931	2009	2	0.0931
+430	journal of the royal society of medicine	0.0408	-0.18	378	0	0	1	94	3.021	2021	94	3.021
+431	journal of the society for information display	-0.5823	0.7459	379	0	0	1	1	0.0537	2011	1	0.0537
+432	journal of the textile institute	-0.0291	0.517	380	0	0	1	14	0.595	2019	14	0.595
+433	journal of theoretical biology	-0.4783	-0.7591	381	0	0	1	15	0.5385	2012	15	0.5385
+434	journal of vinyl & additive technology	0.7371	-0.2523	382	0	0	1	12	0.4308	2012	12	0.4308
+435	jurnal kejuruteraan	-0.4098	0.8625	383	0	0	3	3	1.668	2023.6667	1	0.556
+436	ksce journal of civil engineering	-0.4183	0.1879	12	1	1	1	88	2.8281	2021	88	2.8281
+437	langmuir	-0.1237	0.8839	384	0	0	1	0	0	2024	0	0
+438	laser & optoelectronics progress	-0.2289	-0.9163	385	0	0	1	1	0.168	2023	1	0.168
+439	lithos	0.1488	0.7537	386	0	0	4	15	0.5167	2022	3.75	0.1292
+440	luminescence	0.1679	-0.9307	387	0	0	1	24	2.4362	2022	24	2.4362
+441	macromolecular chemistry and physics	-0.3361	-0.5043	388	0	0	1	19	1.9287	2022	19	1.9287
+442	macromolecular rapid communications	-0.0499	0.827	389	0	0	1	0	0	2024	0	0
+443	malaria journal	0.7423	-0.3823	390	0	0	1	5	0.1811	2017	5	0.1811
+444	materiale plastice	0.9366	-0.1432	391	0	0	1	5	0.2125	2019	5	0.2125
+445	materials	-0.8348	-0.0439	4	19	75	15	499	21.7456	2020.6	33.2667	1.4497
+446	materials & design	-0.6493	-0.6877	392	0	0	1	31	3.1468	2022	31	3.1468
+447	materials and structures	0.2976	0.4025	393	0	0	1	9	0.3189	2016	9	0.3189
+448	materials letters	0.6902	0.6467	394	0	0	1	14	0.595	2019	14	0.595
+449	materials research-ibero-american journal of materials	-0.5168	0.3701	395	0	0	1	5	0.1811	2017	5	0.1811
+450	materials science and engineering a-structural materials properties microstructure and processing	-0.8653	-0.1663	2	1	1	4	68	2.2588	2004.75	17	0.5647
+451	materials science and technology	0.5633	-0.6831	396	0	0	1	5	0.1364	2013	5	0.1364
+452	materials today communications	-0.8517	0.0674	3	1	2	1	44	1.3049	2018	44	1.3049
+453	materials today energy	0.6025	-0.7242	397	0	0	1	5	0.2642	2020	5	0.2642
+454	materials today sustainability	-0.8412	-0.0144	4	8	14	2	38	11.0391	2023.5	19	5.5195
+455	materials today-proceedings	-0.5544	0.7648	398	0	0	1	8	0.2571	2021	8	0.2571
+456	materials transactions	-0.8652	-0.1657	2	2	2	3	66	3.527	2005.3333	22	1.1757
+457	mathematical biosciences	-0.0672	-0.923	5	2	2	1	19	0.4007	2006	19	0.4007
+458	mathematical methods in the applied sciences	0.074	-0.7103	399	0	0	1	5	0.0816	2014	5	0.0816
+459	mathematics	0.0145	-0.6527	400	0	0	1	2	0.1057	2020	2	0.1057
+460	mbio	-0.0269	-0.8054	401	0	0	1	23	0.8331	2017	23	0.8331
+461	measurement science and technology	-0.5013	-0.2391	402	0	0	1	6	0.1826	1998	6	0.1826
+462	"mechatronics and applied mechanics, pts 1 and 2"	-0.7552	0.5728	403	0	0	1	0	0	2012	0	0
+463	medical hypotheses	-0.8453	0.428	404	0	0	1	54	0.678	2004	54	0.678
+464	"metallurgical and materials processing: principles and technologies, vol 1: materials processing fundamentals and new technologies"	0.4226	0.1658	405	0	0	1	1	0.0982	2003	1	0.0982
+465	metals	0.44	0.706	406	0	0	2	49	2.506	2020.5	24.5	1.253
+466	"metrics of material and metal ecology: harmonizing the resource, technology and environmental cycles"	0.3318	0.7771	407	0	0	1	0	0	2005	0	0
+467	microbes and environments	0.2379	-0.5525	408	0	0	1	64	2.2974	2012	64	2.2974
+468	microporous and mesoporous materials	-0.2733	0.4532	409	0	0	1	41	1.9524	2007	41	1.9524
+469	mineral economics	-0.726	-0.0546	6	2	2	1	0	0	2024	0	0
+470	minerals engineering	-0.8631	-0.1567	2	5	7	3	121	2.8612	2014	40.3333	0.9537
+471	molecular biology of the cell	0.2241	0.9168	410	0	0	3	180	5.5575	2010	60	1.8525
+472	molecular endocrinology	0.3022	-0.3804	411	0	0	1	245	2.8722	2000	245	2.8722
+473	molecular microbiology	-0.5578	0.3013	412	0	0	1	19	0.8867	2010	19	0.8867
+474	msystems	-0.5138	-0.7937	413	0	0	1	10	1.0151	2022	10	1.0151
+475	nano energy	0.2196	-0.8221	414	0	0	1	79	2.7989	2016	79	2.7989
+476	nano research	0.6824	-0.6536	415	0	0	1	0	0	2020	0	0
+477	nanotechnologies in construction-a scientific internet-journal	0.026	-0.9439	416	0	0	1	1	0.0321	2021	1	0.0321
+478	natural fibres: advances in science and technology towards industrial applications: from science to market	0.3639	0.5855	417	0	0	1	23	0.8149	2016	23	0.8149
+479	nature	-0.0779	0.2063	21	1	1	2	239	4.1585	2010	119.5	2.0792
+480	nature communications	0.5503	-0.307	418	0	0	2	169	8.7709	2019.5	84.5	4.3855
+481	nature energy	0.4963	0.6701	419	0	0	1	67	2.1532	2021	67	2.1532
+482	nature photonics	0.4137	-0.1176	420	0	0	1	358	11.5054	2021	358	11.5054
+483	"networked systems, netys 2022"	-0.3624	0.3182	421	0	0	1	0	0	2022	0	0
+484	neural networks	0.8064	-0.4903	422	0	0	1	0	0	2024	0	0
+485	neuroscience	-0.3633	-0.2236	423	0	0	1	33	0.6959	2006	33	0.6959
+486	nonlinear analysis-real world applications	-0.0672	-0.9233	5	3	5	2	38	1.5669	2010.5	19	0.7834
+487	nonlinear analysis-theory methods & applications	-0.842	0.2313	1	5	6	1	28	0.4345	2001	28	0.4345
+488	occupational safety and hygiene	0.4835	-0.7574	424	0	0	1	0	0	2013	0	0
+489	occupational safety and hygiene - sho2013	0.6756	0.3621	425	0	0	1	0	0	2013	0	0
+490	ofioliti	-0.4921	-0.5945	426	0	0	1	5	0.1483	2018	5	0.1483
+491	oikos	0.6972	0.0118	427	0	0	2	43	1.8995	2012	21.5	0.9497
+492	operations management research	0.1556	-0.6907	428	0	0	1	19	1.9287	2022	19	1.9287
+493	operations research proceedings 2010	-0.5619	0.7021	429	0	0	1	0	0	2011	0	0
+494	optical materials	-0.1607	0.6798	430	0	0	1	19	0.6106	2021	19	0.6106
+495	optics express	0.9217	0.1928	17	2	2	3	17	0.7553	2012.6667	5.6667	0.2518
+496	ozone-science & engineering	-0.7823	0.45	431	0	0	1	9	0.42	2010	9	0.42
+497	palliative medicine	0.2396	-0.2134	432	0	0	1	31	1.1229	2017	31	1.1229
+498	paperi ja puu-paper and timber	-0.477	-0.3217	433	0	0	1	1	0.0331	1995	1	0.0331
+499	"parallel computing: architectures, algorithms and applications"	-0.3641	-0.6756	434	0	0	1	0	0	2008	0	0
+500	perspectives in biotechnology	-0.8168	-0.3768	435	0	0	1	0	0	2001	0	0
+501	photonic network communications	0.9463	-0.0289	436	0	0	1	1	0.0537	2011	1	0.0537
+502	photonics and nanostructures-fundamentals and applications	0.9351	-0.0603	437	0	0	1	7	0.1476	2006	7	0.1476
+503	photonics research	0.4109	-0.5234	438	0	0	1	0	0	2024	0	0
+504	physical review b	-0.3115	0.7706	439	0	0	1	38	1.9839	1999	38	1.9839
+505	physics of metals and metallography	-0.332	0.3978	440	0	0	1	0	0	2020	0	0
+506	physics of plasmas	0.8043	-0.1286	441	0	0	2	2	0.3359	2023.5	1	0.168
+507	plant and cell physiology	0.3869	0.8639	442	0	0	1	47	0.7666	2014	47	0.7666
+508	plant cell and environment	0.7101	0.2924	443	0	0	1	451	5.6628	2004	451	5.6628
+509	plant physiology	-0.2669	0.5461	444	0	0	1	291	6.1365	2006	291	6.1365
+510	plasma physics and controlled fusion	-0.6865	0.652	445	0	0	1	8	0.2182	2013	8	0.2182
+511	plos computational biology	0.407	0.7939	446	0	0	1	2	0.3359	2023	2	0.3359
+512	plos one	-0.7653	0.0042	6	2	3	5	61	2.5219	2015.8	12.2	0.5044
+513	polish journal of environmental studies	-0.8596	0.0658	3	1	1	2	14	0.4014	2017	7	0.2007
+514	polymer chemistry	-0.3503	-0.7653	447	0	0	1	2	1.5	2024	2	1.5
+515	polymer composites	0.8288	0.2452	448	0	0	3	49	11.747	2021	16.3333	3.9157
+516	polymer degradation and stability	-0.8248	-0.0078	4	7	13	3	69	3.7708	2021.3333	23	1.2569
+517	polymer engineering and science	-0.8242	-0.0259	11	11	20	3	133	8.3662	2015.6667	44.3333	2.7887
+518	polymer testing	0.8205	-0.0635	449	0	0	2	60	2.4126	2012	30	1.2063
+519	polymers	-0.8139	-0.0308	34	8	22	9	104	7.5178	2022.5556	11.5556	0.8353
+520	polymers & polymer composites	0.166	-0.006	450	0	0	1	8	0.1004	2004	8	0.1004
+521	population and environment	0.0691	0.0402	451	0	0	1	29	0.9603	1995	29	0.9603
+522	poultry science	0.2081	0.5471	452	0	0	2	19	1.1539	2007	9.5	0.577
+523	powder technology	-0.542	-0.7743	453	0	0	2	127	2.327	2018	63.5	1.1635
+524	precambrian research	0.8243	-0.4614	454	0	0	1	80	4.2963	2011	80	4.2963
+525	"pres15: process integration, modelling and optimisation for energy saving and pollution reduction"	-0.816	0.0335	527	3	4	1	23	0.8195	2015	23	0.8195
+526	"pricm 5: the fifth pacific rim international conference on advanced materials and processing, pts 1-5"	-0.7213	-0.6118	455	0	0	1	1	0.0216	2005	1	0.0216
+527	proceedings of enviroinfo and ict for sustainability 2015	-0.69	-0.5728	456	0	0	1	1	0.0356	2015	1	0.0356
+528	"proceedings of ishtec2012, 4th international symposium on heat transfer and energy conservation"	0.6021	0.4952	457	0	0	1	0	0	2011	0	0
+529	"proceedings of the 12th international audio mostly conference on augmented and participatory sound and music experiences, am 2017"	0.4005	-0.8559	458	0	0	1	0	0	2017	0	0
+530	"proceedings of the 12th international conference on industrial engineering and engineering management, vols 1 and 2: modern industrial engineering and innovation in enterprise management"	-0.7029	0.3952	459	0	0	1	1	0.0216	2005	1	0.0216
+531	proceedings of the 13th international conference on environmental science and technology	-0.4836	-0.8117	460	0	0	1	0	0	2013	0	0
+532	"proceedings of the 2006 ieee international symposium on electronics & the environment, conference record"	-0.4542	0.6097	461	0	0	1	1	0.0211	2006	1	0.0211
+533	"proceedings of the 2012 international conference on management innovation and public policy (icmipp 2012), vols 1-6"	0.7355	0.5919	462	0	0	1	0	0	2012	0	0
+534	proceedings of the 2014 ieee international symposium on defect and fault tolerance in vlsi and nanotechnology systems (dfts)	0.1264	0.4049	463	0	0	1	51	0.8318	2014	51	0.8318
+535	proceedings of the 2015 ifip/ieee international symposium on integrated network management (im)	-0.7681	-0.4766	464	0	0	1	1	0.0356	2015	1	0.0356
+536	proceedings of the 2015 international conference on power electronics and energy engineering (peee 2015)	-0.7756	0.5425	465	0	0	1	0	0	2015	0	0
+537	proceedings of the 2016 2nd international conference on social science and higher education	0.1442	-0.5606	466	0	0	1	0	0	2016	0	0
+538	proceedings of the 2nd annual international conference on advanced material engineering (ame 2016)	0.6714	-0.2238	467	0	0	1	0	0	2016	0	0
+539	proceedings of the 39th iahr world congress	0.0962	-0.9417	468	0	0	1	0	0	2022	0	0
+540	proceedings of the 47th design automation conference	0.142	-0.1906	469	0	0	1	6	0.28	2010	6	0.28
+541	proceedings of the 48th acm/edac/ieee design automation conference (dac)	0.2872	0.5693	470	0	0	1	13	0.6981	2011	13	0.6981
+542	"proceedings of the 4th international yellow river forum on ecological civilization and river ethics, vol v"	0.7492	0.3588	471	0	0	1	0	0	2010	0	0
+543	"proceedings of the 61st annual meeting of the association for computational linguistics, acl 2023, vol 1"	0.4554	0.7682	472	0	0	1	0	0	2023	0	0
+544	proceedings of the 6th international symposium on coal combustion	0.5341	0.3143	473	0	0	1	0	0	2007	0	0
+545	"proceedings of the asme 13th fuel cell science, engineering, and technology conference, 2015"	-0.7952	0.514	474	0	0	1	0	0	2016	0	0
+546	"proceedings of the asme 9th international manufacturing science and engineering conference, 2014, vol 1"	0.7859	0.0587	475	0	0	1	0	0	2014	0	0
+547	"proceedings of the asme international mechanical engineering congress and exposition - 2010, vol 5, pts a and b"	0.6183	-0.1453	476	0	0	1	0	0	2012	0	0
+548	"proceedings of the asme turbo expo: turbine technical conference and exposition, 2017, vol 3"	-0.1605	-0.763	477	0	0	1	2	0.0724	2017	2	0.0724
+549	proceedings of the first international conference on sustainable urbanization (icsu 2010)	0.7695	-0.548	478	0	0	1	0	0	2010	0	0
+550	"proceedings of the future technologies conference (ftc) 2019, vol 2"	0.8503	0.0748	479	0	0	1	1	0.0528	2020	1	0.0528
+551	proceedings of the institution of civil engineers-waste and resource management	-0.7398	-0.4247	480	0	0	1	0	0	2024	0	0
+552	proceedings of the institution of mechanical engineers part b-journal of engineering manufacture	-0.8152	-0.0419	11	5	5	1	3	0.5039	2023	3	0.5039
+553	proceedings of the institution of mechanical engineers part e-journal of process mechanical engineering	0.1217	0.9401	481	0	0	1	0	0	2023	0	0
+554	proceedings of the institution of mechanical engineers part l-journal of materials-design and applications	-0.4292	-0.6397	482	0	0	1	0	0	2024	0	0
+555	proceedings of the national academy of sciences of the united states of america	-0.3493	-0.5958	483	0	0	4	640	9.0429	1996	160	2.2607
+556	proceedings of the royal society b-biological sciences	0.5224	-0.7878	484	0	0	1	45	2.4167	2011	45	2.4167
+557	process integration and optimization for sustainability	0.0443	0.1451	485	0	0	1	1	0.75	2024	1	0.75
+558	processes	0.895	-0.0126	486	0	0	1	2	0.1057	2020	2	0.1057
+559	production planning & control	-0.6402	0.4282	487	0	0	1	21	1.1278	2011	21	1.1278
+560	"progress in environmental science and technology, vol i"	-0.526	-0.7261	488	0	0	1	2	0.0952	2007	2	0.0952
+561	progress in rubber plastics and recycling technology	-0.8491	0.0737	3	1	1	1	5	0.8398	2023	5	0.8398
+562	qualitative inquiry	0.7045	-0.4448	489	0	0	1	8	6	2024	8	6
+563	radioprotection	0.7644	-0.1833	490	0	0	1	0	0	2010	0	0
+564	rapid prototyping journal	-0.8381	-0.018	13	16	30	1	171	4.665	2013	171	4.665
+565	rare metals	-0.1762	0.8742	491	0	0	1	21	0.7607	2017	21	0.7607
+566	reaction chemistry & engineering	-0.0071	0.9445	492	0	0	1	51	2.6945	2020	51	2.6945
+567	reactive & functional polymers	0.8859	0.3272	493	0	0	1	2	0.3359	2023	2	0.3359
+568	"recycled and secondary materials, soil remediation, and in situ testing: soils, geology and foundations"	-0.5382	0.5319	27	1	1	2	71	0.8324	2000	35.5	0.4162
+569	recycling	-0.8449	-0.0874	2	9	11	5	93	6.228	2020.8	18.6	1.2456
+570	renewable & sustainable energy reviews	-0.6587	-0.3603	494	0	0	1	8	1.3438	2023	8	1.3438
+571	renewable energy	0.5584	0.0834	495	0	0	5	72	2.5238	2015.4	14.4	0.5048
+572	reproduction	0.5783	-0.7467	496	0	0	1	27	0.9692	2012	27	0.9692
+573	resonance-journal of science education	-0.5372	-0.3752	497	0	0	1	0	0	2023	0	0
+574	resources conservation & recycling advances	-0.807	-0.0018	551	6	11	1	10	1.6797	2023	10	1.6797
+575	resources conservation and recycling	-0.7851	-0.0284	6	30	110	39	1908	75.1859	2017.2051	48.9231	1.9278
+576	resources environment and sustainability	-0.789	0.001	8	5	11	1	5	0.5075	2022	5	0.5075
+577	resources policy	-0.7264	-0.0544	6	2	3	3	14	2.9336	2023.3333	4.6667	0.9779
+578	revista internacional de contaminacion ambiental	0.789	-0.5197	498	0	0	1	0	0	2019	0	0
+579	revista mexicana de ingenieria quimica	-0.4538	-0.8295	499	0	0	1	2	0.0952	2007	2	0.0952
+580	"rewas'99 global symposium on recycling, waste treatment and clean technology volume i-iii"	-0.1036	-0.5099	500	0	0	1	0	0	1999	0	0
+581	rock and soil mechanics	-0.4456	0.5255	501	0	0	1	2	0.203	2022	2	0.203
+582	rsc advances	0.7049	-0.6276	502	0	0	3	22	0.7692	2021.3333	7.3333	0.2564
+583	sacmat'08: proceedings of the 13th acm symposium on access control models and technologies	0.4229	-0.6513	503	0	0	1	10	0.5575	2008	10	0.5575
+584	sains malaysiana	-0.1682	-0.8853	504	0	0	1	0	0	2022	0	0
+585	"sc '16: proceedings of the international conference for high performance computing, networking, storage and analysis"	0.2888	-0.6226	505	0	0	1	9	0.3189	2016	9	0.3189
+586	scanning	-0.2001	0.3989	506	0	0	1	10	0.2966	2018	10	0.2966
+587	science advances	-0.0818	0.6802	507	0	0	2	37	2.1399	2022	18.5	1.07
+588	science and engineering ethics	-0.6231	-0.71	508	0	0	1	1	0.0362	2017	1	0.0362
+589	science of the total environment	-0.8548	-0.1319	2	4	4	3	63	4.6095	2020.3333	21	1.5365
+590	scientific reports	0.8306	-0.3407	509	0	0	3	10	1.863	2023	3.3333	0.621
+591	semiconductor physics quantum electronics & optoelectronics	0.8947	-0.3038	510	0	0	1	2	0.3359	2023	2	0.3359
+592	sensors	-0.7833	-0.5272	511	0	0	1	6	0.255	2019	6	0.255
+593	separation and purification technology	0.492	-0.8074	512	0	0	1	4	0.406	2022	4	0.406
+594	separation science and technology	-0.6015	0.6662	513	0	0	1	12	0.6261	1997	12	0.6261
+595	siam journal on mathematical analysis	-0.0674	-0.9242	5	4	4	1	39	1.1866	1998	39	1.1866
+596	"sixth workshop on hot topics in operating systems, proceedings"	-0.6367	0.7003	514	0	0	1	25	1.3043	1997	25	1.3043
+597	smart and sustainable built environment	-0.2911	-0.4077	515	0	0	1	2	0.3359	2023	2	0.3359
+598	sn applied sciences	-0.8636	-0.1587	2	1	1	2	16	0.7936	2019.5	8	0.3968
+599	social responsibility journal	0.1425	0.8261	516	0	0	1	3	0.3045	2022	3	0.3045
+600	solar energy	0.4315	-0.0018	517	0	0	1	3	2.25	2024	3	2.25
+601	solar energy materials and solar cells	-0.154	0.7508	518	0	0	1	1	0.75	2024	1	0.75
+602	"stabilization, safety, and security of distributed systems (sss 2022)"	0.855	-0.401	519	0	0	1	0	0	2022	0	0
+603	structures	-0.3421	0.8803	520	0	0	1	9	0.9136	2022	9	0.9136
+604	sugar industry-zuckerindustrie	0.685	-0.5728	521	0	0	1	8	0.2898	2017	8	0.2898
+605	surface & coatings technology	-0.1964	0.497	522	0	0	1	0	0	2024	0	0
+606	sustainability	-0.8591	-0.0379	18	13	17	18	275	13.7114	2021	15.2778	0.7617
+607	sustainable cities and society	0.3141	-0.8739	7	1	2	2	23	0.7119	2019.5	11.5	0.3559
+608	"sustainable development of natural resources, pts 1-3"	0.5785	-0.5037	523	0	0	1	4	0.1091	2013	4	0.1091
+609	sustainable manufacturing for global circular economy	-0.8654	-0.0298	18	2	2	1	4	0.17	2019	4	0.17
+610	sustainable materials and technologies	-0.8151	-0.0292	32	12	31	3	97	4.585	2020.3333	32.3333	1.5283
+611	sustainable production and consumption	-0.3582	-0.874	524	0	0	2	91	3.9852	2020.5	45.5	1.9926
+612	synapse	-0.0954	-0.8085	525	0	0	1	2	0.1044	1999	2	0.1044
+613	"tappi 99 proceedings - preparing for the next millennium, vols 1-3: 1999 tappi papermakers conference: sessions 1-8; 1999 tappi recycling symposium: sessions 1-6; 1999 tappi process control, electrical and information conference 1-9"	0.4891	0.3938	526	0	0	1	0	0	1999	0	0
+614	technologies	-0.8076	-0.0202	34	8	13	1	12	0.51	2019	12	0.51
+615	tectonophysics	0.0393	0.8974	528	0	0	1	40	1.6999	2019	40	1.6999
+616	telos-revista de estudios interdisciplinarios en ciencias sociales	0.754	0.2259	529	0	0	1	0	0	2020	0	0
+617	"thermal, power and electrical engineering, pts 1 and 2"	0.3116	-0.734	530	0	0	1	1	0.0273	2013	1	0.0273
+618	"thermec 2006, pts 1-5"	-0.8135	0.4853	531	0	0	1	0	0	2007	0	0
+619	third world planning review	0.7954	0.5083	532	0	0	1	8	0.1241	2001	8	0.1241
+620	"tms 2008 annual meeting supplemental proceedings, vol 2: materials characterization, computation and modeling"	-0.2985	-0.2131	533	0	0	1	1	0.0557	2008	1	0.0557
+621	tourism geographies	-0.0186	0.6105	534	0	0	1	34	1.2114	2015	34	1.2114
+622	tourism management perspectives	0.2518	-0.0324	535	0	0	1	11	0.3897	2016	11	0.3897
+623	traffic	0.1662	0.1043	33	1	1	3	201	4.6093	2007.6667	67	1.5364
+624	transactions of nonferrous metals society of china	0.4328	-0.841	536	0	0	1	20	0.9333	2010	20	0.9333
+625	transactions of the asae	-0.0666	-0.6643	537	0	0	2	34	0.7346	2005	17	0.3673
+626	transportation geotechnics	0.8442	-0.1867	538	0	0	1	25	1.0624	2019	25	1.0624
+627	twelfth international conference on information optics and photonics (ciop 2021)	0.0965	-0.8963	539	0	0	1	0	0	2021	0	0
+628	ultrasonics sonochemistry	0.5487	0.4447	540	0	0	1	12	0.3857	2021	12	0.3857
+629	unmaking waste in production and consumption: towards the circular economy	-0.8491	-0.0002	13	2	2	1	0	0	2018	0	0
+630	urban geography	-0.6846	0.5806	541	0	0	1	0	0	2024	0	0
+631	visual studies	0.5224	0.5208	542	0	0	1	1	0.0354	2016	1	0.0354
+632	waste and biomass valorization	-0.4331	0.7978	9	1	1	2	15	0.7925	2020	7.5	0.3962
+633	waste management	-0.8599	-0.145	2	4	6	8	451	15.7899	2018.375	56.375	1.9737
+634	waste management & research	-0.3102	0.8952	543	0	0	5	59	1.9103	2011.2	11.8	0.3821
+635	water	0.3143	-0.8747	7	2	2	4	35	1.8415	2020.5	8.75	0.4604
+636	water environment research	-0.571	-0.6902	544	0	0	1	4	0.223	2008	4	0.223
+637	water practice and technology	-0.1487	0.2939	545	0	0	1	2	0.085	2019	2	0.085
+638	water recycling in the mediterranean region	-0.1751	0.9282	546	0	0	1	14	1.375	2003	14	1.375
+639	water resources management	0.3141	-0.8741	7	2	3	2	133	6.0963	2012.5	66.5	3.0481
+640	water resources research	0.3144	-0.8754	7	3	3	1	105	3.7201	2016	105	3.7201
+641	water science and engineering	-0.4185	0.1878	12	1	1	1	5	0.5075	2022	5	0.5075
+642	water science and technology	-0.7085	-0.4804	547	0	0	1	9	0.2738	1998	9	0.2738
+643	water science and technology-water supply	0.8702	-0.37	548	0	0	1	18	0.6377	2016	18	0.6377
+644	wiley interdisciplinary reviews-energy and environment	0.7773	-0.438	549	0	0	1	1	0.75	2024	1	0.75
+645	"world congress on engineering 2009, vols i and ii"	-0.4158	-0.5627	550	0	0	1	0	0	2009	0	0
