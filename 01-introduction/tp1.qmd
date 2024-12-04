@@ -1,6 +1,6 @@
 ---
-title: "Research Landscape using Vosviewer"
-subtitle: "TD 1"  
+title: "Introduction to Bibliometric Anlaysis"
+subtitle: "TD 1: Research Landscape using Vosviewer"  
 email: "fabio.cruz@univ-lorraine.fr"
 institute: "Université de Lorraine | ENSGSI"
 author: 
@@ -11,11 +11,12 @@ metadata-files:
   - _metadata.yml
 format:
   revealjs:
-    footer: 'TD1: Scientific Landscape'
+    footer: 'TD1: Bliometric Analysis'
     subtitle-as-header: true
     slide-level: 3
     auto-stretch: false
 ---
+
 
 ```{r}
 library(countdown)
