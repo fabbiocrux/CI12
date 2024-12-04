@@ -1,6 +1,6 @@
 ---
-title: "Introduction to Bibliometric Anlaysis"
-subtitle: "TD 1: Research Landscape using Vosviewer"  
+title: "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
+subtitle: "TD 1: Vosviewer"  
 email: "fabio.cruz@univ-lorraine.fr"
 institute: "Université de Lorraine | ENSGSI"
 author: 
@@ -23,7 +23,6 @@ library(countdown)
 ```
 
 # Presentation of TD
-
 
 ## Pedagogical goal
 
@@ -216,7 +215,10 @@ Van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program
 1. [Scientific Network visualization](#sci-vos)
 1. [Patent Network visualization](#pat-vos)
 
-[⬇️ Download at https://www.vosviewer.com/](https://www.vosviewer.com/)
+[⬇️ &nbsp; Download at https://www.vosviewer.com/](https://www.vosviewer.com/)
+
+
+[📕&nbsp; Offical Manual of VOSviewer](https://www.vosviewer.com/documentation/Manual_VOSviewer_1.6.20.pdf)
 :::
 :::
 
@@ -231,11 +233,10 @@ Van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program
     - Each link has a *Strength* → Positive number. The higher, the stronger. 
     <br> For instance:
       - **Bibliographic coupling** : Number of cited references two publications have in common.
-      - Co-authorship: number of publications that two researches have co-authored.
-      - Co-occurence: Number of publications in which two terms occur together.
+      - **Co-authorship**: number of publications that two researches have co-authored.
+      - **Co-occurence**: Number of publications in which two terms occur together.
      
 3. **Clusters** are a group of **items** 
-
 
 
 # Tutorials
@@ -350,17 +351,62 @@ But, take a look of the other type of searches
 1. [Patent Network visualization](#pat-vos)
 
 
+
 ## Web of Science: Export results {#wos-export}
 
-![](figures/11.jpg)
+::: {layout="[20,80]" layout-valign="center"}
+:::{}
+`Export > Select Tab Deliminted File` 
+:::
 
-### Select Tab Deliminated File
+::: {.r-stack}
+![](figures/wos/export-01.png)
 
-![](figures/12.jpg)
+![](figures/wos/export-02.png){.fragment }
+:::
+:::
 
-### Export Full record
 
-![](figures/13.jpg)
+
+### WoS: Export results
+
+::: {layout="[20,80]" layout-valign="center"}
+:::{}
+`Select Custom Selection ` 
+:::
+
+::: {.r-stack}
+![](figures/wos/export-03.png)
+:::
+:::
+
+### WoS: Export results
+
+::: {layout="[20,80]" layout-valign="center"}
+:::{}
+`Select All Items` 
+:::
+
+![](figures/wos/export-04.png)
+
+:::
+
+### WoS: Export results
+
+::: {layout="[20,80]" layout-valign="center"}
+:::{}
+`Export & Download` 
+:::
+
+::: {.r-stack}
+![](figures/wos/export-05.png)
+
+![](figures/wos/export-06.png){.fragment }
+:::
+
+:::
+
+
 
 ## Tutorials
 
@@ -471,7 +517,6 @@ Each work can be identified
 
 
 
-
 ### Connecting of OpenAlex
 
 :::{layout="[50,50]"}
@@ -484,7 +529,7 @@ Each work can be identified
 
 :::{}
 {{< video https://www.youtube.com/embed/ZNyi29IER90?si=jd1CN81P50EGpCpG width="1200" height="500"  >}}
-Source. OpenAlex Channel
+Source. OpenAlex YT Channel
 :::
 :::
 
@@ -513,6 +558,7 @@ Scientific Network visualization
 {{< video https://www.youtube.com/embed/9dTWkNRxUtw width="1200" height="500"  >}}
 :::
 
+## Co-Authorship Analysis
 
 ### Add data: from `Bibliographic database file`
 
@@ -527,11 +573,56 @@ Scientific Network visualization
 ![](figures/vos/04.jpg)
 
 
-### Add data: Analysing Keyworkds
+### Select: `Co-Authorship`
 
-![](figures/vos/05.jpg)
 
-### Add data: Minimum number of Occurrencies for Keyworkds
+:::{layout="[30,80]" layout-valign="center"}
+
+:::{}
+You can see the types of analysis.
+Use this **﹖icon** to see the *relatedness* for each type of the analysis:
+
+`Select Co-Authorship`
+:::
+
+:::{}
+![](figures/vos/co-authorship-00.png)
+:::
+:::
+
+
+
+### Select: `Thresholds`
+
+In fonction of the type of 'Co-Authorship analysis' (Authors, Organizations, Countries), different type of **threholds** are proposed:
+
+:::{layout="[30,30,30]"}
+
+:::{}
+**Authors**
+
+![](figures/vos/co-authorship-01.png)
+:::
+
+:::{}
+**Organizations**
+
+![](figures/vos/co-authorship-02.png)
+:::
+
+:::{}
+**Countries**
+
+![](figures/vos/co-authorship-03.png)
+:::
+:::
+
+
+
+## Co-Occurence of Keywords
+
+
+## Add data: Minimum number of Occurrencies for Keyworkds
 
 
 ![](figures/vos/06.jpg)
@@ -564,6 +655,13 @@ Attention to the Redundancies
 ### Density Visualization
 
 ![](figures/vos/11.jpg)
+
+
+
+
+## Citation Analysis
+
+
 
 
 # Patents Network visualization{#pat-vos}
