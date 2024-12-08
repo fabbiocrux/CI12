@@ -41,16 +41,6 @@ $colors: (
   yellow: $yellow,
 );
 
-@mixin gen-props($prefix, $property) {
-  @each $color-name, $color in $colors {
-    .#{$prefix}-#{$color-name} {
-      #{$property}: $color
-    }
-  }
-}
-
-@include gen-props('t', 'color');
-@include gen-props('bg', 'background');
 
 
 
@@ -63,18 +53,11 @@ $presentation-heading-color: $morado;
   text-align: center;
 }
 
-/* file: style.css */
-#vcenter {
-  vertical-align: middle !important; 
-  text-align: left !important;
-}
 
-.center-xy {
-  margin: 0;
+.reveal .slide aside,.reveal .slide div.aside {
   position: absolute;
-  top: 50%;
-  left: 0%;
-  -ms-transform: translateY(-50%), translateX(-50%);
-  transform: translateY(-50%), translateX(-50%);
+  bottom: -10px;
+  font-size: 0.7em;
+  color: #f60e0e
 }
 

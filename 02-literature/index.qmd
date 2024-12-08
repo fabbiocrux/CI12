@@ -41,6 +41,164 @@ library(countdown)
 
 
 
+
+# What kind of type of research can we do?
+
+## What kind of type of research can we do? {background-image="figures/Nature-research-00.png" background-size="60%" background-position="90% 70%" }
+
+:::: {.columns}
+::: {.column width="25%"}
+- **Basic Vs. Applied**
+- Exploratory
+- Descriptive
+- Causal
+:::
+::: {.column width="70%"}
+
+:::
+::::
+
+
+## What kind of type of research can we do? 
+
+:::: {.columns}
+::: {.column width="25%"}
+
+- Basic Vs. Applied
+- **Exploratory**
+- Descriptive
+- Causal
+
+:::
+
+::: {.column width="70%"}
+
+- Not much is known about a particular phenomenon; 
+- Existing research results are unclear or suffer from serious limitations; 
+- The topic is highly complex; or 
+- There is not enough theory available to guide the development of a theoretical framework
+
+:::
+::::
+
+**e.g: AI and its influence in the future?, Decroissance?**
+
+::: aside
+Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
+:::
+
+
+
+## What kind of type of research can we do? 
+
+:::: {.columns}
+::: {.column width="25%"}
+- Basic Vs. Applied
+- Exploratory
+- **Descriptive**
+- Causal
+:::
+::: {.column width="70%"}
+
+- Obtain data that describes the topic of interest
+- Understand the characteristics of a group in a given situation
+- Think systematically about aspects in a given situation
+
+:::
+::::
+
+**e.g: Social Media Usage Patterns, Workplace Satisfaction Surveys, Consumer Behavior Studies, etc...**
+
+
+::: aside
+Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
+:::
+
+
+## What kind of type of research can we do? 
+
+:::: {.columns}
+::: {.column width="30%"}
+- Basic Vs. Applied
+- Exploratory
+- Descriptive
+- **Causal**
+:::
+::: {.column width="70%"}
+
+- Whether or not A causes change to B
+- X causes variable Y. So, when variable X is removed or altered in some way, problem Y is solved
+
+:::
+::::
+
+**e.g: Impact of (Educational, Recycling, Motivation, Training ...) Interventions, Efficacy of Medical Treatments,  Causal loops,  etc...**
+
+
+
+::: aside
+Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
+:::
+
+
+## Quantitative vs Qualitative
+
+![](figures/QQ-limits.png){fig-align="center"}
+
+**Big data Vs Thick data**
+
+## Examples of ERPI Research
+
+![](figures/ERPI-Articles.png)
+
+https://erpi.univ-lorraine.fr/publications/articles/
+
+## In summary {.center}
+
+### The Art of Design Research
+
+
+## Research design {background-image="figures/Research-design.png" background-size="80%" background-position="50% 50%" }
+
+
+:::aside
+**Source**: Sreejesh, S., Mohapatra, S., & Anusree, M. R. (2013). Business Research Design: Exploratory, Descriptive and Causal Designs. Business Research Methods
+:::
+
+
+
+## Approaches of the <br> Research design{background-image="figures/QQM.png" background-size="65%" background-position="90% 50%" }
+
+
+:::: {.columns}
+::: {.column width="40%"}
+
+Creswell, J. W.: Research Design: Qualitative, Quantitative and
+Mixed Methods Approaches, 2nd edition, Sage Publications, Inc,
+California, 246 pp., 2003.
+
+:::
+
+::: {.column width="50%"}
+
+:::
+::::
+
+
+
+
+
+## The Research Onion {background-image="figures/Research-onion.png" background-size="60%" background-position="95% 50%" }
+
+
+::: {layout="[30,-2,60]" layout-valign="center"}
+
+[The main challengue in Research <br> is connect all the 'coherent' dots in this figure to create a path !!!](https://www.aesanetwork.org/research-onion-a-systematic-approach-to-designing-research-methodology/#:~:text=Research%20onion%20is%20one%20such,which%20constitute%20our%20research%20philosophy)
+
+:::
+
+
+
 # How to do a Literature Review at ERPI?
 
 ## Mental model for the research development?
@@ -347,8 +505,6 @@ Gabriel, et al. (2016), Creativity support systems: A systematic mapping study. 
 
 
 ## Mental model when reading an abstract 
-
-
 
 1. [Topic]{.t-blue} → *the writer provides background factual information.*
 
@@ -678,5 +834,90 @@ Source: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scienti
 - [Writing the Research Paper: a Handbook](http://ngoaingu.vimaru.edu.vn/wp-content/uploads/Anthony-C.-Winkler-Jo-Ray-Metherell-Writing-the-Research-Paper_-A-Handbook-Wadsworth-Cengage-Learning-2011.pdf)
 
 
+
+
+
+
+
+
+# Research in the context of France
+
+## Research Ecosystem in general
+
+![Research Ecosystem](figures/pandey2015.png){width="600"}
+
+
+::: aside
+Pandey, S., Pattnaik, P., 2015. University Research Ecosystem: A Conceptual Understanding. Review of Economic and Business Studies 8. https://doi.org/10.1515/rebs-2016-0021
+:::
+
+
+## Research Ecosystem in France
+
+
+**Teaching and research**
+
+  - Universities (IUT, Ecoles d’ingénieurs) 
+  - INSA , ENSI , CNAM , ... 
+
+
+**Private companies** (Big/Smee's)
+
+ - Sagem; Véolia; PSA Thales
+ 
+ - TEA; JEI; FITLE; myXtramile...
+
+
+
+**Funding Agencies**
+
+National & EU
+  - Ministeries
+  - ANR
+  - ADEME
+  
+
+
+## Science and technology observatory (OST) 
+
+![High Council for Evaluation of Research and Higher Education - HCERES](figures/HCERES-01.png)
+
+
+
+::: aside
+[Source: Rapport HCERES](https://www.hceres.fr/sites/default/files/media/downloads/rappScien_VA_web03.pdf)
+
+HCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost
+:::
+
+
+## Science and technology observatory (OST) 
+
+
+![High Council for Evaluation of Research and Higher Education - HCERES](figures/HCERES-02.png)
+
+[Source: Rapport HCERES](https://www.hceres.fr/sites/default/files/media/downloads/rappScien_VA_web03.pdf)
+
+
+
+::: aside
+HCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost
+:::
+
+
+
+## Science and technology observatory (OST) 
+
+
+![High Council for Evaluation of Research and Higher Education - HCERES](figures/HCERES-03.png)
+
+
+[Source: Rapport HCERES](https://www.hceres.fr/sites/default/files/media/downloads/rappScien_VA_web03.pdf)
+
+
+
+::: aside
+HCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost
+:::
 
 
