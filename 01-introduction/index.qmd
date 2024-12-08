@@ -4,26 +4,17 @@ subtitle: "Seance 1"
 format:
   html:
     toc: false
-date: 06-Dec-2023
+date: 06-Dec-2024
 ---
+
 
 
 # General Presentation
 
-```{=html}
-<iframe width="100%" height="533px" style="border:2px solid #dee2e6;" src="slides.html"></iframe>
-```
 
 # Literature Review
-
-```{=html}
-<iframe width="100%" height="533px" style="border:2px solid #dee2e6;" src="literature-review.html"></iframe>
-```
 
 
 # TD1 : Research Landscape via Vosviewer
 
-```{=html}
-<iframe width="100%" height="533px" style="border:2px solid #dee2e6;" src="tp1.html"></iframe>
-```
 

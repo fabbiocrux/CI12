@@ -12,9 +12,21 @@ website:
   sidebar:
     contents:
       - section: "Scientific Research in Innovation Management"
-      - text: "Material course for IDEAS and IUVTT students"
+      - text: "---"
+      - section: "Act I: Bibliometric Analysis"
         contents:
-          - href: 01-introduction/tp1.qmd
+          - text: "CM1: Introduction to Scientific Research"
+            href: 01-introduction/slides.qmd
+          - text: "---"
+          - text: "TD1: VOSviewer -- Visualization of Research Landscape"
+            href: 01-introduction/slides.qmd
+      - section: "Act II: Literature review"
+        contents:
+          - text: "CM2: On the shoulders of giants"
+            href: 02-literature/index.qmd
+          - text: "---"
+          - text: "TD2: Bibliometrix -- Networks of Research Landscape"
+            href: 02-literature/tp2.qmd
   
 
 format:

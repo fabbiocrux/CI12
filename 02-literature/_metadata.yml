@@ -1,0 +1,55 @@
+format:
+#   beamer: 
+#     keep-tex: true
+#     classoption: c
+#     aspectratio: 169
+#     navigation: horizontal
+#     theme: Luebeck #AnnArbor
+#     #toc: true
+#     #toc-title: "Organisation de la presentation"
+#     #Luebeck
+#     colortheme: beaver
+#     slide-level: 3
+#     toc-depth: 2
+#     fig-align: center
+#     header-includes:
+#       - \titlegraphic{\includegraphics[width=0.6\paperwidth]{Figures/logos/UL-ENSGSI-ERPI.png}}
+# #      - \date{Thisis test }
+#     # beameroption: 
+#     #  - show notes on second screen
+#     #beamerarticle: true
+#     #latex_engine: lualatex
+#     include-in-header: [assets/slides.tex]
+  
+  revealjs:
+    slide-number: c/t
+    controls: true
+    transition: none
+    #margin: 10
+    width: 1600
+    height: 900
+    theme: [default, ../assets/custom.scss]
+    logo: "../assets/img/logos/ENSGSI.png"
+    #embed-resources: false
+    echo: false
+    pdf-separate-fragments: true
+    #toc: true
+    #toc-title: Agenda for today
+    #toc-depth: 1
+    center: false
+    number-sections: false
+    fig-align: center
+    code-copy: true        
+    header-logo: "../assets/img/logos/UL.png"    
+    #subtitle-as-header: true
+    sc-sb-title: false
+    chalkboard: true
+filters:
+  - reveal-header
+  - reveal-auto-agenda
+auto-agenda:
+  bullets: numbered
+  heading: Agenda for today
+
+
+

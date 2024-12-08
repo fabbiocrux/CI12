@@ -13,6 +13,13 @@ format:
   revealjs:
     footer: 'Introduction to Scientific Research'
     #header: '[Presentation](#/TOC)'
+    menu:
+      side: right
+      width: wide
+      numbers: true
+      titleselector: 'h1'
+revealjs-plugins:
+  - attribution    
 ---
 
 ```{r}
@@ -157,6 +164,10 @@ graph TD
 :::
 ::::
 
+::: {.attribution}
+Photos courtesy of [Wikipedia]()
+:::
+
 
 
 ## Inductive vs Deductive Research ?
@@ -183,7 +194,6 @@ la méthode par laquelle on va de la cause aux effets, du principe aux conséque
 La règle découle de l'observation répétée de faits réels, contingents.
 :::
 ::::
-
 
 
 ## Mental model for the research development?
@@ -321,8 +331,6 @@ Source: [Hensen, J., Loonen, R., Archontiki, M., Kanellis, M., 2015. Using build
 
 # Everything start with a good research question !
 
-
-
 ## Everything start with a good research question {background-image="figures/Research-questions.png" background-size="50%" background-position="100% 50%" }
 
 
@@ -411,7 +419,7 @@ Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for bu
 
 
 
-## What kind of type of research can we do? 
+# What kind of type of research can we do? 
 
 :::: {.columns}
 ::: {.column width="25%"}
