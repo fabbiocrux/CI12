@@ -325,67 +325,73 @@ Source: [Hensen, J., Loonen, R., Archontiki, M., Kanellis, M., 2015. Using build
 
 
 
-
-# Everything start with a good research question !
-
-
-## Everything start with a good research question {background-image="figures/Research-questions.png" background-size="45%" background-position="100% 50%"}
-
-<br>
-
-::: {layout="[50,50]"}
-:::{}
-1 **Descriptive (What, When, Where, Who or How)**
-
-e.g. What percentageof coachees report that coaching helped them with a problem they experienced
-
-2 **Explanatory (Why?)**
-
-e.g. Why dis 65% of coachees report that coacing helped them with a problem they experienced?
-this
-:::
-:::
-
-::: aside
-Source: Rojon, C. & Saunders, M. N. K. [Formulating a convincing rationale for a research study](https://doi.org/10.1080/17521882.2011.648335). Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012).
-:::
+## Your Turn for Conceptualize your research ! {background-color="aquamarine"}
 
 
-
-## Good research question: Descriptive  Explanatory 
-
-Being able to provide meaningful explanations requires answers to why (i.e. explanatory) questions in addition to what (i.e. descriptive) questions.
-
-For example:
-
-- *'How effective is the coaching process at helping coachees to solve a problem they experience and what are the reasons for this?'* 
+# Understanding a Research paper
 
 
-- *'To what extent is the coaching process effective at helping coachees solve a problem and why?'*
+## How to read an Article ? {.center}
 
+Let's do step by step analysis ...
 
-::: aside
-Source: Rojon, C. & Saunders, M. N. K. [Formulating a convincing rationale for a research study](https://doi.org/10.1080/17521882.2011.648335). Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012).
-:::
+## How to read an Article ? {background-image="figures/Article-explanation/01.png" background-size="45%" background-position="90% 50%" }
 
-
-
-# Understanding a Research paper I : Abstract
-
-## Reading an Article - Part I {.center}
-
-## What is a Research Paper? {background-image="figures/Paper-Alex-01.jpg" background-size="45%" background-position="90% 50%" }
+## How to read an Article ? {background-image="figures/Article-explanation/02.png" background-size="45%" background-position="90% 50%" }
 
 **💡 Tip 1**
+**Identify the context of this paper !!**
+
+
+1. Scientific database: [**Elsevier**](https://www.elsevier.com/)
+1. Journal : [**Journal of Bussiness Research**](https://www.sciencedirect.com/journal/journal-of-business-research)
+1. Published : 2021
+1. [**Citations**](https://www-sciencedirect-com.bases-doc.univ-lorraine.fr/science/article/pii/S0148296321003155?via%3Dihub#section-cited-by)
+
+
+## How to read an Article ? 
+
+::: {.columns}
+::: {.column width="40%"}
+**💡 Tip 2**
+
+**What and Who?**
+
+1. A **good title** gives the purpose of the paper !!
+1. People : 
+   -  University    
+   - Domaine
+   - Country
+   - ***Contacts !!***
+1. DOI: Digital Object Identifier (DOI)
+
+:::
+::: {.column width="60%"}
+![](figures/Article-explanation/03.png){width="120%"}
+
+.
+
+.
+
+.
+
+![](figures/Article-explanation/031.png){width="120%"}
+:::
+:::
+
+
+
+
+## How to read an Article ? {background-image="figures/Article-explanation/04.png" background-size="45%" background-position="90% 50%" }
+
+**💡 Tip 3**
 **Start by the Outline !!**
 
 
 
-## What is a Research Paper? {background-image="figures/Paper-Alex-02.png" background-size="45%" background-position="90% 50%" }
+## How to read an Article ? {background-image="figures/Article-explanation/01.png" background-size="45%" background-position="90% 50%" }
 
-
-
- Tip 2: **Méthode AIC**
+ **💡 Tip 4**: **Méthode AIC**
 
 
 - [Title]{.bg-yellow} ✅
@@ -399,7 +405,6 @@ Source: Rojon, C. & Saunders, M. N. K. [Formulating a convincing rationale for a
 - References
 
 
-
 ## AIC Reading method
 
 For screening read : **Title, Journal, keywords and Abstract**
@@ -407,14 +412,11 @@ For screening read : **Title, Journal, keywords and Abstract**
 For detailed synthesis use **AIC**:
 
 - [**Abstract → Summary of the paper**]{.bg-yellow}🔎
-
 - **Introduction → Context of problem and research, gap, summary of what is done**
-
 - **Conclusions → Summary of results and importance of results given the context.**
 
 
 ## The abstract {.center}
-
 
 :::: {layout="[50,-1,70]" layout-valign="center"}
 
@@ -433,16 +435,32 @@ For detailed synthesis use **AIC**:
 ::::
 
 
-## Exemple 1 {background-image="figures/ferney-00.png" background-size="60%" background-position="90% 0%" }
+## Exemple 1 {background-image="figures/Article-explanation/01.png" background-size="60%" background-position="90% 0%" }
 
+::: {layout="[30]"}
 
-::: footer
-**Source**: Osorio et al (2019). [Design and management of innovation laboratories: Toward a performance assessment tool](https://doi.org/10.1111/caim.12301).
-<br>Creativity and Innovation Management 28, 82–100. 
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
 :::
 
 
-## Exemple 1 {background-image="figures/ferney-01.png" background-size="60%" background-position="90% 0%" }
+```{r echo=FALSE}
+countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
+```
+
+::: footer
+**Source**: Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., Lim, W.M., 2021. [How to conduct a bibliometric analysis: An overview and guidelines](https://doi.org/10.1016/j.jbusres.2021.04.070). 
+Journal of Business Research 133, 285–296. 
+
+:::
+
+
+## Exemple 1 {background-image="figures/Article-explanation/01.png" background-size="60%" background-position="90% 0%" }
 
 ::: {layout="[30]"}
 
@@ -457,6 +475,44 @@ For detailed synthesis use **AIC**:
 
 
 
+## Exemple 2 {background-image="figures/ferney-00.png" background-size="60%" background-position="90% 0%" }
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+
+::: footer
+**Source**: Osorio et al (2019). [Design and management of innovation laboratories: Toward a performance assessment tool](https://doi.org/10.1111/caim.12301).
+<br>Creativity and Innovation Management 28, 82–100. 
+:::
+
+
+```{r echo=FALSE}
+countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
+```
+
+
+## Exemple 2 {background-image="figures/ferney-01.png" background-size="60%" background-position="90% 0%" }
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
 ::: footer
 **Source**: Osorio et al (2019). [Design and management of innovation laboratories: Toward a performance assessment tool](https://doi.org/10.1111/caim.12301).
 <br>Creativity and Innovation Management 28, 82–100. 
@@ -464,7 +520,7 @@ For detailed synthesis use **AIC**:
 
 
 
-## Exemple 2 {background-image="figures/Sandra-00.png" background-size="60%" background-position="90% 0%" }
+## Exemple 3 {background-image="figures/Sandra-00.png" background-size="60%" background-position="90% 0%" }
 
 
 ::: {layout="[30]"}
@@ -485,7 +541,12 @@ Environmental Impact Assessment Review 97, 106911.
 :::
 
 
-## Exemple 2 {background-image="figures/Sandra-01.png" background-size="60%" background-position="90% 0%" }
+```{r echo=FALSE}
+countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
+```
+
+
+## Exemple 3 {background-image="figures/Sandra-01.png" background-size="60%" background-position="90% 0%" }
 
 ::: {layout="[30]"}
 
@@ -505,7 +566,7 @@ Environmental Impact Assessment Review 97, 106911.
 
 
 
-## Exemple 3 {background-image="figures/Alex-00.png" background-size="60%" background-position="90% 0%" }
+## Exemple 4 {background-image="figures/Alex-00.png" background-size="60%" background-position="90% 0%" }
 
 ::: {layout="[30]"}
 
@@ -525,8 +586,13 @@ Environmental Impact Assessment Review 97, 106911.
 :::
 
 
+```{r echo=FALSE}
+countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
+```
 
-## Exemple 3 {background-image="figures/Alex-01.png" background-size="60%" background-position="90% 50%" }
+
+
+## Exemple 4 {background-image="figures/Alex-01.png" background-size="60%" background-position="90% 50%" }
 
 ::: {layout="[30]"}
 
@@ -564,12 +630,12 @@ Environmental Impact Assessment Review 97, 106911.
 
 
 
-## Your turn ! {background-image="figures/Ratatouille-paper.png" background-size="60%" background-position="90% 20%" }
+
+## Your turn ! {background-color="aquamarine" background-image="figures/Ratatouille-paper.png" background-size="60%" background-position="90% 20%" }
 
 ```{r echo=FALSE}
 countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
 ```
-
 
 ::: {layout="[30]"}
 
@@ -582,22 +648,52 @@ countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
 
 :::
 
-
 :::aside
-
 **Video of the scene**: <br>
 https://www.youtube.com/watch?v=GgiK-HWKPjw 
+:::
 
+::: footer
+**Source**: Leone, L. The Ratatouille paradox. [An inductive study of creativity in haute cuisine. Technovation (2018)](https://doi.org/10.1016/j.technovation.2018.11.003)
 :::
 
 
 
+## Everything start with a good research question !
+
+## Everything start with a good research question {background-image="figures/Research-questions.png" background-size="45%" background-position="100% 50%"}
+
+<br>
+
+::: {layout="[50,50]"}
+:::{}
+1 **Descriptive (What, When, Where, Who or How)**
+
+e.g. What percentageof coachees report that coaching helped them with a problem they experienced
+
+2 **Explanatory (Why?)**
+
+e.g. Why dis 65% of coachees report that coacing helped them with a problem they experienced?
+this
+:::
+:::
+
+::: aside
+Source: Rojon, C. & Saunders, M. N. K. [Formulating a convincing rationale for a research study](https://doi.org/10.1080/17521882.2011.648335). Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012).
+:::
 
 
+## Good research question: Descriptive & Explanatory 
 
-::: footer
-**Source**: Leone, L. The Ratatouille paradox. [An inductive study of creativity in haute cuisine. Technovation (2018)](https://doi.org/10.1016/j.technovation.2018.11.003)
+Being able to provide meaningful explanations requires answers to why (i.e. explanatory) questions in addition to what (i.e. descriptive) questions.
 
+For example:
+
+- *'How effective is the coaching process at helping coachees to solve a problem they experience and what are the reasons for this?'* 
+- *'To what extent is the coaching process effective at helping coachees solve a problem and why?'*
+
+::: aside
+Source: Rojon, C. & Saunders, M. N. K. [Formulating a convincing rationale for a research study](https://doi.org/10.1080/17521882.2011.648335). Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012).
 :::
 
 
@@ -641,4 +737,4 @@ van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program
 
 
 
-# THank you
+# Thank you

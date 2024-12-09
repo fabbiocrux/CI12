@@ -340,8 +340,8 @@
     "objectID": "01-introduction/slides.html#good-research-question-descriptive-explanatory",
     "href": "01-introduction/slides.html#good-research-question-descriptive-explanatory",
     "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Good research question: Descriptive Explanatory",
-    "text": "Good research question: Descriptive Explanatory\nBeing able to provide meaningful explanations requires answers to why (i.e. explanatory) questions in addition to what (i.e. descriptive) questions.\nFor example:\n\n‘How effective is the coaching process at helping coachees to solve a problem they experience and what are the reasons for this?’\n‘To what extent is the coaching process effective at helping coachees solve a problem and why?’\n\n\n\nSource: Rojon, C. & Saunders, M. N. K. Formulating a convincing rationale for a research study. Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012).",
+    "section": "Good research question: Descriptive & Explanatory",
+    "text": "Good research question: Descriptive & Explanatory\nBeing able to provide meaningful explanations requires answers to why (i.e. explanatory) questions in addition to what (i.e. descriptive) questions.\nFor example:\n\n‘How effective is the coaching process at helping coachees to solve a problem they experience and what are the reasons for this?’\n‘To what extent is the coaching process effective at helping coachees solve a problem and why?’\n\n\n\nSource: Rojon, C. & Saunders, M. N. K. Formulating a convincing rationale for a research study. Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012).",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",
@@ -593,12 +593,7 @@
     "href": "01-introduction/tp1.html#pedagogical-goal",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Pedagogical goal",
-    "text": "Pedagogical goal\n\n🧠 Knowledge :\n\nUnderstand the structure of the scientific articles and databases.\n\n🔨 Know-how :\n\nSearch on pertinent scientific databases as WoS and OpenAlex.\n\nIdentify a pertinent bibliography regarding a subject.\n\n✍Competence :\n\nBe able to make a bibliometric analysis of set of documents from a research question.",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Pedagogical goal\n\n🧠 Knowledge :\n\nUnderstand the structure of the scientific articles and databases.\n\n🔨 Know-how :\n\nSearch on pertinent scientific databases as WoS and OpenAlex.\n\nIdentify a pertinent bibliography regarding a subject.\n\n✍Competence :\n\nBe able to make a bibliometric analysis of set of documents from a research question."
   },
   {
     "objectID": "01-introduction/tp1.html#bibliometric-analysis",
@@ -617,444 +612,259 @@
     "href": "01-introduction/tp1.html#the-exercises",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "The Exercises",
-    "text": "The Exercises\n\n\n\n\n\nStep 1: Research conceptualization\n\n\n\n\n\n\nStep 2: Scientific screening\n\n\n\n\n\n\nStep 3: Scientific and Patent Landscapes",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "The Exercises\n\n\n\n\n\nStep 1: Research conceptualization\n\n\n\n\n\n\nStep 2: Scientific screening\n\n\n\n\n\n\nStep 3: Scientific and Patent Landscapes"
   },
   {
     "objectID": "01-introduction/tp1.html#step-1-research-conceptualization",
     "href": "01-introduction/tp1.html#step-1-research-conceptualization",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Step 1: Research conceptualization",
-    "text": "Step 1: Research conceptualization\n\n\n\n\n\nResearch question\n\n\n\n🎯 Goal:\n\nBased on the canvas, Identify a research question from a general topic that you want to study.\n\nDefine two or three specific research topics that complete the general research question.\n\n\n\n\n\n−+\n45:00",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Step 1: Research conceptualization\n\n\n\n\n\nResearch question\n\n\n\n🎯 Goal:\n\nBased on the canvas, Identify a research question from a general topic that you want to study.\n\nDefine two or three specific research topics that complete the general research question.\n\n\n\n\n\n−+\n45:00"
   },
   {
     "objectID": "01-introduction/tp1.html#step-2-scientific-screening",
     "href": "01-introduction/tp1.html#step-2-scientific-screening",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Step 2: Scientific screening",
-    "text": "Step 2: Scientific screening\n\n\n\n\n\nSearch equestion\n\n\n\n🎯 Goal:\n\nStructurer a replicable search equation based on the structuration of the ‘Venn Diagram’ approach.\nGo to Scientific databases Web of Science and OpenAlex to select the pertinent\n\n\n\n\n−+\n45:00",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Step 2: Scientific screening\n\n\n\n\n\nSearch equestion\n\n\n\n🎯 Goal:\n\nStructurer a replicable search equation based on the structuration of the ‘Venn Diagram’ approach.\nGo to Scientific databases Web of Science and OpenAlex to select the pertinent\n\n\n\n\n−+\n45:00"
   },
   {
     "objectID": "01-introduction/tp1.html#step-3-scientific-and-patent-landscapes",
     "href": "01-introduction/tp1.html#step-3-scientific-and-patent-landscapes",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Step 3: Scientific and Patent Landscapes",
-    "text": "Step 3: Scientific and Patent Landscapes\n\n\n\n\n\nscientific and the Patent landscapes\n\n\n\n🎯 Goal: Create a detailed description and facilitate a discussion on the visualizations generated by VOSviewer.\n\nFocus on interpreting how the clusters identified relate to the research question.\nExamine key patterns and connections.\nUncover insights into the relationships among concepts and themes.\nMake a description enhancing the understanding of the research landscape.\n\n\n\n\n−+\n45:00",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Step 3: Scientific and Patent Landscapes\n\n\n\n\n\nscientific and the Patent landscapes\n\n\n\n🎯 Goal: Create a detailed description and facilitate a discussion on the visualizations generated by VOSviewer.\n\nFocus on interpreting how the clusters identified relate to the research question.\nExamine key patterns and connections.\nUncover insights into the relationships among concepts and themes.\nMake a description enhancing the understanding of the research landscape.\n\n\n\n\n−+\n45:00"
   },
   {
     "objectID": "01-introduction/tp1.html#scientific-databases-web-of-science-wos-and-openalex",
     "href": "01-introduction/tp1.html#scientific-databases-web-of-science-wos-and-openalex",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Scientific databases:  Web Of Science (WoS) and OpenAlex",
-    "text": "Scientific databases:  Web Of Science (WoS) and OpenAlex",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Scientific databases:  Web Of Science (WoS) and OpenAlex"
   },
   {
     "objectID": "01-introduction/tp1.html#bibliometric-mapping-vosviewer",
     "href": "01-introduction/tp1.html#bibliometric-mapping-vosviewer",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Bibliometric mapping: Vosviewer",
-    "text": "Bibliometric mapping: Vosviewer",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Bibliometric mapping: Vosviewer"
   },
   {
     "objectID": "01-introduction/tp1.html#list-of-tutorials",
     "href": "01-introduction/tp1.html#list-of-tutorials",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "List of tutorials",
-    "text": "List of tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nOpenAlex\nScientific Network visualization\nPatent Network visualization",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "List of tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nOpenAlex\nScientific Network visualization\nPatent Network visualization"
   },
   {
     "objectID": "01-introduction/tp1.html#access",
     "href": "01-introduction/tp1.html#access",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Access to WoS database",
-    "text": "Access to WoS database",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Access to WoS database"
   },
   {
     "objectID": "01-introduction/tp1.html#tutorials-3",
     "href": "01-introduction/tp1.html#tutorials-3",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Tutorials",
-    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
   },
   {
     "objectID": "01-introduction/tp1.html#wos",
     "href": "01-introduction/tp1.html#wos",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Web of Science Interface",
-    "text": "Web of Science Interface",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Web of Science Interface"
   },
   {
     "objectID": "01-introduction/tp1.html#tutorials-4",
     "href": "01-introduction/tp1.html#tutorials-4",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Tutorials",
-    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
   },
   {
     "objectID": "01-introduction/tp1.html#wos-results",
     "href": "01-introduction/tp1.html#wos-results",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Results on WoS plateform",
-    "text": "Results on WoS plateform",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Results on WoS plateform"
   },
   {
     "objectID": "01-introduction/tp1.html#tutorials-5",
     "href": "01-introduction/tp1.html#tutorials-5",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Tutorials",
-    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
   },
   {
     "objectID": "01-introduction/tp1.html#wos-export",
     "href": "01-introduction/tp1.html#wos-export",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Web of Science: Export results",
-    "text": "Web of Science: Export results\n\n\n\n\n\n\nExport &gt; Select Tab Deliminted File",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Web of Science: Export results\n\n\n\n\n\n\nExport &gt; Select Tab Deliminted File"
   },
   {
     "objectID": "01-introduction/tp1.html#tutorials-6",
     "href": "01-introduction/tp1.html#tutorials-6",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Tutorials",
-    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
   },
   {
     "objectID": "01-introduction/tp1.html#openalex-1",
     "href": "01-introduction/tp1.html#openalex-1",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "OpenAlex",
-    "text": "OpenAlex\n\nhttps://openalex.org/",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "OpenAlex\n\nhttps://openalex.org/"
   },
   {
     "objectID": "01-introduction/tp1.html#sci-vos",
     "href": "01-introduction/tp1.html#sci-vos",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Vosviewer",
-    "text": "Vosviewer\nScientific Network visualization\n⬇️ https://www.vosviewer.com/",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Vosviewer\nScientific Network visualization\n⬇️ https://www.vosviewer.com/"
   },
   {
     "objectID": "01-introduction/tp1.html#network-visualitation",
     "href": "01-introduction/tp1.html#network-visualitation",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Network Visualitation",
-    "text": "Network Visualitation",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Network Visualitation"
   },
   {
     "objectID": "01-introduction/tp1.html#clarivate-for-patents",
     "href": "01-introduction/tp1.html#clarivate-for-patents",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Clarivate for Patents",
-    "text": "Clarivate for Patents",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Clarivate for Patents"
   },
   {
     "objectID": "01-introduction/tp1.html#clarivate-for-patents-use-the-search-equation",
     "href": "01-introduction/tp1.html#clarivate-for-patents-use-the-search-equation",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Clarivate for Patents: use the search equation",
-    "text": "Clarivate for Patents: use the search equation",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Clarivate for Patents: use the search equation"
   },
   {
     "objectID": "01-introduction/tp1.html#clarivate-for-patents-export-the-data",
     "href": "01-introduction/tp1.html#clarivate-for-patents-export-the-data",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Clarivate for Patents: Export the Data",
-    "text": "Clarivate for Patents: Export the Data",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Clarivate for Patents: Export the Data"
   },
   {
     "objectID": "01-introduction/tp1.html#clarivate-for-patents-full-record",
     "href": "01-introduction/tp1.html#clarivate-for-patents-full-record",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Clarivate for Patents: Full record",
-    "text": "Clarivate for Patents: Full record",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Clarivate for Patents: Full record"
   },
   {
     "objectID": "01-introduction/tp1.html#dont-forget-use-the-analyze-tool-for-patents",
     "href": "01-introduction/tp1.html#dont-forget-use-the-analyze-tool-for-patents",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Don’t forget use the analyze tool for Patents",
-    "text": "Don’t forget use the analyze tool for Patents",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Don’t forget use the analyze tool for Patents"
   },
   {
     "objectID": "01-introduction/tp1.html#vosviewer-for-patents-create-from-text-data.",
     "href": "01-introduction/tp1.html#vosviewer-for-patents-create-from-text-data.",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "VOSviewer for Patents: Create from text data.",
-    "text": "VOSviewer for Patents: Create from text data.",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "VOSviewer for Patents: Create from text data."
   },
   {
     "objectID": "01-introduction/tp1.html#vosviewer-for-patents",
     "href": "01-introduction/tp1.html#vosviewer-for-patents",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "VOSviewer for Patents",
-    "text": "VOSviewer for Patents",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "VOSviewer for Patents"
   },
   {
     "objectID": "01-introduction/tp1.html#vosviewer-for-patents-1",
     "href": "01-introduction/tp1.html#vosviewer-for-patents-1",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "VOSviewer for Patents",
-    "text": "VOSviewer for Patents",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "VOSviewer for Patents"
   },
   {
     "objectID": "01-introduction/tp1.html#vosviewer-for-patents-2",
     "href": "01-introduction/tp1.html#vosviewer-for-patents-2",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "VOSviewer for Patents",
-    "text": "VOSviewer for Patents",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "VOSviewer for Patents"
   },
   {
     "objectID": "01-introduction/tp1.html#vosviewer-for-patents-3",
     "href": "01-introduction/tp1.html#vosviewer-for-patents-3",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "VOSviewer for Patents",
-    "text": "VOSviewer for Patents",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "VOSviewer for Patents"
   },
   {
     "objectID": "01-introduction/tp1.html#vosviewer-for-patents-4",
     "href": "01-introduction/tp1.html#vosviewer-for-patents-4",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "VOSviewer for Patents",
-    "text": "VOSviewer for Patents",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "VOSviewer for Patents"
   },
   {
     "objectID": "01-introduction/tp1.html#vosviewer-for-patents-5",
     "href": "01-introduction/tp1.html#vosviewer-for-patents-5",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "VOSviewer for Patents",
-    "text": "VOSviewer for Patents",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "VOSviewer for Patents"
   },
   {
     "objectID": "01-introduction/tp1.html#vosviewer-for-patents-6",
     "href": "01-introduction/tp1.html#vosviewer-for-patents-6",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "VOSviewer for Patents",
-    "text": "VOSviewer for Patents",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "VOSviewer for Patents"
   },
   {
     "objectID": "01-introduction/tp1.html#vosviewer-for-patents-7",
     "href": "01-introduction/tp1.html#vosviewer-for-patents-7",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "VOSviewer for Patents",
-    "text": "VOSviewer for Patents",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "VOSviewer for Patents"
   },
   {
     "objectID": "01-introduction/tp1.html#vosviewer-for-patents-8",
     "href": "01-introduction/tp1.html#vosviewer-for-patents-8",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "VOSviewer for Patents",
-    "text": "VOSviewer for Patents\n\n\n\n\n\n\n\n\n \n\n\nTD 1: Vosviewer",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "VOSviewer for Patents\n\n\n\n\n\n\n\n\n \n\n\nTD 1: Vosviewer"
   },
   {
     "objectID": "01-introduction/tp1.html#co-authorship-analysis",
     "href": "01-introduction/tp1.html#co-authorship-analysis",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Co-Authorship Analysis",
-    "text": "Co-Authorship Analysis",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Co-Authorship Analysis"
   },
   {
     "objectID": "01-introduction/tp1.html#co-occurence-of-keywords",
     "href": "01-introduction/tp1.html#co-occurence-of-keywords",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Co-Occurence of Keywords",
-    "text": "Co-Occurence of Keywords",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Co-Occurence of Keywords"
   },
   {
     "objectID": "01-introduction/tp1.html#add-data-minimum-number-of-occurrencies-for-keyworkds",
     "href": "01-introduction/tp1.html#add-data-minimum-number-of-occurrencies-for-keyworkds",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Add data: Minimum number of Occurrencies for Keyworkds",
-    "text": "Add data: Minimum number of Occurrencies for Keyworkds",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Add data: Minimum number of Occurrencies for Keyworkds"
   },
   {
     "objectID": "01-introduction/tp1.html#citation-analysis",
     "href": "01-introduction/tp1.html#citation-analysis",
     "title": "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer",
     "section": "Citation Analysis",
-    "text": "Citation Analysis",
-    "crumbs": [
-      "Home",
-      "Material course for IDEAS and IUVTT students",
-      "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
-    ]
+    "text": "Citation Analysis"
   },
   {
     "objectID": "02-literature/tp2.html#the-exercises",
@@ -1830,7 +1640,7 @@
     "href": "01-introduction/slides.html#exemple-1",
     "title": "What is Scientific Research  for Innovation Management?",
     "section": "Exemple 1",
-    "text": "Exemple 1\n\nSource: Osorio et al (2019). Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100.",
+    "text": "Exemple 1\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\n\n\n−+\n05:00\n\n\n\n\nSource: Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., Lim, W.M., 2021. How to conduct a bibliometric analysis: An overview and guidelines. Journal of Business Research 133, 285–296.",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",
@@ -1842,7 +1652,7 @@
     "href": "01-introduction/slides.html#exemple-1-1",
     "title": "What is Scientific Research  for Innovation Management?",
     "section": "Exemple 1",
-    "text": "Exemple 1\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Osorio et al (2019). Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100.",
+    "text": "Exemple 1\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",
@@ -1854,7 +1664,7 @@
     "href": "01-introduction/slides.html#exemple-2",
     "title": "What is Scientific Research  for Innovation Management?",
     "section": "Exemple 2",
-    "text": "Exemple 2\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Marche, et al. (2022)., Qualitative sustainability assessment of road verge management in France: An approach from causal diagrams to seize the importance of impact pathways. Environmental Impact Assessment Review 97, 106911.",
+    "text": "Exemple 2\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Osorio et al (2019). Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100.\n\n\n\n\n−+\n05:00",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",
@@ -1866,7 +1676,7 @@
     "href": "01-introduction/slides.html#exemple-2-1",
     "title": "What is Scientific Research  for Innovation Management?",
     "section": "Exemple 2",
-    "text": "Exemple 2\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Marche, et al. (2022)., Qualitative sustainability assessment of road verge management in France: An approach from causal diagrams to seize the importance of impact pathways. Environmental Impact Assessment Review 97, 106911.",
+    "text": "Exemple 2\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Osorio et al (2019). Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100.",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",
@@ -1878,7 +1688,7 @@
     "href": "01-introduction/slides.html#exemple-3",
     "title": "What is Scientific Research  for Innovation Management?",
     "section": "Exemple 3",
-    "text": "Exemple 3\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Gabriel, et al. (2016), Creativity support systems: A systematic mapping study, Thinking Skills and Creativity 21, 109–122.",
+    "text": "Exemple 3\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Marche, et al. (2022)., Qualitative sustainability assessment of road verge management in France: An approach from causal diagrams to seize the importance of impact pathways. Environmental Impact Assessment Review 97, 106911.\n\n\n\n\n−+\n05:00",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",
@@ -1890,7 +1700,7 @@
     "href": "01-introduction/slides.html#exemple-3-1",
     "title": "What is Scientific Research  for Innovation Management?",
     "section": "Exemple 3",
-    "text": "Exemple 3\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Gabriel, et al. (2016), Creativity support systems: A systematic mapping study, Thinking Skills and Creativity 21, 109–122.",
+    "text": "Exemple 3\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Marche, et al. (2022)., Qualitative sustainability assessment of road verge management in France: An approach from causal diagrams to seize the importance of impact pathways. Environmental Impact Assessment Review 97, 106911.",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",
@@ -2047,6 +1857,162 @@
     "title": "What is Scientific Research  for Innovation Management?",
     "section": "Types of research",
     "text": "Types of research\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhotos courtesy of Wikipedia",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#picoc",
+    "href": "01-introduction/slides.html#picoc",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "PICOC",
+    "text": "PICOC",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#your-turn-1",
+    "href": "01-introduction/slides.html#your-turn-1",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "Your turn !",
+    "text": "Your turn !\n\n\n\n−+\n05:00\n\n\n\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\n\nSource: Leone, L. The Ratatouille paradox. An inductive study of creativity in haute cuisine. Technovation (2018)\n\n\nVideo of the scene:  https://www.youtube.com/watch?v=GgiK-HWKPjw",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#your-turn-for-conceptualize-your-research",
+    "href": "01-introduction/slides.html#your-turn-for-conceptualize-your-research",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "Your Turn for Conceptualize your research !",
+    "text": "Your Turn for Conceptualize your research !",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#everything-start-with-a-good-research-question",
+    "href": "01-introduction/slides.html#everything-start-with-a-good-research-question",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "Everything start with a good research question !",
+    "text": "Everything start with a good research question !",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#how-to-read-an-article",
+    "href": "01-introduction/slides.html#how-to-read-an-article",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "How to read an Article ?",
+    "text": "How to read an Article ?\nLet’s do step by step analysis …",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#how-to-read-an-article-1",
+    "href": "01-introduction/slides.html#how-to-read-an-article-1",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "How to read an Article ?",
+    "text": "How to read an Article ?",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#how-to-read-an-article-2",
+    "href": "01-introduction/slides.html#how-to-read-an-article-2",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "How to read an Article ?",
+    "text": "How to read an Article ?\n💡 Tip 1 Identify the context of this paper !!\n\nScientific database: Elsevier\nJournal : Journal of Bussiness Research\nPublished : 2021\nCitations",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#how-to-read-an-article-3",
+    "href": "01-introduction/slides.html#how-to-read-an-article-3",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "How to read an Article ?",
+    "text": "How to read an Article ?\n\n\n💡 Tip 2\nWhat and Who?\n\nA good title gives the purpose of the paper !!\nPeople :\n\nUniversity\n\nDomaine\nCountry\nContacts !!\n\nDOI: Digital Object Identifier (DOI)\n\n\n\n.\n.\n.",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#how-to-read-an-article-4",
+    "href": "01-introduction/slides.html#how-to-read-an-article-4",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "How to read an Article ?",
+    "text": "How to read an Article ?\n💡 Tip 3 Start by the Outline !!",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#how-to-read-an-article-5",
+    "href": "01-introduction/slides.html#how-to-read-an-article-5",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "How to read an Article ?",
+    "text": "How to read an Article ?\n💡 Tip 4: Méthode AIC\n\nTitle ✅\n🔎 Abstract\n🔎 Introduction\nLiterature review\nMethodology\nResults\nDiscussion\n🔎Conclusion\nReferences",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#exemple-0",
+    "href": "01-introduction/slides.html#exemple-0",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "Exemple 0",
+    "text": "Exemple 0",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#exemple-4",
+    "href": "01-introduction/slides.html#exemple-4",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "Exemple 4",
+    "text": "Exemple 4\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Gabriel, et al. (2016), Creativity support systems: A systematic mapping study, Thinking Skills and Creativity 21, 109–122.\n\n\n\n\n−+\n05:00",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#exemple-4-1",
+    "href": "01-introduction/slides.html#exemple-4-1",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "Exemple 4",
+    "text": "Exemple 4\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Gabriel, et al. (2016), Creativity support systems: A systematic mapping study, Thinking Skills and Creativity 21, 109–122.",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",

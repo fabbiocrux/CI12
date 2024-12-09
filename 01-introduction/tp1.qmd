@@ -40,13 +40,6 @@ library(countdown)
 
 
 
-## Bibliometric Analysis 
-
-### 
-
-
->It is the 
-
 ## The Exercises
 
 ::: columns
@@ -167,6 +160,7 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 
 :::
 :::
+
 
 
 
