@@ -435,7 +435,7 @@ For detailed synthesis use **AIC**:
 ::::
 
 
-## Exemple 1 {background-image="figures/Article-explanation/01.png" background-size="60%" background-position="90% 0%" }
+## Exemple 1 {background-image="figures/Article-explanation/06.png" background-size="60%" background-position="90% 0%" }
 
 ::: {layout="[30]"}
 
@@ -460,7 +460,7 @@ Journal of Business Research 133, 285–296.
 :::
 
 
-## Exemple 1 {background-image="figures/Article-explanation/01.png" background-size="60%" background-position="90% 0%" }
+## Exemple 1 {background-image="figures/Article-explanation/07.png" background-size="60%" background-position="90% 0%" }
 
 ::: {layout="[30]"}
 
@@ -613,21 +613,15 @@ countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
 
 ## Mental model when reading an abstract 
 
-
-1. [Topic]{.fragment .highlight-red} → *the writer provides background factual information.*
-
-1. [Problem]{.t-blue} → *The writer presents the gap/problem to treat*
-
-1. [Research Gap]{.t-blue} → *the writer states the limits of current knowledge.* 
-
-1. [The purpose]{.t-blue} : *the writer presents the general aim and the specific aim of the study.*
-
-1. [Methodology]{.t-blue} → *the writer summarises the methodology and provides details.*
-
-1. [Results]{.t-blue} → *the writer indicates the achievement of the study.*
-
-1. [Perspectives]{.t-blue} → *the writer presents the implications of the study.*
-
+:::{.incremental}
+1. 🌍 **Topic** → *the writer provides background factual information.*
+1. ⚠️ **Problem** → *The writer presents the gap/problem to treat*
+1. 🔎 **Research Gap** → *the writer states the limits of current knowledge.* 
+1. 🎯 **The purpose** : *the writer presents the general aim and the specific aim of the study.*
+1. 📜 **Methodology** → *the writer summarises the methodology and provides details.*
+1. 📊 **Results** → *the writer indicates the achievement of the study.*
+1. 🚀 **Perspectives** → *the writer presents the implications of the study.*
+:::
 
 
 
