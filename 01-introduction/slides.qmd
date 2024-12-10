@@ -691,12 +691,87 @@ Source: Rojon, C. & Saunders, M. N. K. [Formulating a convincing rationale for a
 :::
 
 
+## PICOC Framework
+
+**Parameter** | **Meaning**
+--|:-----
+**P**opulation|The *What* or *Who* in which the evidence is collected, 
+**I**ntervention | The *how* applied in the empirical study
+**C**omparison| In which the intervention is compared to
+**O**utcomes| What you expect to observe
+**C**ontext| In which particular environment of the population, including whether it is conducted in academia or industry
+
+
+
+## PICOC Framework: Example 1
+
+[Semantic Web and Linked Data for Information Exchange between the Building and Product Manufacturing Industries: A Literature Review.](http://itc.scix.net/paper/w78-2020-paper-018)
+
+:::{layout="[40,60]"}
+
+::: {.callout-note title="Research question"}
+
+> What are the benefits and limitations of using the Semantic Web and Linked data LD technologies for developing product data templates for information ex-changes
+between the building and lighting product manufacturing industries in comparison with the conventional approach of information exchanges using the openBIM standards?
+:::
+
+
+![](figures/consignes/PICOC-01.png){fig-align="center" width="50%"}
+:::
+
+:::footer
+**Source**: R Kebede, A Moscati, P Johansson, H Tan (2020). 
+<br>[Semantic Web and Linked Data for Information Exchange between the Building and Product Manufacturing Industries: A Literature Review.](http://itc.scix.net/paper/w78-2020-paper-018) 
+<br>Proceedings of the 37th International Conference of CIB W78, Sao Paulo - online, BR, 18-20 August, pp. 248-265 (ISSN: 2706-6568), 
+:::
+
+
+## PICOC Framework: Example 2
+
+[Ecosystem services research in mountainous regions: A systematic literature review on current knowledge and research gaps](https://www.sciencedirect.com/science/article/abs/pii/S0048969719345723)
+
+:::{layout="[40,60]"}
+
+::: {.callout-note title="Research question"}
+
+1. What is the state-of-the-art in MES? 
+2. Which MES types had the highest and the least number of studies?
+3. Which modeling approaches are common to assess MES?
+....
+:::
+
+![](figures/consignes/PICOC-02.png){fig-align="center" width="50%"}
+
+:::
+
+:::footer
+**Source**: Mengist, Wondimagegn, Teshome Soromessa, and Gudina Legese. 
+<br>[Method for conducting systematic literature review and meta-analysis for environmental science research.](https://www.sciencedirect.com/science/article/pii/S221501611930353X) 
+<br>MethodsX 7 (2020): 100777.
+:::
+
+
+
+
 
 # Presentation of TD
 
 ## Mental model of the research process
 
 ![Research conceptualization](figures/Research-conceptualization-00.jpg)
+
+## Theoretical background
+
+
+![](figures/consignes/TD-Biblio.png){fig-align="center" width="45%"}
+
+:::footer
+Source:
+Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., Lim, W.M., 2021. <br>
+[How to conduct a bibliometric analysis: An overview and guidelines.](https://doi.org/10.1016/j.jbusres.2021.04.070) <br>
+Journal of Business Research 133, 285–296. 
+
+:::
 
 
 ## The Exercises
@@ -716,7 +791,7 @@ Source: Rojon, C. & Saunders, M. N. K. [Formulating a convincing rationale for a
 
 :::
 
-📃 [Download the Document](https://raw.githubusercontent.com/fabbiocrux/CI12/quarto/01-introduction/01-TD-Vosviewer.docx)
+📃 [Download the Document on ARCHE](https://arche.univ-lorraine.fr/course/view.php?id=14191)
 
 
 ## Bibliometric mapping: Vosviewer
