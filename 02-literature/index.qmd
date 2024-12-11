@@ -73,6 +73,24 @@ library(countdown)
 
 ![](figures/TD1/Research-conceptualization-03.jpg){width="75%" fig-align="center"}
 
+### From Concepts → Research question
+
+::: {layout="[50,50]"}
+:::{}
+![](figures/TD1/PICOC.png){width="100%" fig-align="center"}
+:::
+
+![](figures/TD1/PICOC-01.png){width="100%" fig-align="center"}
+
+![](figures/TD1/PICOC-02.png){width="100%" fig-align="center"}
+:::
+
+
+### From Concepts → Research question 
+
+
+![](figures/TD1/Results-WOS.png){width="80%" fig-align="center"}
+
 
 ### From Research question → Bibliometrie
 
@@ -137,10 +155,9 @@ Journal of Business Research 133, 285–296.
 
 
 
-
 ### From Research question → Bibliometrie
 
-#### 1. Cartographie 
+#### 2. Cartographie 
 
 ![](figures/TD1/TD-Biblio-cartographie.png){width="50%" fig-align="center"}
 
@@ -153,9 +170,54 @@ Journal of Business Research 133, 285–296.
 :::
 
 
+### From Research question → Bibliometrie
+
+#### 2. Cartographie → Analyse des Co-auteurs
+
+**Results de VOSviewer**
+
+![](figures/TD1/Organizations.png){width="50%" fig-align="center"}
+
+
+### From Research question → Bibliometrie
+#### 2. Cartographie → Analyse des Co-auteurs
+
+**Results de VOSviewer**
+
+![](figures/TD1/Keywords.png){width="50%" fig-align="center"}
+
+
+
+
+### From Research question → Bibliometrie
+
+**3D-Printing Based Distributed Plastic Recycling: A Conceptual Model for Closed-Loop Supply Chain Design**
+
+
+::: {layout="[25,25,25,25]"}
+![](figures/TD1/Pavlo1.png){width="100%" fig-align="center"}
+
+![](figures/TD1/Pavlo2.png){width="100%" fig-align="center"}
+
+![](figures/TD1/Pavlo3.png){width="100%" fig-align="center"}
+
+![](figures/TD1/Pavlo4.png){width="100%" fig-align="center"}
+:::
+
+
+
+::: footer
+**Source**: Pavlo, S., Fabio, C., Hakim, B., Mauricio, C., 2018. <br>
+[3D-Printing Based Distributed Plastic Recycling: A Conceptual Model for Closed-Loop Supply Chain Design](https://doi.org/10.1109/ICE.2018.8436296), 
+<br>in: 2018 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC). IEEE, pp. 1–8. 
+:::
+
+
+
 ## The research process
 
 ![](figures/Research-process.png){width="75%" fig-align="center"}
+
 
 
 
