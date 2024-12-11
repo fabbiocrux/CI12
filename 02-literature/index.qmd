@@ -121,9 +121,7 @@ library(countdown)
 
 ### From Concepts → Research question 
 
-
-![](figures/TD1/Results-WOS.png){width="80%" fig-align="center"}
-
+![](figures/TD1/Results-WOS.png){width="100" fig-align="center"}
 
 ### From Research question → Bibliometric
 
@@ -322,6 +320,63 @@ Cruz Sanchez, F.A., Boudaoud, H., Camargo, M., Pearce, J.M., 2020. <br>
 <br>Journal of Cleaner Production 264, 121602. 
 :::
 
+
+
+## Examples at ERPI {background-image="figures/erpi/giang.png" background-size="40%" background-position="90% 50%" }
+
+:::{layout="[50,50]" layout-valign="center"}
+
+[Application of Decision-Making Methods in Smart City Projects: A Systematic Literature Review](https://www.mdpi.com/2624-6511/2/3/27)
+
+:::
+
+
+:::footer
+**Source**: Hoang, G. T. T., L. Dupont, and M. Camargo. 
+<br>[Application of Decision-Making Methods in Smart City Projects: A Systematic Literature Review](https://www.mdpi.com/2624-6511/2/3/27). 
+<br>Smart Cities, 2 (3), 433–452." 2019,
+:::
+
+
+## Examples at ERPI {background-image="figures/erpi/fonseca.png" background-size="40%" background-position="90% 50%" }
+
+:::{layout="[50,50]" layout-valign="center"}
+
+[Trends in design of distributed energy systems using hydrogen as energy vector: A systematic literature review.](https://doi.org/10.1016/j.ijhydene.2018.09.177)
+
+:::
+
+
+:::footer
+**Source**: 
+Fonseca, Juan D., et al. <br> 
+[Trends in design of distributed energy systems using hydrogen as energy vector: A systematic literature review.](https://doi.org/10.1016/j.ijhydene.2018.09.177) <br>
+International journal of hydrogen energy 44.19 (2019): 9486-9504.
+
+:::
+
+
+
+## Examples at ERPI {background-image="figures/erpi/javier.png" background-size="40%" background-position="90% 50%" }
+
+:::{layout="[50,50]" layout-valign="center"}
+
+[3D printing: An emerging opportunity for soil science.](https://doi.org/10.1016/j.geoderma.2020.114588)
+
+:::
+
+
+:::footer
+**Source**: 
+Arrieta-Escobar, Javier A., et al.  <br> 
+[3D printing: An emerging opportunity for soil science.](https://doi.org/10.1016/j.geoderma.2020.114588)  <br> 
+Geoderma 378 (2020): 114588.
+:::
+
+
+
+
+
 ## A useful ressource {background-image="figures/Siddaway2019.png" background-size="45%" background-position="90% 50%" }
 
 
@@ -359,13 +414,6 @@ Report on your literature findings and beware of:
 
 
 ## Your turn ! {background-color="aquamarine" }
-
-```{r echo=FALSE}
-countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
-```
-
-
-
 
 
 # What kind of type of research can we do?
