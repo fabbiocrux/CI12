@@ -37,7 +37,7 @@ library(countdown)
 1. 🔨 **Know-how** : 
    - Search on pertinent scientific databases 
    - How to start to read  scientific article 
-   - Crical thinking of research papers
+   - Critical thinking of research papers
    - Visualization of literature review features.
 
 1. ✍**Competence**  : 
@@ -45,7 +45,7 @@ library(countdown)
 
 
 
-# Where are we in the research process?
+# Where are we ?
 
 ## Mental model for the research 
 
@@ -211,6 +211,17 @@ Journal of Business Research 133, 285–296.
 [3D-Printing Based Distributed Plastic Recycling: A Conceptual Model for Closed-Loop Supply Chain Design](https://doi.org/10.1109/ICE.2018.8436296), 
 <br>in: 2018 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC). IEEE, pp. 1–8. 
 :::
+
+
+
+
+
+
+## Your turn ! {background-color="aquamarine" background-image="figures/Ratatouille-paper.png" background-size="60%" background-position="90% 20%" }
+
+```{r echo=FALSE}
+countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
+```
 
 
 

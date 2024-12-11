@@ -15,7 +15,7 @@
 
   <meta name="author" content="MdC. Fabio A. CRUZ SANCHEZ">
   <meta name="author" content="Pr. Mauricio Camargo">
-  <meta name="dcterms.date" content="2023-12-06">
+  <meta name="dcterms.date" content="2024-06-12">
   <title>CI12 – TD2 : Literature review</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -34,8 +34,73 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
+    /* CSS for syntax highlighting */
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      { color: #003b4f; background-color: #f1f3f5; }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span { color: #003b4f; } /* Normal */
+    code span.al { color: #ad0000; } /* Alert */
+    code span.an { color: #5e5e5e; } /* Annotation */
+    code span.at { color: #657422; } /* Attribute */
+    code span.bn { color: #ad0000; } /* BaseN */
+    code span.bu { } /* BuiltIn */
+    code span.cf { color: #003b4f; font-weight: bold; } /* ControlFlow */
+    code span.ch { color: #20794d; } /* Char */
+    code span.cn { color: #8f5902; } /* Constant */
+    code span.co { color: #5e5e5e; } /* Comment */
+    code span.cv { color: #5e5e5e; font-style: italic; } /* CommentVar */
+    code span.do { color: #5e5e5e; font-style: italic; } /* Documentation */
+    code span.dt { color: #ad0000; } /* DataType */
+    code span.dv { color: #ad0000; } /* DecVal */
+    code span.er { color: #ad0000; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #ad0000; } /* Float */
+    code span.fu { color: #4758ab; } /* Function */
+    code span.im { color: #00769e; } /* Import */
+    code span.in { color: #5e5e5e; } /* Information */
+    code span.kw { color: #003b4f; font-weight: bold; } /* Keyword */
+    code span.op { color: #5e5e5e; } /* Operator */
+    code span.ot { color: #003b4f; } /* Other */
+    code span.pp { color: #ad0000; } /* Preprocessor */
+    code span.sc { color: #5e5e5e; } /* SpecialChar */
+    code span.ss { color: #20794d; } /* SpecialString */
+    code span.st { color: #20794d; } /* String */
+    code span.va { color: #111111; } /* Variable */
+    code span.vs { color: #20794d; } /* VerbatimString */
+    code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-916fcb299a57913ddbd3403e51e9da22.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-a11c97fb5e718249e5d623274a08626c.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -136,7 +201,7 @@
 
 <section id="title-slide" class="quarto-title-block center">
   <h1 class="title">TD2 : Literature review</h1>
-  <p class="subtitle">Bibliometrix et al.&nbsp;(2023)</p>
+  <p class="subtitle">Bibliometrix</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -154,7 +219,7 @@ Pr. Mauricio Camargo
 </div>
 </div>
 
-  <p class="date">2023-12-06</p>
+  <p class="date">2024-06-12</p>
 </section>
 <section>
 <section id="presentation-of-td" class="title-slide slide level1 agenda-slide center">
@@ -208,39 +273,115 @@ Pr. Mauricio Camargo
 </div></div>
 </section>
 
-<section id="bibliometrix-software" class="title-slide slide level2 center">
-<h2>Bibliometrix software</h2>
-<p>🔗 <a href="https://posit.cloud/content/7229125">Connectez-vous at https://posit.cloud/content/7229125</a></p>
+<section id="bibliometrix-software-option-1" class="title-slide slide level2 center">
+<h2>Bibliometrix software : <span style="color:red;">Option 1</span></h2>
+<div>
 
-<img data-src="figures/bibliometrix-02.png" class="quarto-figure quarto-figure-center r-stretch" width="900"></section>
+</div>
+<div class="quarto-layout-panel" data-layout="[50,60]" data-layout-align="center">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 45.5%;justify-content: center;">
+<ol type="1">
+<li><strong>Sign-up an account</strong>:</li>
+</ol>
+<p>🔗 <a href="https://posit.cloud/content/7229125">https://posit.cloud/content/7229125</a></p>
+<ol start="2" type="1">
+<li>⚠️ <strong>Save permante copy</strong></li>
+</ol>
+<div class="callout callout-caution callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Caution</strong></p>
+</div>
+<div class="callout-content">
+<p>This is an online version that can be slow!</p>
+</div>
+</div>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 54.6%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/posit/01.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
 
-<section id="bibliometrix-tutorials" class="title-slide slide level2 center">
-<h2>Bibliometrix tutorials</h2>
-<p>Official tutorials:</p>
+<section id="bibliometrix-software-option-2" class="title-slide slide level2 center">
+<h2>Bibliometrix software : <span style="color:red;">Option 2</span></h2>
+<ol type="1">
+<li>Download R Project: <a href="https://pbil.univ-lyon1.fr/CRAN/">https://pbil.univ-lyon1.fr/CRAN/</a></li>
+<li>Download RStudio: <a href="https://posit.co/download/rstudio-desktop/">https://posit.co/download/rstudio-desktop/</a></li>
+<li><code>install.packages("bibliometrix")</code> &gt; Enter ⏎</li>
+</ol>
+
+<img data-src="figures/rstudio/install.png" class="quarto-figure quarto-figure-center r-stretch" style="width:40.0%"></section>
+
+<section id="bibliometrix-software-option-2-1" class="title-slide slide level2 center">
+<h2>Bibliometrix software : Option 2</h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[50,50]">
+<div class="quarto-layout-row quarto-layout-valign-center">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<ol start="4" type="1">
+<li>Copy &amp; Paste</li>
+</ol>
+<div class="sourceCode" id="cb1" data-code-line-numbers="1-5"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a></a><span class="fu">library</span>(bibliometrix)</span>
+<span id="cb1-2"><a></a><span class="fu">biblioshiny</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<ol start="5" type="1">
+<li>Open an Internet page and put the address that appears in your <code>console</code></li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/rstudio/run.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/rstudio/run2.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="bibliometrix-official-documentation" class="title-slide slide level2 center">
+<h2>Bibliometrix: Official documentation</h2>
+<p><code>https://bibliometrix.org/ &gt; Tutorials &gt; Biblioshiny</code></p>
 <div class="columns">
 <div class="column" style="width:30%;">
-<p><a href="https://bibliometrix.org/biblioshiny/biblioshiny1.html"><strong>Introduction:</strong></a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure>
 <p><img data-src="figures/bibliometrix-tutorial-01.png" class="quarto-figure quarto-figure-center" style="width:90.0%"></p>
 </figure>
 </div>
+<p><a href="https://bibliometrix.org/biblioshiny/biblioshiny1.html"><strong>Introduction</strong></a></p>
 </div><div class="column" style="width:30%;">
-<p><a href="https://bibliometrix.org/biblioshiny/biblioshiny2.html"><strong>Medium:</strong> Focus on Domain</a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure>
 <p><img data-src="figures/bibliometrix-tutorial-02.png" class="quarto-figure quarto-figure-center" style="width:90.0%"></p>
 </figure>
 </div>
+<p><a href="https://bibliometrix.org/biblioshiny/biblioshiny2.html"><strong>Medium:</strong> Focus on Domain</a></p>
 </div><div class="column" style="width:30%;">
-<p><a href="https://bibliometrix.org/biblioshiny/biblioshiny3.html"><strong>Advanced:</strong> Knowledge synthesis</a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure>
 <p><img data-src="figures/bibliometrix-tutorial-03.png" class="quarto-figure quarto-figure-center" style="width:90.0%"></p>
 </figure>
 </div>
+<p><a href="https://bibliometrix.org/biblioshiny/biblioshiny3.html"><strong>Advanced:</strong> Knowledge synthesis</a></p>
 </div></div>
-<p>https://bibliometrix.org/ &gt; Tutorials &gt; Biblioshiny</p>
 </section>
 </section>
 <section>
@@ -263,15 +404,159 @@ Pr. Mauricio Camargo
 <section id="list-of-tutorials" class="title-slide slide level2 center">
 <h2>List of tutorials</h2>
 <ol type="1">
-<li><a href="#/zotero">Bibliographic Management</a></li>
 <li><a href="#/wos">Access to WOS</a></li>
 <li><a href="#/biblio">Use of Bibliometrix</a></li>
 <li><a href="#/wos-results">Download Articles</a></li>
+<li><a href="#/zotero">Bibliographic Management</a></li>
 </ol>
 </section>
 
-<section id="bibliographic-management" class="title-slide slide level2 center">
-<h2>Bibliographic Management</h2>
+<section id="web-of-science" class="title-slide slide level2 center">
+<h2>Web Of Science</h2>
+
+</section>
+<section id="wos-database-access" class="slide level3">
+<h3>WoS database: Access</h3>
+<p><a href="https://www-webofscience-com.bases-doc.univ-lorraine.fr/wos/woscc/basic-search"><strong>Acces to Web Of Science</strong></a></p>
+
+<img data-src="figures/wos-01.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="wos-database-download-.bib" class="slide level3">
+<h3>WoS database: Download <code>.bib</code></h3>
+<p><strong>Select export in format <code>.bib</code></strong></p>
+
+<img data-src="figures/wos/01.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="wos-database-download-.bib-1" class="slide level3">
+<h3>WoS database: Download <code>.bib</code></h3>
+<p><strong>Select <code>Records From</code></strong> and <strong><code>Custom Selection</code></strong></p>
+
+<img data-src="figures/wos/02.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="wos-database-download-.bib-2" class="slide level3">
+<h3>WoS database: Download <code>.bib</code></h3>
+<p><strong>Select All</strong></p>
+
+<img data-src="figures/wos/03.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"></section>
+<section id="wos-database-download-.bib-3" class="slide level3">
+<h3>WoS database: Download <code>.bib</code></h3>
+<p><strong>Download documents in format <code>.bib</code></strong></p>
+
+<img data-src="figures/wos/04.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"></section>
+
+<section id="bibliometrix" class="title-slide slide level2 center">
+<h2>Bibliometrix</h2>
+
+</section>
+<section id="bibliometrix-access" class="slide level3">
+<h3>Bibliometrix: Access</h3>
+<p>⚠️ Connect on: <a href="https://posit.cloud/content/7229125"><strong>https://posit.cloud/content/7229125</strong></a></p>
+
+<img data-src="figures/bibliometrix-00.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-interface-of-r" class="slide level3">
+<h3>Bibliometrix: Interface of R</h3>
+
+<img data-src="figures/bibliometrix-01.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-interface" class="slide level3">
+<h3>Bibliometrix: Interface</h3>
+
+<img data-src="figures/bibliometrix-02.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-1" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-03.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-2" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-04.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-3" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-05.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-4" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-06.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-5" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-07.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-6" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-08.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-7" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-09.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-8" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-10.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-9" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-11.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-10" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-12.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-11" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-13.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-12" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-14.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-13" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-15.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-14" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-16.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-15" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-17.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-16" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-18.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-17" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-19.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-18" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-20.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-19" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-21.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-20" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-22.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-21" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-23.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-22" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-24.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-23" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-25.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="bibliometrix-24" class="slide level3">
+<h3>Bibliometrix:</h3>
+
+<img data-src="figures/bibliometrix-26.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+
+<section id="zotero-bibliographic-management" class="title-slide slide level2 center">
+<h2>Zotero: Bibliographic Management</h2>
 
 </section>
 <section id="research-reference-managers-mendeley-zotero" class="slide level3">
@@ -297,141 +582,7 @@ Pr. Mauricio Camargo
 <section id="zotero-tip-login" class="slide level3">
 <h3>Zotero Tip Login</h3>
 <p>💡 Tip: https://bu.univ-lorraine.fr/ressources-en-ligne/trucs-et-astuces</p>
-
-<img data-src="figures/tip.png" class="r-stretch"></section>
-
-<section id="web-of-science" class="title-slide slide level2 center">
-<h2>Web Of Science</h2>
-
-</section>
-<section id="wos-database-access" class="slide level3">
-<h3>WoS database: Access</h3>
-<p><a href="https://www-webofscience-com.bases-doc.univ-lorraine.fr/wos/woscc/basic-search"><strong>Acces to Web Of Science</strong></a></p>
-
-<img data-src="figures/wos-01.png" class="quarto-figure quarto-figure-center r-stretch"></section>
-<section id="wos-database-download-.bib" class="slide level3">
-<h3>WoS database: Download <code>.bib</code></h3>
-<p><strong>Download documents in format <code>.bib</code></strong></p>
-
-<img data-src="figures/wos-02.png" class="r-stretch"></section>
-<section id="wos-database-full-record" class="slide level3">
-<h3>WoS database: full record</h3>
-<p><strong>Download documents in format <code>.bib</code></strong></p>
-
-<img data-src="figures/wos-03.png" class="r-stretch"></section>
-
-<section id="bibliometrix" class="title-slide slide level2 center">
-<h2>Bibliometrix</h2>
-
-</section>
-<section id="bibliometrix-access" class="slide level3">
-<h3>Bibliometrix: Access</h3>
-<p>⚠️ Connect on: <a href="https://posit.cloud/content/7229125"><strong>https://posit.cloud/content/7229125</strong></a></p>
-
-<img data-src="figures/bibliometrix-00.png" class="r-stretch"></section>
-<section id="bibliometrix-interface-of-r" class="slide level3">
-<h3>Bibliometrix: Interface of R</h3>
-
-<img data-src="figures/bibliometrix-01.png" class="r-stretch"></section>
-<section id="bibliometrix-interface" class="slide level3">
-<h3>Bibliometrix: Interface</h3>
-
-<img data-src="figures/bibliometrix-02.png" class="r-stretch"></section>
-<section id="bibliometrix-1" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-03.png" class="r-stretch"></section>
-<section id="bibliometrix-2" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-04.png" class="r-stretch"></section>
-<section id="bibliometrix-3" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-05.png" class="r-stretch"></section>
-<section id="bibliometrix-4" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-06.png" class="r-stretch"></section>
-<section id="bibliometrix-5" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-07.png" class="r-stretch"></section>
-<section id="bibliometrix-6" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-08.png" class="r-stretch"></section>
-<section id="bibliometrix-7" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-09.png" class="r-stretch"></section>
-<section id="bibliometrix-8" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-10.png" class="r-stretch"></section>
-<section id="bibliometrix-9" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-11.png" class="r-stretch"></section>
-<section id="bibliometrix-10" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-12.png" class="r-stretch"></section>
-<section id="bibliometrix-11" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-13.png" class="r-stretch"></section>
-<section id="bibliometrix-12" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-14.png" class="r-stretch"></section>
-<section id="bibliometrix-13" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-15.png" class="r-stretch"></section>
-<section id="bibliometrix-14" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-16.png" class="r-stretch"></section>
-<section id="bibliometrix-15" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-17.png" class="r-stretch"></section>
-<section id="bibliometrix-16" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-18.png" class="r-stretch"></section>
-<section id="bibliometrix-17" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-19.png" class="r-stretch"></section>
-<section id="bibliometrix-18" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-20.png" class="r-stretch"></section>
-<section id="bibliometrix-19" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-21.png" class="r-stretch"></section>
-<section id="bibliometrix-20" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-22.png" class="r-stretch"></section>
-<section id="bibliometrix-21" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-23.png" class="r-stretch"></section>
-<section id="bibliometrix-22" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-24.png" class="r-stretch"></section>
-<section id="bibliometrix-23" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-25.png" class="r-stretch"></section>
-<section id="bibliometrix-24" class="slide level3">
-<h3>Bibliometrix:</h3>
-<p><img data-src="figures/bibliometrix-26.png"></p>
+<p><img data-src="figures/tip.png"></p>
 
 
 <div class="reveal-header">
@@ -442,7 +593,7 @@ Pr. Mauricio Camargo
 <p> </p>
 </div>
 <div class="header-text title-text">
-<p>Bibliometrix et al.&nbsp;(2023)</p>
+<p>Bibliometrix</p>
 </div>
 <div class="sb-title">
 <p> </p>

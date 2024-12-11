@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Bibliometric Analaysis: Research Landscape using VOSviewer"
+title: "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer"
 subtitle: "TD 1: Vosviewer"  
 email: "fabio.cruz@univ-lorraine.fr"
 institute: "Université de Lorraine | ENSGSI"
