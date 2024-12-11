@@ -18,7 +18,7 @@ website:
           - text: "CM1: Introduction to Scientific Research"
             href: 01-introduction/slides.qmd
           - text: "TD1: VOSviewer -- Visualization of Research Landscape"
-            href: 01-introduction/slides.qmd
+            href: 01-introduction/tp1.qmd
       - text: "---" 
       - section: "Act II: Literature review"
         contents:
@@ -36,8 +36,8 @@ format:
     toc: true
     number-sections: false
     html-math-method: mathjax
-    freeze: true
+#    freeze: true
 
-execute:
-  freeze: auto  # re-render only when source changes
-  cache: false
+#execute:
+#  freeze: auto  # re-render only when source changes
+#  cache: false

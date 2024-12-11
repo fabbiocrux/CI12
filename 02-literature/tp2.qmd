@@ -7,15 +7,39 @@ author:
   - "MdC. Fabio A. CRUZ SANCHEZ"
   - "Pr. Mauricio Camargo"
 date: 06-12-2024
-fig-align: center
-metadata-files:
-  - _metadata.yml
-format:
-  revealjs:
+
+revealjs:
     footer: 'TD2: Literature Review'
     header: ' '
-    subtitle-as-header: true
     slide-level: 3
+    slide-number: c/t
+    controls: true
+    transition: none
+    #margin: 10
+    width: 1600
+    height: 900
+    theme: [default, ../assets/custom.scss]
+    logo: "../assets/img/logos/ENSGSI.png"
+    #embed-resources: false
+    echo: false
+    pdf-separate-fragments: true
+    #toc: true
+    #toc-title: Agenda for today
+    #toc-depth: 1
+    center: false
+    number-sections: false
+    fig-align: center
+    code-copy: true        
+    header-logo: "../assets/img/logos/UL.png"    
+    #subtitle-as-header: true
+    sc-sb-title: false
+    chalkboard: true
+filters:
+  - reveal-header
+  - reveal-auto-agenda
+auto-agenda:
+  bullets: numbered
+  heading: Agenda for today
 ---
 
 ```{r, include=FALSE}
@@ -23,6 +47,10 @@ library(countdown)
 ```
 
 # Presentation of TD
+
+## test
+
+![](figures/wos-01.png){width="90" fig-align="center"}
 
 ## The Exercises
 
@@ -93,7 +121,7 @@ This is an online version that can be slow!
 2. Download RStudio: [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
 3. `install.packages("bibliometrix")` > Enter ⏎
 
-![](figures/rstudio/install.png){width="40%" fig-align="center"}
+![](figures/rstudio/install.png){width="30%" fig-align="center"}
 
 
 ## Bibliometrix software : Option 2
