@@ -1,34 +1,38 @@
 ---
 title: "Act II: Literature review"
-subtitle: "On the shoulders of giants"  
-email: "cruzsanc1@univ-lorraine.fr"
-# title-slide-attributes:
-#   data-background-image: figures/Writing.jpg
-#   data-background-size: 50%
-#   data-background-opacity: "0.5"
-institute: "Université de Lorraine | ENSGSI"
-by-author: 
+subtitle: "On the shoulders of giants <br><img src='../assets/img/logos/ENSGSI.png' width='500'>"  
+email: "fabio.cruz@univ-lorraine.fr"
+institute: "Université de Lorraine"
+author: 
   - "MdC. Fabio A. CRUZ SANCHEZ"
   - "Pr. Mauricio Camargo"
-date: 06-Dec-2023
+date: 06-12-2024
 metadata-files:
   - _metadata.yml
 format:
   revealjs:
-    footer: 'TD: Research overview'
-#    template-partials:
-#      - title-slide.html
+    footer: 'Introduction to Scientific Research'
+    #header: '[Presentation](#/TOC)'
+    slide-level: 3
+    reference-location: document
+    menu:
+      side: right
+      width: wide
+      numbers: false
+revealjs-plugins:
+  - attribution    
 ---
-
 
 ```{r, include=FALSE, eval=TRUE }
 library(countdown)
 ```
 
+
+
 ## Learning objectives of today
 
 1. 🧠 **Knowledge** : 
-   - Sensibilization on what a **scientific research paper** is. 
+   - Sensibilization on what a **literature review process** is. 
 
 1. 🔨 **Know-how** : 
    - Search on pertinent scientific databases 
@@ -38,6 +42,229 @@ library(countdown)
 
 1. ✍**Competence**  : 
    - Be able to structure a literature review.
+
+
+
+# Where are we in the research process?
+
+## Mental model for the research 
+
+![](figures/TD1/Research-conceptualization-00.jpg){width="75%" fig-align="center"}
+
+
+## As Example at ERPI
+
+![](figures/TD1/Research-conceptualization-01.jpg){width="75%" fig-align="center"}
+
+### General Idea
+
+![](figures/Literature-review-01.png){width="75%" fig-align="center"}
+
+### From General Idea → Questions
+
+![](figures/TD1/Ex1.png){width="75%" fig-align="center"}
+
+### From Questions → Concepts
+
+![](figures/TD1/Venn-diagrama-Result.jpg){width="75%" fig-align="center"}
+
+
+### From Concepts → Research question
+
+![](figures/TD1/Research-conceptualization-03.jpg){width="75%" fig-align="center"}
+
+
+### From Research question → Bibliometrie
+
+#### 1. Performance Analysis
+
+![](figures/TD1/TD-Biblio-performance.png){width="50%" fig-align="center"}
+
+**Document sous ARCHE**
+
+
+::: footer
+**Source**: Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., Lim, W.M., 2021. <br>
+[How to conduct a bibliometric analysis: An overview and guidelines](https://doi.org/10.1016/j.jbusres.2021.04.070). <br>
+Journal of Business Research 133, 285–296. 
+:::
+
+### From Research question → Bibliometrie
+
+#### 1. Performance Analysis → Indicateurs sur le publications
+
+::: {layout="[40,60]"}
+:::{}
+![](figures/TD1/Performance-01.png){width="100%" fig-align="center"}
+
+![](figures/TD1/Performance-00.png){width="100%" fig-align="center"}
+:::
+
+![](figures/TD1/Performance-02.png){width="100%" fig-align="center"}
+:::
+
+### From Research question → Bibliometrie
+
+#### 1. Performance Analysis → Indicateurs sur les citations
+
+::: {layout="[40,60]"}
+![](figures/TD1/Performance-03.png){width="80%" fig-align="center"}
+
+
+:::{}
+![](figures/TD1/Performance-04.png){width="90%" fig-align="center"}
+
+![](figures/TD1/Performance-05.png){width="90%" fig-align="center"}
+:::
+
+:::
+
+
+
+### From Research question → Bibliometrie
+
+#### 1. Performance Analysis → Indicateurs liées aux publications-citations
+
+::: {layout="[40,60]"}
+![](figures/TD1/Performance-06.png){width="100%" fig-align="center"}
+
+:::{}
+![](figures/TD1/Performance-08.png){width="100%" fig-align="center"}
+
+![](figures/TD1/Performance-07.png){width="100%" fig-align="center"}
+:::
+:::
+
+
+
+
+### From Research question → Bibliometrie
+
+#### 1. Cartographie 
+
+![](figures/TD1/TD-Biblio-cartographie.png){width="50%" fig-align="center"}
+
+**Document sous ARCHE**
+
+::: footer
+**Source**: Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., Lim, W.M., 2021. <br>
+[How to conduct a bibliometric analysis: An overview and guidelines](https://doi.org/10.1016/j.jbusres.2021.04.070). <br>
+Journal of Business Research 133, 285–296. 
+:::
+
+
+## The research process
+
+![](figures/Research-process.png){width="75%" fig-align="center"}
+
+
+
+
+
+## How to do a Literature Review? {.center}
+
+## Literature review
+
+![](figures/Literature-review-02.png)
+
+**Steps for a Literature Review**
+
+## Literature review: The Context
+
+![](figures/Literature-review-01.png)
+
+
+Take the time to planning because it has the major impact at the end.
+
+## Literature review: Planning
+
+> **Goal:** Identification of material recycling approaches in the Additive Manufacturing contexts (commercial and open-source)
+
+![](figures/Literature-review-03.png)
+
+
+
+## Literature review: Planning
+
+
+![](figures/Literature-review-04.png)
+
+### Subjet + Verb + Complement → Topic + Context + Problem
+
+
+## Literature review: Planning
+
+![](figures/Literature-review-05.png)
+
+
+## Literature review: Planning
+
+![](figures/Literature-review-06.png)
+
+**Grid lecture**
+
+## Literature review: Conducting
+
+![](figures/Literature-review-07.png)
+
+## Literature review: Reporting
+
+![](figures/Literature-review-08.png)
+
+
+## Structure of Literature  {background-image="figures/Example-Fabio.png" background-size="35%" background-position="85% 50%" }
+
+- Title
+- Abstract
+- Introduction
+- Literature review
+- Methodology
+- Results
+- Discussion
+- Conclusion
+- References
+
+
+Example 1:
+
+[https://doi.org/10.1016/j.jclepro.2020.121602](https://doi.org/10.1016/j.jclepro.2020.121602) 
+
+
+
+## A Useful ressource {background-image="figures/Siddaway2019.png" background-size="45%" background-position="90% 50%" }
+
+
+
+:::: {layout="[30, 30]"}
+
+:::{}
+
+Siddaway, A.P., Wood, A.M., Hedges, L.V., 2019. How to Do a Systematic Review: A Best Practice Guide for Conducting and Reporting Narrative Reviews, Meta-Analyses, and Meta-Syntheses. Annual Review of Psychology 70, 747–770. https://doi.org/10.1146/annurev-psych-010418-102803
+
+:::
+
+::::
+
+
+
+
+## Literature review – Ethics
+
+Report on your literature findings and beware of:
+
+- Purposely misrepresenting the work of other authors. 
+
+> **Plagiarism** – the use of another’s original words, arguments, or ideas as though they were your own, even if this is done in good faith, out of carelessness, or out of ignorance.
+
+- Importance of the References [(Act III we'll take a look)]{.bg-yellow}
+
+## Questions {.center}
+
+
+
+
+
+
 
 
 
@@ -199,371 +426,9 @@ California, 246 pp., 2003.
 
 
 
-# How to do a Literature Review at ERPI?
-
-## Mental model for the research development?
-
-![](figures/Research-conceptualization-00.jpg)
-
-## The research process
-
-![](figures/Research-process.png)
-
-
-
-## How to do a Literature Review? {.center}
-
-## Literature review
-
-![](figures/Literature-review-02.png)
-
-**Steps for a Literature Review**
-
-## Literature review: The Context
-
-![](figures/Literature-review-01.png)
-
-
-Take the time to planning because it has the major impact at the end.
-
-## Literature review: Planning
-
-> **Goal:** Identification of material recycling approaches in the Additive Manufacturing contexts (commercial and open-source)
-
-![](figures/Literature-review-03.png)
-
-
-
-## Literature review: Planning
-
-
-![](figures/Literature-review-04.png)
-
-### Subjet + Verb + Complement → Topic + Context + Problem
-
-
-## Literature review: Planning
-
-![](figures/Literature-review-05.png)
-
-
-## Literature review: Planning
-
-![](figures/Literature-review-06.png)
-
-**Grid lecture**
-
-## Literature review: Conducting
-
-![](figures/Literature-review-07.png)
-
-## Literature review: Reporting
-
-![](figures/Literature-review-08.png)
-
-
-## Structure of Literature  {background-image="figures/Example-Fabio.png" background-size="35%" background-position="85% 50%" }
-
-- Title
-- Abstract
-- Introduction
-- Literature review
-- Methodology
-- Results
-- Discussion
-- Conclusion
-- References
-
-
-Example 1:
-
-[https://doi.org/10.1016/j.jclepro.2020.121602](https://doi.org/10.1016/j.jclepro.2020.121602) 
-
-
-
-## A Useful ressource {background-image="figures/Siddaway2019.png" background-size="45%" background-position="90% 50%" }
-
-
-
-:::: {layout="[30, 30]"}
-
-:::{}
-
-Siddaway, A.P., Wood, A.M., Hedges, L.V., 2019. How to Do a Systematic Review: A Best Practice Guide for Conducting and Reporting Narrative Reviews, Meta-Analyses, and Meta-Syntheses. Annual Review of Psychology 70, 747–770. https://doi.org/10.1146/annurev-psych-010418-102803
-
-:::
-
-::::
-
-
-
-
-## Literature review – Ethics
-
-Report on your literature findings and beware of:
-
-- Purposely misrepresenting the work of other authors. 
-
-> **Plagiarism** – the use of another’s original words, arguments, or ideas as though they were your own, even if this is done in good faith, out of carelessness, or out of ignorance.
-
-- Importance of the References [(Act III we'll take a look)]{.bg-yellow}
-
-## Questions {.center}
-
-
-
-# Understanding the Abstract
-
-## Reading an Article - Part I {.center}
-
-
-## What is a Research Paper? {background-image="figures/Paper-Alex-01.jpg" background-size="45%" background-position="90% 50%" }
-
-<br><br><br><br>
-
-### Tip 1
-
-**Start by the Outline !!**
-
-
-## What is a Research Paper? {background-image="figures/Paper-Alex-02.png" background-size="45%" background-position="90% 50%" }
-
-
-
-### Tip 2: **Méthode AIC**
-
-
-- [Title]{.bg-yellow} ✅
-- 🔎 **Abstract**
-- 🔎 **Introduction**
-- Literature review
-- Methodology
-- Results
-- Discussion
-- 🔎**Conclusion**
-- References
-
-
-
-## AIC Reading method
-
-For screening read : **Title, Journal, keywords and Abstract**
-
-For detailed synthesis use **AIC**:
-
-- [**Abstract → Summary of the paper**]{.bg-yellow}🔎
-
-- **Introduction → Context of problem and research, gap, summary of what is done**
-
-- **Conclusions → Summary of results and importance of results given the context.**
-
-
-## The abstract {.center}
-
-
-:::: {layout="[50,-1,70]" layout-valign="center"}
-
-::: {}
-> The minimal viable product of a research.
-:::
-
-:::{}
-- What’s the topic?
-- What's the problem? (Is it important? )
-- What’s the research question?
-- What is the purpose ?
-- How you resolved it?
-- Implications for future ?
-:::
-::::
-
-
-## Exemple 1 {background-image="figures/ferney-00.png" background-size="60%" background-position="90% 0%" }
-
-
-:::aside
-:::: {layout="[17, 40]"}
-**Source**: Osorio et al (2019). Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100. https://doi.org/10.1111/caim.12301
-
-::::
-:::
-
-## Exemple 1 {background-image="figures/ferney-01.png" background-size="60%" background-position="90% 0%" }
-
-::: {layout="[30]"}
-
-- What’s the topic?
-- What's the problem?<br>(Is it important? )
-- What’s the research question?
-- What is the purpose ?
-- How you resolved it?
-- Implications for future ?
-
-:::
-
-
-:::aside
-:::: {layout="[17, 40]"}
-**Source**: Osorio et al (2019). Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100. https://doi.org/10.1111/caim.12301
-
-::::
-:::
-
-
-## Exemple 2 {background-image="figures/Sandra-00.png" background-size="60%" background-position="90% 0%" }
-
-
-::: {layout="[30]"}
-
-- What’s the topic?
-- What's the problem?<br>(Is it important? )
-- What’s the research question?
-- What is the purpose ?
-- How you resolved it?
-- Implications for future ?
-
-:::
-
-:::aside
-:::: {layout="[40, 40]"}
-**Source**: 
-Marche, et al 2022. Qualitative sustainability assessment of road verge management in France: An approach from causal diagrams to seize the importance of impact pathways. Environmental Impact Assessment Review 97, 106911. https://doi.org/10.1016/j.eiar.2022.106911
-::::
-:::
-
-
-
-## Exemple 2 {background-image="figures/Sandra-01.png" background-size="60%" background-position="90% 0%" }
-
-::: {layout="[30]"}
-
-- What’s the topic?
-- What's the problem?<br>(Is it important? )
-- What’s the research question?
-- What is the purpose ?
-- How you resolved it?
-- Implications for future ?
-
-:::
-
-:::aside
-:::: {layout="[40, 40]"}
-**Source**: <br>
-Marche, et al. (2022)., Qualitative sustainability assessment of road verge management in France: An approach from causal diagrams to seize the importance of impact pathways. Environmental Impact Assessment Review 97, 106911. https://doi.org/10.1016/j.eiar.2022.106911
-::::
-:::
-
-
-
-## Exemple 3 {background-image="figures/Alex-00.png" background-size="60%" background-position="90% 0%" }
-
-::: {layout="[30]"}
-
-- What’s the topic?
-- What's the problem?<br>(Is it important? )
-- What’s the research question?
-- What is the purpose ?
-- How you resolved it?
-- Implications for future ?
-
-:::
-
-
-:::aside
-:::: {layout="[40, 40]"}
-**Source**: <br>
-Gabriel, et al. (2016), Creativity support systems: A systematic mapping study. Thinking Skills and Creativity 21, 109–122. https://doi.org/10.1016/j.tsc.2016.05.009
-
-::::
-:::
-
-
-## Exemple 3 {background-image="figures/Alex-01.png" background-size="60%" background-position="90% 50%" }
-
-::: {layout="[30]"}
-
-- What’s the topic?
-- What's the problem?<br>(Is it important? )
-- What’s the research question?
-- What is the purpose ?
-- How you resolved it?
-- Implications for future ?
-
-:::
-
-
-
-:::aside
-:::: {layout="[40, 40]"}
-**Source**: <br>
-Gabriel, et al. (2016), Creativity support systems: A systematic mapping study. Thinking Skills and Creativity 21, 109–122. https://doi.org/10.1016/j.tsc.2016.05.009
-
-::::
-:::
-
-
-
-
-## Mental model when reading an abstract 
-
-1. [Topic]{.t-blue} → *the writer provides background factual information.*
-
-1. [Problem]{.t-blue} → *The writer presents the gap/problem to treat*
-
-1. [Research Gap]{.t-blue} → *the writer states the limits of current knowledge.* 
-
-1. [The purpose]{.t-blue} : *the writer presents the general aim and the specific aim of the study.*
-
-1. [Methodology]{.t-blue} → *the writer summarises the methodology and provides details.*
-
-1. [Results]{.t-blue} → *the writer indicates the achievement of the study.*
-
-1. [Perspectives]{.t-blue} → *the writer presents the implications of the study.*
-
-
-
-## Your turn ! {background-image="figures/Ratatouille-paper.png" background-size="60%" background-position="90% 20%" }
-
-```{r echo=FALSE}
-countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
-```
-
-
-::: {layout="[30]"}
-
-- What’s the topic?
-- What's the problem?<br>(Is it important? )
-- What’s the research question?
-- What is the purpose ?
-- How you resolved it?
-- Implications for future ?
-
-:::
-
-
-:::aside
-:::: {layout="[40, 40]"}
-**Video**: <br>
-https://www.youtube.com/watch?v=GgiK-HWKPjw 
-::::
-:::
-
-
-
-
-
-
-::: aside
-Source: Leone, L. The Ratatouille paradox. An inductive study of creativity in haute cuisine. Technovation (2018) https://doi.org/10.1016/j.technovation.2018.11.003]
-
-:::
-
-
-# Understanding the paper structure
-
+# Understanding the paper structure part II
 
 ## What is a Research Paper? {background-image="figures/Paper-Alex-02.png" background-size="40%" background-position="90% 30%" }
-
 
 
 - [Title]{.bg-yellow} ✅

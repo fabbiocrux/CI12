@@ -920,7 +920,7 @@
     "href": "02-literature/index.html#learning-objectives-of-today",
     "title": "Act II: Literature review",
     "section": "Learning objectives of today",
-    "text": "Learning objectives of today\n\n🧠 Knowledge :\n\nSensibilization on what a scientific research paper is.\n\n🔨 Know-how :\n\nSearch on pertinent scientific databases\nHow to start to read scientific article\nCrical thinking of research papers\nVisualization of literature review features.\n\n✍Competence :\n\nBe able to structure a literature review.",
+    "text": "Learning objectives of today\n\n🧠 Knowledge :\n\nSensibilization on what a literature review process is.\n\n🔨 Know-how :\n\nSearch on pertinent scientific databases\nHow to start to read scientific article\nCrical thinking of research papers\nVisualization of literature review features.\n\n✍Competence :\n\nBe able to structure a literature review.",
     "crumbs": [
       "Home",
       "Act II: Literature review",
@@ -1004,7 +1004,7 @@
     "href": "02-literature/index.html#literature-review-planning-1",
     "title": "Act II: Literature review",
     "section": "Literature review: Planning",
-    "text": "Literature review: Planning\n\nSubjet + Verb + Complement → Topic + Context + Problem",
+    "text": "Literature review: Planning",
     "crumbs": [
       "Home",
       "Act II: Literature review",
@@ -1124,7 +1124,7 @@
     "href": "02-literature/index.html#what-is-a-research-paper",
     "title": "Act II: Literature review",
     "section": "What is a Research Paper?",
-    "text": "What is a Research Paper?\n\nTip 1\nStart by the Outline !!",
+    "text": "What is a Research Paper?\n\nTitle ✅\nAbstract ✅\nIntroduction\nLiterature review\nMethodology\nResults\nDiscussion\nConclusions ✅\nReferences\n\nMéthode AIC",
     "crumbs": [
       "Home",
       "Act II: Literature review",
@@ -1136,7 +1136,7 @@
     "href": "02-literature/index.html#what-is-a-research-paper-1",
     "title": "Act II: Literature review",
     "section": "What is a Research Paper?",
-    "text": "What is a Research Paper?\nTip 2: Méthode AIC\n\nTitle ✅\n🔎 Abstract\n🔎 Introduction\nLiterature review\nMethodology\nResults\nDiscussion\n🔎Conclusion\nReferences",
+    "text": "What is a Research Paper?",
     "crumbs": [
       "Home",
       "Act II: Literature review",
@@ -1808,7 +1808,7 @@
     "href": "02-literature/index.html#in-summary",
     "title": "Act II: Literature review",
     "section": "In summary",
-    "text": "In summary\nThe Art of Design Research",
+    "text": "In summary",
     "crumbs": [
       "Home",
       "Act II: Literature review",
@@ -2065,6 +2065,54 @@
       "Home",
       "Act I: Bibliometric Analysis",
       "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#mental-model-for-the-research",
+    "href": "02-literature/index.html#mental-model-for-the-research",
+    "title": "Act II: Literature review",
+    "section": "Mental model for the research",
+    "text": "Mental model for the research",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#idee",
+    "href": "02-literature/index.html#idee",
+    "title": "Act II: Literature review",
+    "section": "Idee",
+    "text": "Idee",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#idee-general",
+    "href": "02-literature/index.html#idee-general",
+    "title": "Act II: Literature review",
+    "section": "Idee general",
+    "text": "Idee general",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#as-example-at-erpi",
+    "href": "02-literature/index.html#as-example-at-erpi",
+    "title": "Act II: Literature review",
+    "section": "As Example at ERPI",
+    "text": "As Example at ERPI",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
     ]
   }
 ]
