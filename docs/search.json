@@ -64,8 +64,8 @@
     "objectID": "02-literature/tp2.html#the-exercises",
     "href": "02-literature/tp2.html#the-exercises",
     "title": "TD2 : Literature review",
-    "section": "",
-    "text": "WoS + Bibliometrix\n✅ Select at least 5 important papers\n\n\n\n\n\n\n\n\n\n\n\nAbstract\n✅ Analyse 3 paper’s abstract\n\n\n\n\n\n\nArticle\n✅ 1 full paper analysis",
+    "section": "The Exercises",
+    "text": "The Exercises\n\n\nWoS + Bibliometrix\n✅ Select at least 5 important papers\n\n\n\n\n\n\n\n\n\n\n\nAbstract\n✅ Analyse 3 paper’s abstract\n\n\n\n\n\n\nArticle\n✅ 1 full paper analysis",
     "crumbs": [
       "Home",
       "Act II: Literature review",
@@ -76,8 +76,8 @@
     "objectID": "02-literature/tp2.html#bibliometrix-software-option-1",
     "href": "02-literature/tp2.html#bibliometrix-software-option-1",
     "title": "TD2 : Literature review",
-    "section": "",
-    "text": "Sign-up an account:\n\n🔗 https://posit.cloud/content/7229125\n\n⚠️ Save permante copy\n\n\n\n\n\n\n\nCaution\n\n\n\nThis is an online version that can be slow!",
+    "section": "Bibliometrix software : Option 1",
+    "text": "Bibliometrix software : Option 1\n\n\n\n\n\n\n\nSign-up an account:\n\n🔗 https://posit.cloud/content/7229125\n\n⚠️ Save permante copy\n\n\n\n\n\n\n\nCaution\n\n\nThis is an online version that can be slow!",
     "crumbs": [
       "Home",
       "Act II: Literature review",
@@ -88,8 +88,8 @@
     "objectID": "02-literature/tp2.html#bibliometrix-software-option-2",
     "href": "02-literature/tp2.html#bibliometrix-software-option-2",
     "title": "TD2 : Literature review",
-    "section": "",
-    "text": "Download R Project: https://pbil.univ-lyon1.fr/CRAN/\nDownload RStudio: https://posit.co/download/rstudio-desktop/\ninstall.packages(\"bibliometrix\") &gt; Enter ⏎",
+    "section": "Bibliometrix software : Option 2",
+    "text": "Bibliometrix software : Option 2\n\nDownload R Project: https://pbil.univ-lyon1.fr/CRAN/\nDownload RStudio: https://posit.co/download/rstudio-desktop/\ninstall.packages(\"bibliometrix\") &gt; Enter ⏎",
     "crumbs": [
       "Home",
       "Act II: Literature review",
@@ -100,8 +100,8 @@
     "objectID": "02-literature/tp2.html#bibliometrix-software-option-2-1",
     "href": "02-literature/tp2.html#bibliometrix-software-option-2-1",
     "title": "TD2 : Literature review",
-    "section": "",
-    "text": "Copy & Paste\n\nlibrary(bibliometrix)\nbiblioshiny()\n\nOpen an Internet page and put the address that appears in your console",
+    "section": "Bibliometrix software : Option 2",
+    "text": "Bibliometrix software : Option 2\n\n\n\n\n\n\n\nCopy & Paste\n\nlibrary(bibliometrix)\nbiblioshiny()\n\nOpen an Internet page and put the address that appears in your console",
     "crumbs": [
       "Home",
       "Act II: Literature review",
@@ -112,8 +112,8 @@
     "objectID": "02-literature/tp2.html#bibliometrix-official-documentation",
     "href": "02-literature/tp2.html#bibliometrix-official-documentation",
     "title": "TD2 : Literature review",
-    "section": "",
-    "text": "https://bibliometrix.org/ &gt; Tutorials &gt; Biblioshiny\n\n\n\n\n\n\n\nIntroduction\n\n\n\n\n\n\nMedium: Focus on Domain\n\n\n\n\n\n\nAdvanced: Knowledge synthesis",
+    "section": "Bibliometrix: Official documentation",
+    "text": "Bibliometrix: Official documentation\nhttps://bibliometrix.org/ &gt; Tutorials &gt; Biblioshiny\n\n\n\n\n\n\n\nIntroduction\n\n\n\n\n\n\nMedium: Focus on Domain\n\n\n\n\n\n\nAdvanced: Knowledge synthesis",
     "crumbs": [
       "Home",
       "Act II: Literature review",
@@ -137,7 +137,7 @@
     "href": "02-literature/tp2.html#web-of-science",
     "title": "TD2 : Literature review",
     "section": "Web Of Science",
-    "text": "Web Of Science\n\nWoS database: Access\nAcces to Web Of Science\n\n\n\n\n\n\n\nWoS database: Download .bib\nSelect export in format .bib\n\n\n\n\n\n\n\nWoS database: Download .bib\nSelect Records From and Custom Selection\n\n\n\n\n\n\n\nWoS database: Download .bib\nSelect All\n\n\n\n\n\n\n\nWoS database: Download .bib\nDownload documents in format .bib",
+    "text": "Web Of Science",
     "crumbs": [
       "Home",
       "Act II: Literature review",
@@ -149,7 +149,7 @@
     "href": "02-literature/tp2.html#bibliometrix",
     "title": "TD2 : Literature review",
     "section": "Bibliometrix",
-    "text": "Bibliometrix\n\nBibliometrix: Access\n⚠️ Connect on: https://posit.cloud/content/7229125\n\n\n\n\n\n\n\nBibliometrix: Interface of R\n\n\n\n\n\n\n\nBibliometrix: Interface\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:\n\n\n\n\n\n\n\nBibliometrix:",
+    "text": "Bibliometrix",
     "crumbs": [
       "Home",
       "Act II: Literature review",
@@ -161,7 +161,7 @@
     "href": "02-literature/tp2.html#zotero-bibliographic-management",
     "title": "TD2 : Literature review",
     "section": "Zotero: Bibliographic Management",
-    "text": "Zotero: Bibliographic Management\n\nResearch reference managers (Mendeley, Zotero)\n\nAllows you to organize, collaborate, discover, and to cite as you write\n\n\n\n\nResearch reference managers (Mendeley, Zotero)\n\nAllows you to organize, collaborate, discover, and to cite as you write\n\n\n💡 Recomendation: https://www.zotero.org/\n\n\nZotero Extension\nYou can install the (Chrome / Mozilla) extension:\n\n\n\nZotero Tip Login\n💡 Tip: https://bu.univ-lorraine.fr/ressources-en-ligne/trucs-et-astuces",
+    "text": "Zotero: Bibliographic Management",
     "crumbs": [
       "Home",
       "Act II: Literature review",
@@ -1870,6 +1870,18 @@
       "Home",
       "Act II: Literature review",
       "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/tp2.html#test",
+    "href": "02-literature/tp2.html#test",
+    "title": "TD2 : Literature review",
+    "section": "test",
+    "text": "test",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "TD2: Bibliometrix -- Networks of Research Landscape"
     ]
   }
 ]
