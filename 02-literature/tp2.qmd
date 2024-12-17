@@ -371,9 +371,11 @@ You can install the (Chrome / Mozilla) extension:
 
 ### Zotero Tip Login
 
-💡 Tip: https://bu.univ-lorraine.fr/ressources-en-ligne/trucs-et-astuces
+💡 [Tip: https://bu.univ-lorraine.fr/ressources-en-ligne/trucs-et-astuces](https://bu.univ-lorraine.fr/ressources-en-ligne/trucs-et-astuces)
 
 ![](figures/tip.png)
+
+
 
 
 

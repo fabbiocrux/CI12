@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>VOSviewer</string>
+	<key>CFBundleDocumentTypes</key>
+	<array/>
+	<key>CFBundleExecutable</key>
+	<string>VOSviewer</string>
+	<key>CFBundleGetInfoString</key>
+	<string>VOSviewer version 1.6.20</string>
+	<key>CFBundleIconFile</key>
+	<string>VOSviewer.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.vosviewer.VOSviewer</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>VOSviewer</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.6.20</string>
+	<key>CFBundleSignature</key>
+	<string>NJvE</string>
+	<key>CFBundleVersion</key>
+	<string>0</string>
+	<key>JVMArguments</key>
+	<array/>
+	<key>JVMMainClassName</key>
+	<string>com/vosviewer/VOSviewer</string>
+	<key>JVMOptions</key>
+	<array>
+		<string>-Xdock:name=VOSviewer</string>
+		<string>-Xdock:icon=Contents/Resources/VOSviewer.icns</string>
+		<string>-Dapple.awt.application.name=VOSviewer</string>
+		<string>-Dapple.laf.useScreenMenuBar=true</string>
+		<string>-Dcom.apple.macos.use-file-dialog-packages=true</string>
+		<string>-Dcom.apple.macos.useScreenMenuBar=true</string>
+		<string>-Dcom.apple.smallTabs=true</string>
+		<string>-splash:$APP_ROOT/Contents/Resources/splash.png</string>
+	</array>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+	<key>LSArchitecturePriority</key>
+	<array/>
+	<key>LSEnvironment</key>
+	<dict>
+		<key>LC_CTYPE</key>
+		<string>UTF-8</string>
+	</dict>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.8.3</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2009-2023 Nees Jan van Eck and Ludo Waltman</string>
+</dict>
+</plist>
