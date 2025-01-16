@@ -31,9 +31,7 @@ library(countdown)
 
 
 
-
 # For you,<br> What is Scientific Research ? <br> Why is it important?{.center}
-
 
 
 ## Objectives of the Module
@@ -51,12 +49,37 @@ library(countdown)
 
 
 
+## People
+
+::: {layout="[25,25, 25, 25]"}
+![](../assets/img/Mauricio.png)
+
+![](../assets/img/Fabio.png)
+
+![](../assets/img/Ferney.png)
+
+![](../assets/img/Alex.png)
+:::
+
+:::{layout="[50, 50]" layout-align="center"}
+**Seances 1-2**
+
+**Seances 3-4**
+:::
+
+
 
 ## Evaluation of the Module
 
-:::: {.columns}
-::: {.column width="50%"}
-1. A final output will be putted on **ARCHE**. 
+:::{layout="[50, 50]"}
+:::{}
+1. Each session there will be a TD to be putted on **ARCHE**. 
+
+![](figures/Arche.png)
+
+Note final = $Moyenne$
+:::
+:::{}
 
 2. Article of **State of the Art about your Internship** (7 pages).
 
@@ -68,15 +91,11 @@ library(countdown)
    - **References**
 
 :::
-::: {.column width="50%"}
-![](figures/01-research.jpg)
 :::
-::::
 
 
 
 # Introduction to the Scientific Research
-
 ## What are the difference between <br> Engineering and Research (*in Innovation*) ? {.center}
 
 ## Engineering vs Research (*in Innovation*)
@@ -103,21 +122,21 @@ library(countdown)
 
 ## What is scientific research ?
 
->The process of finding solutions to a problem after a thorough study and analysis of the situational factors. (Sekaran and Bougie 2016)
 
-:::: {.columns}
-::: {.column width="50%"}
+::: {layout="[50, 50]"}
+::: {}
+>The process of finding solutions to a problem after a thorough study and analysis of the situational factors. 
+
+
 Based on two research elements:
 
 - 🔎 Observations (information or data)
-
 - 💡 Theory (arguments)
-
 :::
-::: {.column width="50%"}
+::: {}
 
 ```{mermaid}
-%%| fig-height: 5
+%%| fig-height: 4
 graph TD    
     1[Observation]
     2[Hypothesis Formation]
@@ -144,23 +163,23 @@ graph TD
 ```
 
 :::
-::::
-
+:::
 
 
 ::: footer
-**Source**: Saunders, M.N.K., Lewis, P., Thornhill, A., 2019. Research methods for business students, Eighth Edition. ed. Pearson, New York.
+**Source**: Saunders, M.N.K., Lewis, P., Thornhill, A., 2019. <br>Research methods for business students, Eighth Edition. ed. Pearson, New York.
 :::
+
 
 
 ## Types of research
 
-::: {layout="[40,40]"}
-![](figures/Albert-Einstein.jpeg)
 
-![](figures/Charle-Darwin.jpeg)
+::: {layout-nrow="1" layout-align="center"}
+![](figures/Albert-Einstein.jpeg){width="600" fig-align="center"}
+
+![](figures/Charle-Darwin.jpeg){width="500" fig-align="center"}
 :::
-
 
 ::: attribution
 Photos courtesy of [Wikipedia]()
@@ -172,40 +191,142 @@ Photos courtesy of [Wikipedia]()
 
 
 
-```{r, out.width="70%", fig.align='center'}
-knitr::include_graphics(paste0(URL, 'Research/Inductive-deductive.png'))
-``` 
-
 
 ## Scientific approaches
 
 ![Scientific approaches](figures/Inductive-deductive.png)
 
-:::: {.columns}
-::: {.column width="50%"}
+:::{layout="[50,50]" layout-align="center"}
+
+:::{}
 **Deduction**
 
 la méthode par laquelle on va de la cause aux effets, du principe aux conséquences, du général au particulier.
 
 :::
 
-::: {.column width="50%"}
+:::{}
 **Induction**
 
 La règle découle de l'observation répétée de faits réels, contingents.
 :::
-::::
+:::
 
 
 ## Mental model for the research development?
 
-![Research conceptualization](figures/Research-conceptualization-00.jpg){width="60%" fig-align="center"}
+![Research conceptualization](figures/Research-conceptualization-00.jpg){width="30%" fig-align="center"}
+
+
+
+# Bibliometric Analysis
+
+Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., Lim, W.M., 2021. <br>
+***How to conduct a bibliometric analysis: An overview and guidelines.*** <br>
+Journal of Business Research 133, 285–296. https://doi.org/10.1016/j.jbusres.2021.04.070
+
+## What is a Bibliometric Analysis?
+
+A popular and rigorous method for ***exploring and analyzing large volumes of scientific data***. 
+It enables us to *unpack the evolutionary nuances* of a specific field, while shedding light on the emerging areas in that field.
+
+## Scientific Database
+
+## What the difference these two googles? 
+
+
+:::{layout="[50,50]" layout-align="center"}
+![Google Scholar Vs Google Traditional](figures/googles-00.jpg){ fig-align="center"}
+:::
+
+
+## Peer Reviewing process {background-image="figures/Peer-Review-Process.jpeg" background-size="45%" background-position="90% 50%"}
+
+:::{layout="[50,50]" layout-align="center"}
+![Google Scholar Vs Google Traditional](figures/googles-01.png){ fig-align="center"}
+
+
+:::
+
+
+## Scientific Databases {background-image="figures/databases.png" background-size="40%" background-position="90% 50%" }
+
+At the [`ENT Ul > Ressources en Ligne`](https://bu.univ-lorraine.fr/ressources-en-ligne)
+
+- Scientific databases
+- Research papers
+- Books 
+- Institutional reports → WHO, EU ...
+- Societies 
+    - Conferences proceedings (IEEE, IAMOT, IFAC...)
+- Institutional repositories → dissertations
+- IP registrars → Patents
+
+🦸‍♂🦸🏻‍♀️ **Standing on the shoulders of giants**
+
+## Web of science → Scientific & Patent databases
+
+![](figures/WoS.png){width="400" fig-align="left"}
+
+:::{layout="[50,50]" layout-align="center"}
+
+:::{}
+**Scientific Articles**
+
+![**Core Collections**](figures/01-UL-databases/03.png){fig-align="center"}
+:::
+
+:::{}
+**Patents database**
+![**Derwent Innovations Index**](figures/01-UL-databases/04.png){fig-align="center"}
+:::
+:::
+
+
+# Understanding the ecosystems of the scientific research
+
+
+##  The components 
+
+:::{layout="[50,50]"}
+:::{}
+**Process perspective**
+
+![](figures/pandey2015-01.png){width="600px" fig-align="center"}
+:::
+
+:::{}
+**Stakeholder perspective**
+
+![](figures/pandey2015.png){.fragment width="600px" fig-align="center"}
+:::
+:::
+
+
+
+::: footer
+Source: Pandey, S., Pattnaik, P., 2015. <br>
+[University Research Ecosystem: A Conceptual Understanding.](https://doi.org/10.1515/rebs-2016-0021) <br>
+Review of Economic and Business Studies 8. 
+:::
+
+
+### Funding Agencies
+
+### THe Research Instituions 
+
+### The Researcher(s)
+
+
+
+
+
+
 
 
 # Why bother to study the scientific research?
 
-## Pourquoi devrais-je me renseigner sur le processus de recherche ? {.center}
-
+## Why should I learn about the search process? {.center}
 
 ## Research and the "Managers"
 
@@ -285,53 +406,71 @@ Source: [Hensen, J., Loonen, R., Archontiki, M., Kanellis, M., 2015. Using build
 :::
 
 
-## What the difference these two googles? 
-
-![](figures/Googles.png){width="50%" fig-align="center"}
-
-
-## Peer Reviewing process
-
-![](figures/Peer-Review-Process.jpeg){width="60%" fig-align="center"}
-
-
-## Literature review {background-image="figures/databases.png" background-size="40%" background-position="90% 50%" }
-
-### Standing on the shoulders of giants
-
-- Scientific databases
-- Research papers
-- Books 
-- Institutional reports -> WHO, EU…
-- Societies 
-    - conferences proceedings (IEEE, IAMOT, IFAC...)
-- Institutional repositories -> dissertations
-- IP registrars -> Patents
-
-
-## Web of science → Scientific & Patent databases
-
-![](figures/WoS.png){width="400" fig-align="left"}
-
-::: columns
-::: {.column width="50%"}
-![**Core Collections**](figures/01-UL-databases/03.png){fig-align="center"}
-:::
-
-::: {.column width="50%"}
-![**Derwent Innovations Index**](figures/01-UL-databases/04.png){fig-align="center"}
-:::
-:::
-
 
 
 ## Your Turn for Conceptualize your research ! {background-color="aquamarine"}
 
 
-# Understanding a Research paper
+
+# Presentation of TD
+
+## Mental model of the research process
+
+![Research conceptualization](figures/Research-conceptualization-00.jpg)
+
+## Theoretical background
 
 
-## How to read an Article ? {.center}
+![](figures/consignes/TD-Biblio.png){fig-align="center" width="45%"}
+
+:::footer
+Source:
+Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., Lim, W.M., 2021. <br>
+[How to conduct a bibliometric analysis: An overview and guidelines.](https://doi.org/10.1016/j.jbusres.2021.04.070) <br>
+Journal of Business Research 133, 285–296. 
+
+:::
+
+
+## The Exercises
+
+::: columns
+::: {.column width="30%"}
+![Step 1: Define the research questions](figures/Step-2a.jpg){fig-align="center"}
+:::
+
+::: {.column width="30%"}
+![Step 2: Define research equation to use in WoS](figures/Step-2b.jpg){fig-align="center"}
+:::
+
+::: {.column width="30%"}
+![Step 3: Visualize & Analize Scientific and Patent databases](figures/Step-2c.jpg){fig-align="center"}
+:::
+
+:::
+
+📃 [Download the Document on ARCHE](https://arche.univ-lorraine.fr/course/view.php?id=14191)
+
+
+## Bibliometric mapping: Vosviewer
+
+![](figures/vos/09.jpg){width="900" fig-align="center"}
+
+[Download at https://www.vosviewer.com/](https://www.vosviewer.com/)
+
+::: aside
+van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. https://doi.org/10.1007/s11192-009-0146-3
+:::
+
+
+
+# Thank you
+
+
+
+
+
+# How to read an Article ? {.center}
 
 Let's do step by step analysis ...
 
@@ -403,6 +542,7 @@ Let's do step by step analysis ...
 - Discussion
 - 🔎**Conclusion**
 - References
+
 
 
 ## AIC Reading method
@@ -751,57 +891,5 @@ between the building and lighting product manufacturing industries in comparison
 :::
 
 
+## Thanks for your Atenttion
 
-# Presentation of TD
-
-## Mental model of the research process
-
-![Research conceptualization](figures/Research-conceptualization-00.jpg)
-
-## Theoretical background
-
-
-![](figures/consignes/TD-Biblio.png){fig-align="center" width="45%"}
-
-:::footer
-Source:
-Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., Lim, W.M., 2021. <br>
-[How to conduct a bibliometric analysis: An overview and guidelines.](https://doi.org/10.1016/j.jbusres.2021.04.070) <br>
-Journal of Business Research 133, 285–296. 
-
-:::
-
-
-## The Exercises
-
-::: columns
-::: {.column width="30%"}
-![Step 1: Define the research questions](figures/Step-2a.jpg){fig-align="center"}
-:::
-
-::: {.column width="30%"}
-![Step 2: Define research equation to use in WoS](figures/Step-2b.jpg){fig-align="center"}
-:::
-
-::: {.column width="30%"}
-![Step 3: Visualize & Analize Scientific and Patent databases](figures/Step-2c.jpg){fig-align="center"}
-:::
-
-:::
-
-📃 [Download the Document on ARCHE](https://arche.univ-lorraine.fr/course/view.php?id=14191)
-
-
-## Bibliometric mapping: Vosviewer
-
-![](figures/vos/09.jpg){width="900" fig-align="center"}
-
-[Download at https://www.vosviewer.com/](https://www.vosviewer.com/)
-
-::: aside
-van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. https://doi.org/10.1007/s11192-009-0146-3
-:::
-
-
-
-# Thank you
