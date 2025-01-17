@@ -15,7 +15,7 @@ format:
     #header: '[Presentation](#/TOC)'
     slide-level: 3
     reference-location: document
-    auto-stretch: false
+    auto-stretch: true
     menu:
       side: right
       width: wide
@@ -219,19 +219,33 @@ La règle découle de l'observation répétée de faits réels, contingents.
 ![Research conceptualization](figures/Research-conceptualization-00.jpg){width="30%" fig-align="center"}
 
 
+# Understanding the ecosystems of the scientific research
 
-# Bibliometric Analysis
 
-Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., Lim, W.M., 2021. <br>
-***How to conduct a bibliometric analysis: An overview and guidelines.*** <br>
-Journal of Business Research 133, 285–296. https://doi.org/10.1016/j.jbusres.2021.04.070
+:::{layout="[25,25, 25, 25]"}
 
-## What is a Bibliometric Analysis?
+:::{}
+**Scientific Documents**
+:::
 
-A popular and rigorous method for ***exploring and analyzing large volumes of scientific data***. 
-It enables us to *unpack the evolutionary nuances* of a specific field, while shedding light on the emerging areas in that field.
+:::{}
+**Authors**
+:::
+
+
+:::{}
+**Organizations**
+:::
+
+:::{}
+**Contries**
+:::
+:::
 
 ## Scientific Database
+
+
+
 
 ## What the difference these two googles? 
 
@@ -245,8 +259,6 @@ It enables us to *unpack the evolutionary nuances* of a specific field, while sh
 
 :::{layout="[50,50]" layout-align="center"}
 ![Google Scholar Vs Google Traditional](figures/googles-01.png){ fig-align="center"}
-
-
 :::
 
 
@@ -283,8 +295,6 @@ At the [`ENT Ul > Ressources en Ligne`](https://bu.univ-lorraine.fr/ressources-e
 :::
 :::
 
-
-# Understanding the ecosystems of the scientific research
 
 
 ##  The components 
@@ -341,119 +351,6 @@ Research funding bodies play a crucial role in ***shaping the landscape of scien
 
 
 ### The Researcher(s)
-
-## The <br> Bibliometric <br> toolbox {.center background-image="figures/bibliometric/00.png" background-size="65%" background-position="90% 40%"}
-
-### The Bibliometric <br> toolbox { background-image="figures/bibliometric/01.png" background-size="65%" background-position="90% 40%"}
-
-**Techniques** 
-
-1. **Performance**: Examines the *contributions* of research constitutiens to a given field.
-2. **Science Mapping**: Examines the *Relationships* among the research constitutiens to a given field.
-
-
-
-### The Bibliometric <br> toolbox { background-image="figures/bibliometric/02.png" background-size="65%" background-position="90% 40%"}
-
-**Performance Techniques** 
-
-:::{layout="[30, -25, 40]" layout-valign="center"}
-:::{}
-Quantity of:
-
-- Documents
-- Authors
-- Productivity
-:::
-:::{}
-
-But, the real question is: <br>
-**Is this subject interest for scientific community? 🧐**
-:::
-:::
-
-:::{.r-fit-text}
-Quantitative Description !!
-:::
-
-### The Bibliometric <br> toolbox { background-image="figures/bibliometric/03.png" background-size="65%" background-position="90% 40%"}
-
-**Performance Techniques** 
-
-:::{layout="[30, -25, 40]" layout-valign="center"}
-:::{}
-Quantity of:<br>
-- Citations
-:::
-:::{}
-<br>
-But, the real question is: <br>
-**Have this subject an *Impact and diffusion*^[1] of knowledge in the community? 🧐**
-
-:::
-:::
-
-<br>
-**[1]**: Although their relationship with research quality is **complex and multifaceted** issue. 
-
-
-
-### The Bibliometric <br> toolbox { background-image="figures/bibliometric/04.png" background-size="65%" background-position="90% 50%"}
-
-**Performance Techniques** 
-
-:::{layout="[30, -25, 40]" layout-valign="center"}
-:::{}
-Quantity of:
-
-- Collaborations
-- Citations
-- 'Impact factors': 
-  - *h-index*
-  - *g-index*
-  - *i-index*
-:::
-:::{}
-<br>
-But, the real question is: <br>
-**How this research is made? 🧐 <br>**
-**What is its statistical distribution?📊**
-**How many 'big fish' documents ? 🐋**
-:::
-:::
-
-
-
-### The Bibliometric <br> toolbox { background-image="figures/bibliometric/01.png" background-size="65%" background-position="90% 40%"}
-
-**Techniques** 
-
-1. Performance: Examines the *contributions* of research constitutiens to a given field.
-2. **Science Mapping**: Examines the *Relationships* among the research constitutiens to a given field.
-
-:::{.r-fit-text}
-Qualitative Description !!
-:::
-
-
-
-### The Bibliometric <br> toolbox { background-image="figures/bibliometric/05.png" background-size="65%" background-position="90% 50%"}
-
-**Science Mapping** 
-
-:::{layout="[60, 40]" layout-valign="center"}
-:::{}
-Relationship of documents based on:
-
-- Citations
-:::
-:::
-
-But, the real question is: <br>
-**What documents are the most *important* based on the citations parameter? 🧐 <br>**
-
-[**In VOSviewer for example:**](https://app.vosviewer.com/){preview-link="true" .center}
-
 
 
 
@@ -536,6 +433,269 @@ Source: [Hensen, J., Loonen, R., Archontiki, M., Kanellis, M., 2015. Using build
 ![](figures/NPD-4.png){.fragment .absolute top=250 left=0 width="500" }
 
 ![](figures/NPD-5.png){.fragment  width="800" fig-align="center"}
+:::
+
+
+
+
+
+## How to be a relevant interlocuteur?{.center}
+
+
+
+# Bibliometric Analysis
+
+Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., Lim, W.M., 2021. <br>
+***How to conduct a bibliometric analysis: An overview and guidelines.*** <br>
+Journal of Business Research 133, 285–296. https://doi.org/10.1016/j.jbusres.2021.04.070
+
+
+## What is a Bibliometric Analysis?
+
+A popular and rigorous method for ***exploring and analyzing large volumes of scientific data***. 
+It enables us to *unpack the evolutionary nuances* of a specific field, while shedding light on the emerging areas in that field.
+
+
+## The <br> Bibliometric <br> toolbox {.center background-image="figures/bibliometric/00.png" background-size="65%" background-position="90% 40%"}
+
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/01.png" background-size="65%" background-position="90% 40%"}
+
+**Techniques** 
+
+1. **Performance**: Examines the *contributions* of research constitutiens to a given field.
+2. **Science Mapping**: Examines the *Relationships* among the research constitutiens to a given field.
+
+
+
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/02.png" background-size="65%" background-position="90% 40%"}
+
+**Performance Techniques** 
+
+:::{layout="[30, -25, 40]" layout-valign="center"}
+:::{}
+Quantity of:
+
+- Documents
+- Authors
+- Productivity
+:::
+:::{}
+
+But, the real question is: <br>
+**Is this subject interest for scientific community? 🧐**
+:::
+:::
+
+:::{.r-fit-text}
+Quantitative Description !!
+:::
+
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/03.png" background-size="65%" background-position="90% 40%"}
+
+**Performance Techniques** 
+
+:::{layout="[30, -25, 40]" layout-valign="center"}
+:::{}
+Quantity of:<br>
+- Citations
+:::
+:::{}
+<br>
+Real question is: <br>
+**Have this subject an *Impact and diffusion*^[1] of knowledge in the community? 🧐**
+
+:::
+:::
+
+<br>
+**[1]**: Although their relationship with research quality is **complex and multifaceted** issue. 
+
+
+
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/04.png" background-size="65%" background-position="90% 50%"}
+
+**Performance Techniques** 
+
+:::{layout="[30, -25, 40]" layout-valign="center"}
+:::{}
+Quantity of:
+
+- Collaborations
+- Citations
+- 'Impact factors': 
+  - *h-index*
+  - *g-index*
+  - *i-index*
+:::
+:::{}
+<br>
+Real question is: <br>
+**How this research is made? 🧐 <br>**
+**What is its statistical distribution?📊**
+**How many 'big fish' documents ? 🐋**
+:::
+:::
+
+
+
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/01.png" background-size="65%" background-position="90% 40%"}
+
+**Techniques** 
+
+1. Performance: Examines the *contributions* of research constitutiens to a given field.
+2. **Science Mapping**: Examines the *Relationships* among the research constitutiens to a given field.
+
+:::{.r-fit-text}
+Qualitative Description !!
+:::
+
+
+
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/05.png" background-size="65%" background-position="90% 50%"}
+
+#### Citation Analysis
+
+:::{layout="[60, 40]" layout-valign="center"}
+:::{}
+Relationship of documents based on:
+
+- Citations
+:::
+:::
+
+:::{layout="[60, 40]" layout-valign="center"}
+
+:::{.callout-tip title="Real question is:"}
+**What documents are the most *important* based on the citations parameter? 🧐 <br>**
+:::
+:::{}
+For example:
+
+[![](figures/vosviewer-online.png)](https://app.vosviewer.com/){preview-link="true"}
+
+:::
+
+:::
+
+
+
+
+
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/06.png" background-size="65%" background-position="90% 50%"}
+
+#### Co-citation 
+
+:::{layout="[60, 40]" layout-valign="center"}
+:::{}
+
+- Publications *that are cited together* <r> frequently *are similar thematically*
+
+:::
+:::
+
+<br><br>
+
+:::{layout="[60, 40]" layout-valign="center"}
+:::{.callout-tip title="Real question is:"}
+**What are the seminal publications and knowledge foundations for a topic? 🧐 <br>**
+:::
+
+:::{}
+For example:
+
+[![](figures/vosviewer-online.png)](https://app.vosviewer.com/){preview-link="true"}
+:::
+:::
+
+
+
+
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/07.png" background-size="65%" background-position="90% 50%"}
+
+#### Bibliographic coupling
+
+:::{layout="[50, 40]" layout-valign="center"}
+:::{}
+- Two publications *sharing common references* are <br> also *similar* in their content
+:::
+:::
+
+
+<br><br><br>
+
+:::{layout="[60, 40]" layout-valign="center"}
+:::{.callout-tip title="Real question is:"}
+**What are the broad spectrum of themes of a topic and its latest developments?🧐 <br>**
+:::
+
+
+:::{}
+For example:<br>
+[![](figures/vosviewer-online.png)](https://app.vosviewer.com/){preview-link="true"}
+:::
+:::
+
+
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/08.png" background-size="65%" background-position="90% 50%"}
+
+#### Co-word Analysis 
+
+:::{layout="[50, -20, 18]" layout-valign="center"}
+:::{}
+
+- Unit of analysis is → **"Words"**  
+   - *Titles, Keywords, Abstracts*.
+- Words that frequently appear together have a thematic relationship with one another
+
+:::{.callout-tip title="Real question is:"}
+**What is the semantic field of a topic?🧐 <br>**
+:::
+
+:::
+
+:::{}
+<br><br><br><br><br><br>
+
+For example:<br>
+[![](figures/vosviewer-online.png)](https://app.vosviewer.com/){preview-link="true"}
+
+:::
+
+:::
+
+
+Co-citation analysis (*Past*) → Bibliographic coupling (*Present*) → and Co-word Analysis (*Future*)
+
+
+
+
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/09.png" background-size="65%" background-position="90% 50%"}
+
+#### Co-authorship analysis
+
+:::{layout="[50, -20, 18]" layout-valign="center"}
+
+:::{}
+- Interactions among scholars (Universities, Countries) in a research field.
+- Co-authorship is a formal way of intellectual collaboration.
+- Collaborations across different periods of time
+- Valuable information to reach out and collaborate with established and trending scholars
+
+
+:::{.callout-tip title="Real question is:"}
+**Who researcher / University / Country is the best placed in a  particular topic? 🧐 <br>**
+:::
+:::
+
+
+:::{}
+<br><br><br><br><br><br><br>
+
+For example:<br>
+[![](figures/vosviewer-online.png)](https://app.vosviewer.com/){preview-link="true"}
+
+:::
+
 :::
 
 
