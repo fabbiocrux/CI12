@@ -1,0 +1,2508 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "dertinger (2020)",
+				"description": "<table><tr><td>Authors:</td><td>dertinger, samantha c.; gallup, nicole; tanikella, nagendra g.; grasso, marzio; vahid, samireh; foot, peter j. s.; pearce, joshua m.</td></tr><tr><td>Title:</td><td>technical pathways for distributed recycling of polymer composites for distributed manufacturing: windshield wiper blades</td></tr><tr><td>Source:</td><td>resources conservation and recycling, 157</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.resconrec.2020.104810",
+				"x": -0.5151,
+				"y": -0.1358,
+				"cluster": 3,
+				"weights": {
+					"Links": 25.0000,
+					"Citations": 57.0000,
+					"Norm. citations": 3.0000
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 57.0000,
+					"Norm. citations": 3.0000
+				}
+			},
+			{
+				"id": 2,
+				"label": "kassab (2023)",
+				"description": "<table><tr><td>Authors:</td><td>kassab, ali; al nabhani, dawood; mohanty, pravansu; pannier, christopher; ayoub, georges y.</td></tr><tr><td>Title:</td><td>advancing plastic recycling: challenges and opportunities in the integration of 3d printing and distributed recycling for a circular economy</td></tr><tr><td>Source:</td><td>polymers, 15(19)</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/10.3390/polym15193881",
+				"x": -0.8713,
+				"y": -0.0952,
+				"cluster": 3,
+				"weights": {
+					"Links": 13.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 2.6110
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 2.6110
+				}
+			},
+			{
+				"id": 4,
+				"label": "suescun gonzalez (2024)",
+				"description": "<table><tr><td>Authors:</td><td>suescun gonzalez, catalina; cruz sanchez, fabio a.; boudaoud, hakim; nouvel, cecile; pearce, joshua m.</td></tr><tr><td>Title:</td><td>multi-material distributed recycling via material extrusion: recycled high density polyethylene and poly (ethylene terephthalate) mixture</td></tr><tr><td>Source:</td><td>polymer engineering and science, 64(4), 1555-1570</td></tr><tr><td>Year:</td><td>2024</td></tr></table>",
+				"url": "https://doi.org/10.1002/pen.26643",
+				"x": 0.1160,
+				"y": -0.4173,
+				"cluster": 1,
+				"weights": {
+					"Links": 20.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 6.8507
+				},
+				"scores": {
+					"Pub. year": 2024.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 6.8507
+				}
+			},
+			{
+				"id": 5,
+				"label": "hunt (2015)",
+				"description": "<table><tr><td>Authors:</td><td>hunt, emily j.; zhang, chenlong; anzalone, nick; pearce, joshua m.</td></tr><tr><td>Title:</td><td>polymer recycling codes for distributed manufacturing with 3-d printers</td></tr><tr><td>Source:</td><td>resources conservation and recycling, 97, 24-30</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.resconrec.2015.02.004",
+				"x": -0.1316,
+				"y": 0.2655,
+				"cluster": 5,
+				"weights": {
+					"Links": 17.0000,
+					"Citations": 95.0000,
+					"Norm. citations": 3.3799
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 95.0000,
+					"Norm. citations": 3.3799
+				}
+			},
+			{
+				"id": 6,
+				"label": "kreiger (2014)",
+				"description": "<table><tr><td>Authors:</td><td>kreiger, m. a.; mulder, m. l.; glover, a. g.; pearce, j. m.</td></tr><tr><td>Title:</td><td>life cycle analysis of distributed recycling of post-consumer high density polyethylene for 3-d printing filament</td></tr><tr><td>Source:</td><td>journal of cleaner production, 70, 90-96</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.jclepro.2014.02.009",
+				"x": 0.2512,
+				"y": 0.2166,
+				"cluster": 4,
+				"weights": {
+					"Links": 36.0000,
+					"Citations": 222.0000,
+					"Norm. citations": 3.6027
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 222.0000,
+					"Norm. citations": 3.6027
+				}
+			},
+			{
+				"id": 7,
+				"label": "zhong (2018)",
+				"description": "<table><tr><td>Authors:</td><td>zhong, shan; pearce, joshua m.</td></tr><tr><td>Title:</td><td>tightening the loop on the circular economy: coupled distributed recycling and manufacturing with recyclebot and reprap 3-d printing</td></tr><tr><td>Source:</td><td>resources conservation and recycling, 128, 48-58</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.resconrec.2017.09.023",
+				"x": -0.1778,
+				"y": -0.0174,
+				"cluster": 3,
+				"weights": {
+					"Links": 37.0000,
+					"Citations": 144.0000,
+					"Norm. citations": 4.2484
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 144.0000,
+					"Norm. citations": 4.2484
+				}
+			},
+			{
+				"id": 8,
+				"label": "kerdlap (2023)",
+				"description": "<table><tr><td>Authors:</td><td>kerdlap, piya; purnama, aloisius rabata; low, jonathan sze choong; tan, daren zong loong; barlow, claire y.; ramakrishna, seeram</td></tr><tr><td>Title:</td><td>life cycle cost analysis of distributed versus centralized plastic sorting and recycling</td></tr><tr><td>Source:</td><td>journal of industrial ecology, 27(1), 297-311</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/10.1111/jiec.13353",
+				"x": 1.2421,
+				"y": -0.1955,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.6528
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.6528
+				}
+			},
+			{
+				"id": 9,
+				"label": "beltran (2021)",
+				"description": "<table><tr><td>Authors:</td><td>beltran, freddys r.; arrieta, marina p.; moreno, eduardo; gaspar, gerald; muneta, luisa m.; carrasco-gallego, ruth; yanez, susana; hidalgo-carvajal, david; de la orden, maria u.; martinez urreaga, joaquin</td></tr><tr><td>Title:</td><td>evaluation of the technical viability of distributed mechanical recycling of pla 3d printing wastes</td></tr><tr><td>Source:</td><td>polymers, 13(8)</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.3390/polym13081247",
+				"x": -0.5235,
+				"y": 0.6930,
+				"cluster": 2,
+				"weights": {
+					"Links": 8.0000,
+					"Citations": 56.0000,
+					"Norm. citations": 1.7856
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 56.0000,
+					"Norm. citations": 1.7856
+				}
+			},
+			{
+				"id": 10,
+				"label": "little (2020)",
+				"description": "<table><tr><td>Authors:</td><td>little, helen a.; tanikella, nagendra g.; j. reich, matthew; fiedler, matthew j.; snabes, samantha l.; pearce, joshua m.</td></tr><tr><td>Title:</td><td>towards distributed recycling with additive manufacturing of pet flake feedstocks</td></tr><tr><td>Source:</td><td>materials, 13(19)</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.3390/ma13194273",
+				"x": 0.0074,
+				"y": 0.0140,
+				"cluster": 4,
+				"weights": {
+					"Links": 22.0000,
+					"Citations": 53.0000,
+					"Norm. citations": 2.7895
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 53.0000,
+					"Norm. citations": 2.7895
+				}
+			},
+			{
+				"id": 11,
+				"label": "caceres-mendoza (2023)",
+				"description": "<table><tr><td>Authors:</td><td>caceres-mendoza, cristian; santander-tapia, pavlo; sanchez, fabio a. cruz; troussier, nadege; camargo, mauricio; boudaoud, hakim</td></tr><tr><td>Title:</td><td>life cycle assessment of filament production in distributed plastic recycling via additive manufacturing</td></tr><tr><td>Source:</td><td>cleaner waste systems, 5</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.clwas.2023.100100",
+				"x": 0.3651,
+				"y": -0.0618,
+				"cluster": 6,
+				"weights": {
+					"Links": 15.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.9791
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.9791
+				}
+			},
+			{
+				"id": 12,
+				"label": "santander (2020)",
+				"description": "<table><tr><td>Authors:</td><td>santander, pavlo; sanchez, fabio a. cruz; boudaoud, hakim; camargo, mauricio</td></tr><tr><td>Title:</td><td>closed loop supply chain network for local and distributed plastic recycling for 3d printing: a milp-based optimization approach</td></tr><tr><td>Source:</td><td>resources conservation and recycling, 154</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.resconrec.2019.104531",
+				"x": 0.3988,
+				"y": -0.6625,
+				"cluster": 8,
+				"weights": {
+					"Links": 21.0000,
+					"Citations": 95.0000,
+					"Norm. citations": 5.0000
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 95.0000,
+					"Norm. citations": 5.0000
+				}
+			},
+			{
+				"id": 13,
+				"label": "baechler (2013)",
+				"description": "<table><tr><td>Authors:</td><td>baechler, christian; devuono, matthew; pearce, joshua m.</td></tr><tr><td>Title:</td><td>distributed recycling of waste polymer into reprap feedstock</td></tr><tr><td>Source:</td><td>rapid prototyping journal, 19(2), 118-125</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/10.1108/13552541311302978",
+				"x": 0.1514,
+				"y": 0.3551,
+				"cluster": 4,
+				"weights": {
+					"Links": 30.0000,
+					"Citations": 171.0000,
+					"Norm. citations": 4.6570
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 171.0000,
+					"Norm. citations": 4.6570
+				}
+			},
+			{
+				"id": 14,
+				"label": "liu (2024a)",
+				"description": "<table><tr><td>Authors:</td><td>liu, handai; gong, ke; portela, alexandre; chyzna, vlasta; yan, guangming; cao, zhi; dunbar, ronan; chen, yuanyuan</td></tr><tr><td>Title:</td><td>investigation of distributed recycling of polylactic acid over multiple generations via the granule-based material extrusion process</td></tr><tr><td>Source:</td><td>journal of cleaner production, 436</td></tr><tr><td>Year:</td><td>2024</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.jclepro.2024.140609",
+				"x": -0.6623,
+				"y": 0.4067,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 2.2836
+				},
+				"scores": {
+					"Pub. year": 2024.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 2.2836
+				}
+			},
+			{
+				"id": 16,
+				"label": "peeters (2019)",
+				"description": "<table><tr><td>Authors:</td><td>peeters, bob; kiratli, nadine; semeijn, janjaap</td></tr><tr><td>Title:</td><td>a barrier analysis for distributed recycling of 3d printing waste: taking the maker movement perspective</td></tr><tr><td>Source:</td><td>journal of cleaner production, 241</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.jclepro.2019.118313",
+				"x": -0.3017,
+				"y": 0.4308,
+				"cluster": 5,
+				"weights": {
+					"Links": 13.0000,
+					"Citations": 60.0000,
+					"Norm. citations": 2.5347
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 60.0000,
+					"Norm. citations": 2.5347
+				}
+			},
+			{
+				"id": 17,
+				"label": "taito-matamua (2018)",
+				"description": "<table><tr><td>Authors:</td><td>taito-matamua, lionel; fraser, simon; ok, jeongbin</td></tr><tr><td>Title:</td><td>renewing materials: implementing 3d printing and distributed recycling in samoa</td></tr><tr><td>Source:</td><td>unmaking waste in production and consumption: towards the circular economy, 191-212</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/10.1108/978-1-78714-619-820181016",
+				"x": 0.4824,
+				"y": 0.8101,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 18,
+				"label": "lee (2019a)",
+				"description": "<table><tr><td>Authors:</td><td>lee, dongoh; lee, younghun; lee, kyunghyun; ko, youngsu; kim, namsu</td></tr><tr><td>Title:</td><td>development and evaluation of a distributed recycling system for making filaments reused in three-dimensional printers</td></tr><tr><td>Source:</td><td>journal of manufacturing science and engineering-transactions of the asme, 141(2)</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.1115/1.4041747",
+				"x": 0.8681,
+				"y": 0.6145,
+				"cluster": 7,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 0.7182
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 0.7182
+				}
+			},
+			{
+				"id": 21,
+				"label": "kerdlap (2022)",
+				"description": "<table><tr><td>Authors:</td><td>kerdlap, piya; purnama, aloisius rabata; low, jonathan sze choong; tan, daren zong loong; barlow, claire y.; ramakrishna, seeram</td></tr><tr><td>Title:</td><td>comparing the environmental performance of distributed versus centralized plastic recycling systems: applying hybrid simulation modeling to life cycle assessment</td></tr><tr><td>Source:</td><td>journal of industrial ecology, 26(1), 252-271</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1111/jiec.13151",
+				"x": 1.1163,
+				"y": -0.1367,
+				"cluster": 6,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 1.4095
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 1.4095
+				}
+			},
+			{
+				"id": 22,
+				"label": "kosai (2022)",
+				"description": "<table><tr><td>Authors:</td><td>kosai, shoki; kurogi, daiki; kozaki, keita; yamasue, eiji</td></tr><tr><td>Title:</td><td>distributed recycling system with microwave-based heating for obsolete alkaline batteries</td></tr><tr><td>Source:</td><td>resources environment and sustainability, 9</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.resenv.2022.100071",
+				"x": 1.0321,
+				"y": 0.3402,
+				"cluster": 7,
+				"weights": {
+					"Links": 11.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.5034
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.5034
+				}
+			},
+			{
+				"id": 23,
+				"label": "mohammed (2022)",
+				"description": "<table><tr><td>Authors:</td><td>mohammed, mazher; wilson, daniel; gomez-kervin, eli; petsiuk, aliaksei; dick, rachel; pearce, joshua m.</td></tr><tr><td>Title:</td><td>sustainability and feasibility assessment of distributed e-waste recycling using additive manufacturing in a bi-continental context</td></tr><tr><td>Source:</td><td>additive manufacturing, 50</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.addma.2021.102548",
+				"x": 0.0266,
+				"y": 0.2272,
+				"cluster": 3,
+				"weights": {
+					"Links": 14.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 2.5170
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 2.5170
+				}
+			},
+			{
+				"id": 25,
+				"label": "santander (2018)",
+				"description": "<table><tr><td>Authors:</td><td>santander, pavlo; cruz, fabio; boudaoud, hakim; camargo, mauricio</td></tr><tr><td>Title:</td><td>3d-printing based distributed plastic recycling: a conceptual model for closed-loop supply chain design</td></tr><tr><td>Source:</td><td>2018 ieee international conference on engineering, technology and innovation (ice/itmc)</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"x": 0.1239,
+				"y": 0.8494,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 38.0000,
+					"Norm. citations": 1.1211
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 38.0000,
+					"Norm. citations": 1.1211
+				}
+			},
+			{
+				"id": 31,
+				"label": "sanchez (2020)",
+				"description": "<table><tr><td>Authors:</td><td>sanchez, fabio a. cruz; boudaoud, hakim; camargo, mauricio; pearce, joshua m.</td></tr><tr><td>Title:</td><td>plastic recycling in additive manufacturing: a systematic literature review and opportunities for the circular economy</td></tr><tr><td>Source:</td><td>journal of cleaner production, 264</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.jclepro.2020.121602",
+				"x": 0.6114,
+				"y": -0.2412,
+				"cluster": 6,
+				"weights": {
+					"Links": 39.0000,
+					"Citations": 219.0000,
+					"Norm. citations": 11.5263
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 219.0000,
+					"Norm. citations": 11.5263
+				}
+			},
+			{
+				"id": 44,
+				"label": "gomes (2022)",
+				"description": "<table><tr><td>Authors:</td><td>gomes, tiago e. p.; cadete, mylene s.; dias-de-oliveira, joao; neto, victor</td></tr><tr><td>Title:</td><td>controlling the properties of parts 3d printed from recycled thermoplastics: a review of current practices</td></tr><tr><td>Source:</td><td>polymer degradation and stability, 196</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.polymdegradstab.2022.109850",
+				"x": -0.1100,
+				"y": 0.4990,
+				"cluster": 2,
+				"weights": {
+					"Links": 13.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 2.4163
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 2.4163
+				}
+			},
+			{
+				"id": 53,
+				"label": "hart (2018)",
+				"description": "<table><tr><td>Authors:</td><td>hart, kevin r.; frketic, jolie b.; brown, john r.</td></tr><tr><td>Title:</td><td>recycling meal-ready-to-eat (mre) pouches into polymer filament for material extrusion additive manufacturing</td></tr><tr><td>Source:</td><td>additive manufacturing, 21, 536-543</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.addma.2018.04.011",
+				"x": -0.6418,
+				"y": 0.2151,
+				"cluster": 5,
+				"weights": {
+					"Links": 20.0000,
+					"Citations": 66.0000,
+					"Norm. citations": 1.9472
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 66.0000,
+					"Norm. citations": 1.9472
+				}
+			},
+			{
+				"id": 62,
+				"label": "gabriel (2023)",
+				"description": "<table><tr><td>Authors:</td><td>gabriel, alex; cruz, fabio</td></tr><tr><td>Title:</td><td>open source iot-based collection bin applied to local plastic recycling</td></tr><tr><td>Source:</td><td>hardwarex, 13</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.ohx.2022.e00389",
+				"x": 0.1459,
+				"y": -0.7548,
+				"cluster": 8,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 65,
+				"label": "hidalgo-carvajal (2023)",
+				"description": "<table><tr><td>Authors:</td><td>hidalgo-carvajal, david; munoz, alvaro hortal; garrido-gonzalez, jose j.; carrasco-gallego, ruth; montero, victoria alcazar</td></tr><tr><td>Title:</td><td>recycled pla for 3d printing: a comparison of recycled pla filaments from waste of different origins after repeated cycles of extrusion</td></tr><tr><td>Source:</td><td>polymers, 15(17)</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/10.3390/polym15173651",
+				"x": -0.5717,
+				"y": 0.9146,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 1.4687
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 1.4687
+				}
+			},
+			{
+				"id": 79,
+				"label": "meyer (2020)",
+				"description": "<table><tr><td>Authors:</td><td>meyer, theresa k.; tanikella, nagendra g.; reich, matthew j.; pearce, joshua m.</td></tr><tr><td>Title:</td><td>potential of distributed recycling from hybrid manufacturing of 3-d printing and injection molding of stamp sand and acrylonitrile styrene acrylate waste composite</td></tr><tr><td>Source:</td><td>sustainable materials and technologies, 25</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.susmat.2020.e00169",
+				"x": -0.9652,
+				"y": -0.3019,
+				"cluster": 3,
+				"weights": {
+					"Links": 13.0000,
+					"Citations": 20.0000,
+					"Norm. citations": 1.0526
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 20.0000,
+					"Norm. citations": 1.0526
+				}
+			},
+			{
+				"id": 83,
+				"label": "lopez (2023)",
+				"description": "<table><tr><td>Authors:</td><td>lopez, victor m.; carou, diego; cruz s, fabio a.</td></tr><tr><td>Title:</td><td>feasibility study on the use of recycled materials for prototyping purposes: a comparative study based on the tensile strength</td></tr><tr><td>Source:</td><td>proceedings of the institution of mechanical engineers part b-journal of engineering manufacture, 237(5), 801-811</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/10.1177/09544054221113378",
+				"x": 0.4813,
+				"y": -0.3614,
+				"cluster": 6,
+				"weights": {
+					"Links": 5.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.4896
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.4896
+				}
+			},
+			{
+				"id": 89,
+				"label": "cress (2021)",
+				"description": "<table><tr><td>Authors:</td><td>cress, alex k.; huynh, jimmy; anderson, eric h.; o'neill, ryan; schneider, yanika; keles, ozgur</td></tr><tr><td>Title:</td><td>effect of recycling on the mechanical behavior and structure of additively manufactured acrylonitrile butadiene styrene (abs)</td></tr><tr><td>Source:</td><td>journal of cleaner production, 279</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.jclepro.2020.123689",
+				"x": -0.4112,
+				"y": 0.8128,
+				"cluster": 2,
+				"weights": {
+					"Links": 9.0000,
+					"Citations": 52.0000,
+					"Norm. citations": 1.6580
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 52.0000,
+					"Norm. citations": 1.6580
+				}
+			},
+			{
+				"id": 105,
+				"label": "sanchez (2017)",
+				"description": "<table><tr><td>Authors:</td><td>sanchez, fabio a. cruz; boudaoud, hakim; hoppe, sandrine; camargo, mauricio</td></tr><tr><td>Title:</td><td>polymer recycling in an open-source additive manufacturing context: mechanical issues</td></tr><tr><td>Source:</td><td>additive manufacturing, 17, 87-105</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.addma.2017.05.013",
+				"x": -0.2784,
+				"y": 0.2709,
+				"cluster": 2,
+				"weights": {
+					"Links": 34.0000,
+					"Citations": 162.0000,
+					"Norm. citations": 5.9428
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 162.0000,
+					"Norm. citations": 5.9428
+				}
+			},
+			{
+				"id": 114,
+				"label": "romani (2023)",
+				"description": "<table><tr><td>Authors:</td><td>romani, alessia; levi, marinella; pearce, joshua m.</td></tr><tr><td>Title:</td><td>recycled polycarbonate and polycarbonate/acrylonitrile butadiene styrene feedstocks for circular economy product applications with fused granular fabrication-based additive manufacturing</td></tr><tr><td>Source:</td><td>sustainable materials and technologies, 38</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.susmat.2023.e00730",
+				"x": -0.2720,
+				"y": -0.2324,
+				"cluster": 1,
+				"weights": {
+					"Links": 18.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 1.6319
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 1.6319
+				}
+			},
+			{
+				"id": 136,
+				"label": "romani (2024a)",
+				"description": "<table><tr><td>Authors:</td><td>romani, alessia; perusin, lorenzo; ciurnelli, mattia; levi, marinella</td></tr><tr><td>Title:</td><td>characterization of pla feedstock after multiple recycling processes for large-format material extrusion additive manufacturing</td></tr><tr><td>Source:</td><td>materials today sustainability, 25</td></tr><tr><td>Year:</td><td>2024</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.mtsust.2023.100636",
+				"x": -0.3385,
+				"y": -0.8953,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 6.8507
+				},
+				"scores": {
+					"Pub. year": 2024.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 6.8507
+				}
+			},
+			{
+				"id": 171,
+				"label": "reich (2019)",
+				"description": "<table><tr><td>Authors:</td><td>reich, matthew j.; woern, aubrey l.; tanikella, nagendra g.; pearce, joshua m.</td></tr><tr><td>Title:</td><td>mechanical properties and applications of recycled polycarbonate particle material extrusion-based additive manufacturing</td></tr><tr><td>Source:</td><td>materials, 12(10)</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.3390/ma12101642",
+				"x": -0.6462,
+				"y": -0.3378,
+				"cluster": 1,
+				"weights": {
+					"Links": 26.0000,
+					"Citations": 104.0000,
+					"Norm. citations": 4.3934
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 104.0000,
+					"Norm. citations": 4.3934
+				}
+			},
+			{
+				"id": 178,
+				"label": "woern (2018)",
+				"description": "<table><tr><td>Authors:</td><td>woern, aubrey l.; byard, dennis j.; oakley, robert b.; fiedler, matthew j.; snabes, samantha l.; pearce, joshua m.</td></tr><tr><td>Title:</td><td>fused particle fabrication 3-d printing: recycled materials' optimization and mechanical properties</td></tr><tr><td>Source:</td><td>materials, 11(8)</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/10.3390/ma11081413",
+				"x": -0.4940,
+				"y": -0.3615,
+				"cluster": 1,
+				"weights": {
+					"Links": 25.0000,
+					"Citations": 143.0000,
+					"Norm. citations": 4.2189
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 143.0000,
+					"Norm. citations": 4.2189
+				}
+			},
+			{
+				"id": 198,
+				"label": "zander (2019)",
+				"description": "<table><tr><td>Authors:</td><td>zander, nicole e.; gillan, margaret; burckhard, zachary; gardea, frank</td></tr><tr><td>Title:</td><td>recycled polypropylene blends as novel 3d printing materials</td></tr><tr><td>Source:</td><td>additive manufacturing, 25, 122-130</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.addma.2018.11.009",
+				"x": -0.5520,
+				"y": 0.0580,
+				"cluster": 5,
+				"weights": {
+					"Links": 10.0000,
+					"Citations": 153.0000,
+					"Norm. citations": 6.4634
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 153.0000,
+					"Norm. citations": 6.4634
+				}
+			},
+			{
+				"id": 212,
+				"label": "al rashid (2023)",
+				"description": "<table><tr><td>Authors:</td><td>al rashid, ans; koc, muammer</td></tr><tr><td>Title:</td><td>additive manufacturing for sustainability and circular economy: needs, challenges, and opportunities for 3d printing of recycled polymeric waste</td></tr><tr><td>Source:</td><td>materials today sustainability, 24</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.mtsust.2023.100529",
+				"x": -0.1953,
+				"y": 0.7171,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 5.3852
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 5.3852
+				}
+			},
+			{
+				"id": 217,
+				"label": "romani (2024b)",
+				"description": "<table><tr><td>Authors:</td><td>romani, alessia; levi, marinella</td></tr><tr><td>Title:</td><td>large-format material extrusion additive manufacturing for circular economy practices: a focus on product applications with materials from recycled plastics and biomass waste</td></tr><tr><td>Source:</td><td>sustainability, 16(18)</td></tr><tr><td>Year:</td><td>2024</td></tr></table>",
+				"url": "https://doi.org/10.3390/su16187966",
+				"x": -0.4441,
+				"y": -0.7570,
+				"cluster": 1,
+				"weights": {
+					"Links": 13.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2024.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 220,
+				"label": "vidakis (2021)",
+				"description": "<table><tr><td>Authors:</td><td>vidakis, nectarios; petousis, markos; tzounis, lazaros; grammatikos, sotirios a.; porfyrakis, emmanouil; maniadi, athena; mountakis, nikolaos</td></tr><tr><td>Title:</td><td>sustainable additive manufacturing: mechanical response of polyethylene terephthalate glycol over multiple recycling processes</td></tr><tr><td>Source:</td><td>materials, 14(5)</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.3390/ma14051162",
+				"x": -0.8657,
+				"y": 0.3651,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Citations": 60.0000,
+					"Norm. citations": 1.9131
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 60.0000,
+					"Norm. citations": 1.9131
+				}
+			},
+			{
+				"id": 230,
+				"label": "alexandre (2020)",
+				"description": "<table><tr><td>Authors:</td><td>alexandre, arthur; cruz sanchez, fabio a.; boudaoud, hakim; camargo, mauricio; pearce, joshua m.</td></tr><tr><td>Title:</td><td>mechanical properties of direct waste printing of polylactic acid with universal pellets extruder: comparison to fused filament fabrication on open-source desktop three-dimensional printers</td></tr><tr><td>Source:</td><td>3d printing and additive manufacturing, 7(5), 237-247</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1089/3dp.2019.0195",
+				"x": -0.3785,
+				"y": -0.0737,
+				"cluster": 1,
+				"weights": {
+					"Links": 18.0000,
+					"Citations": 69.0000,
+					"Norm. citations": 3.6316
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 69.0000,
+					"Norm. citations": 3.6316
+				}
+			},
+			{
+				"id": 258,
+				"label": "tsala-mbala (2022)",
+				"description": "<table><tr><td>Authors:</td><td>tsala-mbala, celestin; hayibo, koami soulemane; meyer, theresa k.; couao-zotti, nadine; cairns, paul; pearce, joshua m.</td></tr><tr><td>Title:</td><td>technical and economic viability of distributed recycling of low-density polyethylene water sachets into waste composite pavement blocks</td></tr><tr><td>Source:</td><td>journal of composites science, 6(10)</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.3390/jcs6100289",
+				"x": -1.0754,
+				"y": -0.2086,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.4027
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.4027
+				}
+			},
+			{
+				"id": 264,
+				"label": "rattan (2023)",
+				"description": "<table><tr><td>Authors:</td><td>rattan, ravneet s.; nauta, nathan; romani, alessia; pearce, joshua m.</td></tr><tr><td>Title:</td><td>hangprinter for large scale additive manufacturing using fused particle fabrication with recycled plastic and continuous feeding</td></tr><tr><td>Source:</td><td>hardwarex, 13</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.ohx.2023.e00401",
+				"x": -0.1119,
+				"y": -0.6638,
+				"cluster": 1,
+				"weights": {
+					"Links": 17.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 1.7951
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 1.7951
+				}
+			},
+			{
+				"id": 344,
+				"label": "oberloier (2023)",
+				"description": "<table><tr><td>Authors:</td><td>oberloier, shane; whisman, nicholas g.; pearce, joshua m.</td></tr><tr><td>Title:</td><td>finding ideal parameters for recycled material fused particle fabrication-based 3d printing using an open source software implementation of particle swarm optimization</td></tr><tr><td>Source:</td><td>3d printing and additive manufacturing, 10(6), 1287-1300</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/10.1089/3dp.2022.0012",
+				"x": -0.6178,
+				"y": -0.5192,
+				"cluster": 1,
+				"weights": {
+					"Links": 17.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 1.4687
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 1.4687
+				}
+			},
+			{
+				"id": 379,
+				"label": "ravindran (2019)",
+				"description": "<table><tr><td>Authors:</td><td>ravindran, arvind; scsavnicki, sean; nelson, walker; gorecki, peter; franz, jacob; oberloier, shane; meyer, theresa k.; barnard, andrew r.; pearce, joshua m.</td></tr><tr><td>Title:</td><td>open source waste plastic granulator</td></tr><tr><td>Source:</td><td>technologies, 7(4)</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.3390/technologies7040074",
+				"x": -0.7935,
+				"y": 0.0481,
+				"cluster": 3,
+				"weights": {
+					"Links": 13.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.5492
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.5492
+				}
+			},
+			{
+				"id": 412,
+				"label": "petsiuk (2021)",
+				"description": "<table><tr><td>Authors:</td><td>petsiuk, aliaksei; pearce, joshua m.</td></tr><tr><td>Title:</td><td>open source filament diameter sensor for recycling, winding, and additive manufacturing machines</td></tr><tr><td>Source:</td><td>journal of manufacturing science and engineering-transactions of the asme, 143(10)</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1115/1.4050762",
+				"x": -0.4073,
+				"y": 0.1550,
+				"cluster": 5,
+				"weights": {
+					"Links": 14.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.1913
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.1913
+				}
+			},
+			{
+				"id": 450,
+				"label": "stefaniak (2022)",
+				"description": "<table><tr><td>Authors:</td><td>stefaniak, aleksandr b.; bowers, lauren n.; cottrell, gabe; erdem, ergin; knepp, alycia k.; martin, stephen b., jr.; pretty, jack; duling, matthew g.; arnold, elizabeth d.; wilson, zachary; krider, benjamin; fortner, alyson r.; lebouf, ryan f.; virji, m. abbas; sirinterlikci, arif</td></tr><tr><td>Title:</td><td>towards sustainable additive manufacturing: the need for awareness of particle and vapor releases during polymer recycling, making filament, and fused filament fabrication 3-d printing</td></tr><tr><td>Source:</td><td>resources conservation and recycling, 176</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.resconrec.2021.105911",
+				"x": 0.4897,
+				"y": 0.3147,
+				"cluster": 5,
+				"weights": {
+					"Links": 10.0000,
+					"Citations": 27.0000,
+					"Norm. citations": 2.7184
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 27.0000,
+					"Norm. citations": 2.7184
+				}
+			},
+			{
+				"id": 491,
+				"label": "hubbard (2021)",
+				"description": "<table><tr><td>Authors:</td><td>hubbard, benjamin r.; putman, lindsay, i; techtmann, stephen; pearce, joshua m.</td></tr><tr><td>Title:</td><td>open source vacuum oven design for low-temperature drying: performance evaluation for recycled pet and biomass</td></tr><tr><td>Source:</td><td>journal of manufacturing and materials processing, 5(2)</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.3390/jmmp5020052",
+				"x": 0.3065,
+				"y": 0.5207,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.1594
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.1594
+				}
+			},
+			{
+				"id": 648,
+				"label": "molina (2022)",
+				"description": "<table><tr><td>Authors:</td><td>molina, anton; vyas, pranav; khlystov, nikita; kumar, shailabh; kothari, anesta; deriso, dave; liu, zhiru; banavar, samhita; flaum, eliott; prakash, manu</td></tr><tr><td>Title:</td><td>low cost centrifugal melt spinning for distributed manufacturing of non-woven media</td></tr><tr><td>Source:</td><td>plos one, 17(4)</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1371/journal.pone.0264933",
+				"x": 0.6535,
+				"y": -0.7500,
+				"cluster": 8,
+				"weights": {
+					"Links": 3.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.3020
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.3020
+				}
+			},
+			{
+				"id": 662,
+				"label": "mizuno (2021)",
+				"description": "<table><tr><td>Authors:</td><td>mizuno, nobuyuki; kosai, shoki; yamasue, eiji</td></tr><tr><td>Title:</td><td>microwave-based extractive metallurgy to obtain pure metals: a review</td></tr><tr><td>Source:</td><td>cleaner engineering and technology, 5</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.clet.2021.100306",
+				"x": 1.0217,
+				"y": 0.6031,
+				"cluster": 7,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 0.5421
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 0.5421
+				}
+			},
+			{
+				"id": 760,
+				"label": "byard (2019)",
+				"description": "<table><tr><td>Authors:</td><td>byard, dennis j.; woern, aubrey l.; oakley, robert b.; fiedler, matthew j.; snabes, samantha l.; pearce, joshua m.</td></tr><tr><td>Title:</td><td>green fab lab applications of large-area waste polymer-based additive manufacturing</td></tr><tr><td>Source:</td><td>additive manufacturing, 27, 515-525</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.addma.2019.03.006",
+				"x": -0.2703,
+				"y": -0.5819,
+				"cluster": 1,
+				"weights": {
+					"Links": 20.0000,
+					"Citations": 67.0000,
+					"Norm. citations": 2.8304
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 67.0000,
+					"Norm. citations": 2.8304
+				}
+			},
+			{
+				"id": 781,
+				"label": "sauerwein (2018)",
+				"description": "<table><tr><td>Authors:</td><td>sauerwein, m.; doubrovski, e. l.</td></tr><tr><td>Title:</td><td>local and recyclable materials for additive manufacturing: 3d printing with mussel shells</td></tr><tr><td>Source:</td><td>materials today communications, 15, 214-217</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.mtcomm.2018.02.028",
+				"x": 0.9113,
+				"y": -0.0005,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Citations": 45.0000,
+					"Norm. citations": 1.3276
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 45.0000,
+					"Norm. citations": 1.3276
+				}
+			},
+			{
+				"id": 800,
+				"label": "kuclourya (2023)",
+				"description": "<table><tr><td>Authors:</td><td>kuclourya, tanay; monroy, roberto; ahmad, rafiq</td></tr><tr><td>Title:</td><td>design of experiments to compare the reprocessing effect with fused deposition modeling printing parameters on mechanical properties of polylactic acid specimens towards circular economy</td></tr><tr><td>Source:</td><td>progress in rubber plastics and recycling technology, 39(2), 111-140</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/10.1177/14777606221145702",
+				"x": 1.1471,
+				"y": -0.5849,
+				"cluster": 6,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.8159
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.8159
+				}
+			},
+			{
+				"id": 817,
+				"label": "petsiuk (2022)",
+				"description": "<table><tr><td>Authors:</td><td>petsiuk, aliaksei; lavu, bharath; dick, rachel; pearce, joshua m.</td></tr><tr><td>Title:</td><td>waste plastic direct extrusion hangprinter</td></tr><tr><td>Source:</td><td>inventions, 7(3)</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.3390/inventions7030070",
+				"x": -0.2594,
+				"y": -0.4363,
+				"cluster": 1,
+				"weights": {
+					"Links": 20.0000,
+					"Citations": 19.0000,
+					"Norm. citations": 1.9129
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 19.0000,
+					"Norm. citations": 1.9129
+				}
+			},
+			{
+				"id": 826,
+				"label": "bing (2015)",
+				"description": "<table><tr><td>Authors:</td><td>bing, xiaoyun; bloemhof-ruwaard, jacqueline; chaabane, amin; van der vorst, jack</td></tr><tr><td>Title:</td><td>global reverse supply chain redesign for household plastic waste under the emission trading scheme</td></tr><tr><td>Source:</td><td>journal of cleaner production, 103, 28-39</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.jclepro.2015.02.019",
+				"x": 0.5602,
+				"y": -1.0076,
+				"cluster": 8,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 97.0000,
+					"Norm. citations": 3.4511
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 97.0000,
+					"Norm. citations": 3.4511
+				}
+			},
+			{
+				"id": 934,
+				"label": "oyinlola (2023)",
+				"description": "<table><tr><td>Authors:</td><td>oyinlola, muyiwa; okoya, silifat abimbola; whitehead, timothy; evans, mark; lowe, anne sera</td></tr><tr><td>Title:</td><td>the potential of converting plastic waste to 3d printed products in sub-saharan africa</td></tr><tr><td>Source:</td><td>resources conservation & recycling advances, 17</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.rcradv.2023.200129",
+				"x": 0.1977,
+				"y": 0.0262,
+				"cluster": 5,
+				"weights": {
+					"Links": 11.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 1.6319
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 1.6319
+				}
+			},
+			{
+				"id": 967,
+				"label": "gu (2016)",
+				"description": "<table><tr><td>Authors:</td><td>gu, yifan; wu, yufeng; xu, ming; wang, huaidong; zuo, tieyong</td></tr><tr><td>Title:</td><td>the stability and profitability of the informal weee collector in developing countries: a case study of china</td></tr><tr><td>Source:</td><td>resources conservation and recycling, 107, 18-26</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.resconrec.2015.12.004",
+				"x": 1.2260,
+				"y": 0.3981,
+				"cluster": 7,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 102.0000,
+					"Norm. citations": 3.6011
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 102.0000,
+					"Norm. citations": 3.6011
+				}
+			},
+			{
+				"id": 969,
+				"label": "bilal (2024)",
+				"description": "<table><tr><td>Authors:</td><td>bilal, eesha; glazer, yael r.; sassaman, doug m.; seepersad, carolyn c.; webber, michael e.</td></tr><tr><td>Title:</td><td>circularity: understanding the environmental tradeoffs of additive manufacturing with waste plastics</td></tr><tr><td>Source:</td><td>recycling, 9(5)</td></tr><tr><td>Year:</td><td>2024</td></tr></table>",
+				"url": "https://doi.org/10.3390/recycling9050072",
+				"x": -0.0503,
+				"y": -0.3494,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.7612
+				},
+				"scores": {
+					"Pub. year": 2024.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.7612
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 2
+			},
+			{
+				"source_id": 1,
+				"target_id": 4
+			},
+			{
+				"source_id": 1,
+				"target_id": 5
+			},
+			{
+				"source_id": 1,
+				"target_id": 6
+			},
+			{
+				"source_id": 1,
+				"target_id": 7
+			},
+			{
+				"source_id": 1,
+				"target_id": 10
+			},
+			{
+				"source_id": 1,
+				"target_id": 13
+			},
+			{
+				"source_id": 1,
+				"target_id": 22
+			},
+			{
+				"source_id": 1,
+				"target_id": 23
+			},
+			{
+				"source_id": 1,
+				"target_id": 31
+			},
+			{
+				"source_id": 1,
+				"target_id": 53
+			},
+			{
+				"source_id": 1,
+				"target_id": 62
+			},
+			{
+				"source_id": 1,
+				"target_id": 79
+			},
+			{
+				"source_id": 1,
+				"target_id": 105
+			},
+			{
+				"source_id": 1,
+				"target_id": 114
+			},
+			{
+				"source_id": 1,
+				"target_id": 171
+			},
+			{
+				"source_id": 1,
+				"target_id": 178
+			},
+			{
+				"source_id": 1,
+				"target_id": 212
+			},
+			{
+				"source_id": 1,
+				"target_id": 220
+			},
+			{
+				"source_id": 1,
+				"target_id": 258
+			},
+			{
+				"source_id": 1,
+				"target_id": 264
+			},
+			{
+				"source_id": 1,
+				"target_id": 344
+			},
+			{
+				"source_id": 1,
+				"target_id": 412
+			},
+			{
+				"source_id": 1,
+				"target_id": 760
+			},
+			{
+				"source_id": 1,
+				"target_id": 817
+			},
+			{
+				"source_id": 2,
+				"target_id": 7
+			},
+			{
+				"source_id": 2,
+				"target_id": 12
+			},
+			{
+				"source_id": 2,
+				"target_id": 31
+			},
+			{
+				"source_id": 2,
+				"target_id": 53
+			},
+			{
+				"source_id": 2,
+				"target_id": 79
+			},
+			{
+				"source_id": 2,
+				"target_id": 171
+			},
+			{
+				"source_id": 2,
+				"target_id": 178
+			},
+			{
+				"source_id": 2,
+				"target_id": 198
+			},
+			{
+				"source_id": 2,
+				"target_id": 220
+			},
+			{
+				"source_id": 2,
+				"target_id": 230
+			},
+			{
+				"source_id": 2,
+				"target_id": 379
+			},
+			{
+				"source_id": 2,
+				"target_id": 760
+			},
+			{
+				"source_id": 4,
+				"target_id": 6
+			},
+			{
+				"source_id": 4,
+				"target_id": 7
+			},
+			{
+				"source_id": 4,
+				"target_id": 10
+			},
+			{
+				"source_id": 4,
+				"target_id": 11
+			},
+			{
+				"source_id": 4,
+				"target_id": 12
+			},
+			{
+				"source_id": 4,
+				"target_id": 13
+			},
+			{
+				"source_id": 4,
+				"target_id": 21
+			},
+			{
+				"source_id": 4,
+				"target_id": 31
+			},
+			{
+				"source_id": 4,
+				"target_id": 53
+			},
+			{
+				"source_id": 4,
+				"target_id": 105
+			},
+			{
+				"source_id": 4,
+				"target_id": 171
+			},
+			{
+				"source_id": 4,
+				"target_id": 178
+			},
+			{
+				"source_id": 4,
+				"target_id": 198
+			},
+			{
+				"source_id": 4,
+				"target_id": 217
+			},
+			{
+				"source_id": 4,
+				"target_id": 230
+			},
+			{
+				"source_id": 4,
+				"target_id": 264
+			},
+			{
+				"source_id": 4,
+				"target_id": 344
+			},
+			{
+				"source_id": 4,
+				"target_id": 760
+			},
+			{
+				"source_id": 4,
+				"target_id": 817
+			},
+			{
+				"source_id": 5,
+				"target_id": 6
+			},
+			{
+				"source_id": 5,
+				"target_id": 7
+			},
+			{
+				"source_id": 5,
+				"target_id": 10
+			},
+			{
+				"source_id": 5,
+				"target_id": 11
+			},
+			{
+				"source_id": 5,
+				"target_id": 13
+			},
+			{
+				"source_id": 5,
+				"target_id": 16
+			},
+			{
+				"source_id": 5,
+				"target_id": 23
+			},
+			{
+				"source_id": 5,
+				"target_id": 31
+			},
+			{
+				"source_id": 5,
+				"target_id": 89
+			},
+			{
+				"source_id": 5,
+				"target_id": 171
+			},
+			{
+				"source_id": 5,
+				"target_id": 178
+			},
+			{
+				"source_id": 5,
+				"target_id": 344
+			},
+			{
+				"source_id": 5,
+				"target_id": 379
+			},
+			{
+				"source_id": 5,
+				"target_id": 412
+			},
+			{
+				"source_id": 5,
+				"target_id": 450
+			},
+			{
+				"source_id": 5,
+				"target_id": 934
+			},
+			{
+				"source_id": 6,
+				"target_id": 7
+			},
+			{
+				"source_id": 6,
+				"target_id": 9
+			},
+			{
+				"source_id": 6,
+				"target_id": 10
+			},
+			{
+				"source_id": 6,
+				"target_id": 11
+			},
+			{
+				"source_id": 6,
+				"target_id": 12
+			},
+			{
+				"source_id": 6,
+				"target_id": 16
+			},
+			{
+				"source_id": 6,
+				"target_id": 17
+			},
+			{
+				"source_id": 6,
+				"target_id": 18
+			},
+			{
+				"source_id": 6,
+				"target_id": 21
+			},
+			{
+				"source_id": 6,
+				"target_id": 22
+			},
+			{
+				"source_id": 6,
+				"target_id": 23
+			},
+			{
+				"source_id": 6,
+				"target_id": 25
+			},
+			{
+				"source_id": 6,
+				"target_id": 31
+			},
+			{
+				"source_id": 6,
+				"target_id": 44
+			},
+			{
+				"source_id": 6,
+				"target_id": 53
+			},
+			{
+				"source_id": 6,
+				"target_id": 89
+			},
+			{
+				"source_id": 6,
+				"target_id": 105
+			},
+			{
+				"source_id": 6,
+				"target_id": 114
+			},
+			{
+				"source_id": 6,
+				"target_id": 136
+			},
+			{
+				"source_id": 6,
+				"target_id": 171
+			},
+			{
+				"source_id": 6,
+				"target_id": 178
+			},
+			{
+				"source_id": 6,
+				"target_id": 230
+			},
+			{
+				"source_id": 6,
+				"target_id": 258
+			},
+			{
+				"source_id": 6,
+				"target_id": 264
+			},
+			{
+				"source_id": 6,
+				"target_id": 344
+			},
+			{
+				"source_id": 6,
+				"target_id": 379
+			},
+			{
+				"source_id": 6,
+				"target_id": 412
+			},
+			{
+				"source_id": 6,
+				"target_id": 450
+			},
+			{
+				"source_id": 6,
+				"target_id": 760
+			},
+			{
+				"source_id": 6,
+				"target_id": 781
+			},
+			{
+				"source_id": 6,
+				"target_id": 817
+			},
+			{
+				"source_id": 6,
+				"target_id": 934
+			},
+			{
+				"source_id": 6,
+				"target_id": 969
+			},
+			{
+				"source_id": 7,
+				"target_id": 9
+			},
+			{
+				"source_id": 7,
+				"target_id": 10
+			},
+			{
+				"source_id": 7,
+				"target_id": 11
+			},
+			{
+				"source_id": 7,
+				"target_id": 12
+			},
+			{
+				"source_id": 7,
+				"target_id": 13
+			},
+			{
+				"source_id": 7,
+				"target_id": 16
+			},
+			{
+				"source_id": 7,
+				"target_id": 22
+			},
+			{
+				"source_id": 7,
+				"target_id": 23
+			},
+			{
+				"source_id": 7,
+				"target_id": 25
+			},
+			{
+				"source_id": 7,
+				"target_id": 31
+			},
+			{
+				"source_id": 7,
+				"target_id": 44
+			},
+			{
+				"source_id": 7,
+				"target_id": 53
+			},
+			{
+				"source_id": 7,
+				"target_id": 79
+			},
+			{
+				"source_id": 7,
+				"target_id": 89
+			},
+			{
+				"source_id": 7,
+				"target_id": 105
+			},
+			{
+				"source_id": 7,
+				"target_id": 114
+			},
+			{
+				"source_id": 7,
+				"target_id": 171
+			},
+			{
+				"source_id": 7,
+				"target_id": 178
+			},
+			{
+				"source_id": 7,
+				"target_id": 217
+			},
+			{
+				"source_id": 7,
+				"target_id": 220
+			},
+			{
+				"source_id": 7,
+				"target_id": 230
+			},
+			{
+				"source_id": 7,
+				"target_id": 258
+			},
+			{
+				"source_id": 7,
+				"target_id": 264
+			},
+			{
+				"source_id": 7,
+				"target_id": 344
+			},
+			{
+				"source_id": 7,
+				"target_id": 379
+			},
+			{
+				"source_id": 7,
+				"target_id": 412
+			},
+			{
+				"source_id": 7,
+				"target_id": 450
+			},
+			{
+				"source_id": 7,
+				"target_id": 648
+			},
+			{
+				"source_id": 7,
+				"target_id": 760
+			},
+			{
+				"source_id": 7,
+				"target_id": 817
+			},
+			{
+				"source_id": 7,
+				"target_id": 934
+			},
+			{
+				"source_id": 7,
+				"target_id": 969
+			},
+			{
+				"source_id": 8,
+				"target_id": 21
+			},
+			{
+				"source_id": 8,
+				"target_id": 31
+			},
+			{
+				"source_id": 9,
+				"target_id": 11
+			},
+			{
+				"source_id": 9,
+				"target_id": 14
+			},
+			{
+				"source_id": 9,
+				"target_id": 16
+			},
+			{
+				"source_id": 9,
+				"target_id": 65
+			},
+			{
+				"source_id": 9,
+				"target_id": 105
+			},
+			{
+				"source_id": 9,
+				"target_id": 230
+			},
+			{
+				"source_id": 10,
+				"target_id": 12
+			},
+			{
+				"source_id": 10,
+				"target_id": 13
+			},
+			{
+				"source_id": 10,
+				"target_id": 14
+			},
+			{
+				"source_id": 10,
+				"target_id": 31
+			},
+			{
+				"source_id": 10,
+				"target_id": 44
+			},
+			{
+				"source_id": 10,
+				"target_id": 53
+			},
+			{
+				"source_id": 10,
+				"target_id": 79
+			},
+			{
+				"source_id": 10,
+				"target_id": 83
+			},
+			{
+				"source_id": 10,
+				"target_id": 105
+			},
+			{
+				"source_id": 10,
+				"target_id": 114
+			},
+			{
+				"source_id": 10,
+				"target_id": 171
+			},
+			{
+				"source_id": 10,
+				"target_id": 178
+			},
+			{
+				"source_id": 10,
+				"target_id": 198
+			},
+			{
+				"source_id": 10,
+				"target_id": 217
+			},
+			{
+				"source_id": 10,
+				"target_id": 264
+			},
+			{
+				"source_id": 10,
+				"target_id": 491
+			},
+			{
+				"source_id": 10,
+				"target_id": 817
+			},
+			{
+				"source_id": 11,
+				"target_id": 12
+			},
+			{
+				"source_id": 11,
+				"target_id": 21
+			},
+			{
+				"source_id": 11,
+				"target_id": 23
+			},
+			{
+				"source_id": 11,
+				"target_id": 31
+			},
+			{
+				"source_id": 11,
+				"target_id": 53
+			},
+			{
+				"source_id": 11,
+				"target_id": 83
+			},
+			{
+				"source_id": 11,
+				"target_id": 105
+			},
+			{
+				"source_id": 11,
+				"target_id": 230
+			},
+			{
+				"source_id": 11,
+				"target_id": 450
+			},
+			{
+				"source_id": 11,
+				"target_id": 969
+			},
+			{
+				"source_id": 12,
+				"target_id": 13
+			},
+			{
+				"source_id": 12,
+				"target_id": 16
+			},
+			{
+				"source_id": 12,
+				"target_id": 22
+			},
+			{
+				"source_id": 12,
+				"target_id": 31
+			},
+			{
+				"source_id": 12,
+				"target_id": 44
+			},
+			{
+				"source_id": 12,
+				"target_id": 62
+			},
+			{
+				"source_id": 12,
+				"target_id": 83
+			},
+			{
+				"source_id": 12,
+				"target_id": 105
+			},
+			{
+				"source_id": 12,
+				"target_id": 114
+			},
+			{
+				"source_id": 12,
+				"target_id": 264
+			},
+			{
+				"source_id": 12,
+				"target_id": 344
+			},
+			{
+				"source_id": 12,
+				"target_id": 648
+			},
+			{
+				"source_id": 12,
+				"target_id": 817
+			},
+			{
+				"source_id": 12,
+				"target_id": 826
+			},
+			{
+				"source_id": 12,
+				"target_id": 934
+			},
+			{
+				"source_id": 13,
+				"target_id": 16
+			},
+			{
+				"source_id": 13,
+				"target_id": 17
+			},
+			{
+				"source_id": 13,
+				"target_id": 18
+			},
+			{
+				"source_id": 13,
+				"target_id": 23
+			},
+			{
+				"source_id": 13,
+				"target_id": 25
+			},
+			{
+				"source_id": 13,
+				"target_id": 31
+			},
+			{
+				"source_id": 13,
+				"target_id": 53
+			},
+			{
+				"source_id": 13,
+				"target_id": 62
+			},
+			{
+				"source_id": 13,
+				"target_id": 79
+			},
+			{
+				"source_id": 13,
+				"target_id": 89
+			},
+			{
+				"source_id": 13,
+				"target_id": 105
+			},
+			{
+				"source_id": 13,
+				"target_id": 114
+			},
+			{
+				"source_id": 13,
+				"target_id": 171
+			},
+			{
+				"source_id": 13,
+				"target_id": 178
+			},
+			{
+				"source_id": 13,
+				"target_id": 217
+			},
+			{
+				"source_id": 13,
+				"target_id": 230
+			},
+			{
+				"source_id": 13,
+				"target_id": 264
+			},
+			{
+				"source_id": 13,
+				"target_id": 344
+			},
+			{
+				"source_id": 13,
+				"target_id": 379
+			},
+			{
+				"source_id": 13,
+				"target_id": 412
+			},
+			{
+				"source_id": 13,
+				"target_id": 450
+			},
+			{
+				"source_id": 13,
+				"target_id": 491
+			},
+			{
+				"source_id": 13,
+				"target_id": 934
+			},
+			{
+				"source_id": 13,
+				"target_id": 969
+			},
+			{
+				"source_id": 14,
+				"target_id": 31
+			},
+			{
+				"source_id": 14,
+				"target_id": 44
+			},
+			{
+				"source_id": 14,
+				"target_id": 105
+			},
+			{
+				"source_id": 14,
+				"target_id": 171
+			},
+			{
+				"source_id": 14,
+				"target_id": 178
+			},
+			{
+				"source_id": 14,
+				"target_id": 220
+			},
+			{
+				"source_id": 14,
+				"target_id": 230
+			},
+			{
+				"source_id": 14,
+				"target_id": 817
+			},
+			{
+				"source_id": 16,
+				"target_id": 31
+			},
+			{
+				"source_id": 16,
+				"target_id": 53
+			},
+			{
+				"source_id": 16,
+				"target_id": 105
+			},
+			{
+				"source_id": 16,
+				"target_id": 171
+			},
+			{
+				"source_id": 16,
+				"target_id": 178
+			},
+			{
+				"source_id": 16,
+				"target_id": 198
+			},
+			{
+				"source_id": 16,
+				"target_id": 450
+			},
+			{
+				"source_id": 18,
+				"target_id": 31
+			},
+			{
+				"source_id": 18,
+				"target_id": 44
+			},
+			{
+				"source_id": 18,
+				"target_id": 662
+			},
+			{
+				"source_id": 21,
+				"target_id": 22
+			},
+			{
+				"source_id": 21,
+				"target_id": 31
+			},
+			{
+				"source_id": 22,
+				"target_id": 23
+			},
+			{
+				"source_id": 22,
+				"target_id": 31
+			},
+			{
+				"source_id": 22,
+				"target_id": 450
+			},
+			{
+				"source_id": 22,
+				"target_id": 662
+			},
+			{
+				"source_id": 22,
+				"target_id": 760
+			},
+			{
+				"source_id": 22,
+				"target_id": 967
+			},
+			{
+				"source_id": 23,
+				"target_id": 31
+			},
+			{
+				"source_id": 23,
+				"target_id": 114
+			},
+			{
+				"source_id": 23,
+				"target_id": 212
+			},
+			{
+				"source_id": 23,
+				"target_id": 264
+			},
+			{
+				"source_id": 23,
+				"target_id": 379
+			},
+			{
+				"source_id": 23,
+				"target_id": 412
+			},
+			{
+				"source_id": 23,
+				"target_id": 817
+			},
+			{
+				"source_id": 25,
+				"target_id": 105
+			},
+			{
+				"source_id": 31,
+				"target_id": 44
+			},
+			{
+				"source_id": 31,
+				"target_id": 53
+			},
+			{
+				"source_id": 31,
+				"target_id": 62
+			},
+			{
+				"source_id": 31,
+				"target_id": 83
+			},
+			{
+				"source_id": 31,
+				"target_id": 105
+			},
+			{
+				"source_id": 31,
+				"target_id": 114
+			},
+			{
+				"source_id": 31,
+				"target_id": 136
+			},
+			{
+				"source_id": 31,
+				"target_id": 171
+			},
+			{
+				"source_id": 31,
+				"target_id": 178
+			},
+			{
+				"source_id": 31,
+				"target_id": 198
+			},
+			{
+				"source_id": 31,
+				"target_id": 212
+			},
+			{
+				"source_id": 31,
+				"target_id": 217
+			},
+			{
+				"source_id": 31,
+				"target_id": 264
+			},
+			{
+				"source_id": 31,
+				"target_id": 344
+			},
+			{
+				"source_id": 31,
+				"target_id": 412
+			},
+			{
+				"source_id": 31,
+				"target_id": 450
+			},
+			{
+				"source_id": 31,
+				"target_id": 648
+			},
+			{
+				"source_id": 31,
+				"target_id": 760
+			},
+			{
+				"source_id": 31,
+				"target_id": 781
+			},
+			{
+				"source_id": 31,
+				"target_id": 800
+			},
+			{
+				"source_id": 31,
+				"target_id": 817
+			},
+			{
+				"source_id": 31,
+				"target_id": 934
+			},
+			{
+				"source_id": 44,
+				"target_id": 105
+			},
+			{
+				"source_id": 44,
+				"target_id": 178
+			},
+			{
+				"source_id": 44,
+				"target_id": 198
+			},
+			{
+				"source_id": 44,
+				"target_id": 212
+			},
+			{
+				"source_id": 44,
+				"target_id": 220
+			},
+			{
+				"source_id": 44,
+				"target_id": 230
+			},
+			{
+				"source_id": 53,
+				"target_id": 79
+			},
+			{
+				"source_id": 53,
+				"target_id": 89
+			},
+			{
+				"source_id": 53,
+				"target_id": 105
+			},
+			{
+				"source_id": 53,
+				"target_id": 171
+			},
+			{
+				"source_id": 53,
+				"target_id": 198
+			},
+			{
+				"source_id": 53,
+				"target_id": 220
+			},
+			{
+				"source_id": 53,
+				"target_id": 344
+			},
+			{
+				"source_id": 53,
+				"target_id": 379
+			},
+			{
+				"source_id": 53,
+				"target_id": 412
+			},
+			{
+				"source_id": 53,
+				"target_id": 934
+			},
+			{
+				"source_id": 62,
+				"target_id": 760
+			},
+			{
+				"source_id": 65,
+				"target_id": 89
+			},
+			{
+				"source_id": 65,
+				"target_id": 105
+			},
+			{
+				"source_id": 79,
+				"target_id": 105
+			},
+			{
+				"source_id": 79,
+				"target_id": 171
+			},
+			{
+				"source_id": 79,
+				"target_id": 178
+			},
+			{
+				"source_id": 79,
+				"target_id": 258
+			},
+			{
+				"source_id": 79,
+				"target_id": 344
+			},
+			{
+				"source_id": 79,
+				"target_id": 379
+			},
+			{
+				"source_id": 79,
+				"target_id": 760
+			},
+			{
+				"source_id": 83,
+				"target_id": 105
+			},
+			{
+				"source_id": 89,
+				"target_id": 105
+			},
+			{
+				"source_id": 89,
+				"target_id": 114
+			},
+			{
+				"source_id": 89,
+				"target_id": 212
+			},
+			{
+				"source_id": 105,
+				"target_id": 114
+			},
+			{
+				"source_id": 105,
+				"target_id": 136
+			},
+			{
+				"source_id": 105,
+				"target_id": 171
+			},
+			{
+				"source_id": 105,
+				"target_id": 178
+			},
+			{
+				"source_id": 105,
+				"target_id": 212
+			},
+			{
+				"source_id": 105,
+				"target_id": 217
+			},
+			{
+				"source_id": 105,
+				"target_id": 230
+			},
+			{
+				"source_id": 105,
+				"target_id": 264
+			},
+			{
+				"source_id": 105,
+				"target_id": 344
+			},
+			{
+				"source_id": 105,
+				"target_id": 379
+			},
+			{
+				"source_id": 105,
+				"target_id": 412
+			},
+			{
+				"source_id": 105,
+				"target_id": 450
+			},
+			{
+				"source_id": 105,
+				"target_id": 760
+			},
+			{
+				"source_id": 105,
+				"target_id": 817
+			},
+			{
+				"source_id": 105,
+				"target_id": 934
+			},
+			{
+				"source_id": 114,
+				"target_id": 171
+			},
+			{
+				"source_id": 114,
+				"target_id": 178
+			},
+			{
+				"source_id": 114,
+				"target_id": 198
+			},
+			{
+				"source_id": 114,
+				"target_id": 217
+			},
+			{
+				"source_id": 114,
+				"target_id": 230
+			},
+			{
+				"source_id": 114,
+				"target_id": 264
+			},
+			{
+				"source_id": 114,
+				"target_id": 760
+			},
+			{
+				"source_id": 114,
+				"target_id": 817
+			},
+			{
+				"source_id": 136,
+				"target_id": 171
+			},
+			{
+				"source_id": 136,
+				"target_id": 178
+			},
+			{
+				"source_id": 136,
+				"target_id": 217
+			},
+			{
+				"source_id": 136,
+				"target_id": 264
+			},
+			{
+				"source_id": 136,
+				"target_id": 817
+			},
+			{
+				"source_id": 171,
+				"target_id": 178
+			},
+			{
+				"source_id": 171,
+				"target_id": 217
+			},
+			{
+				"source_id": 171,
+				"target_id": 230
+			},
+			{
+				"source_id": 171,
+				"target_id": 264
+			},
+			{
+				"source_id": 171,
+				"target_id": 344
+			},
+			{
+				"source_id": 171,
+				"target_id": 379
+			},
+			{
+				"source_id": 171,
+				"target_id": 412
+			},
+			{
+				"source_id": 171,
+				"target_id": 760
+			},
+			{
+				"source_id": 171,
+				"target_id": 817
+			},
+			{
+				"source_id": 171,
+				"target_id": 969
+			},
+			{
+				"source_id": 178,
+				"target_id": 217
+			},
+			{
+				"source_id": 178,
+				"target_id": 230
+			},
+			{
+				"source_id": 178,
+				"target_id": 264
+			},
+			{
+				"source_id": 178,
+				"target_id": 344
+			},
+			{
+				"source_id": 178,
+				"target_id": 379
+			},
+			{
+				"source_id": 178,
+				"target_id": 760
+			},
+			{
+				"source_id": 178,
+				"target_id": 817
+			},
+			{
+				"source_id": 178,
+				"target_id": 969
+			},
+			{
+				"source_id": 198,
+				"target_id": 344
+			},
+			{
+				"source_id": 198,
+				"target_id": 412
+			},
+			{
+				"source_id": 217,
+				"target_id": 344
+			},
+			{
+				"source_id": 217,
+				"target_id": 760
+			},
+			{
+				"source_id": 217,
+				"target_id": 817
+			},
+			{
+				"source_id": 230,
+				"target_id": 264
+			},
+			{
+				"source_id": 230,
+				"target_id": 344
+			},
+			{
+				"source_id": 230,
+				"target_id": 760
+			},
+			{
+				"source_id": 230,
+				"target_id": 817
+			},
+			{
+				"source_id": 230,
+				"target_id": 969
+			},
+			{
+				"source_id": 264,
+				"target_id": 760
+			},
+			{
+				"source_id": 264,
+				"target_id": 817
+			},
+			{
+				"source_id": 344,
+				"target_id": 760
+			},
+			{
+				"source_id": 379,
+				"target_id": 412
+			},
+			{
+				"source_id": 379,
+				"target_id": 760
+			},
+			{
+				"source_id": 412,
+				"target_id": 817
+			},
+			{
+				"source_id": 412,
+				"target_id": 934
+			},
+			{
+				"source_id": 450,
+				"target_id": 934
+			},
+			{
+				"source_id": 760,
+				"target_id": 817
+			},
+			{
+				"source_id": 760,
+				"target_id": 969
+			},
+			{
+				"source_id": 817,
+				"target_id": 934
+			}
+		]
+	}
+}

@@ -15,6 +15,7 @@ format:
     #header: '[Presentation](#/TOC)'
     slide-level: 3
     reference-location: document
+    auto-stretch: false
     menu:
       side: right
       width: wide
@@ -313,20 +314,152 @@ Review of Economic and Business Studies 8.
 
 ### Funding Agencies
 
-### THe Research Instituions 
+Research funding bodies play a crucial role in ***shaping the landscape of scientific research***.  
+
+:::{layout="[50,50]"}
+:::{}
+**Key Roles and Functions**
+
+- Prioritization and Quality Assessment
+- Promoting Research Integrity
+- Facilitating Interdisciplinary Research
+- Influence on Collaboration Networks 
+:::
+
+:::{}
+**Barriers**
+
+- Partnership Challenges
+- Assessment Practices
+- Conservative Policies
+:::
+:::
+
+
+### The Research Institutions 
+
+
 
 ### The Researcher(s)
 
+## The <br> Bibliometric <br> toolbox {.center background-image="figures/bibliometric/00.png" background-size="65%" background-position="90% 40%"}
+
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/01.png" background-size="65%" background-position="90% 40%"}
+
+**Techniques** 
+
+1. **Performance**: Examines the *contributions* of research constitutiens to a given field.
+2. **Science Mapping**: Examines the *Relationships* among the research constitutiens to a given field.
 
 
 
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/02.png" background-size="65%" background-position="90% 40%"}
+
+**Performance Techniques** 
+
+:::{layout="[30, -25, 40]" layout-valign="center"}
+:::{}
+Quantity of:
+
+- Documents
+- Authors
+- Productivity
+:::
+:::{}
+
+But, the real question is: <br>
+**Is this subject interest for scientific community? 🧐**
+:::
+:::
+
+:::{.r-fit-text}
+Quantitative Description !!
+:::
+
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/03.png" background-size="65%" background-position="90% 40%"}
+
+**Performance Techniques** 
+
+:::{layout="[30, -25, 40]" layout-valign="center"}
+:::{}
+Quantity of:<br>
+- Citations
+:::
+:::{}
+<br>
+But, the real question is: <br>
+**Have this subject an *Impact and diffusion*^[1] of knowledge in the community? 🧐**
+
+:::
+:::
+
+<br>
+**[1]**: Although their relationship with research quality is **complex and multifaceted** issue. 
+
+
+
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/04.png" background-size="65%" background-position="90% 50%"}
+
+**Performance Techniques** 
+
+:::{layout="[30, -25, 40]" layout-valign="center"}
+:::{}
+Quantity of:
+
+- Collaborations
+- Citations
+- 'Impact factors': 
+  - *h-index*
+  - *g-index*
+  - *i-index*
+:::
+:::{}
+<br>
+But, the real question is: <br>
+**How this research is made? 🧐 <br>**
+**What is its statistical distribution?📊**
+**How many 'big fish' documents ? 🐋**
+:::
+:::
+
+
+
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/01.png" background-size="65%" background-position="90% 40%"}
+
+**Techniques** 
+
+1. Performance: Examines the *contributions* of research constitutiens to a given field.
+2. **Science Mapping**: Examines the *Relationships* among the research constitutiens to a given field.
+
+:::{.r-fit-text}
+Qualitative Description !!
+:::
+
+
+
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/05.png" background-size="65%" background-position="90% 50%"}
+
+**Science Mapping** 
+
+:::{layout="[60, 40]" layout-valign="center"}
+:::{}
+Relationship of documents based on:
+
+- Citations
+:::
+:::
+
+But, the real question is: <br>
+**What documents are the most *important* based on the citations parameter? 🧐 <br>**
+
+[**In VOSviewer for example:**](https://app.vosviewer.com/){preview-link="true" .center}
 
 
 
 
 # Why bother to study the scientific research?
 
-## Why should I learn about the search process? {.center}
+**Why should I learn about the search process?** 
 
 ## Research and the "Managers"
 
