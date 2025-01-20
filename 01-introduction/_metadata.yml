@@ -45,6 +45,9 @@ format:
     #subtitle-as-header: true
     sc-sb-title: false
     chalkboard: true
+    footer: 'Introduction to Scientific Research'
+    header: '[Presentation](#/TOC)'
+    slide-level: 3
 filters:
   - reveal-header
 #  - reveal-auto-agenda

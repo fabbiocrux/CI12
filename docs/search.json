@@ -49,18 +49,6 @@
     "text": "General Presentation\n\n\nLiterature Review\n\n\nTD1 : Research Landscape via Vosviewer"
   },
   {
-    "objectID": "02-literature/tp2.html",
-    "href": "02-literature/tp2.html",
-    "title": "TD2 : Literature review",
-    "section": "",
-    "text": "WoS + Bibliometrix\n✅ Select at least 5 important papers\n\n\n\n\n\n\n\n\n\n\n\nAbstract\n✅ Analyse 3 paper’s abstract\n\n\n\n\n\n\nArticle\n✅ 1 full paper analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSign-up an account:\n\n🔗 https://posit.cloud/content/7229125\n\n⚠️ Save permante copy\n\n\n\n\n\n\n\nCaution\n\n\n\nThis is an online version that can be slow!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDownload R Project: https://pbil.univ-lyon1.fr/CRAN/\nDownload RStudio: https://posit.co/download/rstudio-desktop/\ninstall.packages(\"bibliometrix\") &gt; Enter ⏎\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCopy & Paste\n\nlibrary(bibliometrix)\nbiblioshiny()\n\nOpen an Internet page and put the address that appears in your console\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhttps://bibliometrix.org/ &gt; Tutorials &gt; Biblioshiny\n\n\n\n\n\n\n\nIntroduction\n\n\n\n\n\n\nMedium: Focus on Domain\n\n\n\n\n\n\nAdvanced: Knowledge synthesis",
-    "crumbs": [
-      "Home",
-      "Act II: Literature review",
-      "TD2: Bibliometrix -- Networks of Research Landscape"
-    ]
-  },
-  {
     "objectID": "02-literature/tp2.html#the-exercises",
     "href": "02-literature/tp2.html#the-exercises",
     "title": "TD2 : Literature review",
@@ -205,18 +193,6 @@
     ]
   },
   {
-    "objectID": "02-literature/index.html#your-turn",
-    "href": "02-literature/index.html#your-turn",
-    "title": "Act II: Literature review",
-    "section": "Your turn !",
-    "text": "Your turn !",
-    "crumbs": [
-      "Home",
-      "Act II: Literature review",
-      "CM2: On the shoulders of giants"
-    ]
-  },
-  {
     "objectID": "02-literature/index.html#the-research-process",
     "href": "02-literature/index.html#the-research-process",
     "title": "Act II: Literature review",
@@ -349,6 +325,42 @@
     ]
   },
   {
+    "objectID": "02-literature/index.html#examples-at-erpi",
+    "href": "02-literature/index.html#examples-at-erpi",
+    "title": "Act II: Literature review",
+    "section": "Examples at ERPI",
+    "text": "Examples at ERPI\n\n\n\n\n\n\nApplication of Decision-Making Methods in Smart City Projects: A Systematic Literature Review\n\n\n\n\nSource: Hoang, G. T. T., L. Dupont, and M. Camargo. Application of Decision-Making Methods in Smart City Projects: A Systematic Literature Review. Smart Cities, 2 (3), 433–452.” 2019,",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#examples-at-erpi-1",
+    "href": "02-literature/index.html#examples-at-erpi-1",
+    "title": "Act II: Literature review",
+    "section": "Examples at ERPI",
+    "text": "Examples at ERPI\n\n\n\n\n\n\nTrends in design of distributed energy systems using hydrogen as energy vector: A systematic literature review.\n\n\n\n\nSource: Fonseca, Juan D., et al.  Trends in design of distributed energy systems using hydrogen as energy vector: A systematic literature review.  International journal of hydrogen energy 44.19 (2019): 9486-9504.",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#examples-at-erpi-2",
+    "href": "02-literature/index.html#examples-at-erpi-2",
+    "title": "Act II: Literature review",
+    "section": "Examples at ERPI",
+    "text": "Examples at ERPI\n\n\n\n\n\n\n3D printing: An emerging opportunity for soil science.\n\n\n\n\nSource: Arrieta-Escobar, Javier A., et al.  3D printing: An emerging opportunity for soil science.  Geoderma 378 (2020): 114588.",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
     "objectID": "02-literature/index.html#a-useful-ressource",
     "href": "02-literature/index.html#a-useful-ressource",
     "title": "Act II: Literature review",
@@ -378,6 +390,18 @@
     "title": "Act II: Literature review",
     "section": "Questions",
     "text": "Questions",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#your-turn",
+    "href": "02-literature/index.html#your-turn",
+    "title": "Act II: Literature review",
+    "section": "Your turn !",
+    "text": "Your turn !",
     "crumbs": [
       "Home",
       "Act II: Literature review",
@@ -817,11 +841,23 @@
     ]
   },
   {
-    "objectID": "01-introduction/slides.html#evaluation-of-the-module",
-    "href": "01-introduction/slides.html#evaluation-of-the-module",
+    "objectID": "01-introduction/slides.html#people",
+    "href": "01-introduction/slides.html#people",
     "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Evaluation of the Module",
-    "text": "Evaluation of the Module\n\n\n\n\n\n\n\nEach session there will be a TD to be putted on ARCHE.\n\n\nNote final = \\(Moyenne\\)\n\n\n\nArticle of State of the Art about your Internship (7 pages).\n\nTitle\nAbstract\nRésumé en anglais\nRésumé en français\nSynthèse (7 pages)\nReferences",
+    "section": "People",
+    "text": "People\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeances 1-2\n\n\nSeances 3-4",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#rules-of-the-game",
+    "href": "01-introduction/slides.html#rules-of-the-game",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "Rules of the game",
+    "text": "Rules of the game\n\n\n\n\n\n\n\nEach session there will be a TD to be putted on ARCHE.\n\n\nNote final = \\(Moyenne\\)\n\n\n\nArticle of State of the Art about your Internship (7 pages).\n\nTitle\nAbstract\nRésumé en anglais\nRésumé en français\nSynthèse (7 pages)\nReferences",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",
@@ -901,11 +937,11 @@
     ]
   },
   {
-    "objectID": "01-introduction/slides.html#mental-model-for-the-research-development",
-    "href": "01-introduction/slides.html#mental-model-for-the-research-development",
+    "objectID": "01-introduction/slides.html#mental-model-for-the-course",
+    "href": "01-introduction/slides.html#mental-model-for-the-course",
     "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Mental model for the research development?",
-    "text": "Mental model for the research development?\n\nResearch conceptualization",
+    "section": "Mental model for the course?",
+    "text": "Mental model for the course?\n\nResearch conceptualization",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",
@@ -913,11 +949,71 @@
     ]
   },
   {
-    "objectID": "01-introduction/slides.html#pourquoi-devrais-je-me-renseigner-sur-le-processus-de-recherche",
-    "href": "01-introduction/slides.html#pourquoi-devrais-je-me-renseigner-sur-le-processus-de-recherche",
+    "objectID": "01-introduction/slides.html#the-perspectives-of-the-research",
+    "href": "01-introduction/slides.html#the-perspectives-of-the-research",
     "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Pourquoi devrais-je me renseigner sur le processus de recherche ?",
-    "text": "Pourquoi devrais-je me renseigner sur le processus de recherche ?",
+    "section": "The perspectives of the research",
+    "text": "The perspectives of the research\n\n\n\n\n\n\nProcess perspective\n\n\n\n\n\n\n\nStakeholder perspective\n\n\n\n\n\n\n\n\n\nSource: Pandey, S., Pattnaik, P., 2015.  University Research Ecosystem: A Conceptual Understanding.  Review of Economic and Business Studies 8.",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#scientific-databases",
+    "href": "01-introduction/slides.html#scientific-databases",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "Scientific Databases",
+    "text": "Scientific Databases",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#what-the-difference-these-two-googles",
+    "href": "01-introduction/slides.html#what-the-difference-these-two-googles",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "What the difference these two googles?",
+    "text": "What the difference these two googles?\n\n\n\n\n\n\n\n\n\nGoogle Scholar Vs Google Traditional",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#peer-reviewing-process",
+    "href": "01-introduction/slides.html#peer-reviewing-process",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "Peer Reviewing process",
+    "text": "Peer Reviewing process\n\n\n\n\n\n\n\n\n\nGoogle Scholar Vs Google Traditional",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#scientific-databases-1",
+    "href": "01-introduction/slides.html#scientific-databases-1",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "Scientific Databases",
+    "text": "Scientific Databases\nAt the ENT Ul &gt; Ressources en Ligne\n\nScientific databases\nResearch papers\nBooks\nInstitutional reports → WHO, EU …\nSocieties\n\nConferences proceedings (IEEE, IAMOT, IFAC…)\n\nInstitutional repositories → dissertations\nIP registrars → Patents\n\n🦸‍♂🦸🏻‍♀️ Standing on the shoulders of giants",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#web-of-science-scientific-patent-databases",
+    "href": "01-introduction/slides.html#web-of-science-scientific-patent-databases",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "Web of science → Scientific & Patent databases",
+    "text": "Web of science → Scientific & Patent databases\n\n\n\n\n\n\n\n\n\n\n\nScientific Articles\n\n\n\nCore Collections\n\n\n\n\nPatents database",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",
@@ -985,11 +1081,11 @@
     ]
   },
   {
-    "objectID": "01-introduction/slides.html#what-the-difference-these-two-googles",
-    "href": "01-introduction/slides.html#what-the-difference-these-two-googles",
+    "objectID": "01-introduction/slides.html#how-to-be-a-relevant-interlocuteur",
+    "href": "01-introduction/slides.html#how-to-be-a-relevant-interlocuteur",
     "title": "What is Scientific Research  for Innovation Management?",
-    "section": "What the difference these two googles?",
-    "text": "What the difference these two googles?\n\n\n\n\n\n\n\n\n\nGoogle Scholar Vs Google Traditional",
+    "section": "How to be a relevant interlocuteur?",
+    "text": "How to be a relevant interlocuteur?",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",
@@ -997,11 +1093,11 @@
     ]
   },
   {
-    "objectID": "01-introduction/slides.html#peer-reviewing-process",
-    "href": "01-introduction/slides.html#peer-reviewing-process",
+    "objectID": "01-introduction/slides.html#what-is-a-bibliometric-analysis",
+    "href": "01-introduction/slides.html#what-is-a-bibliometric-analysis",
     "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Peer Reviewing process",
-    "text": "Peer Reviewing process\n\n\n\n\n\n\n\n\n\nGoogle Scholar Vs Google Traditional",
+    "section": "What is a Bibliometric Analysis?",
+    "text": "What is a Bibliometric Analysis?\nA popular and rigorous method for exploring and analyzing large volumes of scientific data. It enables us to unpack the evolutionary nuances of a specific field, while shedding light on the emerging areas in that field.",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",
@@ -1009,23 +1105,11 @@
     ]
   },
   {
-    "objectID": "01-introduction/slides.html#literature-review",
-    "href": "01-introduction/slides.html#literature-review",
+    "objectID": "01-introduction/slides.html#the-bibliometric-toolbox",
+    "href": "01-introduction/slides.html#the-bibliometric-toolbox",
     "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Literature review",
-    "text": "Literature review",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/slides.html#web-of-science-scientific-patent-databases",
-    "href": "01-introduction/slides.html#web-of-science-scientific-patent-databases",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Web of science → Scientific & Patent databases",
-    "text": "Web of science → Scientific & Patent databases\n\n\n\n\n\n\n\n\n\n\n\nScientific Articles\n\n\n\nCore Collections\n\n\n\n\nPatents database",
+    "section": "The  Bibliometric  toolbox",
+    "text": "The  Bibliometric  toolbox",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",
@@ -1045,11 +1129,107 @@
     ]
   },
   {
-    "objectID": "01-introduction/slides.html#how-to-read-an-article",
-    "href": "01-introduction/slides.html#how-to-read-an-article",
+    "objectID": "01-introduction/slides.html#mental-model-of-the-research-process",
+    "href": "01-introduction/slides.html#mental-model-of-the-research-process",
     "title": "What is Scientific Research  for Innovation Management?",
-    "section": "How to read an Article ?",
-    "text": "How to read an Article ?\nLet’s do step by step analysis …",
+    "section": "Mental model of the research process",
+    "text": "Mental model of the research process\n\nResearch conceptualization",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#theoretical-background",
+    "href": "01-introduction/slides.html#theoretical-background",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "Theoretical background",
+    "text": "Theoretical background\n\n\nSource: Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., Lim, W.M., 2021.  How to conduct a bibliometric analysis: An overview and guidelines.  Journal of Business Research 133, 285–296.",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#the-exercises",
+    "href": "01-introduction/slides.html#the-exercises",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "The Exercises",
+    "text": "The Exercises\n\n\n\n\n\nStep 1: Define the research questions\n\n\n\n\n\n\nStep 2: Define research equation to use in WoS\n\n\n\n\n\n\nStep 3: Visualize & Analize Scientific and Patent databases\n\n\n\n📃 Download the Document on ARCHE",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#bibliometric-mapping-vosviewer",
+    "href": "01-introduction/slides.html#bibliometric-mapping-vosviewer",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "Bibliometric mapping: Vosviewer",
+    "text": "Bibliometric mapping: Vosviewer\n\n\n\n\n\nDownload at https://www.vosviewer.com/\n\n\nvan Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. https://doi.org/10.1007/s11192-009-0146-3",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#everything-start-with-a-good-research-question-1",
+    "href": "01-introduction/slides.html#everything-start-with-a-good-research-question-1",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "Everything start with a good research question",
+    "text": "Everything start with a good research question\n\n\n\n\n\n\n\n1 Descriptive (What, When, Where, Who or How)\ne.g. What percentageof coachees report that coaching helped them with a problem they experienced\n2 Explanatory (Why?)\ne.g. Why dis 65% of coachees report that coacing helped them with a problem they experienced? this\n\n\n\n\n\nSource: Rojon, C. & Saunders, M. N. K. Formulating a convincing rationale for a research study. Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012).",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#good-research-question-descriptive-explanatory",
+    "href": "01-introduction/slides.html#good-research-question-descriptive-explanatory",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "Good research question: Descriptive & Explanatory",
+    "text": "Good research question: Descriptive & Explanatory\nBeing able to provide meaningful explanations requires answers to why (i.e. explanatory) questions in addition to what (i.e. descriptive) questions.\nFor example:\n\n‘How effective is the coaching process at helping coachees to solve a problem they experience and what are the reasons for this?’\n‘To what extent is the coaching process effective at helping coachees solve a problem and why?’\n\n\n\nSource: Rojon, C. & Saunders, M. N. K. Formulating a convincing rationale for a research study. Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012).",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#picoc-framework",
+    "href": "01-introduction/slides.html#picoc-framework",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "PICOC Framework",
+    "text": "PICOC Framework\n\n\n\n\n\n\n\nParameter\nMeaning\n\n\n\n\nPopulation\nThe What or Who in which the evidence is collected,\n\n\nIntervention\nThe how applied in the empirical study\n\n\nComparison\nIn which the intervention is compared to\n\n\nOutcomes\nWhat you expect to observe\n\n\nContext\nIn which particular environment of the population, including whether it is conducted in academia or industry",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#picoc-framework-example-1",
+    "href": "01-introduction/slides.html#picoc-framework-example-1",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "PICOC Framework: Example 1",
+    "text": "PICOC Framework: Example 1\nSemantic Web and Linked Data for Information Exchange between the Building and Product Manufacturing Industries: A Literature Review.\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch question\n\n\n\nWhat are the benefits and limitations of using the Semantic Web and Linked data LD technologies for developing product data templates for information ex-changes between the building and lighting product manufacturing industries in comparison with the conventional approach of information exchanges using the openBIM standards?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: R Kebede, A Moscati, P Johansson, H Tan (2020). Semantic Web and Linked Data for Information Exchange between the Building and Product Manufacturing Industries: A Literature Review. Proceedings of the 37th International Conference of CIB W78, Sao Paulo - online, BR, 18-20 August, pp. 248-265 (ISSN: 2706-6568),",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "CM1: Introduction to Scientific Research"
+    ]
+  },
+  {
+    "objectID": "01-introduction/slides.html#picoc-framework-example-2",
+    "href": "01-introduction/slides.html#picoc-framework-example-2",
+    "title": "What is Scientific Research  for Innovation Management?",
+    "section": "PICOC Framework: Example 2",
+    "text": "PICOC Framework: Example 2\nEcosystem services research in mountainous regions: A systematic literature review on current knowledge and research gaps\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch question\n\n\n\nWhat is the state-of-the-art in MES?\nWhich MES types had the highest and the least number of studies?\nWhich modeling approaches are common to assess MES? ….\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Mengist, Wondimagegn, Teshome Soromessa, and Gudina Legese. Method for conducting systematic literature review and meta-analysis for environmental science research. MethodsX 7 (2020): 100777.",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",
@@ -1261,11 +1441,11 @@
     ]
   },
   {
-    "objectID": "01-introduction/slides.html#everything-start-with-a-good-research-question",
-    "href": "01-introduction/slides.html#everything-start-with-a-good-research-question",
+    "objectID": "01-introduction/slides.html#thanks-for-your-atenttion",
+    "href": "01-introduction/slides.html#thanks-for-your-atenttion",
     "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Everything start with a good research question !",
-    "text": "Everything start with a good research question !",
+    "section": "Thanks for your Atenttion",
+    "text": "Thanks for your Atenttion\n\n\n\n\n\n\n\n \n\n\nPresentation",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",
@@ -1273,107 +1453,11 @@
     ]
   },
   {
-    "objectID": "01-introduction/slides.html#everything-start-with-a-good-research-question-1",
-    "href": "01-introduction/slides.html#everything-start-with-a-good-research-question-1",
+    "objectID": "01-introduction/slides.html#footnotes",
+    "href": "01-introduction/slides.html#footnotes",
     "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Everything start with a good research question",
-    "text": "Everything start with a good research question\n\n\n\n\n\n\n\n1 Descriptive (What, When, Where, Who or How)\ne.g. What percentageof coachees report that coaching helped them with a problem they experienced\n2 Explanatory (Why?)\ne.g. Why dis 65% of coachees report that coacing helped them with a problem they experienced? this\n\n\n\n\n\nSource: Rojon, C. & Saunders, M. N. K. Formulating a convincing rationale for a research study. Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012).",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/slides.html#good-research-question-descriptive-explanatory",
-    "href": "01-introduction/slides.html#good-research-question-descriptive-explanatory",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Good research question: Descriptive & Explanatory",
-    "text": "Good research question: Descriptive & Explanatory\nBeing able to provide meaningful explanations requires answers to why (i.e. explanatory) questions in addition to what (i.e. descriptive) questions.\nFor example:\n\n‘How effective is the coaching process at helping coachees to solve a problem they experience and what are the reasons for this?’\n‘To what extent is the coaching process effective at helping coachees solve a problem and why?’\n\n\n\nSource: Rojon, C. & Saunders, M. N. K. Formulating a convincing rationale for a research study. Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012).",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/slides.html#picoc-framework",
-    "href": "01-introduction/slides.html#picoc-framework",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "PICOC Framework",
-    "text": "PICOC Framework\n\n\n\n\n\n\n\nParameter\nMeaning\n\n\n\n\nPopulation\nThe What or Who in which the evidence is collected,\n\n\nIntervention\nThe how applied in the empirical study\n\n\nComparison\nIn which the intervention is compared to\n\n\nOutcomes\nWhat you expect to observe\n\n\nContext\nIn which particular environment of the population, including whether it is conducted in academia or industry",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/slides.html#picoc-framework-example-1",
-    "href": "01-introduction/slides.html#picoc-framework-example-1",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "PICOC Framework: Example 1",
-    "text": "PICOC Framework: Example 1\nSemantic Web and Linked Data for Information Exchange between the Building and Product Manufacturing Industries: A Literature Review.\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch question\n\n\n\nWhat are the benefits and limitations of using the Semantic Web and Linked data LD technologies for developing product data templates for information ex-changes between the building and lighting product manufacturing industries in comparison with the conventional approach of information exchanges using the openBIM standards?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: R Kebede, A Moscati, P Johansson, H Tan (2020). Semantic Web and Linked Data for Information Exchange between the Building and Product Manufacturing Industries: A Literature Review. Proceedings of the 37th International Conference of CIB W78, Sao Paulo - online, BR, 18-20 August, pp. 248-265 (ISSN: 2706-6568),",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/slides.html#picoc-framework-example-2",
-    "href": "01-introduction/slides.html#picoc-framework-example-2",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "PICOC Framework: Example 2",
-    "text": "PICOC Framework: Example 2\nEcosystem services research in mountainous regions: A systematic literature review on current knowledge and research gaps\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch question\n\n\n\nWhat is the state-of-the-art in MES?\nWhich MES types had the highest and the least number of studies?\nWhich modeling approaches are common to assess MES? ….\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Mengist, Wondimagegn, Teshome Soromessa, and Gudina Legese. Method for conducting systematic literature review and meta-analysis for environmental science research. MethodsX 7 (2020): 100777.",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/slides.html#mental-model-of-the-research-process",
-    "href": "01-introduction/slides.html#mental-model-of-the-research-process",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Mental model of the research process",
-    "text": "Mental model of the research process\n\nResearch conceptualization",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/slides.html#theoretical-background",
-    "href": "01-introduction/slides.html#theoretical-background",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Theoretical background",
-    "text": "Theoretical background\n\n\nSource: Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., Lim, W.M., 2021.  How to conduct a bibliometric analysis: An overview and guidelines.  Journal of Business Research 133, 285–296.",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/slides.html#the-exercises",
-    "href": "01-introduction/slides.html#the-exercises",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "The Exercises",
-    "text": "The Exercises\n\n\n\n\n\nStep 1: Define the research questions\n\n\n\n\n\n\nStep 2: Define research equation to use in WoS\n\n\n\n\n\n\nStep 3: Visualize & Analize Scientific and Patent databases\n\n\n\n📃 Download the Document on ARCHE",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/slides.html#bibliometric-mapping-vosviewer",
-    "href": "01-introduction/slides.html#bibliometric-mapping-vosviewer",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Bibliometric mapping: Vosviewer",
-    "text": "Bibliometric mapping: Vosviewer\n\n\n\n\n\nDownload at https://www.vosviewer.com/\n\n\nvan Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. https://doi.org/10.1007/s11192-009-0146-3",
+    "section": "",
+    "text": "Footnotes\n\n\n1",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",
@@ -1834,450 +1918,6 @@
       "Home",
       "Act I: Bibliometric Analysis",
       "TD1: VOSviewer -- Visualization of Research Landscape"
-    ]
-  },
-  {
-    "objectID": "02-literature/index.html#examples-at-erpi",
-    "href": "02-literature/index.html#examples-at-erpi",
-    "title": "Act II: Literature review",
-    "section": "Examples at ERPI",
-    "text": "Examples at ERPI\n\n\n\n\n\n\nApplication of Decision-Making Methods in Smart City Projects: A Systematic Literature Review\n\n\n\n\nSource: Hoang, G. T. T., L. Dupont, and M. Camargo. Application of Decision-Making Methods in Smart City Projects: A Systematic Literature Review. Smart Cities, 2 (3), 433–452.” 2019,",
-    "crumbs": [
-      "Home",
-      "Act II: Literature review",
-      "CM2: On the shoulders of giants"
-    ]
-  },
-  {
-    "objectID": "02-literature/index.html#examples-at-erpi-1",
-    "href": "02-literature/index.html#examples-at-erpi-1",
-    "title": "Act II: Literature review",
-    "section": "Examples at ERPI",
-    "text": "Examples at ERPI\n\n\n\n\n\n\nTrends in design of distributed energy systems using hydrogen as energy vector: A systematic literature review.\n\n\n\n\nSource: Fonseca, Juan D., et al.  Trends in design of distributed energy systems using hydrogen as energy vector: A systematic literature review.  International journal of hydrogen energy 44.19 (2019): 9486-9504.",
-    "crumbs": [
-      "Home",
-      "Act II: Literature review",
-      "CM2: On the shoulders of giants"
-    ]
-  },
-  {
-    "objectID": "02-literature/index.html#examples-at-erpi-2",
-    "href": "02-literature/index.html#examples-at-erpi-2",
-    "title": "Act II: Literature review",
-    "section": "Examples at ERPI",
-    "text": "Examples at ERPI\n\n\n\n\n\n\n3D printing: An emerging opportunity for soil science.\n\n\n\n\nSource: Arrieta-Escobar, Javier A., et al.  3D printing: An emerging opportunity for soil science.  Geoderma 378 (2020): 114588.",
-    "crumbs": [
-      "Home",
-      "Act II: Literature review",
-      "CM2: On the shoulders of giants"
-    ]
-  },
-  {
-    "objectID": "02-literature/tp2.html#test",
-    "href": "02-literature/tp2.html#test",
-    "title": "TD2 : Literature review",
-    "section": "test",
-    "text": "test",
-    "crumbs": [
-      "Home",
-      "Act II: Literature review",
-      "TD2: Bibliometrix -- Networks of Research Landscape"
-    ]
-  },
-  {
-    "objectID": "01-introduction/slides.html#people",
-    "href": "01-introduction/slides.html#people",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "People",
-    "text": "People\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeances 1-2\n\n\nSeances 3-4",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/slides.html#what-is-a-bibliometric-analysis",
-    "href": "01-introduction/slides.html#what-is-a-bibliometric-analysis",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "What is a Bibliometric Analysis?",
-    "text": "What is a Bibliometric Analysis?\nA popular and rigorous method for exploring and analyzing large volumes of scientific data. It enables us to unpack the evolutionary nuances of a specific field, while shedding light on the emerging areas in that field.",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/slides.html#scientific-database",
-    "href": "01-introduction/slides.html#scientific-database",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Scientific Database",
-    "text": "Scientific Database",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/slides.html#radipgraphy-of-a-scientific-paper",
-    "href": "01-introduction/slides.html#radipgraphy-of-a-scientific-paper",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Radipgraphy of a Scientific Paper",
-    "text": "Radipgraphy of a Scientific Paper\n\nDerwent Innovations Index",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/slides.html#test",
-    "href": "01-introduction/slides.html#test",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "test",
-    "text": "test",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/test.html#test",
-    "href": "01-introduction/test.html#test",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Test",
-    "text": "Test"
-  },
-  {
-    "objectID": "01-introduction/slides.html#scientific-databases",
-    "href": "01-introduction/slides.html#scientific-databases",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Scientific Databases",
-    "text": "Scientific Databases\nAt the ENT Ul &gt; Ressources en Ligne\n\nScientific databases\nResearch papers\nBooks\nInstitutional reports → WHO, EU …\nSocieties\n\nConferences proceedings (IEEE, IAMOT, IFAC…)\n\nInstitutional repositories → dissertations\nIP registrars → Patents\n\n🦸‍♂🦸🏻‍♀️ Standing on the shoulders of giants",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/test.html#why-should-i-learn-about-the-search-process",
-    "href": "01-introduction/test.html#why-should-i-learn-about-the-search-process",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Why should I learn about the search process?",
-    "text": "Why should I learn about the search process?"
-  },
-  {
-    "objectID": "01-introduction/test.html#research-and-the-managers",
-    "href": "01-introduction/test.html#research-and-the-managers",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Research and the “Managers”",
-    "text": "Research and the “Managers”\n\n🥼 To work as a researcher (PhD., R&D Department)\n🗣️ To become a pertinent intelocutor at your company\n⚖️ Help to make evidence-based decisions: e.g. Public politics\n🔮 Help in the strategic and future decision-making\n\nAs an Innovation Manager you are going to face problems that your R&D department or/and external researcher (open-innovation) can help you to solve."
-  },
-  {
-    "objectID": "01-introduction/test.html#why-a-company-would-bother-with-scientific-research",
-    "href": "01-introduction/test.html#why-a-company-would-bother-with-scientific-research",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Why a company would bother with scientific research ?",
-    "text": "Why a company would bother with scientific research ?"
-  },
-  {
-    "objectID": "01-introduction/test.html#technology-readiness-maturity",
-    "href": "01-introduction/test.html#technology-readiness-maturity",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Technology Readiness → Maturity",
-    "text": "Technology Readiness → Maturity\nThe industrial emergence mapping framework.\n\n\n\n\n\n\nPhaal, R., O’Sullivan, E., Routley, M., Ford, S., Probert, D., 2011. A framework for mapping industrial emergence. Technological Forecasting and Social Change 78, 217–230."
-  },
-  {
-    "objectID": "01-introduction/test.html#on-the-case-of-entreprise",
-    "href": "01-introduction/test.html#on-the-case-of-entreprise",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "On the case of Entreprise",
-    "text": "On the case of Entreprise"
-  },
-  {
-    "objectID": "01-introduction/test.html#technology-readiness-levels",
-    "href": "01-introduction/test.html#technology-readiness-levels",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Technology Readiness → Levels",
-    "text": "Technology Readiness → Levels\nFramework developed in the Aeronautical field.\n\nTechnology Readiness Levels (TRL)"
-  },
-  {
-    "objectID": "01-introduction/test.html#your-turn-for-conceptualize-your-research",
-    "href": "01-introduction/test.html#your-turn-for-conceptualize-your-research",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Your Turn for Conceptualize your research !",
-    "text": "Your Turn for Conceptualize your research !"
-  },
-  {
-    "objectID": "01-introduction/test.html#how-to-read-an-article",
-    "href": "01-introduction/test.html#how-to-read-an-article",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "How to read an Article ?",
-    "text": "How to read an Article ?\nLet’s do step by step analysis …"
-  },
-  {
-    "objectID": "01-introduction/test.html#how-to-read-an-article-1",
-    "href": "01-introduction/test.html#how-to-read-an-article-1",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "How to read an Article ?",
-    "text": "How to read an Article ?"
-  },
-  {
-    "objectID": "01-introduction/test.html#how-to-read-an-article-2",
-    "href": "01-introduction/test.html#how-to-read-an-article-2",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "How to read an Article ?",
-    "text": "How to read an Article ?\n💡 Tip 1 Identify the context of this paper !!\n\nScientific database: Elsevier\nJournal : Journal of Bussiness Research\nPublished : 2021\nCitations"
-  },
-  {
-    "objectID": "01-introduction/test.html#how-to-read-an-article-3",
-    "href": "01-introduction/test.html#how-to-read-an-article-3",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "How to read an Article ?",
-    "text": "How to read an Article ?\n\n\n💡 Tip 2\nWhat and Who?\n\nA good title gives the purpose of the paper !!\nPeople :\n\nUniversity\n\nDomaine\nCountry\nContacts !!\n\nDOI: Digital Object Identifier (DOI)\n\n\n\n.\n.\n."
-  },
-  {
-    "objectID": "01-introduction/test.html#how-to-read-an-article-4",
-    "href": "01-introduction/test.html#how-to-read-an-article-4",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "How to read an Article ?",
-    "text": "How to read an Article ?\n💡 Tip 3 Start by the Outline !!"
-  },
-  {
-    "objectID": "01-introduction/test.html#how-to-read-an-article-5",
-    "href": "01-introduction/test.html#how-to-read-an-article-5",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "How to read an Article ?",
-    "text": "How to read an Article ?\n💡 Tip 4: Méthode AIC\n\nTitle ✅\n🔎 Abstract\n🔎 Introduction\nLiterature review\nMethodology\nResults\nDiscussion\n🔎Conclusion\nReferences"
-  },
-  {
-    "objectID": "01-introduction/test.html#aic-reading-method",
-    "href": "01-introduction/test.html#aic-reading-method",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "AIC Reading method",
-    "text": "AIC Reading method\nFor screening read : Title, Journal, keywords and Abstract\nFor detailed synthesis use AIC:\n\nAbstract → Summary of the paper🔎\nIntroduction → Context of problem and research, gap, summary of what is done\nConclusions → Summary of results and importance of results given the context."
-  },
-  {
-    "objectID": "01-introduction/test.html#the-abstract",
-    "href": "01-introduction/test.html#the-abstract",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "The abstract",
-    "text": "The abstract\n\n\n\n\n\n\n\nThe minimal viable product of a research.\n\n\n\n \n\n\n\nWhat’s the topic?\nWhat’s the problem? (Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?"
-  },
-  {
-    "objectID": "01-introduction/test.html#exemple-1",
-    "href": "01-introduction/test.html#exemple-1",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Exemple 1",
-    "text": "Exemple 1\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\n\n\n−+\n05:00\n\n\n\n\nSource: Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., Lim, W.M., 2021. How to conduct a bibliometric analysis: An overview and guidelines. Journal of Business Research 133, 285–296."
-  },
-  {
-    "objectID": "01-introduction/test.html#exemple-1-1",
-    "href": "01-introduction/test.html#exemple-1-1",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Exemple 1",
-    "text": "Exemple 1\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?"
-  },
-  {
-    "objectID": "01-introduction/test.html#exemple-2",
-    "href": "01-introduction/test.html#exemple-2",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Exemple 2",
-    "text": "Exemple 2\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Osorio et al (2019). Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100.\n\n\n\n\n−+\n05:00"
-  },
-  {
-    "objectID": "01-introduction/test.html#exemple-2-1",
-    "href": "01-introduction/test.html#exemple-2-1",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Exemple 2",
-    "text": "Exemple 2\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Osorio et al (2019). Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100."
-  },
-  {
-    "objectID": "01-introduction/test.html#exemple-3",
-    "href": "01-introduction/test.html#exemple-3",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Exemple 3",
-    "text": "Exemple 3\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Marche, et al. (2022)., Qualitative sustainability assessment of road verge management in France: An approach from causal diagrams to seize the importance of impact pathways. Environmental Impact Assessment Review 97, 106911.\n\n\n\n\n−+\n05:00"
-  },
-  {
-    "objectID": "01-introduction/test.html#exemple-3-1",
-    "href": "01-introduction/test.html#exemple-3-1",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Exemple 3",
-    "text": "Exemple 3\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Marche, et al. (2022)., Qualitative sustainability assessment of road verge management in France: An approach from causal diagrams to seize the importance of impact pathways. Environmental Impact Assessment Review 97, 106911."
-  },
-  {
-    "objectID": "01-introduction/test.html#exemple-4",
-    "href": "01-introduction/test.html#exemple-4",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Exemple 4",
-    "text": "Exemple 4\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Gabriel, et al. (2016), Creativity support systems: A systematic mapping study, Thinking Skills and Creativity 21, 109–122.\n\n\n\n\n−+\n05:00"
-  },
-  {
-    "objectID": "01-introduction/test.html#exemple-4-1",
-    "href": "01-introduction/test.html#exemple-4-1",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Exemple 4",
-    "text": "Exemple 4\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Gabriel, et al. (2016), Creativity support systems: A systematic mapping study, Thinking Skills and Creativity 21, 109–122."
-  },
-  {
-    "objectID": "01-introduction/test.html#mental-model-when-reading-an-abstract",
-    "href": "01-introduction/test.html#mental-model-when-reading-an-abstract",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Mental model when reading an abstract",
-    "text": "Mental model when reading an abstract\n\n\n🌍 Topic → the writer provides background factual information.\n⚠️ Problem → The writer presents the gap/problem to treat\n🔎 Research Gap → the writer states the limits of current knowledge.\n🎯 The purpose : the writer presents the general aim and the specific aim of the study.\n📜 Methodology → the writer summarises the methodology and provides details.\n📊 Results → the writer indicates the achievement of the study.\n🚀 Perspectives → the writer presents the implications of the study."
-  },
-  {
-    "objectID": "01-introduction/test.html#your-turn",
-    "href": "01-introduction/test.html#your-turn",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Your turn !",
-    "text": "Your turn !\n\n\n\n−+\n05:00\n\n\n\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\n\nSource: Leone, L. The Ratatouille paradox. An inductive study of creativity in haute cuisine. Technovation (2018)\n\n\nVideo of the scene:  https://www.youtube.com/watch?v=GgiK-HWKPjw"
-  },
-  {
-    "objectID": "01-introduction/test.html#everything-start-with-a-good-research-question",
-    "href": "01-introduction/test.html#everything-start-with-a-good-research-question",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Everything start with a good research question !",
-    "text": "Everything start with a good research question !"
-  },
-  {
-    "objectID": "01-introduction/test.html#everything-start-with-a-good-research-question-1",
-    "href": "01-introduction/test.html#everything-start-with-a-good-research-question-1",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Everything start with a good research question",
-    "text": "Everything start with a good research question\n\n\n\n\n\n\n\n1 Descriptive (What, When, Where, Who or How)\ne.g. What percentageof coachees report that coaching helped them with a problem they experienced\n2 Explanatory (Why?)\ne.g. Why dis 65% of coachees report that coacing helped them with a problem they experienced? this\n\n\n\n\n\nSource: Rojon, C. & Saunders, M. N. K. Formulating a convincing rationale for a research study. Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012)."
-  },
-  {
-    "objectID": "01-introduction/test.html#good-research-question-descriptive-explanatory",
-    "href": "01-introduction/test.html#good-research-question-descriptive-explanatory",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Good research question: Descriptive & Explanatory",
-    "text": "Good research question: Descriptive & Explanatory\nBeing able to provide meaningful explanations requires answers to why (i.e. explanatory) questions in addition to what (i.e. descriptive) questions.\nFor example:\n\n‘How effective is the coaching process at helping coachees to solve a problem they experience and what are the reasons for this?’\n‘To what extent is the coaching process effective at helping coachees solve a problem and why?’\n\n\n\nSource: Rojon, C. & Saunders, M. N. K. Formulating a convincing rationale for a research study. Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012)."
-  },
-  {
-    "objectID": "01-introduction/test.html#picoc-framework",
-    "href": "01-introduction/test.html#picoc-framework",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "PICOC Framework",
-    "text": "PICOC Framework\n\n\n\n\n\n\n\nParameter\nMeaning\n\n\n\n\nPopulation\nThe What or Who in which the evidence is collected,\n\n\nIntervention\nThe how applied in the empirical study\n\n\nComparison\nIn which the intervention is compared to\n\n\nOutcomes\nWhat you expect to observe\n\n\nContext\nIn which particular environment of the population, including whether it is conducted in academia or industry"
-  },
-  {
-    "objectID": "01-introduction/test.html#picoc-framework-example-1",
-    "href": "01-introduction/test.html#picoc-framework-example-1",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "PICOC Framework: Example 1",
-    "text": "PICOC Framework: Example 1\nSemantic Web and Linked Data for Information Exchange between the Building and Product Manufacturing Industries: A Literature Review.\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch question\n\n\n\nWhat are the benefits and limitations of using the Semantic Web and Linked data LD technologies for developing product data templates for information ex-changes between the building and lighting product manufacturing industries in comparison with the conventional approach of information exchanges using the openBIM standards?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: R Kebede, A Moscati, P Johansson, H Tan (2020). Semantic Web and Linked Data for Information Exchange between the Building and Product Manufacturing Industries: A Literature Review. Proceedings of the 37th International Conference of CIB W78, Sao Paulo - online, BR, 18-20 August, pp. 248-265 (ISSN: 2706-6568),"
-  },
-  {
-    "objectID": "01-introduction/test.html#picoc-framework-example-2",
-    "href": "01-introduction/test.html#picoc-framework-example-2",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "PICOC Framework: Example 2",
-    "text": "PICOC Framework: Example 2\nEcosystem services research in mountainous regions: A systematic literature review on current knowledge and research gaps\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch question\n\n\n\nWhat is the state-of-the-art in MES?\nWhich MES types had the highest and the least number of studies?\nWhich modeling approaches are common to assess MES? ….\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Mengist, Wondimagegn, Teshome Soromessa, and Gudina Legese. Method for conducting systematic literature review and meta-analysis for environmental science research. MethodsX 7 (2020): 100777."
-  },
-  {
-    "objectID": "01-introduction/test.html#mental-model-of-the-research-process",
-    "href": "01-introduction/test.html#mental-model-of-the-research-process",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Mental model of the research process",
-    "text": "Mental model of the research process\n\nResearch conceptualization"
-  },
-  {
-    "objectID": "01-introduction/test.html#theoretical-background",
-    "href": "01-introduction/test.html#theoretical-background",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Theoretical background",
-    "text": "Theoretical background\n\n\nSource: Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., Lim, W.M., 2021.  How to conduct a bibliometric analysis: An overview and guidelines.  Journal of Business Research 133, 285–296."
-  },
-  {
-    "objectID": "01-introduction/test.html#the-exercises",
-    "href": "01-introduction/test.html#the-exercises",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "The Exercises",
-    "text": "The Exercises\n\n\n\n\n\nStep 1: Define the research questions\n\n\n\n\n\n\nStep 2: Define research equation to use in WoS\n\n\n\n\n\n\nStep 3: Visualize & Analize Scientific and Patent databases\n\n\n\n📃 Download the Document on ARCHE"
-  },
-  {
-    "objectID": "01-introduction/test.html#bibliometric-mapping-vosviewer",
-    "href": "01-introduction/test.html#bibliometric-mapping-vosviewer",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Bibliometric mapping: Vosviewer",
-    "text": "Bibliometric mapping: Vosviewer\n\n\n\n\n\nDownload at https://www.vosviewer.com/\n\n\nvan Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. https://doi.org/10.1007/s11192-009-0146-3"
-  },
-  {
-    "objectID": "01-introduction/slides.html#the-components",
-    "href": "01-introduction/slides.html#the-components",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "The components",
-    "text": "The components\n\n\n\n\n\n\nProcess perspective\n\n\n\n\n\n\n\nStakeholder perspective\n\n\n\n\n\n\n\n\n\nSource: Pandey, S., Pattnaik, P., 2015.  University Research Ecosystem: A Conceptual Understanding.  Review of Economic and Business Studies 8.",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/slides.html#why-should-i-learn-about-the-search-process",
-    "href": "01-introduction/slides.html#why-should-i-learn-about-the-search-process",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Why should I learn about the search process?",
-    "text": "Why should I learn about the search process?",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/slides.html#thanks-for-your-atenttion",
-    "href": "01-introduction/slides.html#thanks-for-your-atenttion",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "Thanks for your Atenttion",
-    "text": "Thanks for your Atenttion",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/slides.html#the-bibliometric-toolbox",
-    "href": "01-introduction/slides.html#the-bibliometric-toolbox",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "The  Bibliometric  toolbox",
-    "text": "The  Bibliometric  toolbox",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/slides.html#footnotes",
-    "href": "01-introduction/slides.html#footnotes",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "",
-    "text": "Footnotes\n\n\n1",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
-    ]
-  },
-  {
-    "objectID": "01-introduction/slides.html#how-to-be-a-relevant-interlocuteur",
-    "href": "01-introduction/slides.html#how-to-be-a-relevant-interlocuteur",
-    "title": "What is Scientific Research  for Innovation Management?",
-    "section": "How to be a relevant interlocuteur?",
-    "text": "How to be a relevant interlocuteur?",
-    "crumbs": [
-      "Home",
-      "Act I: Bibliometric Analysis",
-      "CM1: Introduction to Scientific Research"
     ]
   }
 ]

@@ -19,7 +19,7 @@ format:
     menu:
       side: right
       width: wide
-      numbers: false
+      numbers: false  
 revealjs-plugins:
   - attribution    
 ---
@@ -70,7 +70,7 @@ library(countdown)
 
 
 
-## Evaluation of the Module
+## Rules of the game
 
 :::{layout="[50, 50]"}
 :::{}
@@ -214,38 +214,67 @@ La règle découle de l'observation répétée de faits réels, contingents.
 :::
 
 
-## Mental model for the research development?
+## Mental model for the course?
 
 ![Research conceptualization](figures/Research-conceptualization-00.jpg){width="30%" fig-align="center"}
+
+
+
+
+
+##  The perspectives of the research 
+
+:::{layout="[50,50]"}
+:::{}
+**Process perspective**
+
+![](figures/pandey2015-01.png){width="550px" fig-align="center"}
+:::
+
+:::{}
+**Stakeholder perspective**
+
+![](figures/pandey2015.png){.fragment width="550px" fig-align="center"}
+:::
+:::
+
+
+
+::: footer
+Source: Pandey, S., Pattnaik, P., 2015. <br>
+[University Research Ecosystem: A Conceptual Understanding.](https://doi.org/10.1515/rebs-2016-0021) <br>
+Review of Economic and Business Studies 8. 
+:::
+
+
 
 
 # Understanding the ecosystems of the scientific research
 
 
-:::{layout="[25,25, 25, 25]"}
+:::{layout="[25,25, 25, 25]" layout-valign="bottom"}
 
 :::{}
-**Scientific Documents**
-:::
-
-:::{}
-**Authors**
-:::
-
-
-:::{}
-**Organizations**
+![**Scientific Documents**](figures/bibliometric/article.jpg)
 :::
 
 :::{}
-**Contries**
+![**Authors**](figures/bibliometric/author.jpg)
+:::
+
+:::{}
+![**Organizations**](figures/bibliometric/university.jpg){width="auto" height="200px"} 
+:::
+
+:::{}
+![**Countries**](figures/bibliometric/countries.jpg){width="auto" height="200px"}
 :::
 :::
 
-## Scientific Database
 
 
 
+## Scientific Databases
 
 ## What the difference these two googles? 
 
@@ -296,30 +325,6 @@ At the [`ENT Ul > Ressources en Ligne`](https://bu.univ-lorraine.fr/ressources-e
 :::
 
 
-
-##  The components 
-
-:::{layout="[50,50]"}
-:::{}
-**Process perspective**
-
-![](figures/pandey2015-01.png){width="600px" fig-align="center"}
-:::
-
-:::{}
-**Stakeholder perspective**
-
-![](figures/pandey2015.png){.fragment width="600px" fig-align="center"}
-:::
-:::
-
-
-
-::: footer
-Source: Pandey, S., Pattnaik, P., 2015. <br>
-[University Research Ecosystem: A Conceptual Understanding.](https://doi.org/10.1515/rebs-2016-0021) <br>
-Review of Economic and Business Studies 8. 
-:::
 
 
 ### Funding Agencies
@@ -703,8 +708,6 @@ For example:<br>
 
 ## Your Turn for Conceptualize your research ! {background-color="aquamarine"}
 
-
-
 # Presentation of TD
 
 ## Mental model of the research process
@@ -758,6 +761,105 @@ van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program
 
 
 # Thank you
+
+
+
+# Everything start with a good research question !
+
+## Everything start with a good research question {background-image="figures/Research-questions.png" background-size="45%" background-position="100% 50%"}
+
+<br>
+
+::: {layout="[50,50]"}
+:::{}
+1 **Descriptive (What, When, Where, Who or How)**
+
+e.g. What percentageof coachees report that coaching helped them with a problem they experienced
+
+2 **Explanatory (Why?)**
+
+e.g. Why dis 65% of coachees report that coacing helped them with a problem they experienced?
+this
+:::
+:::
+
+::: aside
+Source: Rojon, C. & Saunders, M. N. K. [Formulating a convincing rationale for a research study](https://doi.org/10.1080/17521882.2011.648335). Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012).
+:::
+
+
+## Good research question: Descriptive & Explanatory 
+
+Being able to provide meaningful explanations requires answers to why (i.e. explanatory) questions in addition to what (i.e. descriptive) questions.
+
+For example:
+
+- *'How effective is the coaching process at helping coachees to solve a problem they experience and what are the reasons for this?'* 
+- *'To what extent is the coaching process effective at helping coachees solve a problem and why?'*
+
+::: aside
+Source: Rojon, C. & Saunders, M. N. K. [Formulating a convincing rationale for a research study](https://doi.org/10.1080/17521882.2011.648335). Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012).
+:::
+
+
+## PICOC Framework
+
+**Parameter** | **Meaning**
+--|:-----
+**P**opulation|The *What* or *Who* in which the evidence is collected, 
+**I**ntervention | The *how* applied in the empirical study
+**C**omparison| In which the intervention is compared to
+**O**utcomes| What you expect to observe
+**C**ontext| In which particular environment of the population, including whether it is conducted in academia or industry
+
+
+
+## PICOC Framework: Example 1
+
+[Semantic Web and Linked Data for Information Exchange between the Building and Product Manufacturing Industries: A Literature Review.](http://itc.scix.net/paper/w78-2020-paper-018)
+
+:::{layout="[40,60]"}
+
+::: {.callout-note title="Research question"}
+
+> What are the benefits and limitations of using the Semantic Web and Linked data LD technologies for developing product data templates for information ex-changes
+between the building and lighting product manufacturing industries in comparison with the conventional approach of information exchanges using the openBIM standards?
+:::
+
+
+![](figures/consignes/PICOC-01.png){fig-align="center" width="50%"}
+:::
+
+:::footer
+**Source**: R Kebede, A Moscati, P Johansson, H Tan (2020). 
+<br>[Semantic Web and Linked Data for Information Exchange between the Building and Product Manufacturing Industries: A Literature Review.](http://itc.scix.net/paper/w78-2020-paper-018) 
+<br>Proceedings of the 37th International Conference of CIB W78, Sao Paulo - online, BR, 18-20 August, pp. 248-265 (ISSN: 2706-6568), 
+:::
+
+
+## PICOC Framework: Example 2
+
+[Ecosystem services research in mountainous regions: A systematic literature review on current knowledge and research gaps](https://www.sciencedirect.com/science/article/abs/pii/S0048969719345723)
+
+:::{layout="[40,60]"}
+
+::: {.callout-note title="Research question"}
+
+1. What is the state-of-the-art in MES? 
+2. Which MES types had the highest and the least number of studies?
+3. Which modeling approaches are common to assess MES?
+....
+:::
+
+![](figures/consignes/PICOC-02.png){fig-align="center" width="50%"}
+
+:::
+
+:::footer
+**Source**: Mengist, Wondimagegn, Teshome Soromessa, and Gudina Legese. 
+<br>[Method for conducting systematic literature review and meta-analysis for environmental science research.](https://www.sciencedirect.com/science/article/pii/S221501611930353X) 
+<br>MethodsX 7 (2020): 100777.
+:::
 
 
 
@@ -1084,104 +1186,6 @@ https://www.youtube.com/watch?v=GgiK-HWKPjw
 **Source**: Leone, L. The Ratatouille paradox. [An inductive study of creativity in haute cuisine. Technovation (2018)](https://doi.org/10.1016/j.technovation.2018.11.003)
 :::
 
-
-
-## Everything start with a good research question !
-
-## Everything start with a good research question {background-image="figures/Research-questions.png" background-size="45%" background-position="100% 50%"}
-
-<br>
-
-::: {layout="[50,50]"}
-:::{}
-1 **Descriptive (What, When, Where, Who or How)**
-
-e.g. What percentageof coachees report that coaching helped them with a problem they experienced
-
-2 **Explanatory (Why?)**
-
-e.g. Why dis 65% of coachees report that coacing helped them with a problem they experienced?
-this
-:::
-:::
-
-::: aside
-Source: Rojon, C. & Saunders, M. N. K. [Formulating a convincing rationale for a research study](https://doi.org/10.1080/17521882.2011.648335). Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012).
-:::
-
-
-## Good research question: Descriptive & Explanatory 
-
-Being able to provide meaningful explanations requires answers to why (i.e. explanatory) questions in addition to what (i.e. descriptive) questions.
-
-For example:
-
-- *'How effective is the coaching process at helping coachees to solve a problem they experience and what are the reasons for this?'* 
-- *'To what extent is the coaching process effective at helping coachees solve a problem and why?'*
-
-::: aside
-Source: Rojon, C. & Saunders, M. N. K. [Formulating a convincing rationale for a research study](https://doi.org/10.1080/17521882.2011.648335). Coaching: An International Journal of Theory, Research and Practice 5, 55–61 (2012).
-:::
-
-
-## PICOC Framework
-
-**Parameter** | **Meaning**
---|:-----
-**P**opulation|The *What* or *Who* in which the evidence is collected, 
-**I**ntervention | The *how* applied in the empirical study
-**C**omparison| In which the intervention is compared to
-**O**utcomes| What you expect to observe
-**C**ontext| In which particular environment of the population, including whether it is conducted in academia or industry
-
-
-
-## PICOC Framework: Example 1
-
-[Semantic Web and Linked Data for Information Exchange between the Building and Product Manufacturing Industries: A Literature Review.](http://itc.scix.net/paper/w78-2020-paper-018)
-
-:::{layout="[40,60]"}
-
-::: {.callout-note title="Research question"}
-
-> What are the benefits and limitations of using the Semantic Web and Linked data LD technologies for developing product data templates for information ex-changes
-between the building and lighting product manufacturing industries in comparison with the conventional approach of information exchanges using the openBIM standards?
-:::
-
-
-![](figures/consignes/PICOC-01.png){fig-align="center" width="50%"}
-:::
-
-:::footer
-**Source**: R Kebede, A Moscati, P Johansson, H Tan (2020). 
-<br>[Semantic Web and Linked Data for Information Exchange between the Building and Product Manufacturing Industries: A Literature Review.](http://itc.scix.net/paper/w78-2020-paper-018) 
-<br>Proceedings of the 37th International Conference of CIB W78, Sao Paulo - online, BR, 18-20 August, pp. 248-265 (ISSN: 2706-6568), 
-:::
-
-
-## PICOC Framework: Example 2
-
-[Ecosystem services research in mountainous regions: A systematic literature review on current knowledge and research gaps](https://www.sciencedirect.com/science/article/abs/pii/S0048969719345723)
-
-:::{layout="[40,60]"}
-
-::: {.callout-note title="Research question"}
-
-1. What is the state-of-the-art in MES? 
-2. Which MES types had the highest and the least number of studies?
-3. Which modeling approaches are common to assess MES?
-....
-:::
-
-![](figures/consignes/PICOC-02.png){fig-align="center" width="50%"}
-
-:::
-
-:::footer
-**Source**: Mengist, Wondimagegn, Teshome Soromessa, and Gudina Legese. 
-<br>[Method for conducting systematic literature review and meta-analysis for environmental science research.](https://www.sciencedirect.com/science/article/pii/S221501611930353X) 
-<br>MethodsX 7 (2020): 100777.
-:::
 
 
 ## Thanks for your Atenttion
