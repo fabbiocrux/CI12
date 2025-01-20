@@ -46,7 +46,7 @@ format:
     sc-sb-title: false
     chalkboard: true
     footer: 'Introduction to Scientific Research'
-    header: '[Presentation](#/TOC)'
+    header: ''
     slide-level: 3
 filters:
   - reveal-header

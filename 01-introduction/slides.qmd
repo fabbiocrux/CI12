@@ -291,7 +291,7 @@ Review of Economic and Business Studies 8.
 :::
 
 
-## Scientific Databases {background-image="figures/databases.png" background-size="40%" background-position="90% 50%" }
+## Scientific Databases {background-image="figures/databases.png" background-size="35%" background-position="90% 10%" }
 
 At the [`ENT Ul > Ressources en Ligne`](https://bu.univ-lorraine.fr/ressources-en-ligne)
 
@@ -304,7 +304,11 @@ At the [`ENT Ul > Ressources en Ligne`](https://bu.univ-lorraine.fr/ressources-e
 - Institutional repositories → dissertations
 - IP registrars → Patents
 
-🦸‍♂🦸🏻‍♀️ **Standing on the shoulders of giants**
+:::{.r-fit-text}
+🦸‍♂🦸🏻‍♀️ **Standing on the shoulders of giants**!!
+:::
+
+
 
 ## Web of science → Scientific & Patent databases
 
@@ -327,7 +331,7 @@ At the [`ENT Ul > Ressources en Ligne`](https://bu.univ-lorraine.fr/ressources-e
 
 
 
-### Funding Agencies
+### Funding Agencies (EU, National, Regional, Local)
 
 Research funding bodies play a crucial role in ***shaping the landscape of scientific research***.  
 
@@ -350,12 +354,56 @@ Research funding bodies play a crucial role in ***shaping the landscape of scien
 :::
 :::
 
+:::{layout="[25,25,25,25]" layout-valign="center"}
+![](figures/EU-logo.svg)
+
+![](figures/ANR-logo.png){width="1500"}
+
+![](figures/ANRT-logo.jpg){width="1000"}
+
+![](figures/Grand-Est-logo.png)
+:::
 
 ### The Research Institutions 
 
+:::{layout="[50,50]"}
+:::{}
+![](figures/Ecosysteme-recherche-france.png)
 
+[Source: **Mission sur l'écosystème de la recherche et de l'innovation**](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-06/rapport---mission-sur-l-cosyst-me-de-la-recherche-et-de-l-innovation-28193.pdf)
+:::
+
+:::{}
+Public authority responsible for evaluating all higher education and research structures.
+
+![](figures/HCERES-logo.png){width="450px" fig-align="center"}
+
+1. [Evaluation of the Université de Lorraine](https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/C2023-EV-0542493S-DER-SYNT230023534-RD.pdf)
+2. [Evaluation of ERPI](https://www.hceres.fr/en/rechercher-une-publication/erpi-equipe-de-recherche-sur-les-processus-innovatifs-1)
+
+:::
+:::
 
 ### The Researcher(s)
+
+:::{layout="[70,30]"}
+:::{}
+[![](figures/ec-ministerio.jpg){width="500px" fig-align="center"} ![](figures/MCESR.png){width="400px" fig-align="center"}<br>Source: **Personnel enseignant du supérieur et chercheurs**](https://www.enseignementsup-recherche.gouv.fr/fr/ressources-humaines-51859)
+
+![](figures/devenir-ec.webp)
+:::
+
+
+
+:::{}
+Public authority responsible for evaluating all Researches.
+
+![](figures/CNU.jpg){width="450px" fig-align="center"}
+
+Conseil national des universités
+
+:::
+:::
 
 
 
@@ -486,8 +534,9 @@ Quantity of:
 :::
 :::{}
 
-But, the real question is: <br>
+:::{.callout-tip title="Real question is:"}
 **Is this subject interest for scientific community? 🧐**
+:::
 :::
 :::
 
@@ -497,29 +546,31 @@ Quantitative Description !!
 
 ### The Bibliometric <br> toolbox { background-image="figures/bibliometric/03.png" background-size="65%" background-position="90% 40%"}
 
-**Performance Techniques** 
+#### Citation-related metrics
 
 :::{layout="[30, -25, 40]" layout-valign="center"}
 :::{}
-Quantity of:<br>
+Quantity of:
+
 - Citations
 :::
 :::{}
-<br>
-Real question is: <br>
-**Have this subject an *Impact and diffusion*^[1] of knowledge in the community? 🧐**
-
-:::
-:::
 
 <br>
-**[1]**: Although their relationship with research quality is **complex and multifaceted** issue. 
+
+:::{.callout-tip title="Real question is:"}
+**Have this subject an *Impact and diffusion* of knowledge in the community? 🧐**
+:::
+:::
+:::
+<br>
+⛔️ Although their relationship with research quality is **complex and multifaceted** issue. 
 
 
 
-### The Bibliometric <br> toolbox { background-image="figures/bibliometric/04.png" background-size="65%" background-position="90% 50%"}
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/04.png" background-size="65%" background-position="90% 40%"}
 
-**Performance Techniques** 
+#### Citation-publication <br> related metrics
 
 :::{layout="[30, -25, 40]" layout-valign="center"}
 :::{}
@@ -534,10 +585,12 @@ Quantity of:
 :::
 :::{}
 <br>
-Real question is: <br>
+
+:::{.callout-tip title="Real question is:"}
 **How this research is made? 🧐 <br>**
-**What is its statistical distribution?📊**
+**What is its statistical distribution?📊**<br>
 **How many 'big fish' documents ? 🐋**
+:::
 :::
 :::
 
@@ -556,7 +609,7 @@ Qualitative Description !!
 
 
 
-### The Bibliometric <br> toolbox { background-image="figures/bibliometric/05.png" background-size="65%" background-position="90% 50%"}
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/05.png" background-size="65%" background-position="90% 40%"}
 
 #### Citation Analysis
 
@@ -586,7 +639,7 @@ For example:
 
 
 
-### The Bibliometric <br> toolbox { background-image="figures/bibliometric/06.png" background-size="65%" background-position="90% 50%"}
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/06.png" background-size="65%" background-position="90% 40%"}
 
 #### Co-citation 
 
@@ -615,7 +668,7 @@ For example:
 
 
 
-### The Bibliometric <br> toolbox { background-image="figures/bibliometric/07.png" background-size="65%" background-position="90% 50%"}
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/07.png" background-size="65%" background-position="90% 40%"}
 
 #### Bibliographic coupling
 
@@ -641,7 +694,7 @@ For example:<br>
 :::
 
 
-### The Bibliometric <br> toolbox { background-image="figures/bibliometric/08.png" background-size="65%" background-position="90% 50%"}
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/08.png" background-size="65%" background-position="90% 40%"}
 
 #### Co-word Analysis 
 
@@ -674,7 +727,7 @@ Co-citation analysis (*Past*) → Bibliographic coupling (*Present*) → and Co-
 
 
 
-### The Bibliometric <br> toolbox { background-image="figures/bibliometric/09.png" background-size="65%" background-position="90% 50%"}
+### The Bibliometric <br> toolbox { background-image="figures/bibliometric/09.png" background-size="65%" background-position="90% 40%"}
 
 #### Co-authorship analysis
 
@@ -705,19 +758,39 @@ For example:<br>
 
 
 
-
 ## Your Turn for Conceptualize your research ! {background-color="aquamarine"}
 
 # Presentation of TD
 
-## Mental model of the research process
+## Mental model of the Research conceptualization
 
-![Research conceptualization](figures/Research-conceptualization-00.jpg)
+
+::: {.r-stack}
+![](figures/Research-conceptualization-00.jpg){ width="1100" }
+
+![](figures/Research-conceptualization-01.jpg){.fragment width="1100" }
+
+![](figures/Research-conceptualization-03.jpg){.fragment width="1100" }
+:::
+
+
+
 
 ## Theoretical background
 
+:::{layout="[40,60]" layout-valign="center"}
 
-![](figures/consignes/TD-Biblio.png){fig-align="center" width="45%"}
+:::{}
+1. Scientific databases
+
+![](figures/WoS.png){width="100px" fig-align="center"}
+
+2. Methodological Support : **Bibliometric Analysis**
+
+:::
+<br>
+![](figures/consignes/TD-Biblio.png){width="70%" fig-align="center"}
+:::
 
 :::footer
 Source:
