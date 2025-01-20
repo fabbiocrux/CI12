@@ -1,12 +1,12 @@
 ---
 title: "What is Scientific Research <br> for Innovation Management?"
 subtitle: "<img src='../assets/img/logos/ENSGSI.png' width='500'>"  
-email: "cruzsanc1@univ-lorraine.fr"
-institute: "Université de Lorraine | ENSGSI"
+email: "fabio.cruz@univ-lorraine.fr"
+institute: "Université de Lorraine"
 author: 
   - "MdC. Fabio A. CRUZ SANCHEZ"
   - "Pr. Mauricio Camargo"
-date: 06-Dec-2024
+date: "2025-01-21"
 metadata-files:
   - _metadata.yml
 format:
@@ -124,8 +124,7 @@ Note final = $Moyenne$
 ## What is scientific research ?
 
 
-::: {layout="[50, 50]"}
-::: {}
+
 >The process of finding solutions to a problem after a thorough study and analysis of the situational factors. 
 
 
@@ -133,38 +132,7 @@ Based on two research elements:
 
 - 🔎 Observations (information or data)
 - 💡 Theory (arguments)
-:::
-::: {}
 
-```{mermaid}
-%%| fig-height: 4
-graph TD    
-    1[Observation]
-    2[Hypothesis Formation]
-    3[Experimentation]
-    4[Data Collection]
-    5[Analysis]
-    6[Conclusion Drawing]
-    7[Peer Review]
-    8[Publication]
-    9[Continuous Improvement]
-    10[Application]
-
-    1 --> 2
-    2 --> 3
-    3 --> 4
-    4 --> 5
-    5 --> 6
-    6 --> 7
-    7 --> 8
-    8 --> 9
-    9 --> 10
-    10 --> 1
- 
-```
-
-:::
-:::
 
 
 ::: footer
@@ -216,13 +184,9 @@ La règle découle de l'observation répétée de faits réels, contingents.
 
 ## Mental model for the course?
 
-![Research conceptualization](figures/Research-conceptualization-00.jpg){width="30%" fig-align="center"}
+![Research conceptualization](figures/Module-CI12.jpg){width="30%" fig-align="center"}
 
-
-
-
-
-##  The perspectives of the research 
+##  The perspectives of the research
 
 :::{layout="[50,50]"}
 :::{}
@@ -383,6 +347,17 @@ Public authority responsible for evaluating all higher education and research st
 
 :::
 :::
+
+
+### ERPI Laboratory UL
+
+:::{layout="[35,65]" layout-valign="center"}
+[https://erpi.univ-lorraine.fr/](https://erpi.univ-lorraine.fr/)
+
+[![](figures/ERPI.png){fig-align="center"}](https://erpi.univ-lorraine.fr/)
+:::
+
+
 
 ### The Researcher(s)
 
@@ -757,6 +732,11 @@ For example:<br>
 
 
 ## Your Turn for Conceptualize your research ! {background-color="aquamarine"}
+
+Two options: 
+
+
+
 
 # Presentation of TD
 

@@ -2,6 +2,8 @@ color:
   palette:
     dark-grey: "#222222"
     blue: "#ddeaf1"
+    morado: "#642C81"
+    orange: "#f37703"
   background: white
   foreground: dark-grey
   primary: black
@@ -17,3 +19,6 @@ typography:
       source: google  
   base: Source+Serif+4
   headings: Jura
+  link:
+    decoration: underline
+    color: "orange"
