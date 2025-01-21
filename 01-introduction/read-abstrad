@@ -1,0 +1,323 @@
+
+
+# How to read an Article ? {.center}
+
+Let's do step by step analysis ...
+
+## How to read an Article ? {background-image="figures/Article-explanation/01.png" background-size="45%" background-position="90% 50%" }
+
+## How to read an Article ? {background-image="figures/Article-explanation/02.png" background-size="45%" background-position="90% 50%" }
+
+**💡 Tip 1**
+**Identify the context of this paper !!**
+
+
+1. Scientific database: [**Elsevier**](https://www.elsevier.com/)
+1. Journal : [**Journal of Bussiness Research**](https://www.sciencedirect.com/journal/journal-of-business-research)
+1. Published : 2021
+1. [**Citations**](https://www-sciencedirect-com.bases-doc.univ-lorraine.fr/science/article/pii/S0148296321003155?via%3Dihub#section-cited-by)
+
+
+## How to read an Article ? 
+
+::: {.columns}
+::: {.column width="40%"}
+**💡 Tip 2**
+
+**What and Who?**
+
+1. A **good title** gives the purpose of the paper !!
+1. People : 
+   -  University    
+   - Domaine
+   - Country
+   - ***Contacts !!***
+1. DOI: Digital Object Identifier (DOI)
+
+:::
+::: {.column width="60%"}
+![](figures/Article-explanation/03.png){width="120%"}
+
+.
+
+.
+
+.
+
+![](figures/Article-explanation/031.png){width="120%"}
+:::
+:::
+
+
+
+
+## How to read an Article ? {background-image="figures/Article-explanation/04.png" background-size="45%" background-position="90% 50%" }
+
+**💡 Tip 3**
+**Start by the Outline !!**
+
+
+
+## How to read an Article ? {background-image="figures/Article-explanation/01.png" background-size="45%" background-position="90% 50%" }
+
+ **💡 Tip 4**: **Méthode AIC**
+
+
+- [Title]{.bg-yellow} ✅
+- 🔎 **Abstract**
+- 🔎 **Introduction**
+- Literature review
+- Methodology
+- Results
+- Discussion
+- 🔎**Conclusion**
+- References
+
+
+
+## AIC Reading method
+
+For screening read : **Title, Journal, keywords and Abstract**
+
+For detailed synthesis use **AIC**:
+
+- [**Abstract → Summary of the paper**]{.bg-yellow}🔎
+- **Introduction → Context of problem and research, gap, summary of what is done**
+- **Conclusions → Summary of results and importance of results given the context.**
+
+
+## The abstract {.center}
+
+:::: {layout="[50,-1,70]" layout-valign="center"}
+
+::: {}
+> The minimal viable product of a research.
+:::
+
+:::{}
+- What’s the topic?
+- What's the problem? (Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+:::
+::::
+
+
+## Exemple 1 {background-image="figures/Article-explanation/06.png" background-size="60%" background-position="90% 0%" }
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+
+```{r echo=FALSE}
+countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
+```
+
+::: footer
+**Source**: Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., Lim, W.M., 2021. [How to conduct a bibliometric analysis: An overview and guidelines](https://doi.org/10.1016/j.jbusres.2021.04.070). 
+Journal of Business Research 133, 285–296. 
+
+:::
+
+
+## Exemple 1 {background-image="figures/Article-explanation/07.png" background-size="60%" background-position="90% 0%" }
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+
+
+## Exemple 2 {background-image="figures/ferney-00.png" background-size="60%" background-position="90% 0%" }
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+
+::: footer
+**Source**: Osorio et al (2019). [Design and management of innovation laboratories: Toward a performance assessment tool](https://doi.org/10.1111/caim.12301).
+<br>Creativity and Innovation Management 28, 82–100. 
+:::
+
+
+```{r echo=FALSE}
+countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
+```
+
+
+## Exemple 2 {background-image="figures/ferney-01.png" background-size="60%" background-position="90% 0%" }
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+::: footer
+**Source**: Osorio et al (2019). [Design and management of innovation laboratories: Toward a performance assessment tool](https://doi.org/10.1111/caim.12301).
+<br>Creativity and Innovation Management 28, 82–100. 
+:::
+
+
+
+## Exemple 3 {background-image="figures/Sandra-00.png" background-size="60%" background-position="90% 0%" }
+
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+
+::: footer
+**Source**: Marche, et al. (2022)., [Qualitative sustainability assessment of road verge management in France: <br>An approach from causal diagrams to seize the importance of impact pathways](https://doi.org/10.1016/j.eiar.2022.106911).
+Environmental Impact Assessment Review 97, 106911. 
+:::
+
+
+```{r echo=FALSE}
+countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
+```
+
+
+## Exemple 3 {background-image="figures/Sandra-01.png" background-size="60%" background-position="90% 0%" }
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+::: footer
+**Source**: Marche, et al. (2022)., [Qualitative sustainability assessment of road verge management in France: <br>An approach from causal diagrams to seize the importance of impact pathways](https://doi.org/10.1016/j.eiar.2022.106911).
+Environmental Impact Assessment Review 97, 106911. 
+:::
+
+
+
+## Exemple 4 {background-image="figures/Alex-00.png" background-size="60%" background-position="90% 0%" }
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+
+::: footer
+**Source**: Gabriel, et al. (2016), [Creativity support systems: A systematic mapping study,](https://doi.org/10.1016/j.tsc.2016.05.009)
+<br>Thinking Skills and Creativity 21, 109–122.
+:::
+
+
+```{r echo=FALSE}
+countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
+```
+
+
+
+## Exemple 4 {background-image="figures/Alex-01.png" background-size="60%" background-position="90% 50%" }
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+::: footer
+**Source**: Gabriel, et al. (2016), [Creativity support systems: A systematic mapping study,](https://doi.org/10.1016/j.tsc.2016.05.009)
+<br>Thinking Skills and Creativity 21, 109–122.
+:::
+
+
+## Mental model when reading an abstract 
+
+:::{.incremental}
+1. 🌍 **Topic** → *the writer provides background factual information.*
+1. ⚠️ **Problem** → *The writer presents the gap/problem to treat*
+1. 🔎 **Research Gap** → *the writer states the limits of current knowledge.* 
+1. 🎯 **The purpose** : *the writer presents the general aim and the specific aim of the study.*
+1. 📜 **Methodology** → *the writer summarises the methodology and provides details.*
+1. 📊 **Results** → *the writer indicates the achievement of the study.*
+1. 🚀 **Perspectives** → *the writer presents the implications of the study.*
+:::
+
+
+
+## Your turn ! {background-color="aquamarine" background-image="figures/Ratatouille-paper.png" background-size="60%" background-position="90% 20%" }
+
+```{r echo=FALSE}
+countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
+```
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+:::aside
+**Video of the scene**: <br>
+https://www.youtube.com/watch?v=GgiK-HWKPjw 
+:::
+
+::: footer
+**Source**: Leone, L. The Ratatouille paradox. [An inductive study of creativity in haute cuisine. Technovation (2018)](https://doi.org/10.1016/j.technovation.2018.11.003)
+:::
+
