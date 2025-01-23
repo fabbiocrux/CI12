@@ -246,12 +246,7 @@ Journal of Business Research 133, 285–296.
 
 ## The research process
 
-![](figures/Research-process.png){width="75%" fig-align="center"}
-
-
-
-
-
+![](figures/Module-CI12.jpg){width="75%" fig-align="center"}
 
 
 
@@ -265,7 +260,6 @@ Let's do step by step analysis ...
 
 **💡 Tip 1**
 **Identify the context of this paper !!**
-
 
 1. Scientific database: [**Elsevier**](https://www.elsevier.com/)
 1. Journal : [**Journal of Bussiness Research**](https://www.sciencedirect.com/journal/journal-of-business-research)
@@ -567,10 +561,9 @@ countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
 
 :::
 
-:::aside
-**Video of the scene**: <br>
-https://www.youtube.com/watch?v=GgiK-HWKPjw 
-:::
+
+**Video of the scene**: [https://www.youtube.com/watch?v=GgiK-HWKPjw](https://www.youtube.com/watch?v=GgiK-HWKPjw) 
+
 
 
 ::: footer
@@ -692,9 +685,7 @@ International journal of hydrogen energy 44.19 (2019): 9486-9504.
 ## Examples at ERPI {background-image="figures/erpi/javier.png" background-size="40%" background-position="90% 50%" }
 
 :::{layout="[50,50]" layout-valign="center"}
-
 [3D printing: An emerging opportunity for soil science.](https://doi.org/10.1016/j.geoderma.2020.114588)
-
 :::
 
 
@@ -705,27 +696,16 @@ Arrieta-Escobar, Javier A., et al.  <br>
 Geoderma 378 (2020): 114588.
 :::
 
-
-
-
-
 ## A useful ressource {background-image="figures/Siddaway2019.png" background-size="45%" background-position="90% 50%" }
 
-
-
-:::: {layout="[30, 30]"}
-
+:::{layout="[30, 30]"}
 :::{}
-
 Siddaway, A.P., Wood, A.M., Hedges, L.V., 2019. <br>
 [How to Do a Systematic Review: A Best Practice Guide for Conducting and Reporting Narrative Reviews, Meta-Analyses, and Meta-Syntheses](https://doi.org/10.1146/annurev-psych-010418-102803). 
 <br>Annual Review of Psychology 70, 747–770. 
 
 :::
-
-::::
-
-
+:::
 
 
 ## Literature review – Ethics
@@ -736,13 +716,166 @@ Report on your literature findings and beware of:
 
 > **Plagiarism** – the use of another’s original words, arguments, or ideas as though they were your own, even if this is done in good faith, out of carelessness, or out of ignorance.
 
-- Importance of the References [(Act III we'll take a look)]{.bg-yellow}
+- Importance of the References 
 
 ## Questions {.center}
 
+
+# The "Gap" {.center}
+
+## In Science ...
+
+:::{layout="[50,50]" layout-valign="center"}
+![](figures/gap/00.png)
+
+We don't sell products!! .. We sell **Gaps**!
+:::
+
+:::footer
+**Source**: Miles, D.A., 2017. 
+[A Taxonomy of Research Gaps: Identifying and Defining the Seven Research Gaps.](https://www.researchgate.net/profile/Sanusi-Sani-Maimagani/post/What-is-a-research-gap-or-knowledge-gap-in-research-and-literature-Is-gap-explored-or-constructed-How-can-gap-in-research-be-identified/attachment/612e5570647f3906fc94fab2/AS%3A1062899850153985%401630426480747/download/Miles2017.pdf)
+
+:::
+
+## Evidence Gaps
+
+:::{layout="[30,70]" layout-valign="center"}
+![](figures/gap/00.png){width="70%" fig-align="center"}
+
+:::{}
+- An evidence gap occurs with a provocative exception arises if a new research finding contradicts widely accepted conclusions.
+
+- If results from studies allow for conclusions in their own right, but are contradictory when examined from a more abstract point of view.
+
+:::
+:::
+
+
+## Knowledge Gaps
+
+:::{layout="[30,70]" layout-valign="center"}
+![](figures/gap/00.png){width="70%" fig-align="center"}
+
+:::{}
+
+- Most common gap.
+- knowledge may not exist in the actual field to theories and literature from related research domains.
+- it might be the case that results of a study differs from what was expected
+ 
+:::
+:::
+
+
+## Practical-Knowledge Gaps
+
+:::{layout="[30,70]" layout-valign="center"}
+![](figures/gap/00.png){width="70%" fig-align="center"}
+
+:::{}
+
+- Tends to be a discrepancy that can motivate new research in this direction.
+
+- A practical–knowledge (action-knowledge) conflict arises when the actual behavior of professionals is different from their advocated behavior.
+
+- Research could seek to determine the scope of the conflict and to uncover the reasons for its existence
+ 
+:::
+:::
+
+
+
+## Methodological Gap
+
+:::{layout="[30,70]" layout-valign="center"}
+![](figures/gap/00.png){width="70%" fig-align="center"}
+
+:::{}
+
+- It deals with the conflict that occurs due to the influence of methodology on research results..
+
+- This gap addresses the conflicts with the research methods in the prior studies and offers a new line of research that is divergent from those research methods.
+
+- It might be useful to vary research methods, especially if certain research topics have been mainly explored using a singular or common method
+ 
+:::
+:::
+
+
+
+## Empirical Gap
+
+:::{layout="[30,70]" layout-valign="center"}
+![](figures/gap/00.png){width="70%" fig-align="center"}
+
+:::{}
+
+- It deals with gaps in the prior research.
+
+- This conflict deals with the research findings or propositions need to be evaluated or empirically verified.
+
+- The empirical gap often addresses conflicts that no study to date has directly attempted to evaluate a subject or topic from an empirical approach
+ 
+:::
+:::
+
+
+## Theoretical Gap
+
+:::{layout="[30,70]" layout-valign="center"}
+![](figures/gap/00.png){width="70%" fig-align="center"}
+
+:::{}
+
+- It deals with the gaps in theory with the prior research.
+
+- If one phenomenon is being explained through various theoretical models, similar to a methodological gap conflict, there might be a *theoretical conflict*.
+
+- Researchers and scholars could examine whether one of those theories is superior in terms of the gap in the prior research.
+
+- Theoretical gaps are a common occurrence in examining prior research on a phenomenon
+:::
+:::
+
+
+
+## Population Gap
+
+:::{layout="[30,70]" layout-valign="center"}
+![](figures/gap/00.png){width="70%" fig-align="center"}
+
+:::{}
+
+- There are always underserved populations that have been under-researched.
+
+- The type of research regarding the population that is not adequately represented or under-researched in the evidence base or prior research (e.g., gender, race/ethnicity, age and etic)
+
+:::
+:::
+
+
+
+## In summary
+
+![](figures/gap/03.png){width="70%" fig-align="center"}
+
+:::footer
+**Source**: Miles, D.A., 2017. <br>
+[A Taxonomy of Research Gaps: Identifying and Defining the Seven Research Gaps.](https://www.researchgate.net/profile/Sanusi-Sani-Maimagani/post/What-is-a-research-gap-or-knowledge-gap-in-research-and-literature-Is-gap-explored-or-constructed-How-can-gap-in-research-be-identified/attachment/612e5570647f3906fc94fab2/AS%3A1062899850153985%401630426480747/download/Miles2017.pdf)
+
+:::
+
+
+## And how we do bussinness !
+
+![](figures/gap/02.png){width="70%" fig-align="center"}
+
+:::footer
+**Source**: Miles, D.A., 2017. <br>
+[A Taxonomy of Research Gaps: Identifying and Defining the Seven Research Gaps.](https://www.researchgate.net/profile/Sanusi-Sani-Maimagani/post/What-is-a-research-gap-or-knowledge-gap-in-research-and-literature-Is-gap-explored-or-constructed-How-can-gap-in-research-be-identified/attachment/612e5570647f3906fc94fab2/AS%3A1062899850153985%401630426480747/download/Miles2017.pdf)
+
+:::
+
 ## Your turn ! {background-color="aquamarine" }
-
-
 
 
 
@@ -853,10 +986,6 @@ Source: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scienti
 - [Writing for Impact: How to Prepare a Journal Article](https://static1.squarespace.com/static/5854aaa044024321a353bb0d/t/5a14af7271c10b644be97217/1511305075667/WritingForImpact.PDF)
 
 - [Writing the Research Paper: a Handbook](http://ngoaingu.vimaru.edu.vn/wp-content/uploads/Anthony-C.-Winkler-Jo-Ray-Metherell-Writing-the-Research-Paper_-A-Handbook-Wadsworth-Cengage-Learning-2011.pdf)
-
-
-
-
 
 
 

@@ -35,6 +35,7 @@ format:
     #subtitle-as-header: true
     sc-sb-title: false
     chalkboard: true
+    
 filters:
   - reveal-header
   - reveal-auto-agenda
