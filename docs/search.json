@@ -916,7 +916,7 @@
     "href": "01-introduction/tp1.html#clarivate-for-patents",
     "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
     "section": "Clarivate for Patents",
-    "text": "Clarivate for Patents",
+    "text": "Clarivate for Patents\n\n\n\n\n\n\nENT UL &gt; Ressources en Ligne\nDerwent Innovation Index",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",
@@ -1444,7 +1444,7 @@
     "href": "02-literature/index.html#your-turn",
     "title": "Act II: Literature review",
     "section": "Your turn !",
-    "text": "Your turn !",
+    "text": "Your turn !\n\n\n\n−+\n05:00\n\n\n\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\n\nSource: Leone, L. The Ratatouille paradox. An inductive study of creativity in haute cuisine. Technovation (2018)\n\n\nVideo of the scene:  https://www.youtube.com/watch?v=GgiK-HWKPjw",
     "crumbs": [
       "Home",
       "Act II: Literature review",
@@ -1660,7 +1660,7 @@
     "href": "02-literature/index.html#abstract",
     "title": "Act II: Literature review",
     "section": "Abstract",
-    "text": "Abstract\nWhat’s the topic?\nWhat’s the problem?\nIs it important?\nWhat’s the  research question?\nWhat is the  purpose ?\nImplications  for future ?",
+    "text": "Abstract\nExample of Nature:",
     "crumbs": [
       "Home",
       "Act II: Literature review",
@@ -1672,7 +1672,7 @@
     "href": "02-literature/index.html#introduction",
     "title": "Act II: Literature review",
     "section": "Introduction",
-    "text": "Introduction\nContext\nFocus on  the Research object\nHypothesis\nPresenting methods",
+    "text": "Introduction\n\n\n\n1er Paragraphe: établir le contexte, introduire le sujet. Il doit établir l’importance du sujet de recherche\n2ème : établir un lien avec la littérature existante\n3ème : établir clairement le “Gap to be filled”\n4émé Expliquer comment on a traité le sujet\n5èmé :“Annoncer la couleur” des résultats\nEnfin : Décrire la structure de l’article",
     "crumbs": [
       "Home",
       "Act II: Literature review",
@@ -1919,5 +1919,209 @@
     "title": "Research, Innovation & Development",
     "section": "Reading Scientific literature",
     "text": "Reading Scientific literature"
+  },
+  {
+    "objectID": "02-literature/index.html#how-to-read-an-article-1",
+    "href": "02-literature/index.html#how-to-read-an-article-1",
+    "title": "Act II: Literature review",
+    "section": "How to read an Article ?",
+    "text": "How to read an Article ?",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#how-to-read-an-article-2",
+    "href": "02-literature/index.html#how-to-read-an-article-2",
+    "title": "Act II: Literature review",
+    "section": "How to read an Article ?",
+    "text": "How to read an Article ?\n💡 Tip 1 Identify the context of this paper !!\n\nScientific database: Elsevier\nJournal : Journal of Bussiness Research\nPublished : 2021\nCitations",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#how-to-read-an-article-3",
+    "href": "02-literature/index.html#how-to-read-an-article-3",
+    "title": "Act II: Literature review",
+    "section": "How to read an Article ?",
+    "text": "How to read an Article ?\n\n\n💡 Tip 2\nWhat and Who?\n\nA good title gives the purpose of the paper !!\nPeople :\n\nUniversity\n\nDomaine\nCountry\nContacts !!\n\nDOI: Digital Object Identifier (DOI)\n\n\n\n.\n.\n.",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#how-to-read-an-article-4",
+    "href": "02-literature/index.html#how-to-read-an-article-4",
+    "title": "Act II: Literature review",
+    "section": "How to read an Article ?",
+    "text": "How to read an Article ?\n💡 Tip 3 Start by the Outline !!",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#how-to-read-an-article-5",
+    "href": "02-literature/index.html#how-to-read-an-article-5",
+    "title": "Act II: Literature review",
+    "section": "How to read an Article ?",
+    "text": "How to read an Article ?\n💡 Tip 4: Méthode AIC\n\nTitle ✅\n🔎 Abstract\n🔎 Introduction\nLiterature review\nMethodology\nResults\nDiscussion\n🔎Conclusion\nReferences",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#aic-reading-method",
+    "href": "02-literature/index.html#aic-reading-method",
+    "title": "Act II: Literature review",
+    "section": "AIC Reading method",
+    "text": "AIC Reading method\nFor screening read : Title, Journal, keywords and Abstract\nFor detailed synthesis use AIC:\n\nAbstract → Summary of the paper🔎\nIntroduction → Context of problem and research, gap, summary of what is done\nConclusions → Summary of results and importance of results given the context.",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#the-abstract",
+    "href": "02-literature/index.html#the-abstract",
+    "title": "Act II: Literature review",
+    "section": "The abstract",
+    "text": "The abstract\n\n\n\n\n\n\n\nThe minimal viable product of a research.\n\n\n\n \n\n\n\nWhat’s the topic?\nWhat’s the problem? (Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#exemple-1",
+    "href": "02-literature/index.html#exemple-1",
+    "title": "Act II: Literature review",
+    "section": "Exemple 1",
+    "text": "Exemple 1\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\n\n\n−+\n05:00\n\n\n\n\nSource: Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., Lim, W.M., 2021. How to conduct a bibliometric analysis: An overview and guidelines. Journal of Business Research 133, 285–296.",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#exemple-1-1",
+    "href": "02-literature/index.html#exemple-1-1",
+    "title": "Act II: Literature review",
+    "section": "Exemple 1",
+    "text": "Exemple 1\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#exemple-2",
+    "href": "02-literature/index.html#exemple-2",
+    "title": "Act II: Literature review",
+    "section": "Exemple 2",
+    "text": "Exemple 2\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Osorio et al (2019). Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100.\n\n\n\n\n−+\n05:00",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#exemple-2-1",
+    "href": "02-literature/index.html#exemple-2-1",
+    "title": "Act II: Literature review",
+    "section": "Exemple 2",
+    "text": "Exemple 2\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Osorio et al (2019). Design and management of innovation laboratories: Toward a performance assessment tool. Creativity and Innovation Management 28, 82–100.",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#exemple-3",
+    "href": "02-literature/index.html#exemple-3",
+    "title": "Act II: Literature review",
+    "section": "Exemple 3",
+    "text": "Exemple 3\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Marche, et al. (2022)., Qualitative sustainability assessment of road verge management in France: An approach from causal diagrams to seize the importance of impact pathways. Environmental Impact Assessment Review 97, 106911.\n\n\n\n\n−+\n05:00",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#exemple-3-1",
+    "href": "02-literature/index.html#exemple-3-1",
+    "title": "Act II: Literature review",
+    "section": "Exemple 3",
+    "text": "Exemple 3\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Marche, et al. (2022)., Qualitative sustainability assessment of road verge management in France: An approach from causal diagrams to seize the importance of impact pathways. Environmental Impact Assessment Review 97, 106911.",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#exemple-4",
+    "href": "02-literature/index.html#exemple-4",
+    "title": "Act II: Literature review",
+    "section": "Exemple 4",
+    "text": "Exemple 4\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Gabriel, et al. (2016), Creativity support systems: A systematic mapping study, Thinking Skills and Creativity 21, 109–122.\n\n\n\n\n−+\n05:00",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#exemple-4-1",
+    "href": "02-literature/index.html#exemple-4-1",
+    "title": "Act II: Literature review",
+    "section": "Exemple 4",
+    "text": "Exemple 4\n\n\n\n\n\n\n\nWhat’s the topic?\nWhat’s the problem?(Is it important? )\nWhat’s the research question?\nWhat is the purpose ?\nHow you resolved it?\nImplications for future ?\n\n\n\n\n\nSource: Gabriel, et al. (2016), Creativity support systems: A systematic mapping study, Thinking Skills and Creativity 21, 109–122.",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#mental-model-when-reading-an-abstract",
+    "href": "02-literature/index.html#mental-model-when-reading-an-abstract",
+    "title": "Act II: Literature review",
+    "section": "Mental model when reading an abstract",
+    "text": "Mental model when reading an abstract\n\n\n🌍 Topic → the writer provides background factual information.\n⚠️ Problem → The writer presents the gap/problem to treat\n🔎 Research Gap → the writer states the limits of current knowledge.\n🎯 The purpose : the writer presents the general aim and the specific aim of the study.\n📜 Methodology → the writer summarises the methodology and provides details.\n📊 Results → the writer indicates the achievement of the study.\n🚀 Perspectives → the writer presents the implications of the study.",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
+  },
+  {
+    "objectID": "02-literature/index.html#your-turn-1",
+    "href": "02-literature/index.html#your-turn-1",
+    "title": "Act II: Literature review",
+    "section": "Your turn !",
+    "text": "Your turn !",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "CM2: On the shoulders of giants"
+    ]
   }
 ]

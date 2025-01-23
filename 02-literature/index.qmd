@@ -250,7 +250,339 @@ Journal of Business Research 133, 285–296.
 
 
 
-## How to do a Literature Review? {.center}
+
+
+
+
+
+# How to read an Article ? {.center}
+
+Let's do step by step analysis ...
+
+## How to read an Article ? {background-image="figures/Article-explanation/01.png" background-size="45%" background-position="90% 50%" }
+
+## How to read an Article ? {background-image="figures/Article-explanation/02.png" background-size="45%" background-position="90% 50%" }
+
+**💡 Tip 1**
+**Identify the context of this paper !!**
+
+
+1. Scientific database: [**Elsevier**](https://www.elsevier.com/)
+1. Journal : [**Journal of Bussiness Research**](https://www.sciencedirect.com/journal/journal-of-business-research)
+1. Published : 2021
+1. [**Citations**](https://www-sciencedirect-com.bases-doc.univ-lorraine.fr/science/article/pii/S0148296321003155?via%3Dihub#section-cited-by)
+
+
+## How to read an Article ? 
+
+::: {.columns}
+::: {.column width="40%"}
+**💡 Tip 2**
+
+**What and Who?**
+
+1. A **good title** gives the purpose of the paper !!
+1. People : 
+   -  University    
+   - Domaine
+   - Country
+   - ***Contacts !!***
+1. DOI: Digital Object Identifier (DOI)
+
+:::
+::: {.column width="60%"}
+![](figures/Article-explanation/03.png){width="120%"}
+
+.
+
+.
+
+.
+
+![](figures/Article-explanation/031.png){width="120%"}
+:::
+:::
+
+
+
+
+## How to read an Article ? {background-image="figures/Article-explanation/04.png" background-size="45%" background-position="90% 50%" }
+
+**💡 Tip 3**
+**Start by the Outline !!**
+
+
+
+## How to read an Article ? {background-image="figures/Article-explanation/01.png" background-size="45%" background-position="90% 50%" }
+
+ **💡 Tip 4**: **Méthode AIC**
+
+
+- [Title]{.bg-yellow} ✅
+- 🔎 **Abstract**
+- 🔎 **Introduction**
+- Literature review
+- Methodology
+- Results
+- Discussion
+- 🔎**Conclusion**
+- References
+
+
+
+## AIC Reading method
+
+For screening read : **Title, Journal, keywords and Abstract**
+
+For detailed synthesis use **AIC**:
+
+- [**Abstract → Summary of the paper**]{.bg-yellow}🔎
+- **Introduction → Context of problem and research, gap, summary of what is done**
+- **Conclusions → Summary of results and importance of results given the context.**
+
+
+## The abstract {.center}
+
+:::: {layout="[50,-1,70]" layout-valign="center"}
+
+::: {}
+> The minimal viable product of a research.
+:::
+
+:::{}
+- What’s the topic?
+- What's the problem? (Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+:::
+::::
+
+
+## Exemple 1 {background-image="figures/Article-explanation/06.png" background-size="60%" background-position="90% 0%" }
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+
+```{r echo=FALSE}
+countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
+```
+
+::: footer
+**Source**: Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., Lim, W.M., 2021. [How to conduct a bibliometric analysis: An overview and guidelines](https://doi.org/10.1016/j.jbusres.2021.04.070). 
+Journal of Business Research 133, 285–296. 
+
+:::
+
+
+## Exemple 1 {background-image="figures/Article-explanation/07.png" background-size="60%" background-position="90% 0%" }
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+
+
+## Exemple 2 {background-image="figures/abstracts/ferney-00.png" background-size="60%" background-position="90% 0%" }
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+
+::: footer
+**Source**: Osorio et al (2019). [Design and management of innovation laboratories: Toward a performance assessment tool](https://doi.org/10.1111/caim.12301).
+<br>Creativity and Innovation Management 28, 82–100. 
+:::
+
+
+```{r echo=FALSE}
+countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
+```
+
+
+## Exemple 2 {background-image="figures/abstracts/ferney-01.png" background-size="60%" background-position="90% 0%" }
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+::: footer
+**Source**: Osorio et al (2019). [Design and management of innovation laboratories: Toward a performance assessment tool](https://doi.org/10.1111/caim.12301).
+<br>Creativity and Innovation Management 28, 82–100. 
+:::
+
+
+
+## Exemple 3 {background-image="figures/abstracts/Sandra-00.png" background-size="60%" background-position="90% 0%" }
+
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+
+::: footer
+**Source**: Marche, et al. (2022)., [Qualitative sustainability assessment of road verge management in France: <br>An approach from causal diagrams to seize the importance of impact pathways](https://doi.org/10.1016/j.eiar.2022.106911).
+Environmental Impact Assessment Review 97, 106911. 
+:::
+
+
+```{r echo=FALSE}
+countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
+```
+
+
+## Exemple 3 {background-image="figures/abstracts/Sandra-01.png" background-size="60%" background-position="90% 0%" }
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+::: footer
+**Source**: Marche, et al. (2022)., [Qualitative sustainability assessment of road verge management in France: <br>An approach from causal diagrams to seize the importance of impact pathways](https://doi.org/10.1016/j.eiar.2022.106911).
+Environmental Impact Assessment Review 97, 106911. 
+:::
+
+
+
+## Exemple 4 {background-image="figures/abstracts/Alex-00.png" background-size="60%" background-position="90% 0%" }
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+
+::: footer
+**Source**: Gabriel, et al. (2016), [Creativity support systems: A systematic mapping study,](https://doi.org/10.1016/j.tsc.2016.05.009)
+<br>Thinking Skills and Creativity 21, 109–122.
+:::
+
+
+```{r echo=FALSE}
+countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
+```
+
+
+
+## Exemple 4 {background-image="figures/abstracts/Alex-01.png" background-size="60%" background-position="90% 50%" }
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+::: footer
+**Source**: Gabriel, et al. (2016), [Creativity support systems: A systematic mapping study,](https://doi.org/10.1016/j.tsc.2016.05.009)
+<br>Thinking Skills and Creativity 21, 109–122.
+:::
+
+
+## Mental model when reading an abstract 
+
+:::{.incremental}
+1. 🌍 **Topic** → *the writer provides background factual information.*
+1. ⚠️ **Problem** → *The writer presents the gap/problem to treat*
+1. 🔎 **Research Gap** → *the writer states the limits of current knowledge.* 
+1. 🎯 **The purpose** : *the writer presents the general aim and the specific aim of the study.*
+1. 📜 **Methodology** → *the writer summarises the methodology and provides details.*
+1. 📊 **Results** → *the writer indicates the achievement of the study.*
+1. 🚀 **Perspectives** → *the writer presents the implications of the study.*
+:::
+
+
+
+## Your turn ! {background-color="aquamarine" background-image="figures/abstracts/Ratatouille-paper.png" background-size="60%" background-position="90% 20%" }
+
+```{r echo=FALSE}
+countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
+```
+
+::: {layout="[30]"}
+
+- What’s the topic?
+- What's the problem?<br>(Is it important? )
+- What’s the research question?
+- What is the purpose ?
+- How you resolved it?
+- Implications for future ?
+
+:::
+
+:::aside
+**Video of the scene**: <br>
+https://www.youtube.com/watch?v=GgiK-HWKPjw 
+:::
+
+
+::: footer
+**Source**: Leone, L. The Ratatouille paradox. [An inductive study of creativity in haute cuisine. Technovation (2018)](https://doi.org/10.1016/j.technovation.2018.11.003)
+:::
+
+
+
+
+
+
+# How to do a Literature Review? {.center}
 
 ## Literature review
 
@@ -408,318 +740,8 @@ Report on your literature findings and beware of:
 
 ## Questions {.center}
 
-
-
-
-
-
 ## Your turn ! {background-color="aquamarine" }
 
-
-# What kind of type of research can we do?
-
-## What kind of type of <br> research can we do? {background-image="figures/Nature-research-00.png" background-size="60%" background-position="100% 70%" }
-
-
-:::{layout="[25]"}
-- **Basic Vs. Applied**
-- Exploratory
-- Descriptive
-- Causal
-:::
-
-
-## What kind of type of research can we do? 
-
-:::: {.columns}
-::: {.column width="25%"}
-
-- Basic Vs. Applied
-- **Exploratory**
-- Descriptive
-- Causal
-
-:::
-
-::: {.column width="70%"}
-
-- Not much is known about a particular phenomenon; 
-- Existing research results are unclear or suffer from serious limitations; 
-- The topic is highly complex; or 
-- There is not enough theory available to guide the development of a theoretical framework
-
-:::
-::::
-
-**e.g: AI and its influence in the future?, Decroissance?**
-
-::: footer
-Source: Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
-:::
-
-
-
-## What kind of type of research can we do? 
-
-:::: {.columns}
-::: {.column width="25%"}
-- Basic Vs. Applied
-- Exploratory
-- **Descriptive**
-- Causal
-:::
-::: {.column width="70%"}
-
-- Obtain data that describes the topic of interest
-- Understand the characteristics of a group in a given situation
-- Think systematically about aspects in a given situation
-
-:::
-::::
-
-**e.g: Social Media Usage Patterns, Workplace Satisfaction Surveys, Consumer Behavior Studies, etc...**
-
-
-::: footer
-Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
-:::
-
-
-## What kind of type of research can we do? 
-
-:::: {.columns}
-::: {.column width="30%"}
-- Basic Vs. Applied
-- Exploratory
-- Descriptive
-- **Causal**
-:::
-::: {.column width="70%"}
-
-- Whether or not A causes change to B
-- X causes variable Y. So, when variable X is removed or altered in some way, problem Y is solved
-
-:::
-::::
-
-**e.g: Impact of (Educational, Recycling, Motivation, Training ...) Interventions, Efficacy of Medical Treatments,  Causal loops,  etc...**
-
-
-
-::: footer
-Source: 1. Saunders, M. N. K., Lewis, P. & Thornhill, A. Research methods for business students. (Pearson, 2019).
-:::
-
-
-## Quantitative vs Qualitative
-
-![](figures/QQ-limits.png){fig-align="center"}
-
-**Big data Vs Thick data**
-
-## Examples of ERPI Research
-
-![](figures/ERPI-Articles.png)
-
-https://erpi.univ-lorraine.fr/publications/articles/
-
-## In summary {.center}
-
-### The Art of Design Research
-
-## Research design
-
-![](figures/Research-design.png){fig-align="center" width="30%"}
-
-
-:::footer
-**Source**: Sreejesh, S., Mohapatra, S., & Anusree, M. R. (2013). Business Research Design: Exploratory, Descriptive and Causal Designs. Business Research Methods
-:::
-
-
-
-## Approaches of the <br> Research design{background-image="figures/QQM.png" background-size="65%" background-position="90% 50%" }
-
-
-:::footer
-
-**Source:**
-Creswell, J. W.: 
-<br>Research Design: Qualitative, Quantitative and Mixed Methods Approaches,
-<br>2nd edition, Sage Publications, Inc, California, 246 pp., 2003.
-
-:::
-
-
-
-## The Research Onion {background-image="figures/Research-onion.png" background-size="60%" background-position="95% 50%" }
-
-
-::: {layout="[30,-2,60]" layout-valign="center"}
-
-[The main challengue in Research <br> is connect all the 'coherent' dots in this figure to create a path !!!](https://www.aesanetwork.org/research-onion-a-systematic-approach-to-designing-research-methodology/#:~:text=Research%20onion%20is%20one%20such,which%20constitute%20our%20research%20philosophy)
-
-:::
-
-
-
-# Understanding the paper structure part II
-
-## What is a Research Paper? {background-image="figures/Paper-Alex-02.png" background-size="40%" background-position="90% 30%" }
-
-**Méthode AIC**
-
-- [Title]{.bg-yellow} ✅
-- [Abstract]{.bg-yellow} ✅
-- Introduction
-- Literature review
-- Methodology
-- Results
-- Discussion
-- [Conclusions]{.bg-yellow} ✅
-- References
-
-
-
-
-
-
-## Let's talk about
-
-![](figures/ChatGPT-00.webp)
-
-
-## ChatGPT on the Scientific arena
-
-![](figures/ChatGPT-wos.png)
-
-Nothing (In December 2022) ! 😬
-
-
-
-## ChatGPT on the Scientific arena
-
-![](figures/ChatGPT-scopus.png)
-
-Only 3! 😬
- (In december 2022)
-
-
-## ChatGPT on the Scientific arena
-
-![](figures/ChatGPT-gscholar.png)
-
-
-In december 2022
-
-
-
-## Example of AIC {background-image="figures/ChatGPT-01.png" background-size="45%" background-position="100% 50%" }
-  
-
-:::: {layout="[40, 40]" }
-
-::: {}
-
-*Haque, M. U., Dharmadasa, I., Sworna, Z. T., Rajapakse, R. N., & Ahmad, H. (2022). ."I think this is the most disruptive technology": Exploring Sentiments of ChatGPT Early Adopters using Twitter Data. arXiv preprint arXiv:2212.05856.*
-
-https://arxiv.org/abs/2212.05856
-
-:::
-
-
-::::
-
-
-
-## Before reading.. have an lecture grid in mind ❗
-
-
-:::: {layout="[40, 40]" }
-
-::: {}
-![](figures/Lecture-grid-01.jpg)
-:::
-
-::: {}
-![](figures/Lecture-grid-00.jpg)
-:::
-
-::::
-
-
-
-
-
-## Abstract {background-image="figures/ChatGPT-02.png" background-size="70%" background-position="90% 50%" }
-
-
-
-What’s the topic?
-
-What's the problem?
-
-Is it important? 
-
-What’s the <br> research question?
-
-What is the <br> purpose ?
-
-Implications <br> for future ?
-
-
-
-## Introduction {background-image="figures/ChatGPT-03.png" background-size="70%" background-position="90% 50%" }
-
-
-
-Context
-
-
-Focus on <br>
-the Research object
-
-Hypothesis
-
-
-Presenting methods
-
-
-
-
-## Conclusions {background-image="figures/ChatGPT-05.png" background-size="70%" background-position="90% 50%" }
-
-
-
-- Recall the Purpose
-
-- Summarise Results
-
-- Perspectives
-
-
-
-
-## Reading technique
-
-
-- [1min] [**Screening**] → Title, Journal, keywords
-
-- [5min] [**Profiling**] → Screening + Abstract
-
-
---
-
-- [20min] [**Focusing**]{.t-peach} → [Profiling] + Introduction + Conclusions
-
---
-
-- [1hr] [**In deep**]{.t-blue} → Focusing + All other sections
-
---
-
-
-- [2-3 hr] [**For research**]{.bg-green .bg-peach} → In deep + Reading Grid + References
 
 
 
@@ -788,13 +810,10 @@ Example of Nature:
 
 
 
-
-
 ## Methodology {background-image="figures/Structuration-methodology.png" background-size="30%" background-position="90% 50%" }
 
 
 ![](figures/Structuration-methodology-1.png)
-
 
 
 ## Results {background-image="figures/Structuration-results.png" background-size="30%" background-position="90% 50%" }
@@ -840,86 +859,5 @@ Source: 1. Montagnes, D. J. S., Montagnes, E. I. & Yang, Z. Finding your scienti
 
 
 
-
-
-# Research in the context of France
-
-## Research Ecosystem in general
-
-![Research Ecosystem](figures/pandey2015.png){width="600"}
-
-
-::: aside
-Pandey, S., Pattnaik, P., 2015. University Research Ecosystem: A Conceptual Understanding. Review of Economic and Business Studies 8. https://doi.org/10.1515/rebs-2016-0021
-:::
-
-
-## Research Ecosystem in France
-
-
-**Teaching and research**
-
-  - Universities (IUT, Ecoles d’ingénieurs) 
-  - INSA , ENSI , CNAM , ... 
-
-
-**Private companies** (Big/Smee's)
-
- - Sagem; Véolia; PSA Thales
- 
- - TEA; JEI; FITLE; myXtramile...
-
-
-
-**Funding Agencies**
-
-National & EU
-  - Ministeries
-  - ANR
-  - ADEME
-  
-
-
-## Science and technology observatory (OST) 
-
-![High Council for Evaluation of Research and Higher Education - HCERES](figures/HCERES-01.png)
-
-
-
-::: aside
-[Source: Rapport HCERES](https://www.hceres.fr/sites/default/files/media/downloads/rappScien_VA_web03.pdf)
-
-HCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost
-:::
-
-
-## Science and technology observatory (OST) 
-
-
-![High Council for Evaluation of Research and Higher Education - HCERES](figures/HCERES-02.png)
-
-[Source: Rapport HCERES](https://www.hceres.fr/sites/default/files/media/downloads/rappScien_VA_web03.pdf)
-
-
-
-::: aside
-HCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost
-:::
-
-
-
-## Science and technology observatory (OST) 
-
-
-![High Council for Evaluation of Research and Higher Education - HCERES](figures/HCERES-03.png)
-
-
-[Source: Rapport HCERES](https://www.hceres.fr/sites/default/files/media/downloads/rappScien_VA_web03.pdf)
-
-
-
-::: aside
-HCERES: https://www.hceres.fr/en/science-and-technology-observatory-ost
-:::
 
 

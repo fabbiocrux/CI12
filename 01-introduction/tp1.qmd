@@ -653,18 +653,22 @@ Attention to the Redundancies
 ![](figures/vos/11.jpg)
 
 
-
-
-## Citation Analysis
-
-
-
-
 # Patents Network visualization{#pat-vos}
 
 ## Clarivate for Patents
 
-![](figures/patents/01.jpg)
+:::{layout="[30,70]" layout-valign="center"}
+
+:::{}
+`ENT UL > Ressources en Ligne`
+
+**Derwent Innovation Index**
+:::
+
+![](figures/patents/01.jpg){width="50%"}
+
+:::
+
 
 ## Clarivate for Patents: use the search equation
 
