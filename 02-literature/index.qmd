@@ -579,7 +579,15 @@ countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
 
 ## Evidence in Science
 
+:::{layout="[50,50]" layout-valign="center"}
+![](https://dist.neo4j.com/wp-content/uploads/20180918102937/knowledge-insight-wisdom-2.png)
+
+
+:::{}
 ![](figures/Evidence.png){fig-align="center"}
+
+:::
+:::
 
 [The hierarchy of evidence: Is the study’s design robust?](https://thelogicofscience.com/2016/01/12/the-hierarchy-of-evidence-is-the-studys-design-robust/)
 
