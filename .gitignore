@@ -41,3 +41,5 @@ vignettes/*.pdf
 # ENSGSI Folder
 ENSGSI/
 /.quarto/
+
+**/*.quarto_ipynb
