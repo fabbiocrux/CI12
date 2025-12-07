@@ -2,11 +2,9 @@
 title: "What is Scientific Research <br> for Innovation Management?"
 subtitle: "<img src='../assets/img/logos/ENSGSI.png' width='500'>"  
 email: "fabio.cruz@univ-lorraine.fr"
-institute: "Université de Lorraine"
-author: 
-  - "MdC. Fabio A. CRUZ SANCHEZ"
-  - "Pr. Mauricio Camargo"
-date: "2025-01-21"
+institute: '**Université de Lorraine**'
+author: 'MdC. Fabio A. CRUZ SANCHEZ <br> Pr. Mauricio Camargo'
+date: today
 metadata-files:
   - _metadata.yml
 format:
@@ -299,20 +297,53 @@ La règle découle de l'observation répétée de faits réels, contingents.
 
 ![Research conceptualization](figures/Module-CI12.jpg){width="30%" fig-align="center"}
 
-##  The perspectives of the research
 
-:::{layout="[50,50]"}
+# Understanding the ecosystems of the scientific research
+
+##  The perspectives of the Scientific Research
+
+:::{layout="[25,25, 25, 25]" layout-valign="bottom"}
+
 :::{}
-**Process perspective**
+![**Authors**](figures/bibliometric/author.jpg)
+:::
 
-![](figures/pandey2015-01.png){width="550px" fig-align="center"}
+
+:::{}
+![**Scientific Documents**](figures/bibliometric/article.jpg)
 :::
 
 :::{}
-**Stakeholder perspective**
-
-![](figures/pandey2015.png){.fragment width="550px" fig-align="center"}
+![**Organizations**](figures/bibliometric/university.jpg){width="auto" height="200px"} 
 :::
+
+:::{}
+![**Countries**](figures/bibliometric/countries.jpg){width="auto" height="200px"}
+:::
+:::
+
+##  Process Perspective {background-image="figures/pandey2015-01.png" background-size="40%" background-position="90% 50%"}
+
+:::{layout="[[40,70],[40,70]]"}
+
+![**Authors** → Process perspective](figures/bibliometric/author.jpg){fig-align="left"}
+![**Scientific Documents**](figures/bibliometric/article.jpg)
+
+:::
+
+
+::: footer
+Source: Pandey, S., Pattnaik, P., 2015. <br>
+[University Research Ecosystem: A Conceptual Understanding.](https://doi.org/10.1515/rebs-2016-0021) <br>
+Review of Economic and Business Studies 8. 
+:::
+
+
+##  Stakeholder Perspective {background-image="figures/pandey2015.png" background-size="40%" background-position="90% 50%"}
+
+:::{layout="[40,70]"}
+![**Institution** → **Stakeholder perspective**](figures/bibliometric/university.jpg){fig-align="left"}
+![**Countries**](figures/bibliometric/countries.jpg){fig-align="left"}
 :::
 
 
@@ -326,32 +357,25 @@ Review of Economic and Business Studies 8.
 
 
 
-# Understanding the ecosystems of the scientific research
+## Scientific Documents & Databases 
 
 
-:::{layout="[25,25, 25, 25]" layout-valign="bottom"}
-
-:::{}
+::: {layout="[70, 30]"}
 ![**Scientific Documents**](figures/bibliometric/article.jpg)
-:::
 
 :::{}
-![**Authors**](figures/bibliometric/author.jpg)
-:::
+![**Authors**](figures/bibliometric/author.jpg){height="200px" fig-align="left"}
 
-:::{}
-![**Organizations**](figures/bibliometric/university.jpg){width="auto" height="200px"} 
-:::
+![**Organizations**](figures/bibliometric/university.jpg){width="auto" height="200px" fig-align="left"}
 
-:::{}
-![**Countries**](figures/bibliometric/countries.jpg){width="auto" height="200px"}
+![**Countries**](figures/bibliometric/countries.jpg){width="auto" height="200px" fig-align="left"}
+
 :::
 :::
 
 
 
 
-## Scientific Databases
 
 ## What the difference these two googles? 
 
