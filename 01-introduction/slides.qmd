@@ -32,24 +32,6 @@ library(countdown)
 
 
 
-# For you,<br> What is Scientific Research ? <br> Why is it important?{.center}
-
-
-## Objectives of the Module
-
-1. 🧠 **Knowledge** : 
-   - Sensibilization on the **scientific research  process** and High Superior Education system
-
-1. 🔨 **Know-how** : 
-   - Search on pertinent scientific databases. 
-   - Sensibilization of a critical thinking of research.
-   - Identify a pertinent bibliography.
-
-1. ✍**Competences**  : 
-   - Be able to structure a scientific document presening the main components (Context, Problem, Research Question, Methodology and Results).
-
-
-
 ## People
 
 ::: {layout="[25,25, 25, 25]"}
@@ -70,7 +52,28 @@ library(countdown)
 
 
 
-## Rules of the game
+### Fabio A. Cruz Sanchez
+
+
+
+## Objectives of the Module
+
+1. 🧠 **Knowledge** : 
+   - Sensibilization on the **scientific research  process** and High Superior Education system
+
+1. 🔨 **Know-how** : 
+   - Search on pertinent scientific databases. 
+   - Sensibilization of a critical thinking of research.
+   - Identify a pertinent bibliography.
+
+1. ✍**Competences**  : 
+   - Be able to structure a scientific document presening the main components (Context, Problem, Research Question, Methodology and Results).
+
+
+
+
+
+## Rules of the game 
 
 :::{layout="[50, 50]"}
 :::{}
@@ -78,29 +81,139 @@ library(countdown)
 
 ![](figures/Arche.png)
 
-Note final = $Moyenne$
+Note finale = $Moyenne$
+:::
+
+:::{.small}
+
+2. Research Seminar (May 2026)
+
+  - Article of **State of the Art about your Internship** (7 pages -- Before Seminar) .
+
+     - **Title**
+     - **Abstract**
+     - **Résumé en Anglais / Français**
+     - **Context, Problem, Research Question, Methodology and Expected Results (7 pages)**
+     - **References**
+  
+  - Cross-peer revision  
+
+:::
+:::
+
+
+
+# Let’s Get It Started ... {background-color="aquamarine"}
+
+::: {.r-fit-text .white}
+**For you,<br> What is Scientific Research ? Is it important?**
+:::
+
+![](figures/world-cafe.png){width="10%" fig-align="center" }
+
+## Introduction to the Scientific Research {background-color="aquamarine"}
+
+
+
+:::{layout="[70,-2,55]" .small}
+:::{}
+**4 Questions**:
+
+  1. *What is Scientific Research for you?*
+  1. *Why do you consider Scientific Research is important? (or not?)*
+  1. *How Scientific Research is made?*
+  1. *In what extent, do you think Research is helpful for you? (or not?)*
+:::
+
+:::{}
+**Steps**:
+
+  1. 📝&nbsp; Individual reflection. **5min** ⏳
+  1. 💬&nbsp; Rotation and Shared discussion. **8min** ⏳
+  2. 📢&nbsp; Restitution to all. **3min** ⏱️ 
+  
+:::
+:::
+
+:::{layout="[23,-2,23,-2,23,-2,23]" .footnotesize}
+:::{}
+**Group 1**
+
+1. Fatomah ABDUL
+1. **Gaetan CELIER**$^*$
+1. Manon CHABERT
+1. Sarra CHETTAOUI
+1. Benjamin DADER
+1. Yousra DAHDAH
+:::
+
+:::{}
+**Group 2**
+
+1. **Matthias DERROUAZI**$^*$
+1. Apolline GENCY
+1. Maria-Paz JIMENEZ
+1. Wiam LEFIAD
+1. Emma LICHTLE
+1. Ana-Maria LLACER
+
 :::
 :::{}
+**Group 3**
 
-2. Article of **State of the Art about your Internship** (7 pages).
+1.  Franck Arthur MOMO
+1.  Malo MOREAU
+1.  Taoufik NEIFAR
+1.  Lidia PARYZ
+1.  Callista PUISSEGUR
+1.  **Flore QUEYREL**$^*$
+:::
+:::{}
+**Group 4**
 
-   - **Title**
-   - **Abstract**
-   - **Résumé en anglais**
-   - **Résumé en français**
-   - **Synthèse (7 pages)**
-   - **References**
-
+1. Malik  SADI
+1. **Laura SANTINI**$^*$
+1. Anastasiia SINITSYNA
+1. Romane TAMI
+1. Mickael YEDO
+1. Zahra MANSOURI
 :::
 :::
 
+
+
+```{r, include=TRUE}
+countdown(minutes = 5, seconds = 00, top = 0, font_size = "2em", padding = "5px",
+          margin = "5px",)
+```
+
+
+```{r, include=TRUE}
+countdown(minutes = 8, seconds = 00, bottom = 0, font_size = "2em", padding = "5px",
+          margin = "5px",)
+```
+
+<br>
+
+
+:::footer
+$^*$: Hôte de table, si vous êtes d'accord?
+:::
+
+## Restitution {background-color="aquamarine"}
+
+1. What is Scientific Research for you?
+1. *Why do you consider Scientific Research is important? (or not?)*
+1. *Do you know, How Scientific Research is made?*
+1. *In what extent, do you think Research is helpful for you? (or not?)*
 
 
 # Introduction to the Scientific Research
 ## What are the difference between <br> Engineering and Research (*in Innovation*) ? {.center}
 
-## Engineering vs Research (*in Innovation*)
 
+
+## Engineering vs Research (*in Innovation*)
 
 ::: {.r-stack}
 ![](figures/Research-01.jpg){.fragment width="1100" }

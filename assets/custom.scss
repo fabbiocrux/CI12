@@ -64,6 +64,35 @@ $presentation-heading-color: $morado;
 
 .reveal .r-fit-text {
   display: inline-block;
-  white-space: nowrap;
-  color: $orange;
+  white-space: nowrap;  
+}
+
+
+
+
+
+.Huge , .Huge .remark-code, .Huge .remark-inline-code {
+  font-size: 200%;
+}
+.huge , .huge .remark-code, .huge .remark-inline-code {
+  font-size: 180%;
+}
+.Large , .Large .remark-code, .Large .remark-inline-code {
+  font-size: 150%;
+}
+.large , .large .remark-code, .large .remark-inline-code {
+  font-size: 120%;
+}
+.small , .small .remark-code, .small .remark-inline-code {
+  font-size: 80%;
+}
+.footnotesize, 
+    .footnotesize .remark-code, .footnotesize .remark-inline-code {
+  font-size: 70%;
+}
+.scriptsize , .scriptsize .remark-code, .scriptsize .remark-inline-code {
+  font-size: 60%;
+}
+.tiny , .tiny .remark-code, .tiny .remark-inline-code {
+  font-size: 50%;
 }
