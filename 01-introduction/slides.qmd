@@ -53,6 +53,15 @@ library(countdown)
 ### Fabio A. Cruz Sanchez
 
 
+:::{layout="[30, 60]" layout-valign="center"}
+
+![](figures/fabio.png)
+
+![](figures/Green-fablab-2.jpg)
+
+:::
+
+
 
 ## Objectives of the Module
 
@@ -127,7 +136,7 @@ Note finale = $Moyenne$
 **Steps**:
 
   1. 📝&nbsp; Individual reflection. **5min** ⏳
-  1. 💬&nbsp; Rotation and Shared discussion. **8min** ⏳
+  1. 💬&nbsp; Rotation and Shared discussion. **5min** ⏳
   2. 📢&nbsp; Restitution to all. **3min** ⏱️ 
   
 :::
@@ -185,11 +194,6 @@ countdown(minutes = 5, seconds = 00, top = 0, font_size = "2em", padding = "5px"
           margin = "5px",)
 ```
 
-
-```{r, include=TRUE}
-countdown(minutes = 8, seconds = 00, bottom = 0, font_size = "2em", padding = "5px",
-          margin = "5px",)
-```
 
 <br>
 
