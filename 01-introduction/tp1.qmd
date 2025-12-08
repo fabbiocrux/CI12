@@ -94,7 +94,7 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 **🎯 Goal:**
 
 - Structurer a replicable search equation based on the structuration of the 'Venn Diagram' approach. 
-- Go to Scientific databases [Web of Science]() and [OpenAlex]() to select the pertinent
+- Go to Scientific databases [Web of Science](#access) and [OpenAlex](#openalex) to select the pertinent
 
 ```{r, include=TRUE}
 countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", padding = "5px",
@@ -144,7 +144,7 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 ::: {.callout-tip}
 ## Tutorials 
 
-1. [🔑 To Acces to WoS](#access)
+1. [🔑 To Access to WoS](#access)
 1. [🖥️ To the Interface](#wos)
 1. [📊 To the Results ](#wos-results)
 
@@ -415,7 +415,7 @@ But, take a look of the other type of searches
 1. [Patent Network visualization](#pat-vos)
 
 
-## OpenAlex {background-image="figures/openalex/OA-03.png" background-size="55%" background-position="80% 50%"}
+## OpenAlex {#openalex background-image="figures/openalex/OA-03.png" background-size="55%" background-position="80% 50%"}
 
 ![](figures/openalex/OpenAlex-banner.png){.nostretch width=500}
 

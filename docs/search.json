@@ -2351,5 +2351,17 @@
       "Act I: Bibliometric Analysis",
       "CM1: Introduction to Scientific Research"
     ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#openalex",
+    "href": "01-introduction/tp1.html#openalex",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "OpenAlex",
+    "text": "OpenAlex\n\nhttps://openalex.org/",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
   }
 ]
