@@ -920,15 +920,15 @@ Journal of Business Research 133, 285–296.
 
 ::: columns
 ::: {.column width="30%"}
-![Step 1: Define the research questions](figures/Step-2a.jpg){fig-align="center"}
+![Step 1: Define the research questions](figures/Step2a.png){fig-align="center"}
 :::
 
 ::: {.column width="30%"}
-![Step 2: Define research equation to use in WoS](figures/Step-2b.jpg){fig-align="center"}
+![Step 2: Define research equation to use in WoS](figures/Step2b.png){fig-align="center"}
 :::
 
 ::: {.column width="30%"}
-![Step 3: Visualize & Analize Scientific and Patent databases](figures/Step-2c.jpg){fig-align="center"}
+![Step 3: Visualize & Analize Scientific and Patent databases](figures/Step2c.png){fig-align="center"}
 :::
 
 :::

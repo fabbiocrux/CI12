@@ -6,7 +6,8 @@ institute: "Université de Lorraine | ENSGSI"
 author: 
   - "MdC. Fabio A. CRUZ SANCHEZ"
   - "Pr. Mauricio Camargo"
-date: 06-Dec-2024
+date: today
+date-format: long
 metadata-files:
   - _metadata.yml
 format:
@@ -44,15 +45,15 @@ library(countdown)
 
 ::: columns
 ::: {.column width="30%"}
-![Step 1: Research conceptualization](figures/Step-2a.jpg){fig-align="center"}
+![Step 1: Research conceptualization](figures/Step2a.png){fig-align="center"}
 :::
 
 ::: {.column width="30%"}
-![Step 2: Scientific screening](figures/Step-2b.jpg){fig-align="center"}
+![Step 2: Scientific screening](figures/Step2b.png){fig-align="center"}
 :::
 
 ::: {.column width="30%"}
-![Step 3: Scientific and Patent Landscapes](figures/Step-2c.jpg){fig-align="center"}
+![Step 3: Scientific and Patent Landscapes](figures/Step2c.png){fig-align="center"}
 :::
 :::
 
@@ -61,7 +62,7 @@ library(countdown)
 
 ::: columns
 ::: {.column width="50%"}
-![Research question](figures/Step-2a.jpg){fig-align="center" width="80%"}
+![Research question](figures/Step2a.png){fig-align="center" width="80%"}
 :::
 
 ::: {.column width="50%"}
@@ -85,7 +86,7 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 
 ::: columns
 ::: {.column width="50%"}
-![Search equestion](figures/Step-2b.jpg){fig-align="center"}
+![Search equestion](figures/Step2b.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -107,7 +108,7 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 
 ::: columns
 ::: {.column width="50%"}
-![ scientific and the Patent landscapes](figures/Step-2c.jpg){fig-align="center"}
+![ scientific and the Patent landscapes](figures/Step2c.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
