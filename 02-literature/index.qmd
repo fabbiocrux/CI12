@@ -3,10 +3,9 @@ title: "Act II: Literature review"
 subtitle: "On the shoulders of giants <br><img src='../assets/img/logos/ENSGSI.png' width='500'>"  
 email: "fabio.cruz@univ-lorraine.fr"
 institute: "Université de Lorraine"
-author: 
-  - "MdC. Fabio A. CRUZ SANCHEZ"
-  - "Pr. Mauricio Camargo"
-date: 06-12-2024
+author: "MdC. Fabio A. CRUZ SANCHEZ <br> Pr. Mauricio Camargo"
+date: today
+date-format: long
 format:
   revealjs:
     header: ' '
@@ -54,7 +53,6 @@ library(countdown)
 ```
 
 
-
 ## Learning objectives of today
 
 1. 🧠 **Knowledge** : 
@@ -70,13 +68,11 @@ library(countdown)
    - Be able to structure a literature review.
 
 
-
 # Where are we ?
 
 ## Mental model for the research 
 
 ![](figures/TD1/Research-conceptualization-00.jpg){width="100" fig-align="center"}
-
 
 ## As Example at ERPI
 
@@ -368,10 +364,6 @@ For detailed synthesis use **AIC**:
 :::
 
 
-```{r echo=FALSE}
-countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
-```
-
 ::: footer
 **Source**: Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., Lim, W.M., 2021. [How to conduct a bibliometric analysis: An overview and guidelines](https://doi.org/10.1016/j.jbusres.2021.04.070). 
 Journal of Business Research 133, 285–296. 
@@ -394,7 +386,7 @@ Journal of Business Research 133, 285–296.
 
 
 
-## Exemple 2 {background-image="figures/abstracts/ferney-00.png" background-size="60%" background-position="90% 0%" }
+## Exemple 2 {background-image="figures/abstracts/ferney-00.png" background-size="60%" background-position="90% 0%"}
 
 ::: {layout="[30]"}
 

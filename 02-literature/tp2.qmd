@@ -3,11 +3,9 @@ title: "TD2 : Literature review"
 subtitle: "Bibliometrix"  
 email: "cruzsanc1@univ-lorraine.fr"
 institute: "Université de Lorraine | ENSGSI"
-author: 
-  - "MdC. Fabio A. CRUZ SANCHEZ"
-  - "Pr. Mauricio Camargo"
-date: 06-12-2024
-
+author: "MdC. Fabio A. CRUZ SANCHEZ <br> Pr. Mauricio Camargo"
+date: today
+date-format: long
 format: 
   revealjs:
     footer: 'TD2: Literature Review'
