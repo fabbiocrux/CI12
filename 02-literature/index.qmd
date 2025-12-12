@@ -46,6 +46,8 @@ auto-agenda:
   heading: Agenda for today
 revealjs-plugins:
   - attribution    
+version: 
+  presenter: false
 ---
 
 ```{r, include=FALSE, eval=TRUE }
@@ -410,6 +412,7 @@ Journal of Business Research 133, 285–296.
 countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
 ```
 
+::: {.content-visible when-meta="version.presenter"}
 
 ## Exemple 2 {background-image="figures/abstracts/ferney-01.png" background-size="60%" background-position="90% 0%" }
 
@@ -429,7 +432,7 @@ countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
 <br>Creativity and Innovation Management 28, 82–100. 
 :::
 
-
+:::
 
 ## Exemple 3 {background-image="figures/abstracts/Sandra-00.png" background-size="60%" background-position="90% 0%" }
 
@@ -456,6 +459,7 @@ Environmental Impact Assessment Review 97, 106911.
 countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
 ```
 
+::: {.content-visible when-meta="version.presenter"}
 
 ## Exemple 3 {background-image="figures/abstracts/Sandra-01.png" background-size="60%" background-position="90% 0%" }
 
@@ -475,7 +479,7 @@ countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
 Environmental Impact Assessment Review 97, 106911. 
 :::
 
-
+:::
 
 ## Exemple 4 {background-image="figures/abstracts/Alex-00.png" background-size="60%" background-position="90% 0%" }
 
@@ -502,6 +506,7 @@ countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
 ```
 
 
+::: {.content-visible when-meta="version.presenter"}
 
 ## Exemple 4 {background-image="figures/abstracts/Alex-01.png" background-size="60%" background-position="90% 50%" }
 
@@ -521,6 +526,7 @@ countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
 <br>Thinking Skills and Creativity 21, 109–122.
 :::
 
+:::
 
 ## Mental model when reading an abstract 
 
