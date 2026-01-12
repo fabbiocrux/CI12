@@ -110,104 +110,7 @@ Note finale = $Moyenne$
 
 
 
-# Let’s Get It Started ... {background-color="aquamarine"}
 
-::: {.r-fit-text .white}
-**For you,<br> What is Scientific Research ? Is it important?**
-:::
-
-![](figures/world-cafe.png){width="10%" fig-align="center" }
-
-## Introduction to the Scientific Research {background-color="aquamarine"}
-
-
-
-:::{layout="[70,-2,55]" .small}
-:::{}
-**4 Questions**:
-
-  1. *What is Scientific Research for you?*
-  1. *Why do you consider Scientific Research is important? (or not?)*
-  1. *How Scientific Research is made?*
-  1. *In what extent, do you think Research is helpful for you? (or not?)*
-:::
-
-:::{}
-**Steps**:
-
-  1. 📝&nbsp; Individual reflection. **5min** ⏳
-  1. 💬&nbsp; Rotation and Shared discussion. **5min** ⏳
-  2. 📢&nbsp; Restitution to all. **3min** ⏱️ 
-  
-:::
-:::
-
-:::{layout="[23,-2,23,-2,23,-2,23]" .footnotesize}
-:::{}
-**Group 1**
-
-1. Fatomah ABDUL
-1. **Gaetan CELIER**$^*$
-1. Manon CHABERT
-1. Sarra CHETTAOUI
-1. Benjamin DADER
-1. Yousra DAHDAH
-:::
-
-:::{}
-**Group 2**
-
-1. **Matthias DERROUAZI**$^*$
-1. Apolline GENCY
-1. Maria-Paz JIMENEZ
-1. Wiam LEFIAD
-1. Emma LICHTLE
-1. Ana-Maria LLACER
-
-:::
-:::{}
-**Group 3**
-
-1.  Franck Arthur MOMO
-1.  Malo MOREAU
-1.  Taoufik NEIFAR
-1.  Lidia PARYZ
-1.  Callista PUISSEGUR
-1.  **Flore QUEYREL**$^*$
-:::
-:::{}
-**Group 4**
-
-1. Malik  SADI
-1. **Laura SANTINI**$^*$
-1. Anastasiia SINITSYNA
-1. Romane TAMI
-1. Mickael YEDO
-1. Zahra MANSOURI
-:::
-:::
-
-
-
-```{r, include=TRUE}
-countdown(minutes = 5, seconds = 00, top = 0, font_size = "2em", padding = "5px",
-          margin = "5px",)
-```
-
-
-<br>
-
-
-:::footer
-$^*$: Hôte de table, si vous êtes d'accord?
-:::
-
-## Restitution {background-color="aquamarine"}
-
-1. What is Scientific Research for you?
-1. *Why do you consider Scientific Research is important? (or not?)*
-1. *Do you know, How Scientific Research is made?*
-1. *In what extent, do you think Research is helpful for you? (or not?)*
 
 
 # Introduction to the Scientific Research
@@ -300,6 +203,137 @@ La règle découle de l'observation répétée de faits réels, contingents.
 ## Mental model for the course?
 
 ![Research conceptualization](figures/Module-CI12.jpg){width="30%" fig-align="center"}
+
+
+
+# Let’s Get It Started ... {background-color="aquamarine"}
+
+::: {.r-fit-text .white}
+**For you,<br> What is Scientific Research ? Is it important?**
+:::
+
+![](figures/world-cafe.png){width="10%" fig-align="center" }
+
+## Introduction to the Scientific Research {background-color="aquamarine" .scrollable}
+
+
+:::{layout="[70,-2,55]" .small}
+:::{}
+**4 Questions**:
+
+  1. La recherche en innovation doit-elle viser la vérité scientifique ou l’impact économique ?
+  1. Les grandes innovations sont-elles le fruit du génie individuel ou de systèmes collectifs ?
+  1. L’innovation technologique crée-t-elle plus de problèmes qu’elle n’en résout ?
+  1. La recherche en innovation doit-elle être éthiquement neutre ?
+  1. Dans quelle mesure pensez-vous que la recherche vous est utile ? (ou pas ?)
+:::
+
+:::{}
+**Steps**:
+
+  1. 📝&nbsp; Individual reflection. **5min** ⏳
+  1. 💬&nbsp; Rotation and Shared discussion. **5min** ⏳
+  2. 📢&nbsp; Restitution to all. **3min** ⏱️ 
+  
+:::
+:::
+
+
+:::{layout="[20,-1,21,-1,20,-1,21, -1, 20]" .scriptsize}
+:::{}
+**Group 1**
+
+1. **AFFLELOU Joss**$^*$
+1. **BOUICHICHI Samir**$^*$
+1. DESCHUYTENEER Cyril
+1. FUMOUX Mathilde
+1. GONTIER Celia
+1. MACIEL SILVA Fernanda
+1. PERRIN Ines
+1. RENOUX Amaury
+1. TOURKI Habib
+
+:::
+
+:::{}
+
+**Group 2**
+
+1. **MICHEL Marilou**$^*$
+1. **SCHEFTEL Theo**$^*$
+1. AGUADO Zoe
+1. CAPDEVILA Romane
+1. DINE Robin
+1. GAGNIE Lola
+1. GOYTINO Audrey
+1. RABAH Flania
+:::
+:::{}
+**Group 3**
+
+1. **ALHON Jeremy**$^*$
+1. **GAU Romane**$^*$
+1. CIOBANU Dorin
+1. FIDALGO Duarte
+1. HANNA Marie
+1. MINAFRA  Maria Clara
+1. RAZAFINDRAMANANA Benjamin
+1. SCHILLING Antonin
+:::
+
+:::{}
+
+**Groupe 4**
+
+1. **BEAUCAILLOU Maelle**$^*$
+1. **DAGUIER Arthus**$^*$
+1. FIOL Alexis
+1. GAURIER Emmanuel
+1. HENRY Lola
+1. NOEL Arthur
+1. REMY Matteo
+1. SOULIE Arnaud
+
+:::
+:::{}
+
+**Groupe 5**
+
+1. **BOTTIN Camille**$^*$
+1. **HOERNER Maxime**$^*$
+1. DE LA PENA Maria
+1. FRICKER Arthur
+1. GOBAILLE Jean
+1. PEE DIT GRABET Pierre
+1. RENAUDIN Rayan
+1. THOMAS Marceau
+1. VERNET Victor
+:::
+:::
+
+
+
+```{r, include=TRUE}
+countdown(minutes = 5, seconds = 00, top = 0, font_size = "2em", padding = "5px",
+          margin = "5px",)
+```
+
+
+<br>
+
+
+:::footer
+$^*$: Hôte de table, si vous êtes d'accord?
+:::
+
+## Restitution {background-color="aquamarine"}
+
+1. What is Scientific Research for you?
+1. *Why do you consider Scientific Research is important? (or not?)*
+1. *Do you know, How Scientific Research is made?*
+1. *In what extent, do you think Research is helpful for you? (or not?)*
+
+
 
 
 # Understanding the ecosystems of the scientific research
