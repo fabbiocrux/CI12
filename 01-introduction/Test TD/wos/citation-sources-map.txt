@@ -1,0 +1,39 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Documents>	weight<Citations>	weight<Norm. citations>	score<Avg. pub. year>	score<Avg. citations>	score<Avg. norm. citations>
+22	3d printing and additive manufacturing	-0.3549	0.0584	1	23	78	11	391	9.5918	2021.9091	35.5455	0.872
+29	acs applied materials & interfaces	-1.1642	-0.0422	2	12	23	14	333	12.6199	2023.2857	23.7857	0.9014
+30	acs applied polymer materials	-1.0969	-0.0506	2	15	29	11	173	7.6259	2023.7273	15.7273	0.6933
+36	acs sustainable chemistry & engineering	-0.606	-0.0289	2	16	43	9	396	7.9689	2021.3333	44	0.8854
+39	additive manufacturing	-0.2953	-0.2238	1	19	63	12	551	14.9409	2022.6667	45.9167	1.2451
+44	advanced engineering materials	-0.1754	-0.0891	1	12	22	6	122	3.7515	2021.6667	20.3333	0.6252
+45	advanced functional materials	-1.3197	-0.0695	2	7	22	7	664	18.3811	2022.1429	94.8571	2.6259
+47	advanced materials	-1.3715	-0.0682	2	3	5	9	305	16.2111	2023.5556	33.8889	1.8012
+67	applied sciences-basel	0.0943	0.0727	1	20	53	15	302	10.4149	2022.1333	20.1333	0.6943
+80	buildings	2.0302	0.0234	3	11	118	17	129	9.6243	2023.7647	7.5882	0.5661
+84	case studies in construction materials	1.6155	0.1245	3	9	44	8	138	13.6546	2024.125	17.25	1.7068
+86	cement & concrete composites	1.6339	-0.1708	3	14	185	13	773	34.793	2023.1538	59.4615	2.6764
+90	chemical engineering journal	-1.2047	-0.0745	2	9	24	13	257	20.0839	2023.4615	19.7692	1.5449
+114	composites part a-applied science and manufacturing	0.0464	-0.101	1	15	25	5	150	10.6279	2022.6	30	2.1256
+115	composites part b-engineering	-0.3948	0.153	1	9	17	8	811	35.2688	2022.375	101.375	4.4086
+120	construction and building materials	1.8268	-0.0486	3	16	339	47	1594	63.7731	2023.234	33.9149	1.3569
+147	european polymer journal	-1.1879	-0.0619	2	7	9	7	118	6.2534	2023.5714	16.8571	0.8933
+178	international journal of advanced manufacturing technology	0.0123	-0.2235	1	16	29	12	208	9.166	2023.6667	17.3333	0.7638
+199	journal of applied polymer science	-0.6164	0.1414	1	8	9	6	66	5.0703	2023.3333	11	0.845
+202	journal of building engineering	1.9228	-0.1033	3	15	305	46	930	54.3461	2023.8478	20.2174	1.1814
+204	journal of cleaner production	0.1074	0.0303	1	31	215	21	1596	33.8422	2021.1905	76	1.6115
+218	journal of material cycles and waste management	0.7641	0.1082	3	13	26	6	147	5.9069	2023.3333	24.5	0.9845
+221	journal of materials engineering and performance	-0.0438	0.2327	1	14	22	14	38	6.8043	2024.5	2.7143	0.486
+224	journal of materials research and technology-jmr&t	0.3052	0.0516	1	15	35	9	308	16.2199	2023.8889	34.2222	1.8022
+235	journal of polymers and the environment	-0.4671	0.0837	1	14	30	5	222	3.953	2021	44.4	0.7906
+245	journal of thermoplastic composite materials	0.0936	0.2309	1	8	10	6	79	2.0143	2023.1667	13.1667	0.3357
+252	macromolecular materials and engineering	-0.5887	0.0246	1	11	23	6	58	3.1953	2023.3333	9.6667	0.5326
+257	materials	0.4146	0.0299	1	27	179	30	685	24.6202	2022.7333	22.8333	0.8207
+268	materials today sustainability	-0.082	0.1076	1	21	59	8	280	17.1345	2023.625	35	2.1418
+284	national academy science letters-india	0.0665	0.2618	1	4	4	5	9	0.3486	2024	1.8	0.0697
+304	polymer composites	-0.2503	0.1153	1	12	27	9	129	3.5362	2023	14.3333	0.3929
+309	polymers	-0.2121	-0.0246	1	32	214	57	1249	50.9412	2022.8421	21.9123	0.8937
+335	progress in additive manufacturing	0.2178	-0.2023	1	8	16	6	17	7.4	2025	2.8333	1.2333
+340	rapid prototyping journal	0.0255	0.1779	1	16	35	14	173	6.5075	2022.2857	12.3571	0.4648
+346	resources conservation and recycling	-0.0347	-0.0599	1	17	38	5	304	12.5698	2022	60.8	2.514
+362	scientific reports	0.5128	-0.2366	1	7	9	7	199	3.4559	2022.1429	28.4286	0.4937
+376	sustainability	0.2392	-0.0465	1	24	71	17	289	9.9363	2022.9412	17	0.5845
+379	sustainable materials and technologies	-0.4624	-0.1022	1	18	33	5	13	2.1742	2024.6	2.6	0.4348

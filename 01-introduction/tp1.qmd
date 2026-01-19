@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer"
-subtitle: "TD 1: Vosviewer"  
+subtitle: "TD 1: Vosviewer / Web of Science / OpenAlex"  
 email: "fabio.cruz@univ-lorraine.fr"
 institute: "Université de Lorraine | ENSGSI"
 author: 
@@ -12,12 +12,19 @@ metadata-files:
   - _metadata.yml
 format:
   revealjs:
-    footer: 'TD1: Bliometric Analysis'
+    footer: 'TD1: Bibliometric Analysis'
     subtitle-as-header: true
     slide-level: 3
+    reference-location: document
     auto-stretch: false
+    menu:
+      side: right
+      width: wide
+      numbers: false  
 revealjs-plugins:
   - attribution    
+filters:
+- highlight-text
 ---
 
 
