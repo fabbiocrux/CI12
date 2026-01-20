@@ -14,7 +14,7 @@ format:
     #header: '[Presentation](#/TOC)'
     slide-level: 3
     reference-location: document
-    auto-stretch: true
+    auto-stretch: false
     menu:
       side: right
       width: wide
@@ -32,6 +32,7 @@ library(countdown)
 ```
 
 # Welcome to Introduction to Scientific Research (in Innovation)
+
 
 ## 🚨 Disclaimer {background-image="figures/GOT-00.jpg" background-size="40%" background-position="100% 50%"}
 
@@ -62,7 +63,7 @@ library(countdown)
 
 ## Mental model for the course?
 
-![Research conceptualization](figures/Module-CI12.jpg){width="30%" fig-align="center"}
+![Research conceptualization](figures/Module-CI12.jpg){width="75%" fig-align="center"}
 
 
 ## Rules of the game 
