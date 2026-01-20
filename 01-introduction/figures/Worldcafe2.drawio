@@ -1,0 +1,49 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
+  <diagram name="Page-1" id="HfdSANZ-02OmkrTTeGD5">
+    <mxGraphModel dx="794" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vg2zytjMWitvhTgqR9jU-2" value="&lt;span id=&quot;docs-internal-guid-412637d1-7fff-5f49-fecb-224797ad198b&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&amp;nbsp;&amp;nbsp;1. L’innovation technologique, crée-t-elle plus de problèmes qu’elle n’en résout ?&lt;/span&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="810" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vg2zytjMWitvhTgqR9jU-3" value="&lt;span id=&quot;docs-internal-guid-8763f6cf-7fff-18be-ee9a-446f38f94ebf&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&amp;nbsp;2. Les grandes innovations sont-elles le fruit du génie individuel ?&lt;/span&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="10" y="230" width="810" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vg2zytjMWitvhTgqR9jU-4" value="&lt;span id=&quot;docs-internal-guid-3001c1a5-7fff-96bd-4268-9fb114e5490e&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&amp;nbsp;&amp;nbsp;3. La recherche en innovation doit-elle viser la vérité scientifique ou croissance économique ?&lt;/span&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="9" y="450" width="810" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vg2zytjMWitvhTgqR9jU-5" value="&lt;span id=&quot;docs-internal-guid-c6aa6635-7fff-3359-4331-1438b793632a&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;4. La recherche en innovation est-elle éthiquement &lt;i&gt;Neutre, Autonome et Objective&lt;/i&gt; ?&lt;/span&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="10" y="670" width="810" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vg2zytjMWitvhTgqR9jU-6" value="&lt;span id=&quot;docs-internal-guid-c6aa6635-7fff-3359-4331-1438b793632a&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;4. La recherche en innovation est-elle éthiquement &lt;i&gt;Neutre, Autonome et Objective&lt;/i&gt; ?&lt;/span&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="10" y="890" width="810" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vg2zytjMWitvhTgqR9jU-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="220" as="sourcePoint" />
+            <mxPoint x="810" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vg2zytjMWitvhTgqR9jU-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="440" as="sourcePoint" />
+            <mxPoint x="800" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vg2zytjMWitvhTgqR9jU-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="660" as="sourcePoint" />
+            <mxPoint x="800" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vg2zytjMWitvhTgqR9jU-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="880" as="sourcePoint" />
+            <mxPoint x="800" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -16,13 +16,24 @@ format:
     subtitle-as-header: true
     slide-level: 3
     reference-location: document
-    auto-stretch: false
+    auto-stretch: true
     menu:
       side: right
       width: wide
       numbers: false  
+    # simplemenu:
+    #   menubarclass: "menubar"
+    #   menuclass: "menu"
+    #   activeclass: "active"
+    #   activeelement: "li"
+    #   barhtml:
+    #     header: ""
+    #     footer: ""
+    #   flat: false
+    #   scale: 0.67      
 revealjs-plugins:
-  - attribution    
+  - attribution 
+  # - simplemenu   
 filters:
 - highlight-text
 ---
@@ -48,7 +59,7 @@ library(countdown)
 
 
 
-## The Exercises
+## The Exercises 
 
 ::: columns
 ::: {.column width="30%"}
@@ -256,20 +267,20 @@ Van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program
 1. [Patent Network visualization](#pat-vos)
 
 
-##  Access to WoS database {#access .center}
+#  Access to WoS database {#access .center}
 
-### WoS database → Connect to the UL ENT
+## WoS database → Connect to the UL ENT
 
 Use your UL account to access to the databases
 
 ![<https://ent.univ-lorraine.fr/#BU> -\> BU Ingénieurs Brabois](figures/01.jpg)
 
-### WoS database → Access to the 'Ressources en Ligne'
+## WoS database → Access to the 'Ressources en Ligne'
 
 ![Resource online of the UL](figures/01-UL-databases/01.png)
 
 
-### WoS database → UL Web of Science
+## WoS database → UL Web of Science
 
 ![Look for the 'Web of Science' database](figures/01-UL-databases/02.png)
 
@@ -284,29 +295,35 @@ Use your UL account to access to the databases
 1. [Patent Network visualization](#pat-vos)
 
 
-## Web of Science Interface {#wos .center}
+# Web of Science Interface {#wos .center}
 
-### Simple research mode
+## Simple research mode
+
+Remember the:  **Subject + Verb + Problem**
 
 ![](figures/05.jpg)
 
-### Web of Science: Go for a Advance research
+## See your Search Equation
+
+![](figures/05-1.png)
+
+## [Optional] Web of Science: Go for a Advance research
 
 ![](figures/06.jpg)
 
-### Web of Science: Add you search query
+## [Optional] Web of Science: Add you search query 
 
 Remember the:  **Topic + Subject + Problem**
 
 ![](figures/07.jpg)
 
-### Web of Science: Advance search
+## [Optional] Web of Science: Advance search
 
 But, take a look of the other type of searches 
 
 ![](figures/08.jpg)
 
-### Web of Science: put the Search Equation
+## [Optional] Web of Science: put the Search Equation 
 
 ![](figures/09.jpg)
 
@@ -320,30 +337,38 @@ But, take a look of the other type of searches
 1. [Patent Network visualization](#pat-vos)
 
 
-## Results on WoS plateform {#wos-results}
+# Results on WoS plateform {#wos-results}
 
 ![](figures/10.jpg)
 
 
-### Analyze the Results
+## Analyze the Results
 
 ![](figures/14.jpg)
 
-### Analyze the Categories
+## Analyze the Categories
 
 ![](figures/15.jpg)
 
-### Analyze the Authors
+## Analyze the Authors
 
 ![](figures/16.jpg)
 
-### Analyze the Funding Agencies
+## Analyze the Funding Agencies
 
 ![](figures/17.jpg)
 
-### Analyze the Countries
+## Analyze the Countries
 
 ![](figures/18.jpg)
+
+## Citation Report
+
+![](figures/20.png)
+
+## Citation Report Export
+
+![](figures/21.png)
 
 ## Tutorials
 
@@ -356,7 +381,7 @@ But, take a look of the other type of searches
 
 
 
-## Web of Science: Export results {#wos-export}
+# Web of Science: Export results {#wos-export}
 
 ::: {layout="[20,80]" layout-valign="center"}
 :::{}
@@ -372,7 +397,7 @@ But, take a look of the other type of searches
 
 
 
-### WoS: Export results
+## WoS: Export results
 
 ::: {layout="[20,80]" layout-valign="center"}
 :::{}
@@ -384,7 +409,7 @@ But, take a look of the other type of searches
 :::
 :::
 
-### WoS: Export results
+## WoS: Export results
 
 ::: {layout="[20,80]" layout-valign="center"}
 :::{}
@@ -395,7 +420,7 @@ But, take a look of the other type of searches
 
 :::
 
-### WoS: Export results
+## WoS: Export results
 
 ::: {layout="[20,80]" layout-valign="center"}
 :::{}
@@ -422,14 +447,14 @@ But, take a look of the other type of searches
 1. [Patent Network visualization](#pat-vos)
 
 
-## OpenAlex {#openalex background-image="figures/openalex/OA-03.png" background-size="55%" background-position="80% 50%"}
+# OpenAlex {#openalex background-image="figures/openalex/OA-03.png" background-size="55%" background-position="80% 50%"}
 
 ![](figures/openalex/OpenAlex-banner.png){.nostretch width=500}
 
 [https://openalex.org/](https://openalex.org/)
 
 
-### Entities in OpenAlex
+## Entities in OpenAlex
 
 :::{layout="[50, 50]" layout-valign="top"}
 :::{}
@@ -448,15 +473,15 @@ OpenAlex will identify these metadata:
 
 The idea is to obtain the **metadata of the scientific** documentation. 
 
-### Metadata on OpenAlex
+## Metadata on OpenAlex
 
 ![Source. OpenAlex documentation](figures/openalex/Metadata-00.png){fig-align="center" width="80%"}
 
-### Metadata on OpenAlex
+## Metadata on OpenAlex
 ![Source. OpenAlex documentation](figures/openalex/Metadata-01.png){fig-align="center" width="80%"}
 
 
-### Search on OpenAlex
+## Search on OpenAlex
 
 Structure of the search equation:
 
@@ -467,7 +492,7 @@ Structure of the search equation:
 
 
 
-### Interface on OpenAlex
+## Interface on OpenAlex
 
 :::{layout="[40, 60]" layout-valign="top"}
 :::{}
@@ -488,7 +513,7 @@ Structure of the search equation:
 :::
 
 
-### Filters on OpenAlex
+## Filters on OpenAlex
 
 :::{layout="[40, 60]" layout-valign="top"}
 :::{}
@@ -504,7 +529,7 @@ Currently 47 filters are available in the UI.
 :::
 :::
 
-### Works on OpenAlex
+## Works on OpenAlex
 
 :::{layout="[50, 50]" layout-valign="top"}
 :::{}
@@ -521,14 +546,13 @@ Each work can be identified
 
 
 
-### Connecting of OpenAlex
+## Connecting of OpenAlex with VosViewer (Option 1)
 
 :::{layout="[50,50]"}
 :::{}
 
 - Using the API
 - **Less than 50000!!**
-
 :::
 
 :::{}
@@ -537,15 +561,18 @@ Source. OpenAlex YT Channel
 :::
 :::
 
+## Connecting of OpenAlex with VosViewer (via download)
 
-## Vosviewer {#sci-vos background-image="figures/vos/10.jpg" background-size="65%" background-position="100% 50%"}
+{{< video https://www.youtube.com/embed/k5xtJhVsGxM?si=8KFk0Hs46IlkmbB5 width="1200" height="500" >}}
+
+# Vosviewer {#sci-vos background-image="figures/vos/10.jpg" background-size="65%" background-position="100% 50%"}
 
 Scientific Network visualization
 
 ⬇️ [https://www.vosviewer.com/](https://www.vosviewer.com/)
 
 
-### Small introduction to VosViewer
+## Small introduction to VosViewer
 
 :::{layout="[50,50]"}
 

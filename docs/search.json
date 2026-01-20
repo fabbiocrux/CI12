@@ -2781,5 +2781,377 @@
     "title": "What is Scientific Research  for Innovation Management?",
     "section": "Funding Agencies (EU, National, Regional, Local)",
     "text": "Funding Agencies (EU, National, Regional, Local)\nResearch funding bodies play a crucial role in shaping the landscape of scientific research.\n\n\n\nKey Roles and Functions\n\nPrioritization and Quality Assessment\nPromoting Research Integrity\nFacilitating Interdisciplinary Research\nInfluence on Collaboration Networks\n\n\n\nBarriers\n\nPartnership Challenges\nAssessment Practices\nConservative Policies"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#wos-database-connect-to-the-ul-ent",
+    "href": "01-introduction/tp1.html#wos-database-connect-to-the-ul-ent",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "WoS database → Connect to the UL ENT",
+    "text": "WoS database → Connect to the UL ENT\nUse your UL account to access to the databases\n\nhttps://ent.univ-lorraine.fr/#BU -&gt; BU Ingénieurs Brabois",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#wos-database-access-to-the-ressources-en-ligne",
+    "href": "01-introduction/tp1.html#wos-database-access-to-the-ressources-en-ligne",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "WoS database → Access to the ‘Ressources en Ligne’",
+    "text": "WoS database → Access to the ‘Ressources en Ligne’\n\nResource online of the UL",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#wos-database-ul-web-of-science",
+    "href": "01-introduction/tp1.html#wos-database-ul-web-of-science",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "WoS database → UL Web of Science",
+    "text": "WoS database → UL Web of Science\n\nLook for the ‘Web of Science’ database",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#simple-research-mode",
+    "href": "01-introduction/tp1.html#simple-research-mode",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Simple research mode",
+    "text": "Simple research mode\nRemember the: Subject + Verb + Problem",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#see-your-search-equation",
+    "href": "01-introduction/tp1.html#see-your-search-equation",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "See your Search Equation",
+    "text": "See your Search Equation",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#optional-web-of-science-go-for-a-advance-research",
+    "href": "01-introduction/tp1.html#optional-web-of-science-go-for-a-advance-research",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "[Optional] Web of Science: Go for a Advance research",
+    "text": "[Optional] Web of Science: Go for a Advance research",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#optional-web-of-science-add-you-search-query",
+    "href": "01-introduction/tp1.html#optional-web-of-science-add-you-search-query",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "[Optional] Web of Science: Add you search query",
+    "text": "[Optional] Web of Science: Add you search query\nRemember the: Topic + Subject + Problem",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#optional-web-of-science-advance-search",
+    "href": "01-introduction/tp1.html#optional-web-of-science-advance-search",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "[Optional] Web of Science: Advance search",
+    "text": "[Optional] Web of Science: Advance search\nBut, take a look of the other type of searches",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#optional-web-of-science-put-the-search-equation",
+    "href": "01-introduction/tp1.html#optional-web-of-science-put-the-search-equation",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "[Optional] Web of Science: put the Search Equation",
+    "text": "[Optional] Web of Science: put the Search Equation",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#analyze-the-results",
+    "href": "01-introduction/tp1.html#analyze-the-results",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Analyze the Results",
+    "text": "Analyze the Results",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#analyze-the-categories",
+    "href": "01-introduction/tp1.html#analyze-the-categories",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Analyze the Categories",
+    "text": "Analyze the Categories",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#analyze-the-authors",
+    "href": "01-introduction/tp1.html#analyze-the-authors",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Analyze the Authors",
+    "text": "Analyze the Authors",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#analyze-the-funding-agencies",
+    "href": "01-introduction/tp1.html#analyze-the-funding-agencies",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Analyze the Funding Agencies",
+    "text": "Analyze the Funding Agencies",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#analyze-the-countries",
+    "href": "01-introduction/tp1.html#analyze-the-countries",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Analyze the Countries",
+    "text": "Analyze the Countries",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#citation-report",
+    "href": "01-introduction/tp1.html#citation-report",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Citation Report",
+    "text": "Citation Report",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#citation-report-export",
+    "href": "01-introduction/tp1.html#citation-report-export",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Citation Report Export",
+    "text": "Citation Report Export",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#wos-export-results",
+    "href": "01-introduction/tp1.html#wos-export-results",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "WoS: Export results",
+    "text": "WoS: Export results\n\n\n\nSelect Custom Selection",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#wos-export-results-1",
+    "href": "01-introduction/tp1.html#wos-export-results-1",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "WoS: Export results",
+    "text": "WoS: Export results\n\n\n\nSelect All Items",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#wos-export-results-2",
+    "href": "01-introduction/tp1.html#wos-export-results-2",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "WoS: Export results",
+    "text": "WoS: Export results\n\n\n\nExport & Download",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#entities-in-openalex",
+    "href": "01-introduction/tp1.html#entities-in-openalex",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Entities in OpenAlex",
+    "text": "Entities in OpenAlex\n\n\n\nOpenAlex will identify these metadata:\n\nWorks → Articles, Conferences, Books.\nAuthors → Names, Institutions\nInstitutions → Name, location..\nFunding → APC\n\n\n\n\n\n\n\nThe idea is to obtain the metadata of the scientific documentation.",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#metadata-on-openalex",
+    "href": "01-introduction/tp1.html#metadata-on-openalex",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Metadata on OpenAlex",
+    "text": "Metadata on OpenAlex\n\nSource. OpenAlex documentation",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#metadata-on-openalex-1",
+    "href": "01-introduction/tp1.html#metadata-on-openalex-1",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Metadata on OpenAlex",
+    "text": "Metadata on OpenAlex\n\nSource. OpenAlex documentation",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#search-on-openalex",
+    "href": "01-introduction/tp1.html#search-on-openalex",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Search on OpenAlex",
+    "text": "Search on OpenAlex\nStructure of the search equation:\n(key1 OR key2) AND (key3 OR key4) AND (key5 OR key6)",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#interface-on-openalex",
+    "href": "01-introduction/tp1.html#interface-on-openalex",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Interface on OpenAlex",
+    "text": "Interface on OpenAlex\n\n\n\nType of search:\n\nWorks\nAuthors\nSources\nInstitutions",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#filters-on-openalex",
+    "href": "01-introduction/tp1.html#filters-on-openalex",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Filters on OpenAlex",
+    "text": "Filters on OpenAlex\n\n\n\n\nFilters are the basis of query-building and allow searching of entities, attributes, and text.\n\nCurrently 47 filters are available in the UI.",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#works-on-openalex",
+    "href": "01-introduction/tp1.html#works-on-openalex",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Works on OpenAlex",
+    "text": "Works on OpenAlex\n\n\n\nEach work can be identified",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#connecting-of-openalex",
+    "href": "01-introduction/tp1.html#connecting-of-openalex",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Connecting of OpenAlex",
+    "text": "Connecting of OpenAlex\n\n\n\n\nUsing the API\nLess than 50000!!\n\n\n\n Source. OpenAlex YT Channel",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#small-introduction-to-vosviewer",
+    "href": "01-introduction/tp1.html#small-introduction-to-vosviewer",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Small introduction to VosViewer",
+    "text": "Small introduction to VosViewer\n\n\n\n\nFocus on visualization of scientometric networks\nSupport for large number of data sources\nText mining functionality\nAdvanced visualization features\nRelatively easy to use\nLimited analysis options\nDeveloped at CWTS",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#connecting-of-openalex-with-vosviewer-option-1",
+    "href": "01-introduction/tp1.html#connecting-of-openalex-with-vosviewer-option-1",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Connecting of OpenAlex with VosViewer (Option 1)",
+    "text": "Connecting of OpenAlex with VosViewer (Option 1)\n\n\n\n\nUsing the API\nLess than 50000!!\n\n\n\n Source. OpenAlex YT Channel",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#connecting-of-openalex-with-vosviewer",
+    "href": "01-introduction/tp1.html#connecting-of-openalex-with-vosviewer",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Connecting of OpenAlex with VosViewer",
+    "text": "Connecting of OpenAlex with VosViewer",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#connecting-of-openalex-with-vosviewer-via-download",
+    "href": "01-introduction/tp1.html#connecting-of-openalex-with-vosviewer-via-download",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Connecting of OpenAlex with VosViewer (via download)",
+    "text": "Connecting of OpenAlex with VosViewer (via download)",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
   }
 ]
