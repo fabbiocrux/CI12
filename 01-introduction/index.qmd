@@ -31,7 +31,7 @@ URL = c('https://raw.githubusercontent.com/fabbiocrux/Figures/main/')
 library(countdown)
 ```
 
-# Welcome to Introduction to Scientific Research in Innovation
+# Welcome to Introduction to Scientific Research (in Innovation)
 
 ## 🚨 Disclaimer {background-image="figures/GOT-00.jpg" background-size="40%" background-position="100% 50%"}
 
