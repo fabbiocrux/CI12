@@ -536,7 +536,7 @@ Review of Economic and Business Studies 8.
 ## Peer Reviewing process {background-image="figures/Peer-Review-Process.jpeg" background-size="55%" background-position="90% 50%"}
 
 
-![Google Scholar Vs Google Traditional](figures/googles-02.png){heigth=150px fig-align="left"}
+![Google Scholar Vs Google Traditional](figures/googles-02.png){width=40% fig-align="left"}
 
 
 
