@@ -546,7 +546,7 @@ Each work can be identified
 
 
 
-## Connecting of OpenAlex with VosViewer (Option 1)
+## [Option 1] Connecting of OpenAlex with VosViewer (via API)
 
 :::{layout="[50,50]"}
 :::{}
@@ -561,7 +561,7 @@ Source. OpenAlex YT Channel
 :::
 :::
 
-## Connecting of OpenAlex with VosViewer (via download)
+## [Option 1] Connecting of OpenAlex with VosViewer (via download)
 
 {{< video https://www.youtube.com/embed/k5xtJhVsGxM?si=8KFk0Hs46IlkmbB5 width="1200" height="500" >}}
 
