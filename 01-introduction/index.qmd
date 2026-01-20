@@ -239,7 +239,7 @@ La règle découle de l'observation répétée de faits réels, contingents.
 ## Introduction à la Recherche Scientifique en Innovation{background-color="aquamarine" .scrollable}
 
 
-:::{layout="[70,-2,55]" .scriptsize}
+:::{layout="[70,-2,55]" .tiny}
 :::{}
 **5 Questions**:
 
@@ -262,7 +262,7 @@ La règle découle de l'observation répétée de faits réels, contingents.
 :::
 
 
-:::{layout="[20,-1,21,-1,20,-1,21, -1, 20]" .scriptsize}
+:::{layout="[20,-1,21,-1,20,-1,22, -1, 20]" .scriptsize}
 :::{}
 **Group 1**
 
