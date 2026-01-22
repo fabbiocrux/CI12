@@ -71,6 +71,67 @@ Van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program
 {{< video https://www.youtube.com/embed/9dTWkNRxUtw width="1200" height="500"  >}}
 :::
 
+
+
+# Citation Analysis
+
+## Create
+
+![](figures/vos/citation/01.png)
+
+## Create: `A Map from Bibliographic database file`
+
+![](figures/vos/citation/02.png)
+
+## Read: `from Bibliographic database file`
+
+![](figures/vos/citation/03.png)
+
+## Select data
+
+![](figures/vos/citation/04.png)
+
+## Select: `Citation > Unit Analysis`
+
+![](figures/vos/citation/05.png)
+
+## Choose Threshold
+
+![](figures/vos/citation/06.png)
+
+## Number of Documents
+
+![](figures/vos/citation/07.png)
+
+## Identify the Documents in function of `Citations`
+
+![](figures/vos/citation/08.png)
+
+## Identify the Documents in function of `Links`
+
+![](figures/vos/citation/09.png)
+
+## Unconnected elements
+
+![](figures/vos/citation/010.png)
+
+## loading ...
+
+![](figures/vos/citation/011.png)
+
+## Voilà ...
+
+![](figures/vos/citation/012.png)
+
+## Select one article ...
+
+![](figures/vos/citation/013.png)
+
+## See the complete document
+
+![](figures/vos/citation/014.png)
+
+
 # Co-Authorship Analysis
 
 ## Add data: from `Bibliographic database file`
