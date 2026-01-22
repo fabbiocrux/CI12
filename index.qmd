@@ -23,7 +23,7 @@ Moreover, an overview of the
 This course includes a course in presences and a writing workshop of a first scientific paper. 
 
 
-# Day 1: Introduction
+# Act I: Bibliometric Analysis
 
 ## Presentation of the day
 
@@ -68,7 +68,7 @@ This course includes a course in presences and a writing workshop of a first sci
 ```
 
 
-# Day 2: Literature  Review 
+# Act II: Literature review
 
 
 ## What is a Literature Review 

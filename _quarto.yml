@@ -19,16 +19,16 @@ website:
       - section: "Act I: Bibliometric Analysis"
         contents:
           - text: "CM1: Introduction to Scientific Research"
-            href: 01-introduction/slides.qmd
+            href: 01-introduction/index.qmd
           - text: "TD1: VOSviewer -- Visualization of Research Landscape"
-            href: 01-introduction/tp1.qmd
+            href: 01-introduction/td1.qmd
       - text: "---" 
       - section: "Act II: Literature review"
         contents:
           - text: "On the shoulders of giants"
             href: 02-literature/index.qmd
           - text: "TD2: Bibliometrix -- Networks of Research Landscape"
-            href: 02-literature/tp2.qmd
+            href: 02-literature/td2.qmd
   
 
 format:
