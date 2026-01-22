@@ -15,7 +15,7 @@
 
   <meta name="author" content="MCF. Fabio A. CRUZ SANCHEZ">
   <meta name="dcterms.date" content="2026-01-22">
-  <title>CI12 – Tutorials Web of Science</title>
+  <title>CI12 – Tutorial Bibliometrix</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -134,8 +134,7 @@
     <div class="slides">
 
 <section id="title-slide" data-background-opacity="0.5" data-background-size="contain" class="quarto-title-block center">
-  <h1 class="title">Tutorials Web of Science</h1>
-  <p class="subtitle">TD 1: <strong>Web of Science</strong> / OpenAlex / Vosviewer /</p>
+  <h1 class="title">Tutorial Bibliometrix</h1>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -151,233 +150,333 @@ MCF. Fabio A. CRUZ SANCHEZ
   <p class="date">January 22, 2026</p>
 </section>
 <section>
-<section id="access.center" class="title-slide slide level1 agenda-slide center">
-<h1>Access to WoS database</h1>
+<section id="requirements" class="title-slide slide level1 agenda-slide center">
+<h1>Requirements</h1>
 <div class="agenda-heading">
-<p>Tutorial Web Of Science</p>
+<p>Tutorial Bibliometrix</p>
 </div>
 <div class="agenda">
 <ol>
 <li><div class="agenda-active">
-<p>Access to WoS database</p>
+<p>Requirements</p>
 </div></li>
 <li><div class="agenda-inactive agenda-post-active">
-<p>Web of Science Interface</p>
+<p>Bibliometrix load data</p>
 </div></li>
 <li><div class="agenda-inactive agenda-post-active">
-<p>Results on WoS platform</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Web of Science: Export results</p>
+<p>Bibliometrix Analysis</p>
 </div></li>
 </ol>
 </div>
 </section>
-<section id="wos-database-connect-to-the-ul-ent" class="title-slide slide level2 center">
-<h2>WoS database → Connect to the UL ENT</h2>
-<p>Use your UL account to access to the databases</p>
+<section id="install-r" class="title-slide slide level2 center">
+<h2>Install R</h2>
+<div class="quarto-layout-panel" data-layout="[30,70]">
+<div class="quarto-layout-row quarto-layout-valign-center">
+<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: flex-start;">
+<p>Install R Software</p>
+<ol type="1">
+<li>Download R Project: <a href="https://pbil.univ-lyon1.fr/CRAN/">https://pbil.univ-lyon1.fr/CRAN/</a></li>
+</ol>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: center;">
+<p><img data-src="figures/R.png"></p>
+</div>
+</div>
+<div class="quarto-layout-row quarto-layout-valign-center">
+<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: flex-start;">
+<p><strong><a href="https://www.r-project.org/">https://www.r-project.org/</a></strong></p>
+</div>
+</div>
+</div>
+</section>
 
-<img data-src="figures/01.jpg" class="r-stretch quarto-figure-center"><p class="caption"><a href="https://ent.univ-lorraine.fr/#BU" class="uri">https://ent.univ-lorraine.fr/#BU</a> -&gt; BU Ingénieurs Brabois</p></section>
+<section id="install-positron" class="title-slide slide level2 center">
+<h2>Install Positron</h2>
+<div class="quarto-layout-panel" data-layout="[30,70]">
+<div class="quarto-layout-row quarto-layout-valign-center">
+<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: flex-start;">
+<p>Install Positron</p>
+<p><strong><a href="https://positron.posit.co/">https://positron.posit.co/</a></strong></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: center;">
+<p><img data-src="figures/positron.png"></p>
+</div>
+</div>
+</div>
+</section>
 
-<section id="wos-database-access-to-the-ressources-en-ligne" class="title-slide slide level2 center">
-<h2>WoS database → Access to the ‘Ressources en Ligne’</h2>
+<section id="install-package-bibliometrix" class="title-slide slide level2 center">
+<h2>Install Package <code>Bibliometrix</code></h2>
+<div class="quarto-layout-panel" data-layout="[30,70]">
+<div class="quarto-layout-row quarto-layout-valign-center">
+<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: flex-start;">
+<ol type="1">
+<li><code>New File &gt; R file</code></li>
+<li><code>install.packages("bibliometrix") &gt; Crtl/Cmd + Enter ⏎</code></li>
+</ol>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/bibliometrix-000.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
 
-<img data-src="figures/01-UL-databases/01.png" class="r-stretch quarto-figure-center"><p class="caption">Resource online of the UL</p></section>
+<section id="load-package-bibliometrix" class="title-slide slide level2 center">
+<h2>Load Package <code>Bibliometrix</code></h2>
+<div class="quarto-layout-panel" data-layout="[30,70]">
+<div class="quarto-layout-row quarto-layout-valign-center">
+<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: flex-start;">
+<ol type="1">
+<li><code>library(bibliometrix) &gt; Crtl/Cmd + Enter ⏎</code></li>
+</ol>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/bibliometrix-001.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
 
-<section id="wos-database-ul-web-of-science" class="title-slide slide level2 center">
-<h2>WoS database → UL Web of Science</h2>
-
-<img data-src="figures/01-UL-databases/02.png" class="r-stretch quarto-figure-center"><p class="caption">Look for the ‘Web of Science’ database</p></section>
+<section id="run-biblioshiny" class="title-slide slide level2 center">
+<h2>Run <code>Biblioshiny</code></h2>
+<div class="quarto-layout-panel" data-layout="[30,70]">
+<div class="quarto-layout-row quarto-layout-valign-center">
+<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: flex-start;">
+<ol type="1">
+<li><code>bibliosiny() &gt; Crtl/Cmd + Enter ⏎</code></li>
+</ol>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/bibliometrix-002.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
 </section>
 <section>
-<section id="web-of-science-interface" class="title-slide slide level1 agenda-slide center">
-<h1>Web of Science Interface</h1>
+<section id="bibliometrix-load-data" class="title-slide slide level1 agenda-slide center">
+<h1>Bibliometrix load data</h1>
 <div class="agenda-heading">
-<p>Tutorial Web Of Science</p>
+<p>Tutorial Bibliometrix</p>
 </div>
 <div class="agenda">
 <ol>
 <li><div class="agenda-inactive agenda-pre-active">
-<p>Access to WoS database</p>
+<p>Requirements</p>
 </div></li>
 <li><div class="agenda-active">
-<p>Web of Science Interface</p>
+<p>Bibliometrix load data</p>
 </div></li>
 <li><div class="agenda-inactive agenda-post-active">
-<p>Results on WoS platform</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Web of Science: Export results</p>
+<p>Bibliometrix Analysis</p>
 </div></li>
 </ol>
 </div>
 </section>
-<section id="simple-research-mode" class="title-slide slide level2 center">
-<h2>Simple research mode</h2>
-<p>Remember the: <strong>Subject + Verb + Problem</strong></p>
+<section id="interface" class="title-slide slide level2 center">
+<h2>Interface</h2>
 
-<img data-src="figures/05.jpg" class="r-stretch"></section>
+<img data-src="figures/bibliometrix-02.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
 
-<section id="see-your-search-equation" class="title-slide slide level2 center">
-<h2>See your Search Equation</h2>
+<section id="load-data" class="title-slide slide level2 center">
+<h2><code>Load Data</code></h2>
 
-<img data-src="figures/05-1.png" class="r-stretch"></section>
+<img data-src="figures/bibliometrix-03.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="import" class="slide level3">
+<h3>Import</h3>
 
-<section id="optional-web-of-science-go-for-a-advance-research" class="title-slide slide level2 center">
-<h2>[Optional] Web of Science: Go for a Advance research</h2>
+<img data-src="figures/bibliometrix-04.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="import-web-of-science" class="slide level3">
+<h3>Import <code>Web of Science</code></h3>
 
-<img data-src="figures/06.jpg" class="r-stretch"></section>
+<img data-src="figures/bibliometrix-05.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="import-bibtex-.bib" class="slide level3">
+<h3>Import <code>bibtex (.bib)</code></h3>
 
-<section id="optional-web-of-science-add-you-search-query" class="title-slide slide level2 center">
-<h2>[Optional] Web of Science: Add you search query</h2>
-<p>Remember the: <strong>Topic + Subject + Problem</strong></p>
+<img data-src="figures/bibliometrix-06.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="start" class="slide level3">
+<h3>Start!</h3>
 
-<img data-src="figures/07.jpg" class="r-stretch"></section>
+<img data-src="figures/bibliometrix-07.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
 
-<section id="optional-web-of-science-advance-search" class="title-slide slide level2 center">
-<h2>[Optional] Web of Science: Advance search</h2>
-<p>But, take a look of the other type of searches</p>
+<section id="loading" class="title-slide slide level2 center">
+<h2>Loading:</h2>
 
-<img data-src="figures/08.jpg" class="r-stretch"></section>
+<img data-src="figures/bibliometrix-08.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
 
-<section id="optional-web-of-science-put-the-search-equation" class="title-slide slide level2 center">
-<h2>[Optional] Web of Science: put the Search Equation</h2>
+<section id="validate-the-data" class="title-slide slide level2 center">
+<h2>Validate the data</h2>
 
-<img data-src="figures/09.jpg" class="r-stretch"></section>
+<img data-src="figures/bibliometrix-09.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
 </section>
 <section>
-<section id="wos-results" class="title-slide slide level1 agenda-slide center">
-<h1>Results on WoS platform</h1>
+<section id="bibliometrix-analysis" class="title-slide slide level1 agenda-slide center">
+<h1>Bibliometrix Analysis</h1>
 <div class="agenda-heading">
-<p>Tutorial Web Of Science</p>
+<p>Tutorial Bibliometrix</p>
 </div>
 <div class="agenda">
 <ol>
 <li><div class="agenda-inactive agenda-pre-active">
-<p>Access to WoS database</p>
+<p>Requirements</p>
 </div></li>
 <li><div class="agenda-inactive agenda-pre-active">
-<p>Web of Science Interface</p>
+<p>Bibliometrix load data</p>
 </div></li>
 <li><div class="agenda-active">
-<p>Results on WoS platform</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Web of Science: Export results</p>
+<p>Bibliometrix Analysis</p>
 </div></li>
 </ol>
 </div>
-
-<img data-src="figures/10.jpg" class="r-stretch"></section>
-<section id="analyze-the-results" class="title-slide slide level2 center">
-<h2>Analyze the Results</h2>
-
-<img data-src="figures/14.jpg" class="r-stretch"></section>
-
-<section id="analyze-the-categories" class="title-slide slide level2 center">
-<h2>Analyze the Categories</h2>
-
-<img data-src="figures/15.jpg" class="r-stretch"></section>
-
-<section id="analyze-the-authors" class="title-slide slide level2 center">
-<h2>Analyze the Authors</h2>
-
-<img data-src="figures/16.jpg" class="r-stretch"></section>
-
-<section id="analyze-the-funding-agencies" class="title-slide slide level2 center">
-<h2>Analyze the Funding Agencies</h2>
-
-<img data-src="figures/17.jpg" class="r-stretch"></section>
-
-<section id="analyze-the-countries" class="title-slide slide level2 center">
-<h2>Analyze the Countries</h2>
-
-<img data-src="figures/18.jpg" class="r-stretch"></section>
-
-<section id="citation-report" class="title-slide slide level2 center">
-<h2>Citation Report</h2>
-
-<img data-src="figures/20.png" class="r-stretch"></section>
-
-<section id="citation-report-export" class="title-slide slide level2 center">
-<h2>Citation Report Export</h2>
-
-<img data-src="figures/21.png" class="r-stretch"></section>
 </section>
-<section>
-<section id="wos-export" class="title-slide slide level1 agenda-slide center">
-<h1>Web of Science: Export results</h1>
-<div class="agenda-heading">
-<p>Tutorial Web Of Science</p>
-</div>
-<div class="agenda">
-<ol>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Access to WoS database</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Web of Science Interface</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Results on WoS platform</p>
-</div></li>
-<li><div class="agenda-active">
-<p>Web of Science: Export results</p>
-</div></li>
-</ol>
-</div>
-<div class="quarto-layout-panel" data-layout="[20,80]">
+<section id="filters" class="title-slide slide level2 center">
+<h2>filters</h2>
+
+<img data-src="figures/bibliometrix-10.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+
+<section id="main-information" class="title-slide slide level2 center">
+<h2>Main Information</h2>
+
+<img data-src="figures/bibliometrix-11.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+
+<section id="average-citation-per-year" class="title-slide slide level2 center">
+<h2>Average citation per year</h2>
+
+<img data-src="figures/bibliometrix-12.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+
+<section id="annual-scientific-production" class="title-slide slide level2 center">
+<h2>Annual Scientific Production</h2>
+
+<img data-src="figures/bibliometrix-13.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+
+<section id="three-field-plot" class="title-slide slide level2 center">
+<h2>Three-Field Plot</h2>
+
+<img data-src="figures/bibliometrix-14.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+
+<section id="three-field-plot-1" class="title-slide slide level2 center">
+<h2>Three-Field Plot</h2>
+<div class="quarto-layout-panel" data-layout="[30,70]">
 <div class="quarto-layout-row quarto-layout-valign-center">
-<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: flex-start;">
-<p><code>Export &gt; Select Tab Deliminted File</code></p>
+<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: flex-start;">
+<div class="callout callout-tip callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-<div class="r-stack quarto-layout-cell" style="flex-basis: 80.0%;justify-content: center;">
-<p><img data-src="figures/wos/export-01.png"></p>
-<p><img data-src="figures/wos/export-02.png" class="fragment"></p>
+<p><strong>Tip</strong></p>
+</div>
+<div class="callout-content">
+<p><a href="https://en.wikipedia.org/wiki/Sankey_diagram">See the explanation of Sankey Diagrams</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/bibliometrix-15.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
 </div>
 </div>
 </div>
 </section>
-<section id="wos-export-results" class="title-slide slide level2 center">
-<h2>WoS: Export results</h2>
-<div class="quarto-layout-panel" data-layout="[20,80]">
-<div class="quarto-layout-row quarto-layout-valign-center">
-<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: flex-start;">
-<p><code>Select Custom Selection</code></p>
-</div>
-<div class="r-stack quarto-layout-cell" style="flex-basis: 80.0%;justify-content: center;">
-<p><img data-src="figures/wos/export-03.png"></p>
-</div>
-</div>
-</div>
-</section>
+<section id="most-relevant-sources" class="slide level3">
+<h3>Most relevant Sources</h3>
 
-<section id="wos-export-results-1" class="title-slide slide level2 center">
-<h2>WoS: Export results</h2>
-<div class="quarto-layout-panel" data-layout="[20,80]">
+<img data-src="figures/bibliometrix-16.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="core-sources-by-bradfords-law" class="slide level3">
+<h3>Core Sources by Bradford’s Law</h3>
+<div class="quarto-layout-panel" data-layout="[30,70]">
 <div class="quarto-layout-row quarto-layout-valign-center">
-<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: flex-start;">
-<p><code>Select All Items</code></p>
+<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: flex-start;">
+<div class="callout callout-tip callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 80.0%;justify-content: center;">
-<p><img data-src="figures/wos/export-04.png"></p>
+<p><strong>Tip</strong></p>
+</div>
+<div class="callout-content">
+<p><a href="https://en.wikipedia.org/wiki/Bradford%27s_law%20/Shttps://en.wikipedia.org/wiki/Bradford%27s_law">See the explanation of Bradford’s law (or Pareto Distribution)</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/bibliometrix-17.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
 </div>
 </div>
 </div>
 </section>
 
-<section id="wos-export-results-2" class="title-slide slide level2 center">
-<h2>WoS: Export results</h2>
-<div class="quarto-layout-panel" data-layout="[20,80]">
-<div class="quarto-layout-row quarto-layout-valign-center">
-<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: flex-start;">
-<p><code>Export &amp; Download</code></p>
-</div>
-<div class="r-stack quarto-layout-cell" style="flex-basis: 80.0%;justify-content: center;">
-<p><img data-src="figures/wos/export-05.png"></p>
-<p><img data-src="figures/wos/export-06.png" class="fragment"></p>
-</div>
-</div>
+<section id="sources-local-impact" class="title-slide slide level2 center">
+<h2>Sources’ Local Impact</h2>
+
+<img data-src="figures/bibliometrix-18.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+
+<section id="sources-production-over-time" class="title-slide slide level2 center">
+<h2>Sources’ Production over Time</h2>
+
+<img data-src="figures/bibliometrix-19.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+
+<section id="most-relevant-authors" class="title-slide slide level2 center">
+<h2>Most Relevant Authors</h2>
+
+<img data-src="figures/bibliometrix-20.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+
+<section id="most-relevant-affiliations" class="title-slide slide level2 center">
+<h2>Most Relevant Affiliations</h2>
+
+<img data-src="figures/bibliometrix-21.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+
+<section id="corresponding-authors-countries" class="title-slide slide level2 center">
+<h2>Corresponding Author’s Countries</h2>
+
+<img data-src="figures/bibliometrix-22.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+
+<section id="most-global-cited-documents" class="title-slide slide level2 center">
+<h2>Most Global Cited Documents</h2>
+
+<img data-src="figures/bibliometrix-23.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+
+<section id="most-global-cited-documents-1" class="title-slide slide level2 center">
+<h2>Most Global Cited Documents</h2>
+
+<img data-src="figures/bibliometrix-24.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+
+<section id="most-frequent-words" class="title-slide slide level2 center">
+<h2>Most Frequent Words</h2>
+
+<img data-src="figures/bibliometrix-25.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+
+<section id="wordcloud" class="title-slide slide level2 center">
+<h2>Wordcloud</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/bibliometrix-26.png" class="quarto-figure quarto-figure-center" style="width:80.0%"></p>
+</figure>
 </div>
 
 

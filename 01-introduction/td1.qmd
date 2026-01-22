@@ -1,37 +1,22 @@
 ---
-title: "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer"
-subtitle: "TD 1: Vosviewer / Web of Science / OpenAlex"  
-email: "fabio.cruz@univ-lorraine.fr"
-institute: "Université de Lorraine | ENSGSI"
-author: 
-  - "MdC. Fabio A. CRUZ SANCHEZ"
-  - "Pr. Mauricio Camargo"
-date: today
-date-format: long
+title: "Introduction to Bibliometric Analysis"
+subtitle: "TD 1: Research Landscape using VOSviewer"  
 metadata-files:
   - _metadata.yml
 format:
   revealjs:
     footer: 'TD1: Bibliometric Analysis'
-    #subtitle-as-header: true
     slide-level: 2
-#    reference-location: document
     auto-stretch: true
-    menu:
-      side: right
-      width: wide
-      numbers: false  
-revealjs-plugins:
-  - attribution 
-  # - simplemenu   
+    title-slide: false
 filters:
-- highlight-text
+  - reveal-auto-agenda
+auto-agenda:
+  bullets: numbered
+  heading: Agenda
 ---
 
 
-```{r}
-library(countdown)
-```
 
 # Presentation of TD
 
@@ -81,11 +66,6 @@ library(countdown)
     - Define two or three specific research topics that complete the general research question. 
 
 
-```{r, include=TRUE}
-countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", padding = "5px",
-          margin = "5px",)
-```
-
 :::
 :::
 
@@ -104,10 +84,6 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 - Structurer a replicable search equation based on the structuration of the 'Venn Diagram' approach. 
 - Go to Scientific databases [Web of Science](#access) and [OpenAlex](#openalex) to select the pertinent
 
-```{r, include=TRUE}
-countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", padding = "5px",
-          margin = "5px",)
-```
 
 :::
 :::
@@ -130,19 +106,14 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 - Make a description enhancing the understanding of the research landscape.
 
 
-```{r, include=TRUE}
-countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", padding = "5px",
-          margin = "5px",)
-```
-
 :::
 :::
 
 
 
-## Scientific databases: <br> Web Of Science (WoS) and OpenAlex 
+# Scientific databases: <br> Web Of Science (WoS) and OpenAlex 
 
-### Web Of Science (WoS)
+## Web Of Science (WoS)
 
 :::{layout="[30,70]"}
 :::{}
@@ -171,10 +142,7 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 :::
 
 
-
-
-
-### OpenAlex
+## OpenAlex
 
 :::{layout="[30,70]"}
 ![](figures/openalex/OA-00.png){width="95%" fig-align="center"}
@@ -189,10 +157,11 @@ countdown(minutes = 45, seconds = 00, top = 100, right=50, font_size = "4em", pa
 
 **Offers a replacement for industry-standard scientific knowledge bases like Elsevier's Scopus and Clarivate's Web of Science ❗**
 
+# Bibliometric mapping: Vosviewer
+
 ## Bibliometric mapping: Vosviewer
 
-:::{layout="[60,40]"}
-:::{}
+
 Functions of VosViewer:
 
 1. Create maps based on network data.
@@ -200,14 +169,6 @@ Functions of VosViewer:
 
 ![](figures/vos/09.jpg){width="900" fig-align="center"}
 
-:::
-
-:::{}
-
-
-:::
-
-:::
 
 
 

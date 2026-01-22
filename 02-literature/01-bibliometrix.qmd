@@ -1,0 +1,242 @@
+---
+title: "Tutorial Bibliometrix"
+metadata-files:
+  - _metadata.yml
+format:
+  revealjs:
+    footer: '[Bibliometrix](https://www.bibliometrix.org/home/)'
+    #subtitle-as-header: true
+    slide-level: 2
+    auto-stretch: true
+filters:
+  - reveal-auto-agenda
+auto-agenda:
+  bullets: numbered
+  heading: Tutorial Bibliometrix
+---
+
+#  Requirements
+
+
+##  Install R
+
+:::{layout="[30,70]" layout-valign="center"}
+
+:::{}
+Install R Software
+
+1. Download R Project: [https://pbil.univ-lyon1.fr/CRAN/](https://pbil.univ-lyon1.fr/CRAN/)
+
+
+:::
+![](figures/R.png){width="50%"}
+
+**[https://www.r-project.org/](https://www.r-project.org/)**
+
+:::
+
+
+##  Install Positron
+
+:::{layout="[30,70]" layout-valign="center"}
+
+:::{}
+Install Positron
+
+**[https://positron.posit.co/](https://positron.posit.co/)**
+:::
+
+![](figures/positron.png){width="50%"}
+
+:::
+
+
+##  Install Package `Bibliometrix`
+
+:::{layout="[30,70]" layout-valign="center"}
+
+:::{}
+1. `New File > R file`
+2. `install.packages("bibliometrix") > Crtl/Cmd + Enter ⏎`
+:::
+
+:::{}
+![](figures/bibliometrix-000.png){width="30%" fig-align="center"}
+
+:::
+:::
+
+##  Load Package `Bibliometrix`
+
+:::{layout="[30,70]" layout-valign="center"}
+
+:::{}
+
+1. `library(bibliometrix) > Crtl/Cmd + Enter ⏎`
+:::
+
+:::{}
+![](figures/bibliometrix-001.png){width="30%" fig-align="center"}
+
+:::
+:::
+
+##  Run `Biblioshiny`
+
+:::{layout="[30,70]" layout-valign="center"}
+
+:::{}
+
+1. `bibliosiny() > Crtl/Cmd + Enter ⏎`
+:::
+
+:::{}
+![](figures/bibliometrix-002.png){width="30%" fig-align="center"}
+
+:::
+:::
+
+
+#  Bibliometrix load data
+
+##  Interface
+
+![](figures/bibliometrix-02.png){fig-align="center" width="80%"}
+
+
+##  `Load Data`
+
+
+![](figures/bibliometrix-03.png){fig-align="center" width="80%"}
+
+###  Import
+
+![](figures/bibliometrix-04.png){fig-align="center" width="80%"}
+
+
+### Import `Web of Science`
+
+![](figures/bibliometrix-05.png){fig-align="center" width="80%"}
+
+###  Import `bibtex (.bib)`
+
+![](figures/bibliometrix-06.png){fig-align="center" width="80%"}
+
+###  Start!
+
+![](figures/bibliometrix-07.png){fig-align="center" width="80%"}
+
+##  Loading: 
+
+![](figures/bibliometrix-08.png){fig-align="center" width="80%"}
+
+##  Validate the data 
+
+![](figures/bibliometrix-09.png){fig-align="center" width="80%"}
+
+
+# Bibliometrix Analysis
+##  filters
+
+![](figures/bibliometrix-10.png){fig-align="center" width="80%"}
+
+##  Main Information
+
+![](figures/bibliometrix-11.png){fig-align="center" width="80%"}
+
+## Average citation per year
+
+![](figures/bibliometrix-12.png){fig-align="center" width="80%"}
+
+
+##  Annual Scientific Production 
+
+![](figures/bibliometrix-13.png){fig-align="center" width="80%"}
+
+## Three-Field Plot
+
+![](figures/bibliometrix-14.png){fig-align="center" width="80%"}
+
+
+
+##  Three-Field Plot
+
+
+:::{layout="[30,70]" layout-valign="center"}
+
+::: {.callout-tip}
+[See the explanation of Sankey Diagrams](https://en.wikipedia.org/wiki/Sankey_diagram)
+:::
+
+![](figures/bibliometrix-15.png){fig-align="center" width="80%"}
+
+:::
+
+
+
+
+###  Most relevant Sources
+
+![](figures/bibliometrix-16.png){fig-align="center" width="80%"}
+
+###  Core Sources by Bradford's Law
+
+
+:::{layout="[30,70]" layout-valign="center"}
+
+::: {.callout-tip}
+[See the explanation of Bradford's law (or Pareto Distribution)](https://en.wikipedia.org/wiki/Bradford%27s_law
+/Shttps://en.wikipedia.org/wiki/Bradford%27s_law
+)
+:::
+
+![](figures/bibliometrix-17.png){fig-align="center" width="80%"}
+
+:::
+
+
+
+
+
+##  Sources' Local Impact
+
+![](figures/bibliometrix-18.png){fig-align="center" width="80%"}
+
+##  Sources' Production over Time
+
+![](figures/bibliometrix-19.png){fig-align="center" width="80%"}
+
+## Most Relevant Authors
+
+![](figures/bibliometrix-20.png){fig-align="center" width="80%"}
+
+
+## Most Relevant Affiliations
+
+![](figures/bibliometrix-21.png){fig-align="center" width="80%"}
+
+
+## Corresponding Author's Countries
+
+![](figures/bibliometrix-22.png){fig-align="center" width="80%"}
+
+
+## Most Global Cited Documents
+
+![](figures/bibliometrix-23.png){fig-align="center" width="80%"}
+
+
+## Most Global Cited Documents
+
+![](figures/bibliometrix-24.png){fig-align="center" width="80%"}
+
+
+## Most Frequent Words
+
+![](figures/bibliometrix-25.png){fig-align="center" width="80%"}
+
+
+## Wordcloud
+
+![](figures/bibliometrix-26.png){fig-align="center" width="80%"}
+

@@ -570,9 +570,6 @@ countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
 
 
 
-
-
-
 # How to do a Literature Review? {.center}
 
 ## Evidence in Science
@@ -899,8 +896,6 @@ We don't sell products!! .. We sell **Gaps**!
 ## The scientific history 
 
 ![](figures/montagnes2022-1.jpg)
-
-
 
 
 :::aside

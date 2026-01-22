@@ -33,10 +33,16 @@ This course includes a course in presences and a writing workshop of a first sci
 ```
 
 
-# Tutorials
+## TD1: Visualization of Scientific Landscapes 
 
+### TD1 Presentation
 
-## Step 1: Web Of Science
+```{=html}
+<iframe class="slide-deck" src="01-introduction/td1.html" width="100%"
+    height="500"></iframe>
+```
+
+### Step 1: Web Of Science
 
 ```{=html}
 <iframe class="slide-deck" src="01-introduction/00-wos.html" width="100%"
@@ -44,29 +50,53 @@ This course includes a course in presences and a writing workshop of a first sci
 ```
 
 
-## Step 2: VosViewer
+### Step 2: VosViewer
 
 ```{=html}
 <iframe class="slide-deck" src="01-introduction/01-vosviewer.html" width="100%"
     height="500"></iframe>
 
+```
 
 
-<!-- # Day 2: Literature  Review -->
+### Step 3: VosViewer for Patents
+
+```{=html}
+<iframe class="slide-deck" src="01-introduction/03-patents.html" width="100%"
+    height="500"></iframe>
+
+```
 
 
-<!-- ## What is a Literature Review -->
+# Day 2: Literature  Review 
 
-<!-- ```{=html}
+
+## What is a Literature Review 
+
+```{=html}
 <iframe class="slide-deck" src="02-literature/index.html" width="100%"
     height="500"></iframe>
-``` -->
+```
 
-<!-- ## Reading Scientific literature -->
+## TD2: Bibliometrix & Reading Scientific literature
 
-<!-- ```{=html}
-<iframe class="slide-deck" src="02-literature/tp2.html" width="100%"
+```{=html}
+<iframe class="slide-deck" src="02-literature/td2.html" width="100%"
     height="500"></iframe>
-``` -->
+```
+
+### Step 1: Web Of Science
+
+```{=html}
+<iframe class="slide-deck" src="02-literature/00-wos.html" width="100%"
+    height="500"></iframe>
+```
 
 
+### Step 2: Bibliometrix
+
+```{=html}
+<iframe class="slide-deck" src="02-literature/01-bibliometrix.html" width="100%"
+    height="500"></iframe>
+
+```

@@ -1,10 +1,6 @@
 ---
 title: "Tutorials Web of Science"
-subtitle: "TD 1: Web of Science / OpenAlex / Vosviewer /"  
-email: "fabio.cruz@univ-lorraine.fr"
-institute: "Université de Lorraine | ENSGSI"
-author: 
-  - "MCF. Fabio A. CRUZ SANCHEZ"
+subtitle: "TD 1: **Web of Science** / OpenAlex / Vosviewer /"  
 metadata-files:
   - _metadata.yml
 format:
@@ -18,11 +14,11 @@ filters:
   - reveal-auto-agenda
 auto-agenda:
   bullets: numbered
-  heading: Tutorials
+  heading: Tutorial Web Of Science
 ---
 
 
-#  Access to WoS database {.center}
+#  Access to WoS database {#access.center}
 
 ## WoS database → Connect to the UL ENT
 

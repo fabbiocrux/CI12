@@ -13,9 +13,9 @@
 <link href="../site_libs/quarto-contrib/reveal-auto-agenda-0.0.3/reveal-auto-agenda.css" rel="stylesheet"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.8.25">
 
-  <meta name="author" content="MdC. Fabio A. CRUZ SANCHEZ   Pr. Mauricio Camargo">
-  <meta name="dcterms.date" content="2026-01-20">
-  <title>CI12 – TD2 : Literature review</title>
+  <meta name="author" content="MCF. Fabio A. CRUZ SANCHEZ">
+  <meta name="dcterms.date" content="2026-01-22">
+  <title>CI12 – TD2: Bibliometrix &amp; Reading Scientific literature</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -101,11 +101,11 @@
     code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
   <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-fd26ef0d6889a2644d1576c9a5f576d2.css">
+  <link rel="stylesheet" href="../assets/fabio.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
-  <link href="../site_libs/revealjs/plugin/reveal-chalkboard/font-awesome/css/all.css" rel="stylesheet">
-  <link href="../site_libs/revealjs/plugin/reveal-chalkboard/style.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-attribution/attribution.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
   <style type="text/css">
     .reveal div.sourceCode {
@@ -199,14 +199,13 @@
   <div class="reveal">
     <div class="slides">
 
-<section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">TD2 : Literature review</h1>
-  <p class="subtitle">Bibliometrix</p>
+<section id="title-slide" data-background-opacity="0.5" data-background-size="contain" class="quarto-title-block center">
+  <h1 class="title">TD2: Bibliometrix &amp; Reading Scientific literature</h1>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-MdC. Fabio A. CRUZ SANCHEZ <br> Pr. Mauricio Camargo 
+MCF. Fabio A. CRUZ SANCHEZ 
 </div>
         <p class="quarto-title-affiliation">
             Université de Lorraine | ENSGSI
@@ -214,21 +213,18 @@ MdC. Fabio A. CRUZ SANCHEZ <br> Pr. Mauricio Camargo
     </div>
 </div>
 
-  <p class="date">January 20, 2026</p>
+  <p class="date">January 22, 2026</p>
 </section>
 <section>
 <section id="presentation-of-td" class="title-slide slide level1 agenda-slide center">
 <h1>Presentation of TD</h1>
 <div class="agenda-heading">
-<p>Agenda for today</p>
+<p>Agenda</p>
 </div>
 <div class="agenda">
 <ol>
 <li><div class="agenda-active">
 <p>Presentation of TD</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Tutorials</p>
 </div></li>
 </ol>
 </div>
@@ -268,9 +264,9 @@ MdC. Fabio A. CRUZ SANCHEZ <br> Pr. Mauricio Camargo
 </div></div>
 </section>
 
-<section id="bibliometrix-software-option-1" class="title-slide slide level2 center">
-<h2>Bibliometrix software : <span style="color:red;">Option 1</span></h2>
-<div class="quarto-layout-panel" data-layout="[50,60]" data-layout-align="center">
+<section id="bibliometrix-software-option-2" class="title-slide slide level2 center">
+<h2>Bibliometrix software : <span style="color:red;">Option 2</span></h2>
+<div class="quarto-layout-panel" data-layout-align="center" data-layout="[50,60]">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 45.5%;justify-content: center;">
 <ol type="1">
@@ -305,8 +301,8 @@ MdC. Fabio A. CRUZ SANCHEZ <br> Pr. Mauricio Camargo
 </div>
 </section>
 
-<section id="bibliometrix-software-option-2" class="title-slide slide level2 center">
-<h2>Bibliometrix software : <span style="color:red;">Option 2</span></h2>
+<section id="bibliometrix-software-option-1" class="title-slide slide level2 center">
+<h2>Bibliometrix software : <span style="color:red;">Option 1</span></h2>
 <ol type="1">
 <li>Download R Project: <a href="https://pbil.univ-lyon1.fr/CRAN/">https://pbil.univ-lyon1.fr/CRAN/</a></li>
 <li>Download RStudio: <a href="https://posit.co/download/rstudio-desktop/">https://posit.co/download/rstudio-desktop/</a></li>
@@ -372,177 +368,6 @@ MdC. Fabio A. CRUZ SANCHEZ <br> Pr. Mauricio Camargo
 <p><a href="https://bibliometrix.org/biblioshiny/biblioshiny3.html"><strong>Advanced:</strong> Knowledge synthesis</a></p>
 </div></div>
 </section>
-</section>
-<section>
-<section id="tutorials" class="title-slide slide level1 agenda-slide center">
-<h1>Tutorials</h1>
-<div class="agenda-heading">
-<p>Agenda for today</p>
-</div>
-<div class="agenda">
-<ol>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Presentation of TD</p>
-</div></li>
-<li><div class="agenda-active">
-<p>Tutorials</p>
-</div></li>
-</ol>
-</div>
-</section>
-<section id="list-of-tutorials" class="title-slide slide level2 center">
-<h2>List of tutorials</h2>
-<ol type="1">
-<li><a href="#/wos">Access to WOS</a></li>
-<li><a href="#/biblio">Use of Bibliometrix</a></li>
-<li><a href="#/wos-results">Download Articles</a></li>
-<li><a href="#/zotero">Bibliographic Management</a></li>
-</ol>
-</section>
-
-<section id="web-of-science" class="title-slide slide level2 center">
-<h2>Web Of Science</h2>
-
-</section>
-<section id="wos-database-access" class="slide level3">
-<h3>WoS database: Access</h3>
-<p><a href="https://www-webofscience-com.bases-doc.univ-lorraine.fr/wos/woscc/basic-search"><strong>Acces to Web Of Science</strong></a></p>
-
-<img data-src="figures/wos-01.png" class="quarto-figure quarto-figure-center r-stretch"></section>
-<section id="wos-database-download-.bib" class="slide level3">
-<h3>WoS database: Download <code>.bib</code></h3>
-<p><strong>Select export in format <code>.bib</code></strong></p>
-
-<img data-src="figures/wos/01.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="wos-database-download-.bib-1" class="slide level3">
-<h3>WoS database: Download <code>.bib</code></h3>
-<p><strong>Select <code>Records From</code></strong> and <strong><code>Custom Selection</code></strong></p>
-
-<img data-src="figures/wos/02.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="wos-database-download-.bib-2" class="slide level3">
-<h3>WoS database: Download <code>.bib</code></h3>
-<p><strong>Select All</strong></p>
-
-<img data-src="figures/wos/03.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"></section>
-<section id="wos-database-download-.bib-3" class="slide level3">
-<h3>WoS database: Download <code>.bib</code></h3>
-<p><strong>Download documents in format <code>.bib</code></strong></p>
-
-<img data-src="figures/wos/04.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"></section>
-
-<section id="bibliometrix" class="title-slide slide level2 center">
-<h2>Bibliometrix</h2>
-
-</section>
-<section id="bibliometrix-access" class="slide level3">
-<h3>Bibliometrix: Access</h3>
-<p>⚠️ Connect on: <a href="https://posit.cloud/content/7229125"><strong>https://posit.cloud/content/7229125</strong></a></p>
-
-<img data-src="figures/bibliometrix-00.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-interface-of-r" class="slide level3">
-<h3>Bibliometrix: Interface of R</h3>
-
-<img data-src="figures/bibliometrix-01.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-interface" class="slide level3">
-<h3>Bibliometrix: Interface</h3>
-
-<img data-src="figures/bibliometrix-02.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-1" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-03.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-2" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-04.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-3" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-05.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-4" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-06.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-5" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-07.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-6" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-08.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-7" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-09.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-8" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-10.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-9" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-11.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-10" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-12.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-11" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-13.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-12" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-14.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-13" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-15.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-14" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-16.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-15" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-17.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-16" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-18.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-17" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-19.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-18" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-20.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-19" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-21.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-20" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-22.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-21" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-23.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-22" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-24.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-23" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-25.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="bibliometrix-24" class="slide level3">
-<h3>Bibliometrix:</h3>
-
-<img data-src="figures/bibliometrix-26.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
 
 <section id="zotero-bibliographic-management" class="title-slide slide level2 center">
 <h2>Zotero: Bibliographic Management</h2>
@@ -594,7 +419,7 @@ MdC. Fabio A. CRUZ SANCHEZ <br> Pr. Mauricio Camargo
   <div class="quarto-auto-generated-content" style="display: none;">
 <p><img src="../../assets/img/logos/ENSGSI.png" class="slide-logo"></p>
 <div class="footer footer-default">
-<p>TD2: Literature Review</p>
+<p>Introduction to Scientific Research</p>
 </div>
 </div></div>
 
@@ -605,7 +430,7 @@ MdC. Fabio A. CRUZ SANCHEZ <br> Pr. Mauricio Camargo
   <script src="../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
   <script src="../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
   <script src="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
-  <script src="../site_libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-attribution/attribution.js"></script>
   <script src="../site_libs/revealjs/plugin/quarto-support/support.js"></script>
   
 
@@ -627,8 +452,7 @@ MdC. Fabio A. CRUZ SANCHEZ <br> Pr. Mauricio Camargo
 'autoAnimateDuration': 1,
 'autoAnimateUnmatched': true,
 'jumpToSlide': true,
-'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"8\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
-'chalkboard': {"buttons":true},
+'menu': {"side":"right","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true,"width":"wide","numbers":true},
 'smaller': false,
  
         // Display controls in the bottom right corner
@@ -799,7 +623,7 @@ MdC. Fabio A. CRUZ SANCHEZ <br> Pr. Mauricio Camargo
         },
 
         // reveal.js plugins
-        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, RevealChalkboard, QuartoSupport,
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, RevealAttribution, QuartoSupport,
 
           RevealMath,
           RevealNotes,
@@ -808,44 +632,6 @@ MdC. Fabio A. CRUZ SANCHEZ <br> Pr. Mauricio Camargo
         ]
       });
     </script>
-    
-    <script>
-      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
-      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
-      // slide changes (different for each slide format).
-      (function () {
-        // dispatch for htmlwidgets
-        function fireSlideEnter() {
-          const event = window.document.createEvent("Event");
-          event.initEvent("slideenter", true, true);
-          window.document.dispatchEvent(event);
-        }
-
-        function fireSlideChanged(previousSlide, currentSlide) {
-          fireSlideEnter();
-
-          // dispatch for shiny
-          if (window.jQuery) {
-            if (previousSlide) {
-              window.jQuery(previousSlide).trigger("hidden");
-            }
-            if (currentSlide) {
-              window.jQuery(currentSlide).trigger("shown");
-            }
-          }
-        }
-
-        // hookup for slidy
-        if (window.w3c_slidy) {
-          window.w3c_slidy.add_observer(function (slide_num) {
-            // slide_num starts at position 1
-            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
-          });
-        }
-
-      })();
-    </script>
-
     <script id="quarto-html-after-body" type="application/javascript">
       window.document.addEventListener("DOMContentLoaded", function (event) {
         const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")

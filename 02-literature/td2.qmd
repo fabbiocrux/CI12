@@ -1,0 +1,162 @@
+---
+title: "TD2: Bibliometrix & Reading Scientific literature"
+#subtitle: "Bibliometrix"  VOSviewer"  
+metadata-files:
+  - _metadata.yml
+format:
+  revealjs:
+    footer: 'TD1: Bibliometric Analysis'
+    slide-level: 2
+    auto-stretch: true
+    title-slide: false
+filters:
+  - reveal-auto-agenda
+auto-agenda:
+  bullets: numbered
+  heading: Agenda
+---
+
+
+# Presentation of TD
+
+
+## The Exercises
+
+::: columns
+::: {.column width="30%"}
+
+**WoS + Bibliometrix**
+
+✅ Select at least 5 important papers
+
+![](figures/wos-01.png){width="90%" fig-align="center"}
+
+
+![](figures/bibliometrix-02.png){width="90%" fig-align="center"}
+:::
+
+
+::: {.column width="30%"}
+
+**Abstract**
+
+✅ Analyse 5 paper's abstract
+
+![](figures/Paper-Ferney-01.jpg){width="90%" fig-align="center"}
+
+
+:::
+
+::: {.column width="30%"}
+
+**Article**
+
+✅ 1 full paper analysis
+
+![](figures/Paper-Alex-02.png){width="90%" fig-align="center"}
+
+
+:::
+:::
+
+
+# Bibliometrix software 
+
+*An open-source tool for executing a comprehensive science mapping analysis of scientific literature*
+
+![](figures/rstudio/run2.png){fig-align="center"}
+
+[https://www.bibliometrix.org/home/](https://www.bibliometrix.org/home/)
+
+##  Bibliometrix: Official documentation
+
+`https://bibliometrix.org/ > Tutorials > Biblioshiny`
+
+::: columns
+::: {.column width="30%"}
+
+
+![](figures/bibliometrix-tutorial-01.png){width="90%" fig-align="center"}
+
+[**Introduction**](https://bibliometrix.org/biblioshiny/biblioshiny1.html)
+:::
+
+::: {.column width="30%"}
+
+![](figures/bibliometrix-tutorial-02.png){width="90%" fig-align="center"}
+
+[**Medium:** Focus on Domain](https://bibliometrix.org/biblioshiny/biblioshiny2.html)
+:::
+
+::: {.column width="30%"}
+
+![](figures/bibliometrix-tutorial-03.png){width="90%" fig-align="center"}
+
+[**Advanced:** Knowledge synthesis](https://bibliometrix.org/biblioshiny/biblioshiny3.html)
+
+:::
+:::
+
+
+
+#  Zotero: Bibliographic Management 
+
+## Research reference managers (Mendeley, Zotero)
+
+- Allows you to organize, collaborate, discover, and to cite as you write 
+
+![](figures/References-00.png)
+
+## Research reference managers (Mendeley, Zotero)
+
+- Allows you to organize, collaborate, discover, and to cite as you write 
+
+![](figures/References-01.png)
+
+
+💡 **Recomendation: https://www.zotero.org/**
+
+
+## Zotero Extension
+
+You can install the (Chrome / Mozilla) extension:
+
+![](figures/Zotero-extension.png)
+
+## Zotero Tip Login
+
+💡 [Tip: https://bu.univ-lorraine.fr/ressources-en-ligne/trucs-et-astuces](https://bu.univ-lorraine.fr/ressources-en-ligne/trucs-et-astuces)
+
+![](figures/tip.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

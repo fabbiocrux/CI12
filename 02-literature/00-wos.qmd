@@ -1,0 +1,51 @@
+---
+title: "Tutorials Web of Science - Part II "
+#subtitle: "TD 2: **Web of Science**"  
+metadata-files:
+  - _metadata.yml
+format:
+  revealjs:
+    footer: 'Web Of Science'
+    #subtitle-as-header: true
+    slide-level: 2
+    auto-stretch: true
+filters:
+  - reveal-auto-agenda
+auto-agenda:
+  bullets: numbered
+  heading: Tutorial Web Of Science
+---
+
+#  Web Of Science
+
+## WoS database: Access 
+
+[**Acces to Web Of Science**](https://www-webofscience-com.bases-doc.univ-lorraine.fr/wos/woscc/basic-search)
+
+![](figures/wos-01.png){fig-align="center"}
+
+##  WoS database: Download `.bib` 
+
+**Select export in format `.bib`**
+
+![](figures/wos/01.png){fig-align="center" width="80%"}
+
+##  WoS database: Download `.bib` 
+
+**Select `Records From`** and **`Custom Selection`**
+
+![](figures/wos/02.png){fig-align="center" width="80%"}
+
+##  WoS database: Download `.bib` 
+
+**Select All**
+
+![](figures/wos/03.png){width="75%" fig-align="center"}
+
+
+
+##  WoS database: Download `.bib` 
+
+**Download documents in format `.bib`**
+
+![](figures/wos/04.png){width="75%" fig-align="center"}
