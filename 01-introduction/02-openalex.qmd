@@ -1,0 +1,147 @@
+---
+title: "Tutorials Vosviewer"
+subtitle: "TD 1: Web of Science / Vosviewer / **OpenAlex**"  
+email: "fabio.cruz@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+author: 
+  - "MCF. Fabio A. CRUZ SANCHEZ"
+metadata-files:
+  - _metadata.yml
+format:
+  revealjs:
+    footer: 'OpenAlex'
+    slide-level: 1
+    auto-stretch: true
+    title-slide: false
+
+filters:
+  - reveal-auto-agenda
+auto-agenda:
+  bullets: numbered
+  heading: Tutorials VosViewer
+---
+
+
+
+# OpenAlex
+
+## PresentationOpenAlex {#openalex background-image="figures/openalex/OA-03.png" background-size="55%" background-position="80% 50%"}
+
+![](figures/openalex/OpenAlex-banner.png){.nostretch width=500}
+
+[https://openalex.org/](https://openalex.org/)
+
+
+## Entities in OpenAlex
+
+:::{layout="[50, 50]" layout-valign="top"}
+:::{}
+OpenAlex will identify these metadata:
+
+- Works → Articles, Conferences, Books. 
+- Authors → Names, Institutions
+- Institutions → Name, location..
+- Funding → APC 
+:::
+
+:::{}
+![](figures/openalex/OpenAlex-entities.png)
+:::
+:::
+
+The idea is to obtain the **metadata of the scientific** documentation. 
+
+## Metadata on OpenAlex
+
+![Source. OpenAlex documentation](figures/openalex/Metadata-00.png){fig-align="center" width="80%"}
+
+## Metadata on OpenAlex
+![Source. OpenAlex documentation](figures/openalex/Metadata-01.png){fig-align="center" width="80%"}
+
+# Search on OpenAlex
+## Search on OpenAlex
+
+Structure of the search equation:
+
+`(key1 OR key2) AND (key3 OR key4) AND (key5 OR key6)`{style="background-color: #D3D3D3" }
+
+![](figures/openalex/OA-03.png){width="80%" fig-align="center"}
+
+
+
+
+## Interface on OpenAlex
+
+:::{layout="[40, 60]" layout-valign="top"}
+:::{}
+**Type of search:**
+
+- Works
+- Authors
+- Sources
+- Institutions
+
+
+![](figures/openalex/OA-05.png)
+:::
+
+:::{}
+![](figures/openalex/OA-04.png)
+:::
+:::
+
+
+## Filters on OpenAlex
+
+:::{layout="[40, 60]" layout-valign="top"}
+:::{}
+1. Filters are the basis of query-building and allow searching of entities, attributes, and text. 
+
+Currently 47 filters are available. 
+
+![](figures/openalex/OA-07.png)
+:::
+
+:::{}
+![](figures/openalex/OA-06.png)
+:::
+:::
+
+## Works on OpenAlex
+
+:::{layout="[50, 50]" layout-valign="top"}
+:::{}
+
+Each work can be identified
+
+![](figures/openalex/OA-04.png)
+:::
+
+:::{}
+![](figures/openalex/OA-08.png)
+:::
+:::
+
+
+
+## [Option 1] Connecting of OpenAlex with VosViewer (via API)
+
+:::{layout="[50,50]"}
+:::{}
+
+- Using the API
+- **Less than 50000!!**
+:::
+
+:::{}
+{{< video https://www.youtube.com/embed/ZNyi29IER90?si=jd1CN81P50EGpCpG width="1200" height="500"  >}}
+Source. OpenAlex YT Channel
+:::
+:::
+
+
+
+## [Option 1] Connecting of OpenAlex with VosViewer (via download)
+
+{{< video https://www.youtube.com/embed/k5xtJhVsGxM?si=8KFk0Hs46IlkmbB5 width="1200" height="500" >}}
+

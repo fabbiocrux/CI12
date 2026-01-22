@@ -1,0 +1,173 @@
+---
+title: "Tutorials Vosviewer"
+subtitle: "TD 1: Web of Science / **Vosviewer** /"  
+email: "fabio.cruz@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+author: 
+  - "MCF. Fabio A. CRUZ SANCHEZ"
+metadata-files:
+  - _metadata.yml
+format:
+  revealjs:
+    footer: 'VosViewer'
+    slide-level: 1
+    auto-stretch: true
+    title-slide: false
+
+filters:
+  - reveal-auto-agenda
+auto-agenda:
+  bullets: numbered
+  heading: Tutorials VosViewer
+---
+
+
+
+# VOSviewer Installation
+
+## Vosviewer {background-image="figures/vos/website.png" background-size="65%" background-position="100% 50%"}
+
+Scientific Network visualization
+
+[⬇️ &nbsp; Download at <br> https://www.vosviewer.com/](https://www.vosviewer.com/)
+
+[📕&nbsp; Official Manual](https://www.vosviewer.com/documentation/Manual_VOSviewer_1.6.20.pdf)
+
+
+## VOSviewer: Terminology
+
+1. **Maps** are created by **items**
+2. **Items** are object of interest → 📚*Publications*, 👩🏻‍🔬👨🏻‍🔬*Researchers* or 🔤*Terms*
+3. **Links** are the relations between two items.
+    - Each link has a *Strength* → Positive number. The higher, the stronger. 
+    <br> For instance:
+      - **Bibliographic coupling** : Number of cited references two publications have in common.
+      - **Co-authorship**: number of publications that two researches have co-authored.
+      - **Co-occurence**: Number of publications in which two terms occur together.
+     
+3. **Clusters** are a group of **items** 
+
+::: {.callout-note}
+### Scientific reference
+
+Van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. [https://doi.org/10.1007/s11192-009-0146-3](https://doi.org/10.1007/s11192-009-0146-3)
+:::
+
+
+## Small introduction to VOSViewer
+
+:::{layout="[50,50]"}
+
+:::{}
+- Focus on visualization of scientometric networks
+- Support for large number of data sources
+- Text mining functionality
+- Advanced visualization features
+- Relatively easy to use
+- Limited analysis options
+- Developed at CWTS
+:::
+
+{{< video https://www.youtube.com/embed/9dTWkNRxUtw width="1200" height="500"  >}}
+:::
+
+# Co-Authorship Analysis
+
+## Add data: from `Bibliographic database file`
+
+![](figures/vos/02.jpg)
+
+## Add data: from `Bibliographic database file`
+
+![](figures/vos/03.jpg)
+
+## Add data: Select the `.txt` files from WoS
+
+![](figures/vos/04.jpg)
+
+
+## Select: `Co-Authorship`
+
+
+:::{layout="[30,80]" layout-valign="center"}
+
+:::{}
+You can see the types of analysis.
+Use this **﹖icon** to see the *relatedness* for each type of the analysis:
+
+`Select Co-Authorship`
+:::
+
+:::{}
+![](figures/vos/co-authorship-00.png)
+:::
+:::
+
+
+
+## Select: `Thresholds`
+
+In fonction of the type of 'Co-Authorship analysis' (Authors, Organizations, Countries), different type of **threholds** are proposed:
+
+:::{layout="[30,30,30]"}
+
+:::{}
+**Authors**
+
+![](figures/vos/co-authorship-01.png)
+:::
+
+:::{}
+**Organizations**
+
+![](figures/vos/co-authorship-02.png)
+:::
+
+:::{}
+**Countries**
+
+![](figures/vos/co-authorship-03.png)
+:::
+:::
+
+
+
+# Co-Occurence of Keywords
+
+
+## Add data: Minimum number of Occurrencies for Keyworkds
+
+
+![](figures/vos/06.jpg)
+
+## Add data: Keywords to be plotted
+
+![](figures/vos/07.jpg)
+
+## Add data: Verify if Keywords are correct
+
+Attention to the Redundancies
+
+![](figures/vos/08.jpg)
+
+
+## Network Visualization
+
+![](figures/vos/09.jpg)
+
+## Overlay Visualization
+
+![](figures/vos/10.jpg)
+
+## Overlay Visualization Selecting the node
+
+
+![](figures/vos/09-1.jpg)
+
+
+## Density Visualization
+
+![](figures/vos/11.jpg)
+
+
+

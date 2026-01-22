@@ -5,32 +5,13 @@ subtitle: "ENSGSI"
 
 # Syllabus
 
-:::: {.grid .course-details .course-details-smaller}
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-### Instructors
+## Instructors
 
 - Fabio A. Cruz Sanchez 
 - Mauricio Camargo
 - Ferney Osorio
 - Alex Gabriel
-
-:::
-
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-### Course details
-
-- 
-:::
-
-::: {.g-col-12 .g-col-md-4 .contact-policy}
-### Contacting us
-
-- 
-:::
-
-::::
-
 
 
 ## Goal of the module:
@@ -44,31 +25,44 @@ This course includes a course in presences and a writing workshop of a first sci
 
 # Day 1: Introduction
 
-## What is scientific research?
+## Presentation of the day
 
 ```{=html}
-<iframe class="slide-deck" src="01-introduction/slides.html" width="100%"
+<iframe class="slide-deck" src="01-introduction/index.html" width="100%"
     height="500"></iframe>
 ```
 
-## Scientific Landscape
 
-<!-- ```{=html}
-<iframe class="slide-deck" src="01-introduction/tp1.html" width="100%"
+# Tutorials
+
+
+## Step 1: Web Of Science
+
+```{=html}
+<iframe class="slide-deck" src="01-introduction/00-wos.html" width="100%"
     height="500"></iframe>
-``` -->
-
-# Day 2: Literature  Review
+```
 
 
-## What is a Literature Review
+## Step 2: VosViewer
+
+```{=html}
+<iframe class="slide-deck" src="01-introduction/01-vosviewer.html" width="100%"
+    height="500"></iframe>
+
+
+
+<!-- # Day 2: Literature  Review -->
+
+
+<!-- ## What is a Literature Review -->
 
 <!-- ```{=html}
 <iframe class="slide-deck" src="02-literature/index.html" width="100%"
     height="500"></iframe>
 ``` -->
 
-## Reading Scientific literature
+<!-- ## Reading Scientific literature -->
 
 <!-- ```{=html}
 <iframe class="slide-deck" src="02-literature/tp2.html" width="100%"

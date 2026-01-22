@@ -1,0 +1,166 @@
+---
+title: "Tutorials Web of Science"
+subtitle: "TD 1: Web of Science / OpenAlex / Vosviewer /"  
+email: "fabio.cruz@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+author: 
+  - "MCF. Fabio A. CRUZ SANCHEZ"
+metadata-files:
+  - _metadata.yml
+format:
+  revealjs:
+    footer: 'Web Of Science'
+    #subtitle-as-header: true
+    slide-level: 2
+    auto-stretch: true
+    title-slide: false
+filters:
+  - reveal-auto-agenda
+auto-agenda:
+  bullets: numbered
+  heading: Tutorials
+---
+
+
+#  Access to WoS database {.center}
+
+## WoS database → Connect to the UL ENT
+
+Use your UL account to access to the databases
+
+![<https://ent.univ-lorraine.fr/#BU> -\> BU Ingénieurs Brabois](figures/01.jpg)
+
+## WoS database → Access to the 'Ressources en Ligne'
+
+![Resource online of the UL](figures/01-UL-databases/01.png)
+
+
+## WoS database → UL Web of Science
+
+![Look for the 'Web of Science' database](figures/01-UL-databases/02.png)
+
+
+
+# Web of Science Interface 
+## Simple research mode
+
+Remember the:  **Subject + Verb + Problem**
+
+![](figures/05.jpg)
+
+## See your Search Equation
+
+![](figures/05-1.png)
+
+## [Optional] Web of Science: Go for a Advance research
+
+![](figures/06.jpg)
+
+## [Optional] Web of Science: Add you search query 
+
+Remember the:  **Topic + Subject + Problem**
+
+![](figures/07.jpg)
+
+## [Optional] Web of Science: Advance search
+
+But, take a look of the other type of searches 
+
+![](figures/08.jpg)
+
+## [Optional] Web of Science: put the Search Equation 
+
+![](figures/09.jpg)
+
+
+# Results on WoS platform {#wos-results}
+
+![](figures/10.jpg)
+
+
+## Analyze the Results
+
+![](figures/14.jpg)
+
+## Analyze the Categories
+
+![](figures/15.jpg)
+
+## Analyze the Authors
+
+![](figures/16.jpg)
+
+## Analyze the Funding Agencies
+
+![](figures/17.jpg)
+
+## Analyze the Countries
+
+![](figures/18.jpg)
+
+## Citation Report
+
+![](figures/20.png)
+
+## Citation Report Export
+
+![](figures/21.png)
+
+
+
+
+# Web of Science: Export results {#wos-export}
+
+::: {layout="[20,80]" layout-valign="center"}
+:::{}
+`Export > Select Tab Deliminted File` 
+:::
+
+::: {.r-stack}
+![](figures/wos/export-01.png)
+
+![](figures/wos/export-02.png){.fragment }
+:::
+:::
+
+
+
+## WoS: Export results
+
+::: {layout="[20,80]" layout-valign="center"}
+:::{}
+`Select Custom Selection ` 
+:::
+
+::: {.r-stack}
+![](figures/wos/export-03.png)
+:::
+:::
+
+## WoS: Export results
+
+::: {layout="[20,80]" layout-valign="center"}
+:::{}
+`Select All Items` 
+:::
+
+![](figures/wos/export-04.png)
+
+:::
+
+## WoS: Export results
+
+::: {layout="[20,80]" layout-valign="center"}
+:::{}
+`Export & Download` 
+:::
+
+::: {.r-stack}
+![](figures/wos/export-05.png)
+
+![](figures/wos/export-06.png){.fragment }
+:::
+
+:::
+
+

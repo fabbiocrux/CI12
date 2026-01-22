@@ -20,12 +20,12 @@ website:
           - text: "TD1: VOSviewer -- Visualization of Research Landscape"
             href: 01-introduction/tp1.qmd
       - text: "---" 
-      - section: "Act II: Literature review"
-        contents:
-          - text: "CM2: On the shoulders of giants"
-            href: 02-literature/index.qmd
-          - text: "TD2: Bibliometrix -- Networks of Research Landscape"
-            href: 02-literature/tp2.qmd
+#      - section: "Act II: Literature review"
+#        contents:
+#          - text: "CM2: On the shoulders of giants"
+#            href: 02-literature/index.qmd
+#          - text: "TD2: Bibliometrix -- Networks of Research Landscape"
+#            href: 02-literature/tp2.qmd
   
 
 format:

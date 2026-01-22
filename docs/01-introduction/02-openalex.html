@@ -9,11 +9,13 @@
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/quarto-contrib/reveal-header-1.0.0/add_header.js" defer="true"></script>
 <link href="../site_libs/quarto-contrib/reveal-header-1.0.0/add_header.css" rel="stylesheet">
-<link href="../site_libs/quarto-contrib/grid-htext-1.0.0/grid_htext.css" rel="stylesheet"><meta charset="utf-8">
+<link href="../site_libs/quarto-contrib/grid-htext-1.0.0/grid_htext.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/reveal-auto-agenda-0.0.3/reveal-auto-agenda.css" rel="stylesheet"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.8.25">
 
+  <meta name="author" content="MCF. Fabio A. CRUZ SANCHEZ">
   <meta name="dcterms.date" content="2026-01-21">
-  <title>CI12 – tp1</title>
+  <title>CI12 – Tutorials Vosviewer</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -131,9 +133,175 @@
   <div class="reveal">
     <div class="slides">
 
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">Tutorials Vosviewer</h1>
+  <p class="subtitle">TD 1: Web of Science / Vosviewer / <strong>OpenAlex</strong></p>
 
-<section class="slide level3">
+<div class="quarto-title-authors">
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+MCF. Fabio A. CRUZ SANCHEZ 
+</div>
+        <p class="quarto-title-affiliation">
+            Université de Lorraine | ENSGSI
+          </p>
+    </div>
+</div>
 
+  <p class="date">January 21, 2026</p>
+</section>
+<section>
+<section id="openalex" class="title-slide slide level1 agenda-slide center">
+<h1>OpenAlex</h1>
+<div class="agenda-heading">
+<p>Tutorials VosViewer</p>
+</div>
+<div class="agenda">
+<ol>
+<li><div class="agenda-active">
+<p>OpenAlex</p>
+</div></li>
+<li><div class="agenda-inactive agenda-post-active">
+<p>Search on OpenAlex</p>
+</div></li>
+</ol>
+</div>
+</section>
+<section id="openalex" class="title-slide slide level2 center" data-background-image="figures/openalex/OA-03.png" data-background-size="55%" data-background-position="80% 50%">
+<h2>PresentationOpenAlex</h2>
+<p><img data-src="figures/openalex/OpenAlex-banner.png" class="" width="500"></p>
+<p><a href="https://openalex.org/">https://openalex.org/</a></p>
+</section>
+
+<section id="entities-in-openalex" class="title-slide slide level2 center">
+<h2>Entities in OpenAlex</h2>
+<div class="quarto-layout-panel" data-layout="[50, 50]">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<p>OpenAlex will identify these metadata:</p>
+<ul>
+<li>Works → Articles, Conferences, Books.</li>
+<li>Authors → Names, Institutions</li>
+<li>Institutions → Name, location..</li>
+<li>Funding → APC</li>
+</ul>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img data-src="figures/openalex/OpenAlex-entities.png"></p>
+</div>
+</div>
+</div>
+<p>The idea is to obtain the <strong>metadata of the scientific</strong> documentation.</p>
+</section>
+
+<section id="metadata-on-openalex" class="title-slide slide level2 center">
+<h2>Metadata on OpenAlex</h2>
+
+<img data-src="figures/openalex/Metadata-00.png" style="width:80.0%" class="r-stretch quarto-figure-center"><p class="caption">Source. OpenAlex documentation</p></section>
+
+<section id="metadata-on-openalex-1" class="title-slide slide level2 center">
+<h2>Metadata on OpenAlex</h2>
+
+<img data-src="figures/openalex/Metadata-01.png" style="width:80.0%" class="r-stretch quarto-figure-center"><p class="caption">Source. OpenAlex documentation</p></section>
+</section>
+<section>
+<section id="search-on-openalex" class="title-slide slide level1 agenda-slide center">
+<h1>Search on OpenAlex</h1>
+<div class="agenda-heading">
+<p>Tutorials VosViewer</p>
+</div>
+<div class="agenda">
+<ol>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>OpenAlex</p>
+</div></li>
+<li><div class="agenda-active">
+<p>Search on OpenAlex</p>
+</div></li>
+</ol>
+</div>
+</section>
+<section id="search-on-openalex-1" class="title-slide slide level2 center">
+<h2>Search on OpenAlex</h2>
+<p>Structure of the search equation:</p>
+<p><code style="background-color: #D3D3D3">(key1 OR key2) AND (key3 OR key4) AND (key5 OR key6)</code></p>
+
+<img data-src="figures/openalex/OA-03.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+
+<section id="interface-on-openalex" class="title-slide slide level2 center">
+<h2>Interface on OpenAlex</h2>
+<div class="quarto-layout-panel" data-layout="[40, 60]">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<p><strong>Type of search:</strong></p>
+<ul>
+<li>Works</li>
+<li>Authors</li>
+<li>Sources</li>
+<li>Institutions</li>
+</ul>
+<p><img data-src="figures/openalex/OA-05.png"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<p><img data-src="figures/openalex/OA-04.png"></p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="filters-on-openalex" class="title-slide slide level2 center">
+<h2>Filters on OpenAlex</h2>
+<div class="quarto-layout-panel" data-layout="[40, 60]">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<ol type="1">
+<li>Filters are the basis of query-building and allow searching of entities, attributes, and text.</li>
+</ol>
+<p>Currently 47 filters are available.</p>
+<p><img data-src="figures/openalex/OA-07.png"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<p><img data-src="figures/openalex/OA-06.png"></p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="works-on-openalex" class="title-slide slide level2 center">
+<h2>Works on OpenAlex</h2>
+<div class="quarto-layout-panel" data-layout="[50, 50]">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p>Each work can be identified</p>
+<p><img data-src="figures/openalex/OA-04.png"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img data-src="figures/openalex/OA-08.png"></p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="option-1-connecting-of-openalex-with-vosviewer-via-api" class="title-slide slide level2 center">
+<h2>[Option 1] Connecting of OpenAlex with VosViewer (via API)</h2>
+<div class="quarto-layout-panel" data-layout="[50,50]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<ul>
+<li>Using the API</li>
+<li><strong>Less than 50000!!</strong></li>
+</ul>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<p><iframe data-external="1" src="https://www.youtube.com/embed/ZNyi29IER90?si=jd1CN81P50EGpCpG" width="1200" height="500" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> Source. OpenAlex YT Channel</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="option-1-connecting-of-openalex-with-vosviewer-via-download" class="title-slide slide level2 center">
+<h2>[Option 1] Connecting of OpenAlex with VosViewer (via download)</h2>
+<iframe data-external="1" src="https://www.youtube.com/embed/k5xtJhVsGxM?si=8KFk0Hs46IlkmbB5" width="1200" height="500" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 <div class="reveal-header">
@@ -150,6 +318,7 @@
 <p> </p>
 </div>
 </div>
+</section>
 </section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">

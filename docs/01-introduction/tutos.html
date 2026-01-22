@@ -12,8 +12,10 @@
 <link href="../site_libs/quarto-contrib/grid-htext-1.0.0/grid_htext.css" rel="stylesheet"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.8.25">
 
+  <meta name="author" content="MdC. Fabio A. CRUZ SANCHEZ">
+  <meta name="author" content="Pr. Mauricio Camargo">
   <meta name="dcterms.date" content="2026-01-21">
-  <title>CI12 – tp1</title>
+  <title>CI12 – Introduction to Bibliometric Analysis: Research Landscape using VOSviewer</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -126,14 +128,260 @@
       margin-right: 0; 
     }
   </style>
+  <link href="../site_libs/countdown-0.4.0/countdown.css" rel="stylesheet">
+  <script src="../site_libs/countdown-0.4.0/countdown.js"></script>
 </head>
 <body class="quarto-light">
   <div class="reveal">
     <div class="slides">
 
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">Introduction to Bibliometric Analysis: Research Landscape using VOSviewer</h1>
+  <p class="subtitle">TD 1: Vosviewer / Web of Science / OpenAlex</p>
 
-<section class="slide level3">
+<div class="quarto-title-authors">
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+MdC. Fabio A. CRUZ SANCHEZ 
+</div>
+        <p class="quarto-title-affiliation">
+            Université de Lorraine | ENSGSI
+          </p>
+    </div>
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+Pr. Mauricio Camargo 
+</div>
+</div>
+</div>
 
+  <p class="date">January 21, 2026</p>
+</section>
+<section>
+<section id="presentation-of-td" class="title-slide slide level1 center">
+<h1>Presentation of TD</h1>
+
+</section>
+<section id="pedagogical-goal" class="title-slide slide level2 center">
+<h2>Pedagogical goal</h2>
+<ol type="1">
+<li>🧠 <strong>Knowledge</strong> :
+<ul>
+<li>Understand the structure of the <strong>scientific articles and databases</strong>.</li>
+</ul></li>
+<li>🔨 <strong>Know-how</strong> :
+<ul>
+<li>Search on pertinent <strong>scientific databases</strong> as <strong>WoS</strong> and <strong>OpenAlex</strong>.<br>
+</li>
+<li>Identify a pertinent bibliography regarding a subject.</li>
+</ul></li>
+<li>✍<strong>Competence</strong> :
+<ul>
+<li>Be able to make a <span class="fragment highlight-red"><strong>bibliometric analysis</strong></span> of set of documents from a research question.</li>
+</ul></li>
+</ol>
+</section>
+
+<section id="the-exercises" class="title-slide slide level2 center">
+<h2>The Exercises</h2>
+<div class="columns">
+<div class="column" style="width:30%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/Step2a.png"></p>
+<figcaption>Step 1: Research conceptualization</figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:30%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/Step2b.png"></p>
+<figcaption>Step 2: Scientific screening</figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:30%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/Step2c.png"></p>
+<figcaption>Step 3: Scientific and Patent Landscapes</figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+
+<section id="step-1-research-conceptualization" class="title-slide slide level2 center">
+<h2>Step 1: Research conceptualization</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/Step2a.png" style="width:80.0%"></p>
+<figcaption>Research question</figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<p><strong>🎯 Goal:</strong></p>
+<ul>
+<li>Based on the canvas, Identify a <strong>research question</strong> from a general topic that you want to study.
+<ul>
+<li>Define two or three specific research topics that complete the general research question.</li>
+</ul></li>
+</ul>
+<div class="cell">
+<div class="cell-output-display">
+<div class="countdown" id="timer_a424ff40" data-update-every="1" tabindex="0" style="top:100;right:50;margin:5px;padding:5px;font-size:4em;">
+<div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
+<code class="countdown-time"><span class="countdown-digits minutes">45</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+</div>
+</div>
+</div>
+</div></div>
+</section>
+
+<section id="step-2-scientific-screening" class="title-slide slide level2 center">
+<h2>Step 2: Scientific screening</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/Step2b.png"></p>
+<figcaption>Search equestion</figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<p><strong>🎯 Goal:</strong></p>
+<ul>
+<li>Structurer a replicable search equation based on the structuration of the ‘Venn Diagram’ approach.</li>
+<li>Go to Scientific databases <a href="#/access">Web of Science</a> and <a href="#/openalex">OpenAlex</a> to select the pertinent</li>
+</ul>
+<div class="cell">
+<div class="cell-output-display">
+<div class="countdown" id="timer_db481d69" data-update-every="1" tabindex="0" style="top:100;right:50;margin:5px;padding:5px;font-size:4em;">
+<div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
+<code class="countdown-time"><span class="countdown-digits minutes">45</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+</div>
+</div>
+</div>
+</div></div>
+</section>
+
+<section id="step-3-scientific-and-patent-landscapes" class="title-slide slide level2 center">
+<h2>Step 3: Scientific and Patent Landscapes</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/Step2c.png"></p>
+<figcaption>scientific and the Patent landscapes</figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<p><strong>🎯 Goal:</strong> Create a detailed description and facilitate a discussion on the visualizations generated by VOSviewer.</p>
+<ul>
+<li>Focus on interpreting how the clusters identified relate to the research question.</li>
+<li>Examine key patterns and connections.</li>
+<li>Uncover insights into the relationships among concepts and themes.</li>
+<li>Make a description enhancing the understanding of the research landscape.</li>
+</ul>
+<div class="cell">
+<div class="cell-output-display">
+<div class="countdown" id="timer_cc3f2b90" data-update-every="1" tabindex="0" style="top:100;right:50;margin:5px;padding:5px;font-size:4em;">
+<div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
+<code class="countdown-time"><span class="countdown-digits minutes">45</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+</div>
+</div>
+</div>
+</div></div>
+</section>
+
+<section id="scientific-databases-web-of-science-wos-and-openalex" class="title-slide slide level2 center">
+<h2>Scientific databases: <br> Web Of Science (WoS) and OpenAlex</h2>
+
+</section>
+<section id="web-of-science-wos" class="slide level3">
+<h3>Web Of Science (WoS)</h3>
+<div class="quarto-layout-panel" data-layout="[30,70]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/WOS-00.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+<div class="callout callout-tip callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Tutorials</strong></p>
+</div>
+<div class="callout-content">
+<ol type="1">
+<li><a href="#/access">🔑 To Access to WoS</a></li>
+<li><a href="#/wos">🖥️ To the Interface</a></li>
+<li><a href="#/wos-results">📊 To the Results</a></li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: flex-start;">
+<ul>
+<li>WoS indexes a wide range of academic publications → <strong>peer-reviewed journals</strong>, conference proceedings, patents…</li>
+<li>Citation Tracking → 📈</li>
+<li>Research Analytics → 🏛️🌍</li>
+<li>Curated Content → 📋 Minimal Criteria of indexation</li>
+<li>Interdisciplinary Reach → ⚙️Engineering to 👥 Social Sciences</li>
+<li>Developed by Clarivate → 🔒💰</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="openalex" class="slide level3">
+<h3>OpenAlex</h3>
+<div class="quarto-layout-panel" data-layout="[30,70]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/openalex/OA-00.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: flex-start;">
+<ul>
+<li>OpenAlex indexes a wide range of academic publications → <strong>peer-reviewed journals</strong>, conference proceedings.</li>
+<li>Developed by OurResearch → <span style="color:red;"><strong>Open Source Science</strong></span> 🔓</li>
+</ul>
+</div>
+</div>
+</div>
+<p><strong>Offers a replacement for industry-standard scientific knowledge bases like Elsevier’s Scopus and Clarivate’s Web of Science ❗</strong></p>
+</section>
+
+<section id="bibliometric-mapping-vosviewer" class="title-slide slide level2 center">
+<h2>Bibliometric mapping: Vosviewer</h2>
+<div class="quarto-layout-panel" data-layout="[60,40]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<p>Functions of VosViewer:</p>
+<ol type="1">
+<li>Create maps based on network data.</li>
+<li>Visualize and explore the maps.</li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/vos/09.jpg" class="quarto-figure quarto-figure-center" width="900"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+
+</div>
+</div>
+</div>
 
 
 <div class="reveal-header">
@@ -150,6 +398,7 @@
 <p> </p>
 </div>
 </div>
+</section>
 </section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
@@ -368,6 +617,44 @@
         ]
       });
     </script>
+    
+    <script>
+      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
+      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
+      // slide changes (different for each slide format).
+      (function () {
+        // dispatch for htmlwidgets
+        function fireSlideEnter() {
+          const event = window.document.createEvent("Event");
+          event.initEvent("slideenter", true, true);
+          window.document.dispatchEvent(event);
+        }
+
+        function fireSlideChanged(previousSlide, currentSlide) {
+          fireSlideEnter();
+
+          // dispatch for shiny
+          if (window.jQuery) {
+            if (previousSlide) {
+              window.jQuery(previousSlide).trigger("hidden");
+            }
+            if (currentSlide) {
+              window.jQuery(currentSlide).trigger("shown");
+            }
+          }
+        }
+
+        // hookup for slidy
+        if (window.w3c_slidy) {
+          window.w3c_slidy.add_observer(function (slide_num) {
+            // slide_num starts at position 1
+            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
+          });
+        }
+
+      })();
+    </script>
+
     <script id="quarto-html-after-body" type="application/javascript">
       window.document.addEventListener("DOMContentLoaded", function (event) {
         const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")

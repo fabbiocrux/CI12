@@ -152,36 +152,13 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./01-introduction/tp1.html" class="sidebar-item-text sidebar-link">
+  <a href="./01-introduction/tp1.qmd" class="sidebar-item-text sidebar-link">
  <span class="menu-text">TD1: VOSviewer – Visualization of Research Landscape</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="px-0"><hr class="sidebar-divider hi "></li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
- <span class="menu-text">Act II: Literature review</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./02-literature/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">CM2: On the shoulders of giants</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./02-literature/tp2.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">TD2: Bibliometrix – Networks of Research Landscape</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
     </ul>
     </div>
 </nav>
@@ -194,17 +171,17 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#syllabus" id="toc-syllabus" class="nav-link active" data-scroll-target="#syllabus">Syllabus</a>
   <ul class="collapse">
+  <li><a href="#instructors" id="toc-instructors" class="nav-link" data-scroll-target="#instructors">Instructors</a></li>
   <li><a href="#goal-of-the-module" id="toc-goal-of-the-module" class="nav-link" data-scroll-target="#goal-of-the-module">Goal of the module:</a></li>
   </ul></li>
   <li><a href="#day-1-introduction" id="toc-day-1-introduction" class="nav-link" data-scroll-target="#day-1-introduction">Day 1: Introduction</a>
   <ul class="collapse">
-  <li><a href="#what-is-scientific-research" id="toc-what-is-scientific-research" class="nav-link" data-scroll-target="#what-is-scientific-research">What is scientific research?</a></li>
-  <li><a href="#scientific-landscape" id="toc-scientific-landscape" class="nav-link" data-scroll-target="#scientific-landscape">Scientific Landscape</a></li>
+  <li><a href="#presentation-of-the-day" id="toc-presentation-of-the-day" class="nav-link" data-scroll-target="#presentation-of-the-day">Presentation of the day</a></li>
   </ul></li>
-  <li><a href="#day-2-literature-review" id="toc-day-2-literature-review" class="nav-link" data-scroll-target="#day-2-literature-review">Day 2: Literature Review</a>
+  <li><a href="#tutorials" id="toc-tutorials" class="nav-link" data-scroll-target="#tutorials">Tutorials</a>
   <ul class="collapse">
-  <li><a href="#what-is-a-literature-review" id="toc-what-is-a-literature-review" class="nav-link" data-scroll-target="#what-is-a-literature-review">What is a Literature Review</a></li>
-  <li><a href="#reading-scientific-literature" id="toc-reading-scientific-literature" class="nav-link" data-scroll-target="#reading-scientific-literature">Reading Scientific literature</a></li>
+  <li><a href="#step-1-web-of-science" id="toc-step-1-web-of-science" class="nav-link" data-scroll-target="#step-1-web-of-science">Step 1: Web Of Science</a></li>
+  <li><a href="#step-2-vosviewer" id="toc-step-2-vosviewer" class="nav-link" data-scroll-target="#step-2-vosviewer">Step 2: VosViewer</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -234,9 +211,8 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="syllabus" class="level1">
 <h1>Syllabus</h1>
-<div class="grid course-details course-details-smaller">
-<section id="instructors" class="level3 g-col-12 g-col-sm-6 g-col-md-4">
-<h3 class="anchored" data-anchor-id="instructors">Instructors</h3>
+<section id="instructors" class="level2">
+<h2 class="anchored" data-anchor-id="instructors">Instructors</h2>
 <ul>
 <li>Fabio A. Cruz Sanchez</li>
 <li>Mauricio Camargo</li>
@@ -244,19 +220,6 @@ ul.task-list li input[type="checkbox"] {
 <li>Alex Gabriel</li>
 </ul>
 </section>
-<section id="course-details" class="level3 g-col-12 g-col-sm-6 g-col-md-4">
-<h3 class="anchored" data-anchor-id="course-details">Course details</h3>
-<ul>
-<li></li>
-</ul>
-</section>
-<section id="contacting-us" class="level3 g-col-12 g-col-md-4 contact-policy">
-<h3 class="anchored" data-anchor-id="contacting-us">Contacting us</h3>
-<ul>
-<li></li>
-</ul>
-</section>
-</div>
 <section id="goal-of-the-module" class="level2">
 <h2 class="anchored" data-anchor-id="goal-of-the-module">Goal of the module:</h2>
 <p>This introduction course seeks to to Master and Engineering students to the basis of the scientific research in Innovation Management field. The main purpose is to understand the process of establishing a research process pipeline, including the literature review, structuration of the research problematic, definition of experimental protocol and hypothesis and presentation of the results in from of a scientific paper. Moreover, an overview of the</p>
@@ -265,29 +228,28 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="day-1-introduction" class="level1">
 <h1>Day 1: Introduction</h1>
-<section id="what-is-scientific-research" class="level2">
-<h2 class="anchored" data-anchor-id="what-is-scientific-research">What is scientific research?</h2>
-<iframe class="slide-deck" src="01-introduction/slides.html" width="100%" height="500"></iframe>
-</section>
-<section id="scientific-landscape" class="level2">
-<h2 class="anchored" data-anchor-id="scientific-landscape">Scientific Landscape</h2>
-<!-- ```{=html}
-<iframe class="slide-deck" src="01-introduction/tp1.html" width="100%"
-    height="500"></iframe>
-``` -->
+<section id="presentation-of-the-day" class="level2">
+<h2 class="anchored" data-anchor-id="presentation-of-the-day">Presentation of the day</h2>
+<iframe class="slide-deck" src="01-introduction/index.html" width="100%" height="500"></iframe>
 </section>
 </section>
-<section id="day-2-literature-review" class="level1">
-<h1>Day 2: Literature Review</h1>
-<section id="what-is-a-literature-review" class="level2">
-<h2 class="anchored" data-anchor-id="what-is-a-literature-review">What is a Literature Review</h2>
+<section id="tutorials" class="level1">
+<h1>Tutorials</h1>
+<section id="step-1-web-of-science" class="level2">
+<h2 class="anchored" data-anchor-id="step-1-web-of-science">Step 1: Web Of Science</h2>
+<iframe class="slide-deck" src="01-introduction/00-wos.html" width="100%" height="500"></iframe>
+</section>
+<section id="step-2-vosviewer" class="level2">
+<h2 class="anchored" data-anchor-id="step-2-vosviewer">Step 2: VosViewer</h2>
+<iframe class="slide-deck" src="01-introduction/01-vosviewer.html" width="100%" height="500">
+</iframe>
+<!-- # Day 2: Literature  Review -->
+<!-- ## What is a Literature Review -->
 <!-- ```{=html}
 <iframe class="slide-deck" src="02-literature/index.html" width="100%"
     height="500"></iframe>
 ``` -->
-</section>
-<section id="reading-scientific-literature" class="level2">
-<h2 class="anchored" data-anchor-id="reading-scientific-literature">Reading Scientific literature</h2>
+<!-- ## Reading Scientific literature -->
 <!-- ```{=html}
 <iframe class="slide-deck" src="02-literature/tp2.html" width="100%"
     height="500"></iframe>

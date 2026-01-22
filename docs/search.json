@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Research, Innovation & Development",
     "section": "",
-    "text": "Fabio A. Cruz Sanchez\nMauricio Camargo\nFerney Osorio\nAlex Gabriel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis introduction course seeks to to Master and Engineering students to the basis of the scientific research in Innovation Management field. The main purpose is to understand the process of establishing a research process pipeline, including the literature review, structuration of the research problematic, definition of experimental protocol and hypothesis and presentation of the results in from of a scientific paper. Moreover, an overview of the\nThis course includes a course in presences and a writing workshop of a first scientific paper."
+    "text": "Fabio A. Cruz Sanchez\nMauricio Camargo\nFerney Osorio\nAlex Gabriel\n\n\n\n\nThis introduction course seeks to to Master and Engineering students to the basis of the scientific research in Innovation Management field. The main purpose is to understand the process of establishing a research process pipeline, including the literature review, structuration of the research problematic, definition of experimental protocol and hypothesis and presentation of the results in from of a scientific paper. Moreover, an overview of the\nThis course includes a course in presences and a writing workshop of a first scientific paper."
   },
   {
     "objectID": "index.html#goal-of-the-module",
@@ -18,7 +18,7 @@
     "href": "index.html#what-is-scientific-research",
     "title": "Research, Innovation & Development",
     "section": "What is scientific research?",
-    "text": "What is scientific research?"
+    "text": "What is scientific research?\n\n# Tutorials ## Introdu Landscape"
   },
   {
     "objectID": "index.html#scientific-landscape",
@@ -60,7 +60,7 @@
     "href": "01-introduction/index.html#mental-model-for-the-course",
     "title": "What is Scientific Research  for Innovation Management?",
     "section": "Mental model for the course?",
-    "text": "Mental model for the course?\n\n\n\nResearch conceptualization"
+    "text": "Mental model for the course?\n\nResearch conceptualization"
   },
   {
     "objectID": "01-introduction/index.html#rules-of-the-game",
@@ -130,14 +130,14 @@
     "href": "01-introduction/index.html#scientific-approaches",
     "title": "What is Scientific Research  for Innovation Management?",
     "section": "Scientific approaches",
-    "text": "Scientific approaches\n\n\n\nScientific approaches\n\n\n\n\n\nDeduction\nla méthode par laquelle on va de la cause aux effets, du principe aux conséquences, du général au particulier.\n\n\nInduction\nLa règle découle de l’observation répétée de faits réels, contingents."
+    "text": "Scientific approaches\n\nScientific approaches\n\n\nDeduction\nla méthode par laquelle on va de la cause aux effets, du principe aux conséquences, du général au particulier.\n\n\nInduction\nLa règle découle de l’observation répétée de faits réels, contingents."
   },
   {
     "objectID": "01-introduction/index.html#mental-model-for-the-course-1",
     "href": "01-introduction/index.html#mental-model-for-the-course-1",
     "title": "What is Scientific Research  for Innovation Management?",
     "section": "Mental model for the course?",
-    "text": "Mental model for the course?\n\n\n\nResearch conceptualization"
+    "text": "Mental model for the course?\n\nResearch conceptualization"
   },
   {
     "objectID": "01-introduction/index.html#mental-model-for-today",
@@ -200,7 +200,7 @@
     "href": "01-introduction/index.html#technology-readiness-levels",
     "title": "What is Scientific Research  for Innovation Management?",
     "section": "Technology Readiness → Levels",
-    "text": "Technology Readiness → Levels\nFramework developed in the Aeronautical field.\n\n\n\nTechnology Readiness Levels (TRL)"
+    "text": "Technology Readiness → Levels\nFramework developed in the Aeronautical field.\n\nTechnology Readiness Levels (TRL)"
   },
   {
     "objectID": "01-introduction/index.html#how-to-be-a-relevant-interlocuteur",
@@ -242,14 +242,14 @@
     "href": "01-introduction/index.html#what-the-difference-these-two-googles",
     "title": "What is Scientific Research  for Innovation Management?",
     "section": "What the difference these two googles?",
-    "text": "What the difference these two googles?\n\n\n\nGoogle Scholar Vs Google Traditional"
+    "text": "What the difference these two googles?\n\nGoogle Scholar Vs Google Traditional"
   },
   {
     "objectID": "01-introduction/index.html#peer-reviewing-process",
     "href": "01-introduction/index.html#peer-reviewing-process",
     "title": "What is Scientific Research  for Innovation Management?",
     "section": "Peer Reviewing process",
-    "text": "Peer Reviewing process\n\n\n\nGoogle Scholar Vs Google Traditional"
+    "text": "Peer Reviewing process\n\nGoogle Scholar Vs Google Traditional"
   },
   {
     "objectID": "01-introduction/index.html#scientific-databases",
@@ -1225,7 +1225,7 @@
     "href": "01-introduction/tp1.html#bibliometric-mapping-vosviewer",
     "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
     "section": "Bibliometric mapping: Vosviewer",
-    "text": "Bibliometric mapping: Vosviewer",
+    "text": "Bibliometric mapping: Vosviewer\n\n\n\nFunctions of VosViewer:\n\nCreate maps based on network data.\nVisualize and explore the maps.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScientific reference\n\n\nVan Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. https://doi.org/10.1007/s11192-009-0146-3\n\n\n\n\n\n\n\n\n\nTutorials\n\n\n\nScientific Network visualization\nPatent Network visualization\n\n⬇️   Download at https://www.vosviewer.com/\n📕  Offical Manual of VOSviewer",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",
@@ -1861,11 +1861,1093 @@
     "href": "01-introduction/tp1.html#vosviewer-for-patents-8",
     "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
     "section": "VOSviewer for Patents",
-    "text": "VOSviewer for Patents\n\n\n\n\n\n\n\n\n \n\n\nTD 1: Vosviewer / Web of Science / OpenAlex",
+    "text": "VOSviewer for Patents",
     "crumbs": [
       "Home",
       "Act I: Bibliometric Analysis",
       "TD1: VOSviewer -- Visualization of Research Landscape"
     ]
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#wos-database-connect-to-the-ul-ent",
+    "href": "01-introduction/00-wos.html#wos-database-connect-to-the-ul-ent",
+    "title": "Tutorials Web of Science",
+    "section": "WoS database → Connect to the UL ENT",
+    "text": "WoS database → Connect to the UL ENT\nUse your UL account to access to the databases\n\nhttps://ent.univ-lorraine.fr/#BU -&gt; BU Ingénieurs Brabois"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#wos-database-access-to-the-ressources-en-ligne",
+    "href": "01-introduction/00-wos.html#wos-database-access-to-the-ressources-en-ligne",
+    "title": "Tutorials Web of Science",
+    "section": "WoS database → Access to the ‘Ressources en Ligne’",
+    "text": "WoS database → Access to the ‘Ressources en Ligne’\n\nResource online of the UL"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#wos-database-ul-web-of-science",
+    "href": "01-introduction/00-wos.html#wos-database-ul-web-of-science",
+    "title": "Tutorials Web of Science",
+    "section": "WoS database → UL Web of Science",
+    "text": "WoS database → UL Web of Science\n\nLook for the ‘Web of Science’ database"
+  },
+  {
+    "objectID": "01-introduction/tp1.html#goal-of-the-day",
+    "href": "01-introduction/tp1.html#goal-of-the-day",
+    "title": "Tutorials for TD1",
+    "section": "Goal of the day:",
+    "text": "Goal of the day:\nThis introduction course seeks to to Master and Engineering students to the basis of the scientific research in Innovation Management field. The main purpose is to understand the process of establishing a research process pipeline, including the literature review, structuration of the research problematic, definition of experimental protocol and hypothesis and presentation of the results in from of a scientific paper.\nThis course includes a course in presences and a writing workshop of a first scientific paper.",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#what-is-scientific-research",
+    "href": "01-introduction/tp1.html#what-is-scientific-research",
+    "title": "Tutorials for TD1",
+    "section": "What is scientific research?",
+    "text": "What is scientific research?",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#scientific-landscape",
+    "href": "01-introduction/tp1.html#scientific-landscape",
+    "title": "Tutorials for TD1",
+    "section": "Scientific Landscape",
+    "text": "Scientific Landscape",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#what-is-a-literature-review",
+    "href": "01-introduction/tp1.html#what-is-a-literature-review",
+    "title": "Tutorials for TD1",
+    "section": "What is a Literature Review",
+    "text": "What is a Literature Review",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tp1.html#reading-scientific-literature",
+    "href": "01-introduction/tp1.html#reading-scientific-literature",
+    "title": "Tutorials for TD1",
+    "section": "Reading Scientific literature",
+    "text": "Reading Scientific literature",
+    "crumbs": [
+      "Home",
+      "Act I: Bibliometric Analysis",
+      "TD1: VOSviewer -- Visualization of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/tutos.html#pedagogical-goal",
+    "href": "01-introduction/tutos.html#pedagogical-goal",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Pedagogical goal",
+    "text": "Pedagogical goal\n\n🧠 Knowledge :\n\nUnderstand the structure of the scientific articles and databases.\n\n🔨 Know-how :\n\nSearch on pertinent scientific databases as WoS and OpenAlex.\n\nIdentify a pertinent bibliography regarding a subject.\n\n✍Competence :\n\nBe able to make a bibliometric analysis of set of documents from a research question."
+  },
+  {
+    "objectID": "01-introduction/tutos.html#the-exercises",
+    "href": "01-introduction/tutos.html#the-exercises",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "The Exercises",
+    "text": "The Exercises\n\n\n\n\n\nStep 1: Research conceptualization\n\n\n\n\n\n\nStep 2: Scientific screening\n\n\n\n\n\n\nStep 3: Scientific and Patent Landscapes"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#step-1-research-conceptualization",
+    "href": "01-introduction/tutos.html#step-1-research-conceptualization",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Step 1: Research conceptualization",
+    "text": "Step 1: Research conceptualization\n\n\n\n\n\nResearch question\n\n\n\n🎯 Goal:\n\nBased on the canvas, Identify a research question from a general topic that you want to study.\n\nDefine two or three specific research topics that complete the general research question.\n\n\n\n\n\n−+\n45:00"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#step-2-scientific-screening",
+    "href": "01-introduction/tutos.html#step-2-scientific-screening",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Step 2: Scientific screening",
+    "text": "Step 2: Scientific screening\n\n\n\n\n\nSearch equestion\n\n\n\n🎯 Goal:\n\nStructurer a replicable search equation based on the structuration of the ‘Venn Diagram’ approach.\nGo to Scientific databases Web of Science and OpenAlex to select the pertinent\n\n\n\n\n−+\n45:00"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#step-3-scientific-and-patent-landscapes",
+    "href": "01-introduction/tutos.html#step-3-scientific-and-patent-landscapes",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Step 3: Scientific and Patent Landscapes",
+    "text": "Step 3: Scientific and Patent Landscapes\n\n\n\n\n\nscientific and the Patent landscapes\n\n\n\n🎯 Goal: Create a detailed description and facilitate a discussion on the visualizations generated by VOSviewer.\n\nFocus on interpreting how the clusters identified relate to the research question.\nExamine key patterns and connections.\nUncover insights into the relationships among concepts and themes.\nMake a description enhancing the understanding of the research landscape.\n\n\n\n\n−+\n45:00"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#scientific-databases-web-of-science-wos-and-openalex",
+    "href": "01-introduction/tutos.html#scientific-databases-web-of-science-wos-and-openalex",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Scientific databases:  Web Of Science (WoS) and OpenAlex",
+    "text": "Scientific databases:  Web Of Science (WoS) and OpenAlex"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#bibliometric-mapping-vosviewer",
+    "href": "01-introduction/tutos.html#bibliometric-mapping-vosviewer",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Bibliometric mapping: Vosviewer",
+    "text": "Bibliometric mapping: Vosviewer\n\n\n\nFunctions of VosViewer:\n\nCreate maps based on network data.\nVisualize and explore the maps."
+  },
+  {
+    "objectID": "01-introduction/tutos.html#list-of-tutorials",
+    "href": "01-introduction/tutos.html#list-of-tutorials",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "List of tutorials",
+    "text": "List of tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nOpenAlex\nScientific Network visualization\nPatent Network visualization"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#wos-database-connect-to-the-ul-ent",
+    "href": "01-introduction/tutos.html#wos-database-connect-to-the-ul-ent",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "WoS database → Connect to the UL ENT",
+    "text": "WoS database → Connect to the UL ENT\nUse your UL account to access to the databases\n\nhttps://ent.univ-lorraine.fr/#BU -&gt; BU Ingénieurs Brabois"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#wos-database-access-to-the-ressources-en-ligne",
+    "href": "01-introduction/tutos.html#wos-database-access-to-the-ressources-en-ligne",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "WoS database → Access to the ‘Ressources en Ligne’",
+    "text": "WoS database → Access to the ‘Ressources en Ligne’\n\nResource online of the UL"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#wos-database-ul-web-of-science",
+    "href": "01-introduction/tutos.html#wos-database-ul-web-of-science",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "WoS database → UL Web of Science",
+    "text": "WoS database → UL Web of Science\n\nLook for the ‘Web of Science’ database"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#tutorials-3",
+    "href": "01-introduction/tutos.html#tutorials-3",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Tutorials",
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#simple-research-mode",
+    "href": "01-introduction/tutos.html#simple-research-mode",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Simple research mode",
+    "text": "Simple research mode\nRemember the: Subject + Verb + Problem"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#see-your-search-equation",
+    "href": "01-introduction/tutos.html#see-your-search-equation",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "See your Search Equation",
+    "text": "See your Search Equation"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#optional-web-of-science-go-for-a-advance-research",
+    "href": "01-introduction/tutos.html#optional-web-of-science-go-for-a-advance-research",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "[Optional] Web of Science: Go for a Advance research",
+    "text": "[Optional] Web of Science: Go for a Advance research"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#optional-web-of-science-add-you-search-query",
+    "href": "01-introduction/tutos.html#optional-web-of-science-add-you-search-query",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "[Optional] Web of Science: Add you search query",
+    "text": "[Optional] Web of Science: Add you search query\nRemember the: Topic + Subject + Problem"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#optional-web-of-science-advance-search",
+    "href": "01-introduction/tutos.html#optional-web-of-science-advance-search",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "[Optional] Web of Science: Advance search",
+    "text": "[Optional] Web of Science: Advance search\nBut, take a look of the other type of searches"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#optional-web-of-science-put-the-search-equation",
+    "href": "01-introduction/tutos.html#optional-web-of-science-put-the-search-equation",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "[Optional] Web of Science: put the Search Equation",
+    "text": "[Optional] Web of Science: put the Search Equation"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#tutorials-4",
+    "href": "01-introduction/tutos.html#tutorials-4",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Tutorials",
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#analyze-the-results",
+    "href": "01-introduction/tutos.html#analyze-the-results",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Analyze the Results",
+    "text": "Analyze the Results"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#analyze-the-categories",
+    "href": "01-introduction/tutos.html#analyze-the-categories",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Analyze the Categories",
+    "text": "Analyze the Categories"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#analyze-the-authors",
+    "href": "01-introduction/tutos.html#analyze-the-authors",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Analyze the Authors",
+    "text": "Analyze the Authors"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#analyze-the-funding-agencies",
+    "href": "01-introduction/tutos.html#analyze-the-funding-agencies",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Analyze the Funding Agencies",
+    "text": "Analyze the Funding Agencies"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#analyze-the-countries",
+    "href": "01-introduction/tutos.html#analyze-the-countries",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Analyze the Countries",
+    "text": "Analyze the Countries"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#citation-report",
+    "href": "01-introduction/tutos.html#citation-report",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Citation Report",
+    "text": "Citation Report"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#citation-report-export",
+    "href": "01-introduction/tutos.html#citation-report-export",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Citation Report Export",
+    "text": "Citation Report Export"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#tutorials-5",
+    "href": "01-introduction/tutos.html#tutorials-5",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Tutorials",
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#wos-export-results",
+    "href": "01-introduction/tutos.html#wos-export-results",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "WoS: Export results",
+    "text": "WoS: Export results\n\n\n\nSelect Custom Selection"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#wos-export-results-1",
+    "href": "01-introduction/tutos.html#wos-export-results-1",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "WoS: Export results",
+    "text": "WoS: Export results\n\n\n\nSelect All Items"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#wos-export-results-2",
+    "href": "01-introduction/tutos.html#wos-export-results-2",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "WoS: Export results",
+    "text": "WoS: Export results\n\n\n\nExport & Download"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#tutorials-6",
+    "href": "01-introduction/tutos.html#tutorials-6",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Tutorials",
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#entities-in-openalex",
+    "href": "01-introduction/tutos.html#entities-in-openalex",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Entities in OpenAlex",
+    "text": "Entities in OpenAlex\n\n\n\nOpenAlex will identify these metadata:\n\nWorks → Articles, Conferences, Books.\nAuthors → Names, Institutions\nInstitutions → Name, location..\nFunding → APC\n\n\n\n\n\n\n\nThe idea is to obtain the metadata of the scientific documentation."
+  },
+  {
+    "objectID": "01-introduction/tutos.html#metadata-on-openalex",
+    "href": "01-introduction/tutos.html#metadata-on-openalex",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Metadata on OpenAlex",
+    "text": "Metadata on OpenAlex\n\nSource. OpenAlex documentation"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#metadata-on-openalex-1",
+    "href": "01-introduction/tutos.html#metadata-on-openalex-1",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Metadata on OpenAlex",
+    "text": "Metadata on OpenAlex\n\nSource. OpenAlex documentation"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#search-on-openalex",
+    "href": "01-introduction/tutos.html#search-on-openalex",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Search on OpenAlex",
+    "text": "Search on OpenAlex\nStructure of the search equation:\n(key1 OR key2) AND (key3 OR key4) AND (key5 OR key6)"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#interface-on-openalex",
+    "href": "01-introduction/tutos.html#interface-on-openalex",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Interface on OpenAlex",
+    "text": "Interface on OpenAlex\n\n\n\nType of search:\n\nWorks\nAuthors\nSources\nInstitutions"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#filters-on-openalex",
+    "href": "01-introduction/tutos.html#filters-on-openalex",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Filters on OpenAlex",
+    "text": "Filters on OpenAlex\n\n\n\n\nFilters are the basis of query-building and allow searching of entities, attributes, and text.\n\nCurrently 47 filters are available in the UI."
+  },
+  {
+    "objectID": "01-introduction/tutos.html#works-on-openalex",
+    "href": "01-introduction/tutos.html#works-on-openalex",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Works on OpenAlex",
+    "text": "Works on OpenAlex\n\n\n\nEach work can be identified"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#option-1-connecting-of-openalex-with-vosviewer-via-api",
+    "href": "01-introduction/tutos.html#option-1-connecting-of-openalex-with-vosviewer-via-api",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "[Option 1] Connecting of OpenAlex with VosViewer (via API)",
+    "text": "[Option 1] Connecting of OpenAlex with VosViewer (via API)\n\n\n\n\nUsing the API\nLess than 50000!!\n\n\n\n Source. OpenAlex YT Channel"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#option-1-connecting-of-openalex-with-vosviewer-via-download",
+    "href": "01-introduction/tutos.html#option-1-connecting-of-openalex-with-vosviewer-via-download",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "[Option 1] Connecting of OpenAlex with VosViewer (via download)",
+    "text": "[Option 1] Connecting of OpenAlex with VosViewer (via download)"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#small-introduction-to-vosviewer",
+    "href": "01-introduction/tutos.html#small-introduction-to-vosviewer",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Small introduction to VosViewer",
+    "text": "Small introduction to VosViewer\n\n\n\n\nFocus on visualization of scientometric networks\nSupport for large number of data sources\nText mining functionality\nAdvanced visualization features\nRelatively easy to use\nLimited analysis options\nDeveloped at CWTS"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#co-authorship-analysis",
+    "href": "01-introduction/tutos.html#co-authorship-analysis",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Co-Authorship Analysis",
+    "text": "Co-Authorship Analysis"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#co-occurence-of-keywords",
+    "href": "01-introduction/tutos.html#co-occurence-of-keywords",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Co-Occurence of Keywords",
+    "text": "Co-Occurence of Keywords"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#add-data-minimum-number-of-occurrencies-for-keyworkds",
+    "href": "01-introduction/tutos.html#add-data-minimum-number-of-occurrencies-for-keyworkds",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Add data: Minimum number of Occurrencies for Keyworkds",
+    "text": "Add data: Minimum number of Occurrencies for Keyworkds"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#network-visualitation",
+    "href": "01-introduction/tutos.html#network-visualitation",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Network Visualitation",
+    "text": "Network Visualitation"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#clarivate-for-patents",
+    "href": "01-introduction/tutos.html#clarivate-for-patents",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Clarivate for Patents",
+    "text": "Clarivate for Patents\n\n\n\nENT UL &gt; Ressources en Ligne\nDerwent Innovation Index"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#clarivate-for-patents-use-the-search-equation",
+    "href": "01-introduction/tutos.html#clarivate-for-patents-use-the-search-equation",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Clarivate for Patents: use the search equation",
+    "text": "Clarivate for Patents: use the search equation"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#clarivate-for-patents-export-the-data",
+    "href": "01-introduction/tutos.html#clarivate-for-patents-export-the-data",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Clarivate for Patents: Export the Data",
+    "text": "Clarivate for Patents: Export the Data"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#clarivate-for-patents-full-record",
+    "href": "01-introduction/tutos.html#clarivate-for-patents-full-record",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Clarivate for Patents: Full record",
+    "text": "Clarivate for Patents: Full record"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#dont-forget-use-the-analyze-tool-for-patents",
+    "href": "01-introduction/tutos.html#dont-forget-use-the-analyze-tool-for-patents",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Don’t forget use the analyze tool for Patents",
+    "text": "Don’t forget use the analyze tool for Patents"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#vosviewer-for-patents-create-from-text-data.",
+    "href": "01-introduction/tutos.html#vosviewer-for-patents-create-from-text-data.",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "VOSviewer for Patents: Create from text data.",
+    "text": "VOSviewer for Patents: Create from text data."
+  },
+  {
+    "objectID": "01-introduction/tutos.html#vosviewer-for-patents",
+    "href": "01-introduction/tutos.html#vosviewer-for-patents",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "VOSviewer for Patents",
+    "text": "VOSviewer for Patents"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#vosviewer-for-patents-1",
+    "href": "01-introduction/tutos.html#vosviewer-for-patents-1",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "VOSviewer for Patents",
+    "text": "VOSviewer for Patents"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#vosviewer-for-patents-2",
+    "href": "01-introduction/tutos.html#vosviewer-for-patents-2",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "VOSviewer for Patents",
+    "text": "VOSviewer for Patents"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#vosviewer-for-patents-3",
+    "href": "01-introduction/tutos.html#vosviewer-for-patents-3",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "VOSviewer for Patents",
+    "text": "VOSviewer for Patents"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#vosviewer-for-patents-4",
+    "href": "01-introduction/tutos.html#vosviewer-for-patents-4",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "VOSviewer for Patents",
+    "text": "VOSviewer for Patents"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#vosviewer-for-patents-5",
+    "href": "01-introduction/tutos.html#vosviewer-for-patents-5",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "VOSviewer for Patents",
+    "text": "VOSviewer for Patents"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#vosviewer-for-patents-6",
+    "href": "01-introduction/tutos.html#vosviewer-for-patents-6",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "VOSviewer for Patents",
+    "text": "VOSviewer for Patents"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#vosviewer-for-patents-7",
+    "href": "01-introduction/tutos.html#vosviewer-for-patents-7",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "VOSviewer for Patents",
+    "text": "VOSviewer for Patents"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#vosviewer-for-patents-8",
+    "href": "01-introduction/tutos.html#vosviewer-for-patents-8",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "VOSviewer for Patents",
+    "text": "VOSviewer for Patents"
+  },
+  {
+    "objectID": "index.html#introdu-landscape",
+    "href": "index.html#introdu-landscape",
+    "title": "Research, Innovation & Development",
+    "section": "Introdu Landscape",
+    "text": "Introdu Landscape"
+  },
+  {
+    "objectID": "index.html#stepintrodu-landscape",
+    "href": "index.html#stepintrodu-landscape",
+    "title": "Research, Innovation & Development",
+    "section": "StepIntrodu Landscape",
+    "text": "StepIntrodu Landscape"
+  },
+  {
+    "objectID": "index.html#step1-introdu-landscape",
+    "href": "index.html#step1-introdu-landscape",
+    "title": "Research, Innovation & Development",
+    "section": "Step1: Introdu Landscape",
+    "text": "Step1: Introdu Landscape"
+  },
+  {
+    "objectID": "index.html#step1-wos",
+    "href": "index.html#step1-wos",
+    "title": "Research, Innovation & Development",
+    "section": "Step1: Wos",
+    "text": "Step1: Wos"
+  },
+  {
+    "objectID": "index.html#presentation-of-the-day",
+    "href": "index.html#presentation-of-the-day",
+    "title": "Research, Innovation & Development",
+    "section": "Presentation of the day",
+    "text": "Presentation of the day"
+  },
+  {
+    "objectID": "index.html#step1-webos",
+    "href": "index.html#step1-webos",
+    "title": "Research, Innovation & Development",
+    "section": "Step1: Webos",
+    "text": "Step1: Webos"
+  },
+  {
+    "objectID": "index.html#step1-web-of-science",
+    "href": "index.html#step1-web-of-science",
+    "title": "Research, Innovation & Development",
+    "section": "Step1: Web Of Science",
+    "text": "Step1: Web Of Science"
+  },
+  {
+    "objectID": "index.html#step-1-web-of-science",
+    "href": "index.html#step-1-web-of-science",
+    "title": "Research, Innovation & Development",
+    "section": "Step 1: Web Of Science",
+    "text": "Step 1: Web Of Science"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#tutorials",
+    "href": "01-introduction/00-wos.html#tutorials",
+    "title": "Tutorials Web of Science",
+    "section": "Tutorials",
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#simple-research-mode",
+    "href": "01-introduction/00-wos.html#simple-research-mode",
+    "title": "Tutorials Web of Science",
+    "section": "Simple research mode",
+    "text": "Simple research mode\nRemember the: Subject + Verb + Problem"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#see-your-search-equation",
+    "href": "01-introduction/00-wos.html#see-your-search-equation",
+    "title": "Tutorials Web of Science",
+    "section": "See your Search Equation",
+    "text": "See your Search Equation"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#optional-web-of-science-go-for-a-advance-research",
+    "href": "01-introduction/00-wos.html#optional-web-of-science-go-for-a-advance-research",
+    "title": "Tutorials Web of Science",
+    "section": "[Optional] Web of Science: Go for a Advance research",
+    "text": "[Optional] Web of Science: Go for a Advance research"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#optional-web-of-science-add-you-search-query",
+    "href": "01-introduction/00-wos.html#optional-web-of-science-add-you-search-query",
+    "title": "Tutorials Web of Science",
+    "section": "[Optional] Web of Science: Add you search query",
+    "text": "[Optional] Web of Science: Add you search query\nRemember the: Topic + Subject + Problem"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#optional-web-of-science-advance-search",
+    "href": "01-introduction/00-wos.html#optional-web-of-science-advance-search",
+    "title": "Tutorials Web of Science",
+    "section": "[Optional] Web of Science: Advance search",
+    "text": "[Optional] Web of Science: Advance search\nBut, take a look of the other type of searches"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#optional-web-of-science-put-the-search-equation",
+    "href": "01-introduction/00-wos.html#optional-web-of-science-put-the-search-equation",
+    "title": "Tutorials Web of Science",
+    "section": "[Optional] Web of Science: put the Search Equation",
+    "text": "[Optional] Web of Science: put the Search Equation"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#tutorials-1",
+    "href": "01-introduction/00-wos.html#tutorials-1",
+    "title": "Tutorials Web of Science",
+    "section": "Tutorials",
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#analyze-the-results",
+    "href": "01-introduction/00-wos.html#analyze-the-results",
+    "title": "Tutorials Web of Science",
+    "section": "Analyze the Results",
+    "text": "Analyze the Results"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#analyze-the-categories",
+    "href": "01-introduction/00-wos.html#analyze-the-categories",
+    "title": "Tutorials Web of Science",
+    "section": "Analyze the Categories",
+    "text": "Analyze the Categories"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#analyze-the-authors",
+    "href": "01-introduction/00-wos.html#analyze-the-authors",
+    "title": "Tutorials Web of Science",
+    "section": "Analyze the Authors",
+    "text": "Analyze the Authors"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#analyze-the-funding-agencies",
+    "href": "01-introduction/00-wos.html#analyze-the-funding-agencies",
+    "title": "Tutorials Web of Science",
+    "section": "Analyze the Funding Agencies",
+    "text": "Analyze the Funding Agencies"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#analyze-the-countries",
+    "href": "01-introduction/00-wos.html#analyze-the-countries",
+    "title": "Tutorials Web of Science",
+    "section": "Analyze the Countries",
+    "text": "Analyze the Countries"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#citation-report",
+    "href": "01-introduction/00-wos.html#citation-report",
+    "title": "Tutorials Web of Science",
+    "section": "Citation Report",
+    "text": "Citation Report"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#citation-report-export",
+    "href": "01-introduction/00-wos.html#citation-report-export",
+    "title": "Tutorials Web of Science",
+    "section": "Citation Report Export",
+    "text": "Citation Report Export"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#tutorials-2",
+    "href": "01-introduction/00-wos.html#tutorials-2",
+    "title": "Tutorials Web of Science",
+    "section": "Tutorials",
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#wos-export-results",
+    "href": "01-introduction/00-wos.html#wos-export-results",
+    "title": "Tutorials Web of Science",
+    "section": "WoS: Export results",
+    "text": "WoS: Export results\n\n\n\nSelect Custom Selection"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#wos-export-results-1",
+    "href": "01-introduction/00-wos.html#wos-export-results-1",
+    "title": "Tutorials Web of Science",
+    "section": "WoS: Export results",
+    "text": "WoS: Export results\n\n\n\nSelect All Items"
+  },
+  {
+    "objectID": "01-introduction/00-wos.html#wos-export-results-2",
+    "href": "01-introduction/00-wos.html#wos-export-results-2",
+    "title": "Tutorials Web of Science",
+    "section": "WoS: Export results",
+    "text": "WoS: Export results\n\n\n\nExport & Download"
+  },
+  {
+    "objectID": "01-introduction/tutos.html#tutorials-2",
+    "href": "01-introduction/tutos.html#tutorials-2",
+    "title": "Introduction to Bibliometric Analysis: Research Landscape using VOSviewer",
+    "section": "Tutorials",
+    "text": "Tutorials\n\nAccess to WoS database\nWeb of Science Interface\nResults on WoS plateform\nWeb of Science: Export results\nScientific Network visualization\nPatent Network visualization"
+  },
+  {
+    "objectID": "index.html#step-1-web-of-science-1",
+    "href": "index.html#step-1-web-of-science-1",
+    "title": "Research, Innovation & Development",
+    "section": "Step 1: Web Of Science",
+    "text": "Step 1: Web Of Science"
+  },
+  {
+    "objectID": "index.html#step-2-web-of-science",
+    "href": "index.html#step-2-web-of-science",
+    "title": "Research, Innovation & Development",
+    "section": "Step 2: Web Of Science",
+    "text": "Step 2: Web Of Science"
+  },
+  {
+    "objectID": "index.html#step-2-vos-of-science",
+    "href": "index.html#step-2-vos-of-science",
+    "title": "Research, Innovation & Development",
+    "section": "Step 2: Vos Of Science",
+    "text": "Step 2: Vos Of Science"
+  },
+  {
+    "objectID": "index.html#step-2-vosviewer-of-science",
+    "href": "index.html#step-2-vosviewer-of-science",
+    "title": "Research, Innovation & Development",
+    "section": "Step 2: VosViewer Of Science",
+    "text": "Step 2: VosViewer Of Science"
+  },
+  {
+    "objectID": "index.html#step-2-vosviewer",
+    "href": "index.html#step-2-vosviewer",
+    "title": "Research, Innovation & Development",
+    "section": "Step 2: VosViewer",
+    "text": "Step 2: VosViewer"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#small-introduction-to-vosviewer",
+    "href": "01-introduction/01-vosviewer.html#small-introduction-to-vosviewer",
+    "title": "Tutorials Vosviewer",
+    "section": "Small introduction to VOSViewer",
+    "text": "Small introduction to VOSViewer\n\n\n\n\nFocus on visualization of scientometric networks\nSupport for large number of data sources\nText mining functionality\nAdvanced visualization features\nRelatively easy to use\nLimited analysis options\nDeveloped at CWTS"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#co-authorship-analysis",
+    "href": "01-introduction/01-vosviewer.html#co-authorship-analysis",
+    "title": "Tutorials Vosviewer",
+    "section": "Co-Authorship Analysis",
+    "text": "Co-Authorship Analysis"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#co-occurence-of-keywords",
+    "href": "01-introduction/01-vosviewer.html#co-occurence-of-keywords",
+    "title": "Tutorials Vosviewer",
+    "section": "Co-Occurence of Keywords",
+    "text": "Co-Occurence of Keywords"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#add-data-minimum-number-of-occurrencies-for-keyworkds",
+    "href": "01-introduction/01-vosviewer.html#add-data-minimum-number-of-occurrencies-for-keyworkds",
+    "title": "Tutorials Vosviewer",
+    "section": "Add data: Minimum number of Occurrencies for Keyworkds",
+    "text": "Add data: Minimum number of Occurrencies for Keyworkds"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#network-visualitation",
+    "href": "01-introduction/01-vosviewer.html#network-visualitation",
+    "title": "Tutorials Vosviewer",
+    "section": "Network Visualitation",
+    "text": "Network Visualitation"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#add-data-from-bibliographic-database-file",
+    "href": "01-introduction/01-vosviewer.html#add-data-from-bibliographic-database-file",
+    "title": "Tutorials Vosviewer",
+    "section": "Add data: from Bibliographic database file",
+    "text": "Add data: from Bibliographic database file"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#add-data-from-bibliographic-database-file-1",
+    "href": "01-introduction/01-vosviewer.html#add-data-from-bibliographic-database-file-1",
+    "title": "Tutorials Vosviewer",
+    "section": "Add data: from Bibliographic database file",
+    "text": "Add data: from Bibliographic database file"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#add-data-select-the-.txt-files-from-wos",
+    "href": "01-introduction/01-vosviewer.html#add-data-select-the-.txt-files-from-wos",
+    "title": "Tutorials Vosviewer",
+    "section": "Add data: Select the .txt files from WoS",
+    "text": "Add data: Select the .txt files from WoS"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#select-co-authorship",
+    "href": "01-introduction/01-vosviewer.html#select-co-authorship",
+    "title": "Tutorials Vosviewer",
+    "section": "Select: Co-Authorship",
+    "text": "Select: Co-Authorship\n\n\n\nYou can see the types of analysis. Use this ﹖icon to see the relatedness for each type of the analysis:\nSelect Co-Authorship"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#select-thresholds",
+    "href": "01-introduction/01-vosviewer.html#select-thresholds",
+    "title": "Tutorials Vosviewer",
+    "section": "Select: Thresholds",
+    "text": "Select: Thresholds\nIn fonction of the type of ‘Co-Authorship analysis’ (Authors, Organizations, Countries), different type of threholds are proposed:\n\n\n\nAuthors\n\n\n\nOrganizations\n\n\n\nCountries"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#add-data-keywords-to-be-plotted",
+    "href": "01-introduction/01-vosviewer.html#add-data-keywords-to-be-plotted",
+    "title": "Tutorials Vosviewer",
+    "section": "Add data: Keywords to be plotted",
+    "text": "Add data: Keywords to be plotted"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#add-data-verify-if-keywords-are-correct",
+    "href": "01-introduction/01-vosviewer.html#add-data-verify-if-keywords-are-correct",
+    "title": "Tutorials Vosviewer",
+    "section": "Add data: Verify if Keywords are correct",
+    "text": "Add data: Verify if Keywords are correct\nAttention to the Redundancies"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#network-visualisatation",
+    "href": "01-introduction/01-vosviewer.html#network-visualisatation",
+    "title": "Tutorials Vosviewer",
+    "section": "Network Visualisatation",
+    "text": "Network Visualisatation"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#network-visualizatation",
+    "href": "01-introduction/01-vosviewer.html#network-visualizatation",
+    "title": "Tutorials Vosviewer",
+    "section": "Network Visualizatation",
+    "text": "Network Visualizatation"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#network-visualization",
+    "href": "01-introduction/01-vosviewer.html#network-visualization",
+    "title": "Tutorials Vosviewer",
+    "section": "Network Visualization",
+    "text": "Network Visualization"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#overlay-visualitation",
+    "href": "01-introduction/01-vosviewer.html#overlay-visualitation",
+    "title": "Tutorials Vosviewer",
+    "section": "Overlay Visualitation",
+    "text": "Overlay Visualitation"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#overlay-visualitation-selecting-the-node",
+    "href": "01-introduction/01-vosviewer.html#overlay-visualitation-selecting-the-node",
+    "title": "Tutorials Vosviewer",
+    "section": "Overlay Visualitation: Selecting the node",
+    "text": "Overlay Visualitation: Selecting the node"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#overlay-visualization",
+    "href": "01-introduction/01-vosviewer.html#overlay-visualization",
+    "title": "Tutorials Vosviewer",
+    "section": "Overlay Visualization",
+    "text": "Overlay Visualization"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#overlay-visualization-selecting-the-node",
+    "href": "01-introduction/01-vosviewer.html#overlay-visualization-selecting-the-node",
+    "title": "Tutorials Vosviewer",
+    "section": "Overlay Visualization Selecting the node",
+    "text": "Overlay Visualization Selecting the node"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#density-visualization",
+    "href": "01-introduction/01-vosviewer.html#density-visualization",
+    "title": "Tutorials Vosviewer",
+    "section": "Density Visualization",
+    "text": "Density Visualization"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#vosviewer-1",
+    "href": "01-introduction/01-vosviewer.html#vosviewer-1",
+    "title": "Tutorials Vosviewer",
+    "section": "Vosviewer",
+    "text": "Vosviewer\nScientific Network visualization\n⬇️ https://www.vosviewer.com/"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#vosviewer",
+    "href": "01-introduction/01-vosviewer.html#vosviewer",
+    "title": "Tutorials Vosviewer",
+    "section": "Vosviewer",
+    "text": "Vosviewer\nScientific Network visualization\n⬇️   Download at  https://www.vosviewer.com/\n📕  Official Manual"
+  },
+  {
+    "objectID": "01-introduction/02-openalex.html#entities-in-openalex",
+    "href": "01-introduction/02-openalex.html#entities-in-openalex",
+    "title": "Tutorials Vosviewer",
+    "section": "Entities in OpenAlex",
+    "text": "Entities in OpenAlex\n\n\n\nOpenAlex will identify these metadata:\n\nWorks → Articles, Conferences, Books.\nAuthors → Names, Institutions\nInstitutions → Name, location..\nFunding → APC\n\n\n\n\n\n\n\nThe idea is to obtain the metadata of the scientific documentation."
+  },
+  {
+    "objectID": "01-introduction/02-openalex.html#metadata-on-openalex",
+    "href": "01-introduction/02-openalex.html#metadata-on-openalex",
+    "title": "Tutorials Vosviewer",
+    "section": "Metadata on OpenAlex",
+    "text": "Metadata on OpenAlex\n\nSource. OpenAlex documentation"
+  },
+  {
+    "objectID": "01-introduction/02-openalex.html#metadata-on-openalex-1",
+    "href": "01-introduction/02-openalex.html#metadata-on-openalex-1",
+    "title": "Tutorials Vosviewer",
+    "section": "Metadata on OpenAlex",
+    "text": "Metadata on OpenAlex\n\nSource. OpenAlex documentation"
+  },
+  {
+    "objectID": "01-introduction/02-openalex.html#search-on-openalex",
+    "href": "01-introduction/02-openalex.html#search-on-openalex",
+    "title": "Tutorials Vosviewer",
+    "section": "Search on OpenAlex",
+    "text": "Search on OpenAlex\nStructure of the search equation:\n(key1 OR key2) AND (key3 OR key4) AND (key5 OR key6)"
+  },
+  {
+    "objectID": "01-introduction/02-openalex.html#interface-on-openalex",
+    "href": "01-introduction/02-openalex.html#interface-on-openalex",
+    "title": "Tutorials Vosviewer",
+    "section": "Interface on OpenAlex",
+    "text": "Interface on OpenAlex\n\n\n\nType of search:\n\nWorks\nAuthors\nSources\nInstitutions"
+  },
+  {
+    "objectID": "01-introduction/02-openalex.html#filters-on-openalex",
+    "href": "01-introduction/02-openalex.html#filters-on-openalex",
+    "title": "Tutorials Vosviewer",
+    "section": "Filters on OpenAlex",
+    "text": "Filters on OpenAlex\n\n\n\n\nFilters are the basis of query-building and allow searching of entities, attributes, and text.\n\nCurrently 47 filters are available."
+  },
+  {
+    "objectID": "01-introduction/02-openalex.html#works-on-openalex",
+    "href": "01-introduction/02-openalex.html#works-on-openalex",
+    "title": "Tutorials Vosviewer",
+    "section": "Works on OpenAlex",
+    "text": "Works on OpenAlex\n\n\n\nEach work can be identified"
+  },
+  {
+    "objectID": "01-introduction/02-openalex.html#option-1-connecting-of-openalex-with-vosviewer-via-api",
+    "href": "01-introduction/02-openalex.html#option-1-connecting-of-openalex-with-vosviewer-via-api",
+    "title": "Tutorials Vosviewer",
+    "section": "[Option 1] Connecting of OpenAlex with VosViewer (via API)",
+    "text": "[Option 1] Connecting of OpenAlex with VosViewer (via API)\n\n\n\n\nUsing the API\nLess than 50000!!\n\n\n\n Source. OpenAlex YT Channel"
+  },
+  {
+    "objectID": "01-introduction/02-openalex.html#openalex",
+    "href": "01-introduction/02-openalex.html#openalex",
+    "title": "Tutorials Vosviewer",
+    "section": "PresentationOpenAlex",
+    "text": "PresentationOpenAlex\n\nhttps://openalex.org/"
+  },
+  {
+    "objectID": "01-introduction/02-openalex.html#search-on-openalex-1",
+    "href": "01-introduction/02-openalex.html#search-on-openalex-1",
+    "title": "Tutorials Vosviewer",
+    "section": "Search on OpenAlex",
+    "text": "Search on OpenAlex\nStructure of the search equation:\n(key1 OR key2) AND (key3 OR key4) AND (key5 OR key6)"
+  },
+  {
+    "objectID": "01-introduction/02-openalex.html#option-1-connecting-of-openalex-with-vosviewer-via-download",
+    "href": "01-introduction/02-openalex.html#option-1-connecting-of-openalex-with-vosviewer-via-download",
+    "title": "Tutorials Vosviewer",
+    "section": "[Option 1] Connecting of OpenAlex with VosViewer (via download)",
+    "text": "[Option 1] Connecting of OpenAlex with VosViewer (via download)"
+  },
+  {
+    "objectID": "01-introduction/01-vosviewer.html#vosviewer-terminology",
+    "href": "01-introduction/01-vosviewer.html#vosviewer-terminology",
+    "title": "Tutorials Vosviewer",
+    "section": "VOSviewer: Terminology",
+    "text": "VOSviewer: Terminology\n\nMaps are created by items\nItems are object of interest → 📚Publications, 👩🏻‍🔬👨🏻‍🔬Researchers or 🔤Terms\nLinks are the relations between two items.\n\nEach link has a Strength → Positive number. The higher, the stronger.  For instance:\n\nBibliographic coupling : Number of cited references two publications have in common.\nCo-authorship: number of publications that two researches have co-authored.\nCo-occurence: Number of publications in which two terms occur together.\n\n\nClusters are a group of items\n\n\n\n\n\n\n\nScientific reference\n\n\nVan Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. https://doi.org/10.1007/s11192-009-0146-3"
+  },
+  {
+    "objectID": "01-introduction/03-patents.html#clarivate-for-patents",
+    "href": "01-introduction/03-patents.html#clarivate-for-patents",
+    "title": "Tutorials Patents",
+    "section": "Clarivate for Patents",
+    "text": "Clarivate for Patents\n\n\n\nENT UL &gt; Ressources en Ligne\nDerwent Innovation Index"
+  },
+  {
+    "objectID": "01-introduction/03-patents.html#clarivate-for-patents-use-the-search-equation",
+    "href": "01-introduction/03-patents.html#clarivate-for-patents-use-the-search-equation",
+    "title": "Tutorials Patents",
+    "section": "Clarivate for Patents: use the search equation",
+    "text": "Clarivate for Patents: use the search equation"
+  },
+  {
+    "objectID": "01-introduction/03-patents.html#clarivate-for-patents-export-the-data",
+    "href": "01-introduction/03-patents.html#clarivate-for-patents-export-the-data",
+    "title": "Tutorials Patents",
+    "section": "Clarivate for Patents: Export the Data",
+    "text": "Clarivate for Patents: Export the Data"
+  },
+  {
+    "objectID": "01-introduction/03-patents.html#clarivate-for-patents-full-record",
+    "href": "01-introduction/03-patents.html#clarivate-for-patents-full-record",
+    "title": "Tutorials Patents",
+    "section": "Clarivate for Patents: Full record",
+    "text": "Clarivate for Patents: Full record"
+  },
+  {
+    "objectID": "01-introduction/03-patents.html#dont-forget-use-the-analyze-tool-for-patents",
+    "href": "01-introduction/03-patents.html#dont-forget-use-the-analyze-tool-for-patents",
+    "title": "Tutorials Patents",
+    "section": "Don’t forget use the analyze tool for Patents",
+    "text": "Don’t forget use the analyze tool for Patents"
+  },
+  {
+    "objectID": "01-introduction/03-patents.html#vosviewer-for-patents-create-from-text-data.",
+    "href": "01-introduction/03-patents.html#vosviewer-for-patents-create-from-text-data.",
+    "title": "Tutorials Patents",
+    "section": "VOSviewer for Patents: Create from text data.",
+    "text": "VOSviewer for Patents: Create from text data."
+  },
+  {
+    "objectID": "01-introduction/03-patents.html#vosviewer-for-patents",
+    "href": "01-introduction/03-patents.html#vosviewer-for-patents",
+    "title": "Tutorials Patents",
+    "section": "VOSviewer for Patents",
+    "text": "VOSviewer for Patents"
+  },
+  {
+    "objectID": "01-introduction/03-patents.html#vosviewer-for-patents-1",
+    "href": "01-introduction/03-patents.html#vosviewer-for-patents-1",
+    "title": "Tutorials Patents",
+    "section": "VOSviewer for Patents",
+    "text": "VOSviewer for Patents"
+  },
+  {
+    "objectID": "01-introduction/03-patents.html#vosviewer-for-patents-2",
+    "href": "01-introduction/03-patents.html#vosviewer-for-patents-2",
+    "title": "Tutorials Patents",
+    "section": "VOSviewer for Patents",
+    "text": "VOSviewer for Patents"
+  },
+  {
+    "objectID": "01-introduction/03-patents.html#vosviewer-for-patents-3",
+    "href": "01-introduction/03-patents.html#vosviewer-for-patents-3",
+    "title": "Tutorials Patents",
+    "section": "VOSviewer for Patents",
+    "text": "VOSviewer for Patents"
+  },
+  {
+    "objectID": "01-introduction/03-patents.html#vosviewer-for-patents-4",
+    "href": "01-introduction/03-patents.html#vosviewer-for-patents-4",
+    "title": "Tutorials Patents",
+    "section": "VOSviewer for Patents",
+    "text": "VOSviewer for Patents"
+  },
+  {
+    "objectID": "01-introduction/03-patents.html#vosviewer-for-patents-5",
+    "href": "01-introduction/03-patents.html#vosviewer-for-patents-5",
+    "title": "Tutorials Patents",
+    "section": "VOSviewer for Patents",
+    "text": "VOSviewer for Patents"
+  },
+  {
+    "objectID": "01-introduction/03-patents.html#vosviewer-for-patents-6",
+    "href": "01-introduction/03-patents.html#vosviewer-for-patents-6",
+    "title": "Tutorials Patents",
+    "section": "VOSviewer for Patents",
+    "text": "VOSviewer for Patents"
+  },
+  {
+    "objectID": "01-introduction/03-patents.html#vosviewer-for-patents-7",
+    "href": "01-introduction/03-patents.html#vosviewer-for-patents-7",
+    "title": "Tutorials Patents",
+    "section": "VOSviewer for Patents",
+    "text": "VOSviewer for Patents"
+  },
+  {
+    "objectID": "01-introduction/03-patents.html#vosviewer-for-patents-8",
+    "href": "01-introduction/03-patents.html#vosviewer-for-patents-8",
+    "title": "Tutorials Patents",
+    "section": "VOSviewer for Patents",
+    "text": "VOSviewer for Patents"
+  },
+  {
+    "objectID": "index.html#instructors",
+    "href": "index.html#instructors",
+    "title": "Research, Innovation & Development",
+    "section": "",
+    "text": "Fabio A. Cruz Sanchez\nMauricio Camargo\nFerney Osorio\nAlex Gabriel"
   }
 ]

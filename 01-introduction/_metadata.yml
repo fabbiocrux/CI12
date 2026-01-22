@@ -1,26 +1,8 @@
-format:
-#   beamer: 
-#     keep-tex: true
-#     classoption: c
-#     aspectratio: 169
-#     navigation: horizontal
-#     theme: Luebeck #AnnArbor
-#     #toc: true
-#     #toc-title: "Organisation de la presentation"
-#     #Luebeck
-#     colortheme: beaver
-#     slide-level: 3
-#     toc-depth: 2
-#     fig-align: center
-#     header-includes:
-#       - \titlegraphic{\includegraphics[width=0.6\paperwidth]{Figures/logos/UL-ENSGSI-ERPI.png}}
-# #      - \date{Thisis test }
-#     # beameroption: 
-#     #  - show notes on second screen
-#     #beamerarticle: true
-#     #latex_engine: lualatex
-#     include-in-header: [assets/slides.tex]
-  
+title-slide-attributes:
+  data-background-image: figures/title-page.png
+  data-background-size: contain
+  data-background-opacity: "0.5"
+format: 
   revealjs:
     slide-number: c/t
     controls: true
@@ -44,12 +26,23 @@ format:
     header-logo: "../assets/img/logos/UL.png"    
     #subtitle-as-header: true
     sc-sb-title: false
-    chalkboard: true
+    chalkboard: false
     footer: 'Introduction to Scientific Research'
     header: ''
+    auto-stretch: true
     slide-level: 3
+    menu:
+      side: right
+      width: wide
+      numbers: true  
 filters:
   - reveal-header
+  - highlight-text
+revealjs-plugins:
+  - attribution 
+
+date: today
+date-format: long
 #  - reveal-auto-agenda
 #auto-agenda:
 #  bullets: numbered

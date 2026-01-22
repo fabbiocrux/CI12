@@ -1,0 +1,98 @@
+---
+title: "Tutorials Patents"
+subtitle: "TD 1: Web of Science / Vosviewer / OpenAlex / **Patents**"  
+email: "fabio.cruz@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+author: 
+  - "MCF. Fabio A. CRUZ SANCHEZ"
+metadata-files:
+  - _metadata.yml
+format:
+  revealjs:
+    footer: 'VosViewer'
+    slide-level: 1
+    auto-stretch: true
+    title-slide: false
+
+filters:
+  - reveal-auto-agenda
+auto-agenda:
+  bullets: numbered
+  heading: Tutorials VosViewer
+---
+
+
+# Patents Network visualization
+
+## Clarivate for Patents
+
+:::{layout="[30,70]" layout-valign="center"}
+
+:::{}
+`ENT UL > Ressources en Ligne`
+
+**Derwent Innovation Index**
+:::
+
+![](figures/patents/01.jpg){width="50%"}
+
+:::
+
+
+## Clarivate for Patents: use the search equation
+
+![](figures/patents/02.jpg)
+
+## Clarivate for Patents: Export the Data
+
+![](figures/patents/03.jpg)
+
+## Clarivate for Patents: Full record
+
+![](figures/patents/04.jpg)
+
+## Don't forget use the analyze tool for Patents
+
+![](figures/patents/04-1.jpg)
+
+## VOSviewer for Patents: Create from `text data`.
+
+![](figures/patents/05.jpg)
+
+## VOSviewer for Patents
+
+![](figures/patents/06.jpg)
+
+## VOSviewer for Patents
+
+![](figures/patents/07.jpg)
+
+## VOSviewer for Patents
+
+![](figures/patents/08.jpg)
+
+## VOSviewer for Patents
+
+![](figures/patents/09.jpg)
+
+## VOSviewer for Patents
+
+![](figures/patents/10.jpg)
+
+## VOSviewer for Patents
+
+![](figures/patents/11.jpg)
+
+## VOSviewer for Patents
+
+![](figures/patents/12.jpg)
+
+## VOSviewer for Patents
+
+![](figures/patents/13.jpg)
+
+## VOSviewer for Patents
+
+![](figures/patents/14.jpg)
+
+

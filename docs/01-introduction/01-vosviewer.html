@@ -9,11 +9,13 @@
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/quarto-contrib/reveal-header-1.0.0/add_header.js" defer="true"></script>
 <link href="../site_libs/quarto-contrib/reveal-header-1.0.0/add_header.css" rel="stylesheet">
-<link href="../site_libs/quarto-contrib/grid-htext-1.0.0/grid_htext.css" rel="stylesheet"><meta charset="utf-8">
+<link href="../site_libs/quarto-contrib/grid-htext-1.0.0/grid_htext.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/reveal-auto-agenda-0.0.3/reveal-auto-agenda.css" rel="stylesheet"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.8.25">
 
-  <meta name="dcterms.date" content="2026-01-21">
-  <title>CI12 – tp1</title>
+  <meta name="author" content="MCF. Fabio A. CRUZ SANCHEZ">
+  <meta name="dcterms.date" content="2026-01-22">
+  <title>CI12 – Tutorials Vosviewer</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -131,9 +133,228 @@
   <div class="reveal">
     <div class="slides">
 
+<section id="title-slide" data-background-image="figures/title-page.png" data-background-opacity="0.5" data-background-size="contain" class="quarto-title-block center">
+  <h1 class="title">Tutorials Vosviewer</h1>
+  <p class="subtitle">TD 1: Web of Science / <strong>Vosviewer</strong> /</p>
 
-<section class="slide level3">
+<div class="quarto-title-authors">
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+MCF. Fabio A. CRUZ SANCHEZ 
+</div>
+        <p class="quarto-title-affiliation">
+            Université de Lorraine | ENSGSI
+          </p>
+    </div>
+</div>
 
+  <p class="date">January 22, 2026</p>
+</section>
+<section>
+<section id="vosviewer-installation" class="title-slide slide level1 agenda-slide center">
+<h1>VOSviewer Installation</h1>
+<div class="agenda-heading">
+<p>Tutorials VosViewer</p>
+</div>
+<div class="agenda">
+<ol>
+<li><div class="agenda-active">
+<p>VOSviewer Installation</p>
+</div></li>
+<li><div class="agenda-inactive agenda-post-active">
+<p>Co-Authorship Analysis</p>
+</div></li>
+<li><div class="agenda-inactive agenda-post-active">
+<p>Co-Occurence of Keywords</p>
+</div></li>
+</ol>
+</div>
+</section>
+<section id="vosviewer" class="title-slide slide level2 center" data-background-image="figures/vos/website.png" data-background-size="65%" data-background-position="100% 50%">
+<h2>Vosviewer</h2>
+<p>Scientific Network visualization</p>
+<p><a href="https://www.vosviewer.com/">⬇️ &nbsp; Download at <br> https://www.vosviewer.com/</a></p>
+<p><a href="https://www.vosviewer.com/documentation/Manual_VOSviewer_1.6.20.pdf">📕&nbsp; Official Manual</a></p>
+</section>
+
+<section id="vosviewer-terminology" class="title-slide slide level2 center">
+<h2>VOSviewer: Terminology</h2>
+<ol type="1">
+<li><strong>Maps</strong> are created by <strong>items</strong></li>
+<li><strong>Items</strong> are object of interest → 📚<em>Publications</em>, 👩🏻‍🔬👨🏻‍🔬<em>Researchers</em> or 🔤<em>Terms</em></li>
+<li><strong>Links</strong> are the relations between two items.
+<ul>
+<li>Each link has a <em>Strength</em> → Positive number. The higher, the stronger. <br> For instance:
+<ul>
+<li><strong>Bibliographic coupling</strong> : Number of cited references two publications have in common.</li>
+<li><strong>Co-authorship</strong>: number of publications that two researches have co-authored.</li>
+<li><strong>Co-occurence</strong>: Number of publications in which two terms occur together.</li>
+</ul></li>
+</ul></li>
+<li><strong>Clusters</strong> are a group of <strong>items</strong></li>
+</ol>
+<div class="callout callout-note callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Scientific reference</strong></p>
+</div>
+<div class="callout-content">
+<p>Van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics 84, 523–538. <a href="https://doi.org/10.1007/s11192-009-0146-3">https://doi.org/10.1007/s11192-009-0146-3</a></p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="small-introduction-to-vosviewer" class="title-slide slide level2 center">
+<h2>Small introduction to VOSViewer</h2>
+<div class="quarto-layout-panel" data-layout="[50,50]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<ul>
+<li>Focus on visualization of scientometric networks</li>
+<li>Support for large number of data sources</li>
+<li>Text mining functionality</li>
+<li>Advanced visualization features</li>
+<li>Relatively easy to use</li>
+<li>Limited analysis options</li>
+<li>Developed at CWTS</li>
+</ul>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<iframe data-external="1" src="https://www.youtube.com/embed/9dTWkNRxUtw" width="1200" height="500" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section>
+<section id="co-authorship-analysis" class="title-slide slide level1 agenda-slide center">
+<h1>Co-Authorship Analysis</h1>
+<div class="agenda-heading">
+<p>Tutorials VosViewer</p>
+</div>
+<div class="agenda">
+<ol>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>VOSviewer Installation</p>
+</div></li>
+<li><div class="agenda-active">
+<p>Co-Authorship Analysis</p>
+</div></li>
+<li><div class="agenda-inactive agenda-post-active">
+<p>Co-Occurence of Keywords</p>
+</div></li>
+</ol>
+</div>
+</section>
+<section id="add-data-from-bibliographic-database-file" class="title-slide slide level2 center">
+<h2>Add data: from <code>Bibliographic database file</code></h2>
+
+<img data-src="figures/vos/02.jpg" class="r-stretch"></section>
+
+<section id="add-data-from-bibliographic-database-file-1" class="title-slide slide level2 center">
+<h2>Add data: from <code>Bibliographic database file</code></h2>
+
+<img data-src="figures/vos/03.jpg" class="r-stretch"></section>
+
+<section id="add-data-select-the-.txt-files-from-wos" class="title-slide slide level2 center">
+<h2>Add data: Select the <code>.txt</code> files from WoS</h2>
+
+<img data-src="figures/vos/04.jpg" class="r-stretch"></section>
+
+<section id="select-co-authorship" class="title-slide slide level2 center">
+<h2>Select: <code>Co-Authorship</code></h2>
+<div class="quarto-layout-panel" data-layout="[30,80]">
+<div class="quarto-layout-row quarto-layout-valign-center">
+<div class="quarto-layout-cell" style="flex-basis: 27.3%;justify-content: flex-start;">
+<p>You can see the types of analysis. Use this <strong>﹖icon</strong> to see the <em>relatedness</em> for each type of the analysis:</p>
+<p><code>Select Co-Authorship</code></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 72.7%;justify-content: center;">
+<p><img data-src="figures/vos/co-authorship-00.png"></p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="select-thresholds" class="title-slide slide level2 center">
+<h2>Select: <code>Thresholds</code></h2>
+<p>In fonction of the type of ‘Co-Authorship analysis’ (Authors, Organizations, Countries), different type of <strong>threholds</strong> are proposed:</p>
+<div class="quarto-layout-panel" data-layout="[30,30,30]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><strong>Authors</strong></p>
+<p><img data-src="figures/vos/co-authorship-01.png"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><strong>Organizations</strong></p>
+<p><img data-src="figures/vos/co-authorship-02.png"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><strong>Countries</strong></p>
+<p><img data-src="figures/vos/co-authorship-03.png"></p>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section>
+<section id="co-occurence-of-keywords" class="title-slide slide level1 agenda-slide center">
+<h1>Co-Occurence of Keywords</h1>
+<div class="agenda-heading">
+<p>Tutorials VosViewer</p>
+</div>
+<div class="agenda">
+<ol>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>VOSviewer Installation</p>
+</div></li>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>Co-Authorship Analysis</p>
+</div></li>
+<li><div class="agenda-active">
+<p>Co-Occurence of Keywords</p>
+</div></li>
+</ol>
+</div>
+</section>
+<section id="add-data-minimum-number-of-occurrencies-for-keyworkds" class="title-slide slide level2 center">
+<h2>Add data: Minimum number of Occurrencies for Keyworkds</h2>
+
+<img data-src="figures/vos/06.jpg" class="r-stretch"></section>
+
+<section id="add-data-keywords-to-be-plotted" class="title-slide slide level2 center">
+<h2>Add data: Keywords to be plotted</h2>
+
+<img data-src="figures/vos/07.jpg" class="r-stretch"></section>
+
+<section id="add-data-verify-if-keywords-are-correct" class="title-slide slide level2 center">
+<h2>Add data: Verify if Keywords are correct</h2>
+<p>Attention to the Redundancies</p>
+
+<img data-src="figures/vos/08.jpg" class="r-stretch"></section>
+
+<section id="network-visualization" class="title-slide slide level2 center">
+<h2>Network Visualization</h2>
+
+<img data-src="figures/vos/09.jpg" class="r-stretch"></section>
+
+<section id="overlay-visualization" class="title-slide slide level2 center">
+<h2>Overlay Visualization</h2>
+
+<img data-src="figures/vos/10.jpg" class="r-stretch"></section>
+
+<section id="overlay-visualization-selecting-the-node" class="title-slide slide level2 center">
+<h2>Overlay Visualization Selecting the node</h2>
+
+<img data-src="figures/vos/09-1.jpg" class="r-stretch"></section>
+
+<section id="density-visualization" class="title-slide slide level2 center">
+<h2>Density Visualization</h2>
+<p><img data-src="figures/vos/11.jpg"></p>
 
 
 <div class="reveal-header">
@@ -150,6 +371,7 @@
 <p> </p>
 </div>
 </div>
+</section>
 </section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
