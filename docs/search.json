@@ -2982,21 +2982,21 @@
   {
     "objectID": "01-introduction/02-openalex.html#entities-in-openalex",
     "href": "01-introduction/02-openalex.html#entities-in-openalex",
-    "title": "Tutorials Vosviewer",
+    "title": "Tutorials OpenAlex",
     "section": "Entities in OpenAlex",
     "text": "Entities in OpenAlex\n\n\n\nOpenAlex will identify these metadata:\n\nWorks → Articles, Conferences, Books.\nAuthors → Names, Institutions\nInstitutions → Name, location..\nFunding → APC\n\n\n\n\n\n\n\nThe idea is to obtain the metadata of the scientific documentation."
   },
   {
     "objectID": "01-introduction/02-openalex.html#metadata-on-openalex",
     "href": "01-introduction/02-openalex.html#metadata-on-openalex",
-    "title": "Tutorials Vosviewer",
+    "title": "Tutorials OpenAlex",
     "section": "Metadata on OpenAlex",
     "text": "Metadata on OpenAlex\n\nSource. OpenAlex documentation"
   },
   {
     "objectID": "01-introduction/02-openalex.html#metadata-on-openalex-1",
     "href": "01-introduction/02-openalex.html#metadata-on-openalex-1",
-    "title": "Tutorials Vosviewer",
+    "title": "Tutorials OpenAlex",
     "section": "Metadata on OpenAlex",
     "text": "Metadata on OpenAlex\n\nSource. OpenAlex documentation"
   },
@@ -3010,49 +3010,49 @@
   {
     "objectID": "01-introduction/02-openalex.html#interface-on-openalex",
     "href": "01-introduction/02-openalex.html#interface-on-openalex",
-    "title": "Tutorials Vosviewer",
+    "title": "Tutorials OpenAlex",
     "section": "Interface on OpenAlex",
     "text": "Interface on OpenAlex\n\n\n\nType of search:\n\nWorks\nAuthors\nSources\nInstitutions"
   },
   {
     "objectID": "01-introduction/02-openalex.html#filters-on-openalex",
     "href": "01-introduction/02-openalex.html#filters-on-openalex",
-    "title": "Tutorials Vosviewer",
+    "title": "Tutorials OpenAlex",
     "section": "Filters on OpenAlex",
     "text": "Filters on OpenAlex\n\n\n\n\nFilters are the basis of query-building and allow searching of entities, attributes, and text.\n\nCurrently 47 filters are available."
   },
   {
     "objectID": "01-introduction/02-openalex.html#works-on-openalex",
     "href": "01-introduction/02-openalex.html#works-on-openalex",
-    "title": "Tutorials Vosviewer",
+    "title": "Tutorials OpenAlex",
     "section": "Works on OpenAlex",
     "text": "Works on OpenAlex\n\n\n\nEach work can be identified"
   },
   {
     "objectID": "01-introduction/02-openalex.html#option-1-connecting-of-openalex-with-vosviewer-via-api",
     "href": "01-introduction/02-openalex.html#option-1-connecting-of-openalex-with-vosviewer-via-api",
-    "title": "Tutorials Vosviewer",
+    "title": "Tutorials OpenAlex",
     "section": "[Option 1] Connecting of OpenAlex with VosViewer (via API)",
     "text": "[Option 1] Connecting of OpenAlex with VosViewer (via API)\n\n\n\n\nUsing the API\nLess than 50000!!\n\n\n\n Source. OpenAlex YT Channel"
   },
   {
     "objectID": "01-introduction/02-openalex.html#openalex",
     "href": "01-introduction/02-openalex.html#openalex",
-    "title": "Tutorials Vosviewer",
+    "title": "Tutorials OpenAlex",
     "section": "PresentationOpenAlex",
     "text": "PresentationOpenAlex\n\nhttps://openalex.org/"
   },
   {
     "objectID": "01-introduction/02-openalex.html#search-on-openalex-1",
     "href": "01-introduction/02-openalex.html#search-on-openalex-1",
-    "title": "Tutorials Vosviewer",
+    "title": "Tutorials OpenAlex",
     "section": "Search on OpenAlex",
     "text": "Search on OpenAlex\nStructure of the search equation:\n(key1 OR key2) AND (key3 OR key4) AND (key5 OR key6)"
   },
   {
     "objectID": "01-introduction/02-openalex.html#option-1-connecting-of-openalex-with-vosviewer-via-download",
     "href": "01-introduction/02-openalex.html#option-1-connecting-of-openalex-with-vosviewer-via-download",
-    "title": "Tutorials Vosviewer",
+    "title": "Tutorials OpenAlex",
     "section": "[Option 1] Connecting of OpenAlex with VosViewer (via download)",
     "text": "[Option 1] Connecting of OpenAlex with VosViewer (via download)"
   },
@@ -4030,14 +4030,19 @@
     "href": "index.html#td1-visualization-of-scientific-landscapes",
     "title": "Research, Innovation & Development",
     "section": "TD1: Visualization of Scientific Landscapes",
-    "text": "TD1: Visualization of Scientific Landscapes\n\nTD1 Presentation\n\n\n\nStep 1: Web Of Science\n\n\n\nStep 2: VosViewer\n\n\n\n\nStep 3: VosViewer for Patents"
+    "text": "TD1: Visualization of Scientific Landscapes\n\nTD1 Presentation\n\n\n\nStep 1: Web Of Science\n\n\n\nStep 2: VosViewer\n\n\n\n\nStep 3: VosViewer for Patents\n\n\n\n\nStep 4: OpenAlex"
   },
   {
     "objectID": "02-literature/td2.html#the-exercises",
     "href": "02-literature/td2.html#the-exercises",
     "title": "TD2: Bibliometrix & Reading Scientific literature",
     "section": "The Exercises",
-    "text": "The Exercises\n\n\nWoS + Bibliometrix\n✅ Select at least 5 important papers\n\n\n\n\n\n\n\n\n\n\n\nAbstract\n✅ Analyse 5 paper’s abstract\n\n\n\n\n\n\nArticle\n✅ 1 full paper analysis"
+    "text": "The Exercises\n\n\nWoS + Bibliometrix\n✅ Select at least 5 important papers\n\n\n\n\n\n\n\n\n\n\n\nAbstract\n✅ Analyse 5 paper’s abstract\n\n\n\n\n\n\nArticle\n✅ 1 full paper analysis",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "TD2: Bibliometrix -- Networks of Research Landscape"
+    ]
   },
   {
     "objectID": "02-literature/td2.html#bibliometrix-software-option-2",
@@ -4065,7 +4070,12 @@
     "href": "02-literature/td2.html#bibliometrix-official-documentation",
     "title": "TD2: Bibliometrix & Reading Scientific literature",
     "section": "Bibliometrix: Official documentation",
-    "text": "Bibliometrix: Official documentation\nhttps://bibliometrix.org/ &gt; Tutorials &gt; Biblioshiny\n\n\n\n\n\n\n\nIntroduction\n\n\n\n\n\n\nMedium: Focus on Domain\n\n\n\n\n\n\nAdvanced: Knowledge synthesis"
+    "text": "Bibliometrix: Official documentation\nhttps://bibliometrix.org/ &gt; Tutorials &gt; Biblioshiny\n\n\n\n\n\n\n\nIntroduction\n\n\n\n\n\n\nMedium: Focus on Domain\n\n\n\n\n\n\nAdvanced: Knowledge synthesis",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "TD2: Bibliometrix -- Networks of Research Landscape"
+    ]
   },
   {
     "objectID": "02-literature/td2.html#zotero-bibliographic-management",
@@ -4086,27 +4096,61 @@
     "href": "02-literature/td2.html#research-reference-managers-mendeley-zotero",
     "title": "TD2: Bibliometrix & Reading Scientific literature",
     "section": "Research reference managers (Mendeley, Zotero)",
-    "text": "Research reference managers (Mendeley, Zotero)\n\nAllows you to organize, collaborate, discover, and to cite as you write"
+    "text": "Research reference managers (Mendeley, Zotero)\n\nAllows you to organize, collaborate, discover, and to cite as you write",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "TD2: Bibliometrix -- Networks of Research Landscape"
+    ]
   },
   {
     "objectID": "02-literature/td2.html#research-reference-managers-mendeley-zotero-1",
     "href": "02-literature/td2.html#research-reference-managers-mendeley-zotero-1",
     "title": "TD2: Bibliometrix & Reading Scientific literature",
     "section": "Research reference managers (Mendeley, Zotero)",
-    "text": "Research reference managers (Mendeley, Zotero)\n\nAllows you to organize, collaborate, discover, and to cite as you write\n\n\n💡 Recomendation: https://www.zotero.org/"
+    "text": "Research reference managers (Mendeley, Zotero)\n\nAllows you to organize, collaborate, discover, and to cite as you write\n\n\n💡 Recomendation: https://www.zotero.org/",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "TD2: Bibliometrix -- Networks of Research Landscape"
+    ]
   },
   {
     "objectID": "02-literature/td2.html#zotero-extension",
     "href": "02-literature/td2.html#zotero-extension",
     "title": "TD2: Bibliometrix & Reading Scientific literature",
     "section": "Zotero Extension",
-    "text": "Zotero Extension\nYou can install the (Chrome / Mozilla) extension:"
+    "text": "Zotero Extension\nYou can install the (Chrome / Mozilla) extension:",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "TD2: Bibliometrix -- Networks of Research Landscape"
+    ]
   },
   {
     "objectID": "02-literature/td2.html#zotero-tip-login",
     "href": "02-literature/td2.html#zotero-tip-login",
     "title": "TD2: Bibliometrix & Reading Scientific literature",
     "section": "Zotero Tip Login",
-    "text": "Zotero Tip Login\n💡 Tip: https://bu.univ-lorraine.fr/ressources-en-ligne/trucs-et-astuces"
+    "text": "Zotero Tip Login\n💡 Tip: https://bu.univ-lorraine.fr/ressources-en-ligne/trucs-et-astuces",
+    "crumbs": [
+      "Home",
+      "Act II: Literature review",
+      "TD2: Bibliometrix -- Networks of Research Landscape"
+    ]
+  },
+  {
+    "objectID": "01-introduction/02-openalex.html#presentationopenalex",
+    "href": "01-introduction/02-openalex.html#presentationopenalex",
+    "title": "Tutorials OpenAlex",
+    "section": "PresentationOpenAlex",
+    "text": "PresentationOpenAlex\n\nhttps://openalex.org/"
+  },
+  {
+    "objectID": "01-introduction/02-openalex.html#presentation-openalex",
+    "href": "01-introduction/02-openalex.html#presentation-openalex",
+    "title": "Tutorials OpenAlex",
+    "section": "Presentation OpenAlex",
+    "text": "Presentation OpenAlex\n\nhttps://openalex.org/"
   }
 ]

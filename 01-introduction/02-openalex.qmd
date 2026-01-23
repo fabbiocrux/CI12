@@ -1,5 +1,5 @@
 ---
-title: "Tutorials Vosviewer"
+title: "Tutorials OpenAlex"
 subtitle: "TD 1: Web of Science / Vosviewer / **OpenAlex**"  
 email: "fabio.cruz@univ-lorraine.fr"
 institute: "Université de Lorraine | ENSGSI"
@@ -25,7 +25,7 @@ auto-agenda:
 
 # OpenAlex
 
-## PresentationOpenAlex {#openalex background-image="figures/openalex/OA-03.png" background-size="55%" background-position="80% 50%"}
+## Presentation OpenAlex {background-image="figures/openalex/OA-03.png" background-size="55%" background-position="80% 50%"}
 
 ![](figures/openalex/OpenAlex-banner.png){.nostretch width=500}
 

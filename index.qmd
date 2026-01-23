@@ -67,6 +67,14 @@ This course includes a course in presences and a writing workshop of a first sci
 
 ```
 
+### Step 4: OpenAlex
+
+```{=html}
+<iframe class="slide-deck" src="01-introduction/02-openalex.html" width="100%"
+    height="500"></iframe>
+
+```
+
 
 # Act II: Literature review
 
