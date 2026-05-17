@@ -51,7 +51,6 @@ Ce document a pour objectif de vous donner un cadre de référence pour réalise
 ## Contexte
 
 Tout d’abord, je vous remercie pour les documents fournis dans le cadre de ce module.
-
 Comme nous l’avons souligné dès le début, l’objectif pédagogique du module CI12 est de vous donner des outils de recherche scientifique qui puissent être pertinents pour votre avenir professionnel, aussi bien pendant votre stage qu’au-delà.
 
 Comme discuté lors des séances de cours, la recherche scientifique constitue une démarche qui permet de devenir un interlocuteur légitime et pertinent sur un sujet donné. L’une des caractéristiques de la formation à l’ENSGSI est de vous préparer à intervenir dans différents domaines : conception de produit, gestion de projet, innovation territoriale, entre autres.
