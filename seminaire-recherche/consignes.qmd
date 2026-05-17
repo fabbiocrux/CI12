@@ -44,7 +44,7 @@ seminaire: true
 ::: {.callout-note}
 ## But
 
-Ce document a pour objectif de vous donner un cadre de référence pour réaliser la révision des articles dans le cadre du module *CI12 -- Recherche, Développement et Innovation.*.
+Ce document a pour objectif de vous donner un cadre de référence pour réaliser la révision des articles dans le cadre du module *CI12 -- Recherche, Développement et Innovation.*  
 Merci de lire attentivement les éléments. Si vous avez des questions, n'hésitez pas à nous écrire à l'équipe enseignante du module CI12.
 :::
 
