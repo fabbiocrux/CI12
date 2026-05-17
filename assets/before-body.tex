@@ -1,0 +1,92 @@
+\definecolor{gsi_violet}{RGB}{102, 36, 131}
+
+\begin{minipage}{.3\textwidth}
+    \flushleft
+    \includegraphics[scale=.27]{../assets/img/ENSGSI.png}
+\end{minipage}
+    \hfill
+\begin{minipage}{.7\textwidth}   
+    \bigskip
+    
+        
+    $if(seminaire)$
+    \textbf{\textcolor{gsi_violet}{Enseignants :}} \textbf{Mauricio Camargo,  Fabio Cruz,  Ferney Osorio et  Alex Gabriel} \newline     
+    \textbf{\textcolor{gsi_violet}{Équipe Pédagogique IUVTT \& IDEAS  :}} \textbf{Laurent Dupont,  Claudine Guidat et Olivier Chery} \newline    
+    \textbf{\textcolor{gsi_violet}{Date du Séminaire: }} \textbf{Mai 21 et 22/2026 - 9:00am - 12:00h} \newline   
+    \textbf{\textcolor{gsi_violet}{Modalité:}} \textbf{Hybride -- ENSGSI et Teams}        
+    $endif$
+
+    $if(examen)$    
+    \textbf{\textcolor{gsi_violet}{Prénom NOM:}} \dotfill \\[2pt]    
+    \textbf{\textcolor{gsi_violet}{Date de l’épreuve : }} $date$ \\[2pt]    
+    \textbf{\textcolor{gsi_violet}{Lieu:}} $examen.Lieu$ \\[2pt]              
+    \textbf{\textcolor{gsi_violet}{Enseignant(s) :}} \textbf{Alaa HASSAN, Fabio CRUZ} \\[2pt] 
+    \textbf{\textcolor{gsi_violet}{Note :}} \mbox{\hspace{2cm} / 20}\newline     
+    $endif$
+
+    $if(TP)$
+    \textbf{\textcolor{gsi_violet}{Enseignants :}} \textbf{MdC. Alaa Hassan et MdC. Fabio Cruz} \newline     
+    \textbf{\textcolor{gsi_violet}{Équipe support du LF2L:}} \textbf{Paola Vazquez / Benjamin Enneser-Serville} \newline    
+    \textbf{\textcolor{gsi_violet}{Date du TP: }} \textbf{\today} \newline       
+    $endif$
+
+
+    $if(feedback)$
+    \textbf{\textcolor{gsi_violet}{(\textit{optionnel}) Prénom NOM  :}} \dotfill \\[2pt]    
+    $endif$
+\end{minipage}   
+
+
+\medskip
+
+\hrule height .1pt depth .2pt width \textwidth
+
+\begin{center}
+\bigskip
+\textbf{\sffamily\Large $title$} 
+
+\vspace{1pt}
+
+\textbf{\sffamily\large $subtitle$}
+\medskip
+\end{center}
+\medskip
+\hrule height .1pt depth .2pt width \textwidth
+\medskip
+
+$if(examen)$
+
+\begin{minipage}[t]{.5\textwidth}
+\flushleft
+\textbf{\textcolor{gsi_violet}{Durée :}} $examen.Duree$ \\[2pt]
+\textbf{\textcolor{gsi_violet}{Calculatrices :}} $examen.Calculatrices$ \\[2pt] 
+\end{minipage}
+\hfill
+\begin{minipage}[t]{.49\textwidth}
+\flushright
+Vos \textbf{smartphones} et \textbf{montres connectées} sont \textbf{éteints} et \textbf{rangés} dans votre sac!
+\end{minipage}
+
+\textbf{\textcolor{gsi_violet}{Documents :}} $examen.Documents$ \\[2pt] 
+\textbf{\textcolor{gsi_violet}{Composition :}} $examen.Composition$ \\[2pt] 
+
+
+\hrule height .1pt depth .2pt width \textwidth
+
+\medskip
+\textbf{\textcolor{gsi_violet}{Consignes particulières :}} $examen.Consignes$ 
+\bigskip
+
+\hrule height .1pt depth .2pt width \textwidth
+
+\bigskip
+
+$endif$
+
+
+$if(abstract)$
+\begin{abstract}
+$abstract$
+\end{abstract}
+$endif$
+

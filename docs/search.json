@@ -3820,7 +3820,7 @@
     "href": "02-literature/01-bibliometrix.html#run-biblioshiny",
     "title": "Tutorial Bibliometrix",
     "section": "Run Biblioshiny",
-    "text": "Run Biblioshiny\n\n\n\n\nbiblioshiny() &gt; Crtl/Cmd + Enter ⏎"
+    "text": "Run Biblioshiny\n\n\n\n\nbibliosiny() &gt; Crtl/Cmd + Enter ⏎"
   },
   {
     "objectID": "02-literature/01-bibliometrix.html#load-data",

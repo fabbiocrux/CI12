@@ -1,0 +1,57 @@
+\usepackage{tikz}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}          
+\fancyhead[R]{ENSGSI 1AI - 2025/2026}
+\fancyhead[L]{\includegraphics[width=2cm]{../assets/img/ENSGSI.png}}
+
+\fancyfoot[L]{Projet CI3 - 1AI}
+\fancyfoot[C]{\thepage}
+\fancyfoot[R]{Version de Document: \today }
+
+\renewcommand{\footrulewidth}{0.3pt}% default is 0pt
+\renewcommand{\abstractname}{\vspace{-2.5cm} Objectif}
+
+% Font ENSGSI
+%\usepackage[sfdefault]{roboto}  %% Option 'sfdefault' only if the base font of the document is to be sans serif\usepackage[T1]{fontenc}
+%\usepackage[urw-garamond]{mathdesign}
+%\usepackage{mathdesign}
+%\usepackage[T1]{fontenc}
+\usepackage{siunitx}
+\sisetup{range-phrase=\,-\,}  
+
+% For boxes
+\usepackage[most]{tcolorbox}
+\newtcolorbox{mytextbox}[1][]{%
+  sharp corners,
+  enhanced,
+  colback=white,
+  height=7cm,
+  attach title to upper,
+  #1
+}
+
+
+\usepackage{tabu}
+\usepackage{tabularray}
+
+
+
+\usetikzlibrary{matrix,calc,backgrounds,fit}
+
+\colorlet{gain}{black}
+\colorlet{perdant}{gray!50!black}
+
+\def\gainpremier#1#2#3#4#5{
+  node[match,name=#1] {
+    \textcolor{gain}{\textbf{#2}} \& \textcolor{gain}{#3} \\
+    \textcolor{perdant}{#4} \& \textcolor{perdant}{#5} \\
+  }
+}
+
+\def\gainsecond#1#2#3#4#5{
+  node[match,name=#1] {
+    \textcolor{perdant}{#2} \& \textcolor{perdant}{#3} \\
+    \textcolor{gain}{\textbf{#4}} \& \textcolor{gain}{#5} \\
+  }
+}
