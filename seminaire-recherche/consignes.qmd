@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: Consignes aux Reviewers 
+title: Consignes aux Reviewers
 subtitle: "Module CI12: Recherche Developpement et Innovation"
 #abstract-title: 'Objectif'
 #abstract: "Concevoir et fabriquer un objet totem unique à l'aide de techniques de dessin à la main et de conception assistée par ordinateur, puis fabriquer un moule à l'aide de la découpe laser pour être utilisé avec la machine Holipresse."
@@ -45,7 +45,7 @@ seminaire: true
 ## But
 
 Ce document a pour objectif de vous donner un cadre de référence pour réaliser la révision des articles dans le cadre du module *CI12 -- Recherche, Développement et Innovation.*.
-
+Merci de lire attentivement les éléments. Si vous avez des questions, n'hésitez pas à nous écrire à l'équipe enseignante du module CI12.
 :::
 
 ## Contexte
