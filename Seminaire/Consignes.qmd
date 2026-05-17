@@ -32,10 +32,10 @@ format:
           \fancyfoot[C]{\thepage}
           \fancyfoot[R]{ENSGSI}
           \renewcommand{\footrulewidth}{0.3pt}% default is 0pt
-filters:
-   - latex-environment
-environments: [description]  
-commands: [item]
+#filters:
+#   - latex-environment
+#environments: [description]  
+#commands: [item]
 seminaire: true
 ---
 
