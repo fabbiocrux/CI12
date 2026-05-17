@@ -28,7 +28,7 @@ format:
           \fancyhead[R]{ENSGSI - 2025/2026}
           \fancyhead[C]{Recherche, Innovation et Développement}
           \fancyhead[L]{\includegraphics[width=2cm]{../assets/img/ENSGSI.png}}          
-          \fancyfoot[L]{Document faite par Fabio CRUZ. Version \today}
+          \fancyfoot[L]{Document rédigé par Fabio CRUZ. Version \today}
           \fancyfoot[C]{\thepage}
           \fancyfoot[R]{ENSGSI}
           \renewcommand{\footrulewidth}{0.3pt}% default is 0pt
