@@ -81,6 +81,17 @@ Voir @fig-passage. Si il y a des changement, prevenir à l'équipe ensegnante.
 ![Ordre de Passage.](Passage.png){#fig-passage width="100%" fig-align="center"}
 
 
+**Liens de Connexion**: 
+
+- Jeudi A: [https://events.teams.microsoft.com/event/5bdcb79f-a161-41ec-ab6b-a87d1c30012e@158716cf-46b9-48ca-8c49-c7bb67e575f3](https://events.teams.microsoft.com/event/5bdcb79f-a161-41ec-ab6b-a87d1c30012e@158716cf-46b9-48ca-8c49-c7bb67e575f3)
+
+- Jeudi B: [https://events.teams.microsoft.com/event/90ffb2d1-8691-49b6-9819-7b43959b957c@158716cf-46b9-48ca-8c49-c7bb67e575f3](https://events.teams.microsoft.com/event/90ffb2d1-8691-49b6-9819-7b43959b957c@158716cf-46b9-48ca-8c49-c7bb67e575f3)
+
+- Vendredi A: [https://events.teams.microsoft.com/event/1808e505-677b-4874-987e-e05d185771a9@158716cf-46b9-48ca-8c49-c7bb67e575f3](https://events.teams.microsoft.com/event/1808e505-677b-4874-987e-e05d185771a9@158716cf-46b9-48ca-8c49-c7bb67e575f3)
+
+- Vendredi B: [https://events.teams.microsoft.com/event/f23718d9-187e-4b00-9960-ff9ba31345f3@158716cf-46b9-48ca-8c49-c7bb67e575f3](https://events.teams.microsoft.com/event/f23718d9-187e-4b00-9960-ff9ba31345f3@158716cf-46b9-48ca-8c49-c7bb67e575f3)
+
+
 ## Cadre déontologique
 
 Je me permets d’expliciter certains principes qui ont pour objectif de poser un *cadre de confiance et de respect mutuel* dans cette activité.
