@@ -77,10 +77,16 @@ Chaque étudiant·e devra préparer une présentation :
 
 
 1. **Horaire et ordre de passage** 
-Voir @fig-passage. Si il y a des changement, prevenir à l'équipe ensegnante.  
+Voir @fig-passage. En cas changement, le document sera mise à jour.  
 
-![Ordre de Passage.](Passage.png){#fig-passage width="100%" fig-align="center"}
+:::{#fig-passage layout="[100]"}
 
+![Jeudi 21/05/26.](Jeudi.png){width="80%" fig-align="center"}
+
+![Vendredi 22/05/26.](Vendredi.png){width="80%" fig-align="center"}
+
+Ordre de Passage
+:::
 
 **Liens de Connexion**: 
 
