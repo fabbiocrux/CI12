@@ -5,6 +5,7 @@ subtitle: "Module CI12: Recherche Developpement et Innovation \\newline UE 1053:
 #abstract-title: 'Objectif'
 #abstract: "Concevoir et fabriquer un objet totem unique à l'aide de techniques de dessin à la main et de conception assistée par ordinateur, puis fabriquer un moule à l'aide de la découpe laser pour être utilisé avec la machine Holipresse."
 format:
+  #html: default
   pdf:
     #documentclass: article
     block-headings: false
@@ -28,7 +29,7 @@ format:
           \fancyhead[R]{ENSGSI - 2025/2026}
           \fancyhead[C]{Recherche, Innovation et Développement}
           \fancyhead[L]{\includegraphics[width=2cm]{../assets/img/ENSGSI.png}}          
-          \fancyfoot[L]{Document rédigé par Fabio CRUZ. Version \today}
+          \fancyfoot[L]{\footnotesize Document rédigé par Fabio CRUZ. Version \today}
           \fancyfoot[C]{\thepage}
           \fancyfoot[R]{ENSGSI}
           \renewcommand{\footrulewidth}{0.3pt}% default is 0pt
@@ -37,6 +38,8 @@ format:
 #environments: [description]  
 #commands: [item]
 seminaire: true
+filters:
+  - highlight-text
 ---
 
 
@@ -46,6 +49,8 @@ seminaire: true
 
 Ce document a pour objectif de vous donner un cadre de référence pour réaliser la révision des articles dans le cadre du module *CI12 -- Recherche, Développement et Innovation.*  
 Merci de lire attentivement les éléments. Si vous avez des questions, n'hésitez pas à nous écrire à l'équipe enseignante du module CI12.
+
+
 :::
 
 ## Contexte
@@ -67,7 +72,7 @@ Pour rappel, les rapporteur.es doivent préparer trois questions sur chaque docu
 En fonction du temps disponible, d’autres questions pourront également être abordées.
 
 1. **Présentation individuelle:**  
-Chaque étudiant·e devra préparer une présentation :
+Chaque étudiant.e devra préparer une présentation :
    - *Durée*: Durée : 15 minutes maximum (**8 minutes de présentation** + 7 minutes de questions)
    - 8 diapositives maximum recommandées
    - Il est possible de profiter de l’intelligence collective des participant.es afin de demander des suggestions, commentaires ou pistes de réflexion utiles pour la suite de votre stage.
@@ -77,16 +82,19 @@ Chaque étudiant·e devra préparer une présentation :
 
 
 1. **Horaire et ordre de passage** 
-Voir @fig-passage. En cas changement, le document sera mise à jour.  
+Voir figures ci-dessous. En cas changement, le document sera mise à jour.  
 
-:::{#fig-passage layout="[100]"}
 
-![Jeudi 21/05/26.](Jeudi.png){width="80%" fig-align="center"}
+![Jeudi A 21/05/26.](Jeudi-A.png){width="500px" fig-align="center"}
 
-![Vendredi 22/05/26.](Vendredi.png){width="80%" fig-align="center"}
+![Jeudi B 21/05/26.](Jeudi-A.png){width="500px" fig-align="center"}
 
-Ordre de Passage
-:::
+![Vendredi A 22/05/26.](Vendredi-A.png){width="500px" fig-align="center"}
+
+![Vendredi B 22/05/26.](Vendredi-B.png){width="500px" fig-align="center"}
+
+
+
 
 **Liens de Connexion**: 
 
@@ -99,6 +107,44 @@ Ordre de Passage
 - Vendredi B: [https://events.teams.microsoft.com/event/f23718d9-187e-4b00-9960-ff9ba31345f3@158716cf-46b9-48ca-8c49-c7bb67e575f3](https://events.teams.microsoft.com/event/f23718d9-187e-4b00-9960-ff9ba31345f3@158716cf-46b9-48ca-8c49-c7bb67e575f3)
 
 
+
+
+
+
+
+::: {fg="#b22222" }
+
+1. **Participation au séminaire**:
+
+   - **Situation idéale**: Les étudiant.es participent à l’ensemble des séances du séminaire (matinées 1 et 2), aussi bien lorsqu’ils.elles présentent leur travail que lorsqu’ils.elles assistent aux présentations de leurs camarades en tant qu’évaluateur.trices et participant.es aux échanges..
+   
+   - **Participation attendue :** Il est fortement recommandé que chaque étudiant.e participe à l’intégralité de la session durant laquelle il/elle intervient en tant que présentateur.trice et évaluateur.trice.
+   
+   - **Participation minimale obligatoire**: Chaque étudiant.e devra impérativement être présent.e pendant les 15 minutes de sa propre présentation **ET** participer aux 30 minutes consacrées à son rôle d’évaluateur. trice des travaux de ses camarades.
+
+
+1. **Déroulé du séminaire**:
+
+   1. *Présentation du travail*: Le.la présentateur.trice réalise sa présentation dans le temps imparti. 
+   2. *Intervention des évaluateur.trices*: Chaque évaluateur.trice formule :
+         a. Une appréciation générale de la présentation et du document lu ;
+         b. La question ou remarque qu’il.elle considère la plus pertinente pour enrichir la discussion.
+   3. *Retour du jury*: Un/les membre(s) du jury partage ensuite son retour global, ses observations et ses pistes de réflexion sur l’ensemble des échanges.
+ 
+
+1. **Support PPT/PDF**: Vous pouvez déposer votre support de présentation sur ARCHE gagner du temps lors de la présentation.
+
+::: {.callout-important}
+## Pour rappel
+
+Le but de ce séminaire n’est pas d’évaluer votre travail en tant que chercheur·ses.
+
+L’objectif est avant tout de vous offrir un moment de réflexivité sur la manière dont les compétences de recherche bibliographique et de lecture critique de documents scientifiques peuvent vous fournir des repères utiles pour le développement de votre mission industrielle et, plus largement, de votre pratique professionnelle.
+
+::: 
+
+:::
+
 ## Cadre déontologique
 
 Je me permets d’expliciter certains principes qui ont pour objectif de poser un *cadre de confiance et de respect mutuel* dans cette activité.
@@ -106,7 +152,7 @@ Vous allez lire attentivement des documents réalisés par vos collègues. Je vo
 
 1. ***Soyez bienveillant.e.s les un.e.s envers les autres..***
 
->Tout travail ou document mérite d’être regardé avec respect et bienveillance. Nous partons du principe que chaque document a été réalisé dans les meilleures conditions possibles, avec les ressources de temps et d’énergie disponibles. Cela ne constitue en aucun cas une évaluation de la valeur ou des capacités professionnelles de son auteur·trice.
+>Tout travail ou document mérite d’être regardé avec respect et bienveillance. Nous partons du principe que chaque document a été réalisé dans les meilleures conditions possibles, avec les ressources de temps et d’énergie disponibles. Cela ne constitue en aucun cas une évaluation de la valeur ou des capacités professionnelles de son auteur.trice.
 
 2. ***Que votre parole soit constructive.***
 
@@ -129,11 +175,17 @@ Vous allez lire attentivement des documents réalisés par vos collègues. Je vo
 
 6. ***Au-delà d’une note : construisez votre réseau dès maintenant.***
 
->Vous vous situez à la frontière entre le monde académique et le monde professionnel. Cet exercice pédagogique, au-delà de l’évaluation du module, représente aussi une opportunité de découvrir le projet professionnel en cours de vos camarades. C’est une première étape dans la construction de votre réseau professionnel pour la suite de votre carrière. Soyez curieux·ses, échangez, créez des liens.
+>Vous vous situez à la frontière entre le monde académique et le monde professionnel. Cet exercice pédagogique, au-delà de l’évaluation du module, représente aussi une opportunité de découvrir le projet professionnel en cours de vos camarades. C’est une première étape dans la construction de votre réseau professionnel pour la suite de votre carrière. Soyez curieux.ses, échangez, créez des liens.
 
 
 
 [^1]: Illich, Ivan., 1973. La Convivialité. Éditions du Seuil pour la version française. Page 13
 
 
+::: {fg="#b22222" }
+## Contrôle des modifications du document
 
+- **V1 — 17/05/2026** : Première version des consignes générales.
+- **V2 — 20/05/2026** : Ajout des sections relatives à la participation et au déroulé du séminaire.
+
+:::

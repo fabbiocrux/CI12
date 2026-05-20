@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.25">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Consignes aux Reviewers – CI12</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-4db308facfe1248c0a8d7e67b00ac1f8.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-4db308facfe1248c0a8d7e67b00ac1f8.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-4db308facfe1248c0a8d7e67b00ac1f8.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "Pas de résultats",
+    "search-matching-documents-text": "documents trouvés",
+    "search-copy-link-title": "Copier le lien vers la recherche",
+    "search-hide-matches-text": "Cacher les correspondances additionnelles",
+    "search-more-match-text": "correspondance de plus dans ce document",
+    "search-more-matches-text": "correspondances de plus dans ce document",
+    "search-clear-button-title": "Effacer",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Annuler",
+    "search-submit-button-title": "Envoyer",
+    "search-label": "Recherche"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar floating nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../logo.png" alt="" class="navbar-logo light-content">
+    <img src="../logo.png" alt="" class="navbar-logo dark-content">
+    </a>
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">CI12</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Recherche"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Basculer la navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="../index.html" aria-current="page"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Basculer la barre latérale" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Consignes aux Reviewers</li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Basculer la barre latérale" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+      <a href="../index.html" class="sidebar-logo-link">
+      <img src="../logo.png" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
+      <img src="../logo.png" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
+      </a>
+      </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item sidebar-item-section">
+      <span class="sidebar-item-text sidebar-link text-start">
+ <span class="menu-text">Scientific Research in Innovation Management</span></span>
+  </li>
+        <li class="px-0"><hr class="sidebar-divider hi "></li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Act I: Bibliometric Analysis</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Basculer la section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01-introduction/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">CM1: Introduction to Scientific Research</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01-introduction/td1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">TD1: VOSviewer – Visualization of Research Landscape</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="px-0"><hr class="sidebar-divider hi "></li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">Act II: Literature review</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Basculer la section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../02-literature/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">On the shoulders of giants</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../02-literature/td2.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">TD2: Bibliometrix – Networks of Research Landscape</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Sur cette page</h2>
+   
+  <ul>
+  <li><a href="#contexte" id="toc-contexte" class="nav-link active" data-scroll-target="#contexte">Contexte</a></li>
+  <li><a href="#objectif." id="toc-objectif." class="nav-link" data-scroll-target="#objectif.">Objectif.</a></li>
+  <li><a href="#cadre-déontologique" id="toc-cadre-déontologique" class="nav-link" data-scroll-target="#cadre-déontologique">Cadre déontologique</a></li>
+  <li><a href="#contrôle-des-modifications-du-document" id="toc-contrôle-des-modifications-du-document" class="nav-link" data-scroll-target="#contrôle-des-modifications-du-document">Contrôle des modifications du document</a></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Autres formats</h2><ul><li><a href="consignes.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Consignes aux Reviewers</h1>
+<p class="subtitle lead">Module CI12: Recherche Developpement et Innovation UE 1053: Paradigme et Méthodologie de Recherche en Innovation</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>But
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Ce document a pour objectif de vous donner un cadre de référence pour réaliser la révision des articles dans le cadre du module <em>CI12 – Recherche, Développement et Innovation.</em><br>
+Merci de lire attentivement les éléments. Si vous avez des questions, n’hésitez pas à nous écrire à l’équipe enseignante du module CI12.</p>
+</div>
+</div>
+<section id="contexte" class="level2">
+<h2 class="anchored" data-anchor-id="contexte">Contexte</h2>
+<p>Tout d’abord, je vous remercie pour les documents fournis dans le cadre de ce module. Comme nous l’avons souligné, l’objectif pédagogique du module est de vous donner des outils de recherche et de veille stratégique dans les travaux scientifiques qui puissent être pertinents pour votre avenir professionnel, aussi bien pendant votre stage qu’au-delà.</p>
+<p>Comme discuté lors des séances de cours, la recherche scientifique constitue une démarche supplémentaire pour renforcer votre légitimité et votre expertise sur un sujet donné. L’une des caractéristiques de la formation à l’ENSGSI est de vous préparer à intervenir dans différents domaines : conception de produit/service, gestion de projet en milieu complexe, innovation territoriale, entre autres.</p>
+</section>
+<section id="objectif." class="level2">
+<h2 class="anchored" data-anchor-id="objectif.">Objectif.</h2>
+<p>Les jeudi 21/05 et vendredi 22/05, de 9h00 à 12h00 (mode hybride pour IDEAS, présence obligatoire au GSI pour les IUVTT), se tiendra le séminaire de recherche avec les étudiant.es des masters IDEAS, IUVTT et 3AI (ayant choisi l’option recherche).</p>
+<ol type="1">
+<li><p><strong>Lecture critique:</strong><br>
+Chaque étudiant.e devra avoir lu les deux articles et répondu aux différentes questions du formulaire.<br>
+Pour rappel, les rapporteur.es doivent préparer trois questions sur chaque document. Lors du séminaire, il sera demandé de poser une seule question, celle qui vous semble la plus pertinente ou intrigante, afin d’animer le débat et la réflexion collective. En fonction du temps disponible, d’autres questions pourront également être abordées.</p></li>
+<li><p><strong>Présentation individuelle:</strong><br>
+Chaque étudiant.e devra préparer une présentation :</p>
+<ul>
+<li><em>Durée</em>: Durée : 15 minutes maximum (<strong>8 minutes de présentation</strong> + 7 minutes de questions)</li>
+<li>8 diapositives maximum recommandées</li>
+<li>Il est possible de profiter de l’intelligence collective des participant.es afin de demander des suggestions, commentaires ou pistes de réflexion utiles pour la suite de votre stage.</li>
+</ul></li>
+<li><p><em>Formulaire</em>:</p>
+<ul>
+<li>Vous trouverez ci-dessous le lien vers le questionnaire à compléter : <a href="https://forms.gle/kpFPZJxHPC5AvvR1A">https://forms.gle/kpFPZJxHPC5AvvR1A</a> <img src="questionnaire.png" class="img-fluid quarto-figure quarto-figure-center" width="100" alt="Questionnaire à remplir une fois lecture de l’article"></li>
+</ul></li>
+<li><p><strong>Horaire et ordre de passage</strong> Voir figures ci-dessous. En cas changement, le document sera mise à jour.</p></li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="Jeudi-A.png" class="img-fluid figure-img" width="500"></p>
+<figcaption>Jeudi A 21/05/26.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="Jeudi-A.png" class="img-fluid figure-img" width="500"></p>
+<figcaption>Jeudi B 21/05/26.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="Vendredi-A.png" class="img-fluid figure-img" width="500"></p>
+<figcaption>Vendredi A 22/05/26.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="Vendredi-B.png" class="img-fluid figure-img" width="500"></p>
+<figcaption>Vendredi B 22/05/26.</figcaption>
+</figure>
+</div>
+<p><strong>Liens de Connexion</strong>:</p>
+<ul>
+<li><p>Jeudi A: <a href="https://events.teams.microsoft.com/event/5bdcb79f-a161-41ec-ab6b-a87d1c30012e@158716cf-46b9-48ca-8c49-c7bb67e575f3">https://events.teams.microsoft.com/event/5bdcb79f-a161-41ec-ab6b-a87d1c30012e@158716cf-46b9-48ca-8c49-c7bb67e575f3</a></p></li>
+<li><p>Jeudi B: <a href="https://events.teams.microsoft.com/event/90ffb2d1-8691-49b6-9819-7b43959b957c@158716cf-46b9-48ca-8c49-c7bb67e575f3">https://events.teams.microsoft.com/event/90ffb2d1-8691-49b6-9819-7b43959b957c@158716cf-46b9-48ca-8c49-c7bb67e575f3</a></p></li>
+<li><p>Vendredi A: <a href="https://events.teams.microsoft.com/event/1808e505-677b-4874-987e-e05d185771a9@158716cf-46b9-48ca-8c49-c7bb67e575f3">https://events.teams.microsoft.com/event/1808e505-677b-4874-987e-e05d185771a9@158716cf-46b9-48ca-8c49-c7bb67e575f3</a></p></li>
+<li><p>Vendredi B: <a href="https://events.teams.microsoft.com/event/f23718d9-187e-4b00-9960-ff9ba31345f3@158716cf-46b9-48ca-8c49-c7bb67e575f3">https://events.teams.microsoft.com/event/f23718d9-187e-4b00-9960-ff9ba31345f3@158716cf-46b9-48ca-8c49-c7bb67e575f3</a></p></li>
+</ul>
+<div class="light-content" style="color: #b22222;">
+<ol type="1">
+<li><p><strong>Participation au séminaire</strong>:</p>
+<ul>
+<li><p><strong>Situation idéale</strong>: Les étudiant.es participent à l’ensemble des séances du séminaire (matinées 1 et 2), aussi bien lorsqu’ils.elles présentent leur travail que lorsqu’ils.elles assistent aux présentations de leurs camarades en tant qu’évaluateur.trices et participant.es aux échanges..</p></li>
+<li><p><strong>Participation attendue :</strong> Il est fortement recommandé que chaque étudiant.e participe à l’intégralité de la session durant laquelle il/elle intervient en tant que présentateur.trice et évaluateur.trice.</p></li>
+<li><p><strong>Participation minimale obligatoire</strong>: Chaque étudiant.e devra impérativement être présent.e pendant les 15 minutes de sa propre présentation <strong>ET</strong> participer aux 30 minutes consacrées à son rôle d’évaluateur. trice des travaux de ses camarades.</p></li>
+</ul></li>
+<li><p><strong>Déroulé du séminaire</strong>:</p>
+<ol type="1">
+<li><em>Présentation du travail</em>: Le.la présentateur.trice réalise sa présentation dans le temps imparti.</li>
+<li><em>Intervention des évaluateur.trices</em>: Chaque évaluateur.trice formule :
+<ol type="a">
+<li>Une appréciation générale de la présentation et du document lu ;</li>
+<li>La question ou remarque qu’il.elle considère la plus pertinente pour enrichir la discussion.</li>
+</ol></li>
+<li><em>Retour du jury</em>: Un/les membre(s) du jury partage ensuite son retour global, ses observations et ses pistes de réflexion sur l’ensemble des échanges.</li>
+</ol></li>
+<li><p><strong>Support PPT/PDF</strong>: Vous pouvez déposer votre support de présentation sur ARCHE gagner du temps lors de la présentation.</p></li>
+</ol>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Important</span>Pour rappel
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Le but de ce séminaire n’est pas d’évaluer votre travail en tant que chercheur·ses.</p>
+<p>L’objectif est avant tout de vous offrir un moment de réflexivité sur la manière dont les compétences de recherche bibliographique et de lecture critique de documents scientifiques peuvent vous fournir des repères utiles pour le développement de votre mission industrielle et, plus largement, de votre pratique professionnelle.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="cadre-déontologique" class="level2">
+<h2 class="anchored" data-anchor-id="cadre-déontologique">Cadre déontologique</h2>
+<p>Je me permets d’expliciter certains principes qui ont pour objectif de poser un <em>cadre de confiance et de respect mutuel</em> dans cette activité. Vous allez lire attentivement des documents réalisés par vos collègues. Je vous prie donc de considérer les principes suivants:</p>
+<ol type="1">
+<li><strong><em>Soyez bienveillant.e.s les un.e.s envers les autres..</em></strong></li>
+</ol>
+<blockquote class="blockquote">
+<p>Tout travail ou document mérite d’être regardé avec respect et bienveillance. Nous partons du principe que chaque document a été réalisé dans les meilleures conditions possibles, avec les ressources de temps et d’énergie disponibles. Cela ne constitue en aucun cas une évaluation de la valeur ou des capacités professionnelles de son auteur.trice.</p>
+</blockquote>
+<ol start="2" type="1">
+<li><strong><em>Que votre parole soit constructive.</em></strong></li>
+</ol>
+<blockquote class="blockquote">
+<p>Le séminaire a pour objectif de construire un débat fondé sur des arguments. Vous avez le droit d’être en accord — ou non — avec le document qui vous est attribué. Et eventuellment avec les rémarques/commentaires que vous seront donnés lors de votre présentation. Veillez donc à formuler des critiques constructives afin que le séminaire soit un espace d’échanges intellectuels enrichissants pour chacun.e.</p>
+</blockquote>
+<ol start="3" type="1">
+<li><strong><em>Personne n’est un.e expert.e.</em></strong></li>
+</ol>
+<blockquote class="blockquote">
+<p>Votre rôle d’évaluateur est d’apporter un regard neuf et complémentaire. Personne n’est expert en tout. Le but est de pouvoir proposer des pistes d’amélioration à vos collègues. Si le document traite d’un domaine éloigné de votre expertise, tant mieux : votre regard extérieur est précieux. À l’inverse, si vous êtes en désaccord avec certains arguments de l’auteur.trice, cela représente une excellente opportunité pour exprimer vos idées de manière constructive et faire avancer collectivement le travail.</p>
+</blockquote>
+<ol start="4" type="1">
+<li><strong><em>IA-t-il quelqu’un ?</em></strong></li>
+</ol>
+<blockquote class="blockquote">
+<p>Comme discuté lors des séances de cours, l’introduction de l’intelligence artificielle bouleverse profondément et de manière systémique notre rapport à l’esprit critique. Nous ne sommes pas ici pour faire l’apologie ou l’accusation de l’utilisation des outils de type LLM (Large Language Models). Le principal repère que nous pouvons vous donner est le suivant : vous devez rester les pilotes de ces outils. C’est à vous de développer un regard critique sur les sujets abordés. Vous devez contrôler l’outil — et non l’inverse.Dans le sens proposé par Ivan Illich <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>:<br>
+«&nbsp;<em>J’appelle société conviviale une société où l’outil moderne est au service de la personne intégrée à la collectivité, et non au service d’un corps de spécialistes. Conviviale est la société où l’homme contrôle l’outil</em>&nbsp;»</p>
+</blockquote>
+<ol start="5" type="1">
+<li><strong><em>Il n’y a pas de question bête.</em></strong></li>
+</ol>
+<blockquote class="blockquote">
+<p>Pendant le séminaire — et plus largement dans le cadre académique — l’objectif est de vous offrir un espace de questionnement où la contribution principale réside souvent davantage dans les questions que dans les réponses ou les vérités absolues.N’hésitez pas à partager vos interrogations avec vos camarades et avec l’équipe enseignante.Il est probable que nous n’ayons pas toujours de réponse immédiate à vous apporter.En revanche, nous pouvons vous accompagner dans votre réflexion afin que vous puissiez construire, par vous-mêmes, une réponse pertinente à votre problématique professionnelle.</p>
+</blockquote>
+<ol start="6" type="1">
+<li><strong><em>Au-delà d’une note : construisez votre réseau dès maintenant.</em></strong></li>
+</ol>
+<blockquote class="blockquote">
+<p>Vous vous situez à la frontière entre le monde académique et le monde professionnel. Cet exercice pédagogique, au-delà de l’évaluation du module, représente aussi une opportunité de découvrir le projet professionnel en cours de vos camarades. C’est une première étape dans la construction de votre réseau professionnel pour la suite de votre carrière. Soyez curieux.ses, échangez, créez des liens.</p>
+</blockquote>
+</section>
+<section id="contrôle-des-modifications-du-document" class="level2 light-content" style="color: #b22222;">
+<h2 class="anchored" data-anchor-id="contrôle-des-modifications-du-document">Contrôle des modifications du document</h2>
+<ul>
+<li><strong>V1 — 17/05/2026</strong> : Première version des consignes générales.</li>
+<li><strong>V2 — 20/05/2026</strong> : Ajout des sections relatives à la participation et au déroulé du séminaire.</li>
+</ul>
+</section>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Notes de bas de page</h2>
+
+<ol>
+<li id="fn1"><p>Illich, Ivan., 1973. La Convivialité. Éditions du Seuil pour la version française. Page 13<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copié");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copié");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
