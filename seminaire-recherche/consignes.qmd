@@ -87,7 +87,7 @@ Voir figures ci-dessous. En cas changement, le document sera mise à jour.
 
 ![Jeudi A 21/05/26.](Jeudi-A.png){width="500px" fig-align="center"}
 
-![Jeudi B 21/05/26.](Jeudi-A.png){width="500px" fig-align="center"}
+![Jeudi B 21/05/26.](Jeudi-B.png){width="500px" fig-align="center"}
 
 ![Vendredi A 22/05/26.](Vendredi-A.png){width="500px" fig-align="center"}
 
